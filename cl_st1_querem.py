@@ -285,7 +285,7 @@ df_tweets_filtered['content'] = 'c:' + df_tweets_filtered['text']
 
 ### Reordering the created columns
 
-#Please refer to
+#Please refer to:
 #- [Python - List Comprehension 1](https://www.w3schools.com/python/python_lists_comprehension.asp)
 #- [Python - List Comprehension 2](https://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 
