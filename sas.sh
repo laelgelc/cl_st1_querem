@@ -13,10 +13,10 @@ do
 done < selectedwords
 
 # Considers the actual quantity of variables per text - suitable for longer texts
-# Initialize the output file
+## Initialize the output file
 #> columns
 
-# Read each line from the file "selectedwords"
+## Read each line from the file "selectedwords"
 #while read n word; do
 #  echo "--- $n ---"
 #  
