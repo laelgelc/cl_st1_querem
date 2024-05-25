@@ -70,7 +70,7 @@ done < selectedwords
 # Considers the actual quantity of variables per text - suitable for longer texts
 ## Initialize the output file
 #> columns
-
+#
 ## Read each line from the file "selectedwords"
 #while read n word; do
 #  echo "--- $n ---"
@@ -78,9 +78,9 @@ done < selectedwords
 #  # Process each line in "tweets/tokens.txt"
 #  while read line; do
 #    # Count occurrences of $word in the current line
-#    line_count=$(echo "$line" | grep -wo "$word" | wc -l)
+#    line_count=$(echo "$line" | rg --word-regexp --count-matches "$word") # If 'rg' finds no matches, 'line_count' is set as empty and not integer
 #    
-#    # Append the count to the output file if it's not zero
+#    # Append the count to the output file if 'line_count' is integer greater than zero. In case 'rg' finds no matches, 'line_count' is set as empty and not integer and the loop will end with error '-gt: unexpected operator', but it does not matter because the purpose is served
 #    if [ $line_count -gt 0 ]; then
 #      echo "$line" | cut -d'|' -f1 | sed -e "s/$/ $n $line_count/" >> columns
 #    fi
