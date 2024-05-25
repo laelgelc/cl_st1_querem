@@ -23,7 +23,7 @@ from collections import Counter
 
 df_tweets_raw_data = pd.read_csv('tweets_all2.tsv', sep='\t')
 
-#df_tweets_raw_data.head(5)
+df_tweets_raw_data.head(5)
 
 # Dropping the first row, which contains no useful data, and resetting the index
 df_tweets_raw_data = df_tweets_raw_data.drop(index=0).reset_index(drop=True)
@@ -31,19 +31,19 @@ df_tweets_raw_data = df_tweets_raw_data.drop(index=0).reset_index(drop=True)
 # Dropping the columns 'text_emojified' and 'photo_uniq_id' which are not used in this analysis
 df_tweets_raw_data = df_tweets_raw_data.drop(columns=['text_emojified', 'photo_uniq_id'])
 
-#df_tweets_raw_data
+df_tweets_raw_data
 
 ### Inspecting the dataset and eliminating malformed data
 
 #### Checking if data types are consistent
 
-#df_tweets_raw_data.dtypes
+df_tweets_raw_data.dtypes
 
 #### Identifying rows that are empty in column `text`
 
-#print(df_tweets_raw_data['text'].isnull().sum())
+print(df_tweets_raw_data['text'].isnull().sum())
 
-#df_tweets_raw_data[df_tweets_raw_data['text'].isnull()]
+df_tweets_raw_data[df_tweets_raw_data['text'].isnull()]
 
 #### Dropping the rows that are empty in the column `text`
 
@@ -53,7 +53,7 @@ df_tweets_raw_data = df_tweets_raw_data.dropna(subset=['text'])
 # Reset the index
 df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
 
-#print(df_tweets_raw_data['text'].isnull().sum())
+print(df_tweets_raw_data['text'].isnull().sum())
 
 #### Removing specific Unicode characters
 
@@ -70,25 +70,25 @@ df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
 #- [RegExr](https://regexr.com/)
 
 # Defining a function to detect specific Unicode characters
-#def extract_unicode_characters(df, column_name):
-#    unicode_chars = Counter()  # Initialize a Counter to store Unicode character counts
-#
-#    for value in df[column_name]:
-#        if isinstance(value, str):
-#            # Use RegEx to find non-ASCII characters (Unicode)
-##            non_ascii_chars = re.findall(r'[^\x00-\x7F]+', value)
-#            # Use RegEx to find specific Unicode characters - adjust the expression accordingly
-#            specific_unicode_chars = re.findall(r'[\u2066\u2069]', value)
-#            unicode_chars.update(specific_unicode_chars)
-#
-#    return unicode_chars
-#
-## Inspect the dataframe for specific Unicode characters
-#unicode_counts = extract_unicode_characters(df_tweets_raw_data, 'text')
+def extract_unicode_characters(df, column_name):
+    unicode_chars = Counter()  # Initialize a Counter to store Unicode character counts
 
-## Print the results
-#for char, count in unicode_counts.items():
-#    print(f'Character {char}: Count = {count}')
+    for value in df[column_name]:
+        if isinstance(value, str):
+            # Use RegEx to find non-ASCII characters (Unicode)
+#            non_ascii_chars = re.findall(r'[^\x00-\x7F]+', value)
+            # Use RegEx to find specific Unicode characters - adjust the expression accordingly
+            specific_unicode_chars = re.findall(r'[\u2066\u2069]', value)
+            unicode_chars.update(specific_unicode_chars)
+
+    return unicode_chars
+
+# Inspect the dataframe for specific Unicode characters
+unicode_counts = extract_unicode_characters(df_tweets_raw_data, 'text')
+
+# Print the results
+for char, count in unicode_counts.items():
+    print(f'Character {char}: Count = {count}')
 
 ##### Removing `U+2066` and `U+2069` characters
 
@@ -144,7 +144,7 @@ mask = df_tweets_raw_data['text'].str.contains('|'.join(filter_words), case=Fals
 df_tweets_filtered = df_tweets_raw_data[mask]
 df_tweets_filtered = df_tweets_filtered.reset_index(drop=True)
 
-#df_tweets_filtered
+df_tweets_filtered
 
 ### Exporting the filtered data into a file for inspection
 
@@ -292,7 +292,7 @@ df_tweets_filtered['content'] = 'c:' + df_tweets_filtered['text']
 # Reorder the columns (we use list comprehension to create a list of all columns except 'text_id', 'variable', 'date' and 'text_url')
 df_tweets_filtered = df_tweets_filtered[['text_id', 'conversation', 'date', 'text_url', 'user', 'content'] + [col for col in df_tweets_filtered.columns if col not in ['text_id', 'conversation', 'date', 'text_url', 'user', 'content']]]
 
-#df_tweets_filtered
+df_tweets_filtered
 
 ### Creating the file `file_index.txt`
 
