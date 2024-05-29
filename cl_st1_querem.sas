@@ -3,10 +3,12 @@
 
 /* account: CEPRIL */
 
+/* Replace all occurrences of this project ID by yours and create a folder named after it */
 %let project = cl_st1_querem ;
 
 %let myfolder = &project ;
 
+/* Replace all occurrences of this user ID by yours */
 %let sasusername = u63529080 ;
 
 %let whereisit = /home/&sasusername ;   /* online */
@@ -989,7 +991,7 @@ run;
 /* canonical correlation with user profiles */
 
 OPTIONS VALIDVARNAME=ANY;
-FILENAME IN "/home/&sasusername/group3_profiles/group3_profiles_scores_only.tsv";
+FILENAME IN "/home/&sasusername/cl_st1_querem_profiles/cl_st1_querem_profiles_scores_only.tsv";
 PROC IMPORT OUT= users
      DATAFILE= IN
      DBMS=DLM REPLACE;
