@@ -214,9 +214,14 @@ sort -k2,2 var_index.txt | cut -f2 > kw_index.txt
 
 html2text -nobs sas/output_cl_st1_querem/loadtable.html > a
 
-rm -f x??
-split -p'=====' a
-ls x?? > xfiles
+# The following block results in errors when run on a Linux Ubuntu system. It has been refactored as follows
+#rm -f x??
+#split -p'=====' a
+#ls x?? > xfiles
+
+rm -f xx??
+csplit a '/=====/+1' '{*}'
+ls xx?? > xfiles
 
 while read xfile
 do
@@ -224,7 +229,8 @@ do
 #  grep '^[0-9]' $xfile | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2 | grep -v '^$' | sed "s/^/$pole /" 
    grep '^[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2,4 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
 done < xfiles > examples/factors
-rm -f x??
+#rm -f x??
+rm -f xx??
 
 head -1  sas/output_cl_st1_querem/cl_st1_querem_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
 
