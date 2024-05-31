@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# enter project name
+project=cl_st1_querem
+
 # enter how many examples to be picked for each pole:    
 pickexamples=50
 
@@ -9,7 +12,7 @@ rm -f examples/base/*
 
 sort -k2,2 var_index.txt | cut -f2 > kw_index.txt
 
-html2text -nobs sas/output_cl_st1_querem/loadtable.html > a
+html2text -nobs sas/output_"$project"/loadtable.html > a
 
 # The following block results in errors when run on a Linux Ubuntu system. It has been refactored as follows
 #rm -f x??
@@ -30,7 +33,7 @@ done < xfiles > examples/factors
 ##rm -f x??
 rm -f xx??
 
-head -1  sas/output_cl_st1_querem/cl_st1_querem_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
+head -1  sas/output_"$project"/"$project"_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
 
 last=$( cut -d' ' -f1 examples/factors | tr -dc '[0-9\n]' | sort | uniq | sort -nr | head -1 )
 
@@ -38,7 +41,7 @@ for i in $(eval echo {1..$last});
 #for i in {1..6}
 do
   column=$( echo " $i + 1 " | bc ) 
-  cut -f1,"$column"  sas/output_cl_st1_querem/cl_st1_querem_scores_only.tsv | tail +2 > a
+  cut -f1,"$column"  sas/output_"$project"/"$project"_scores_only.tsv | tail +2 > a
 
   for pole in pos neg
   do
@@ -63,7 +66,7 @@ do
         url=$( rg $file file_index.txt | cut -d' ' -f5 | sed 's/url://' )
 
       # REGARDLESS OF FACTOR -- FACTOR FILTERING OCCURS FURTHER DOWN:
-      grep -m1 $file  sas/output_cl_st1_querem/cl_st1_querem_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
+      grep -m1 $file  sas/output_"$project"/"$project"_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
       paste vars scores | tr '\t' ' ' | grep '^v' | grep -v ' 0$' | cut -d' ' -f1 | sort  > vars_text # var labels for this text, ie not 0
       join vars_text var_index.txt | cut -d' ' -f2 | sort > vars_text_codes # words that occur in this text 
       
