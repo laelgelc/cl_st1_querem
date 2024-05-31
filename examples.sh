@@ -24,9 +24,10 @@ while read xfile
 do
   pole=$( grep '^Factor ' $xfile | cut -d' ' -f2,3 | sed -e 's/^/f/' -e 's/ //g' )
 #  grep '^[0-9]' $xfile | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2 | grep -v '^$' | sed "s/^/$pole /" 
-   grep '^[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2,4 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
+#  grep '^[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2,4 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
+  grep '^\s*[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f3,5 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
 done < xfiles > examples/factors
-#rm -f x??
+##rm -f x??
 rm -f xx??
 
 head -1  sas/output_cl_st1_querem/cl_st1_querem_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
