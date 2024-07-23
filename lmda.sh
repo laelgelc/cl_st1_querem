@@ -265,8 +265,8 @@ do
         textid=$file
         conversation=$( rg $file file_index.txt | cut -d' ' -f2 | sed 's/v://' )
         date=$( rg $file file_index.txt | cut -d' ' -f3 | sed 's/d://' )
-        user=$( rg $file file_index.txt | cut -d' ' -f4 | sed 's/u://' )
-        url=$( rg $file file_index.txt | cut -d' ' -f5 | sed 's/url://' )
+        user=$( rg $file tweets/tweets.txt | cut -d'|' -f4 | sed 's/u://' )
+        url=$( rg $file file_index.txt | cut -d' ' -f4 | sed 's/url://' )
 
       # REGARDLESS OF FACTOR -- FACTOR FILTERING OCCURS FURTHER DOWN:
       grep -m1 $file  sas/output_"$project"/"$project"_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
