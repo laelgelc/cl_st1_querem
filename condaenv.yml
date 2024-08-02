@@ -1,0 +1,30 @@
+# Use the command 'conda env create -f condaenv.yml'
+# Regarding Google Cloud Python APIs, please check https://github.com/googleapis/google-cloud-python
+name: my_env
+dependencies:
+  - beautifulsoup4
+  - boto3
+  - demoji
+  - gensim
+#  - gogettr
+  - google-cloud-storage
+  - google-cloud-translate
+  - google-cloud-videointelligence
+  - google-cloud-vision
+  - ipython
+  - jupyterlab
+  - lxml
+  - matplotlib
+  - nltk
+  - numpy
+  - openai
+  - openpyxl
+  - pandas
+  - pySmartDL
+  - pyspark
+  - python-dotenv
+  - requests
+  - scipy
+#  - truthbrush
+#  - webvtt-py
+  - yt-dlp
