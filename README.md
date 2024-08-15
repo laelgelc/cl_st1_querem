@@ -6,6 +6,8 @@ Right-click on the link and choose `Open link in a new tab` to download the corr
 - [CL_St1_Querem_Results.zip](https://pucsp-my.sharepoint.com/:u:/g/personal/ra00341729_pucsp_edu_br/ERbP8OEqscBJlh4l6s6_UFgBTUGtnR6PDI1NXZwVBh6Dyg?e=W8YXpq)
 
 ## For future consideration
+01/05/2024
+
 Minor impact.
 
 The following tweets from 'tweets.txt' are deleted by 'tokenstypes.sh' from 'tokens.txt' and 'types.txt' for unknown reasons.
