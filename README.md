@@ -7,6 +7,7 @@ Right-click on the link and choose `Open link in a new tab` to download the corr
 
 ## For future consideration
 Minor impact.
+
 The following tweets from 'tweets.txt' are deleted by 'tokenstypes.sh' from 'tokens.txt' and 'types.txt' for unknown reasons.
 
 ```
