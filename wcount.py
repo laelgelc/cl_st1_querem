@@ -1,6 +1,6 @@
 import nltk
 from nltk.tokenize import word_tokenize
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Read input file
 with open('tweets/tweets.txt', 'r') as f:
