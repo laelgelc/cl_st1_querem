@@ -22,7 +22,7 @@ libname gelc "&whereisit/&myfolder";
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 5 ;
+%let extractfactors = 8 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
