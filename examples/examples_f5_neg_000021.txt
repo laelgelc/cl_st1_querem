@@ -1,0 +1,18 @@
+file = t004767
+date = 2019-09-29
+user = ovasco71
+conversation = 1608489145
+URL = https://twitter.com/ovasco71/status/1178433278371647490
+
+word count = 47
+words loading = 1
+factor score = -2
+
+@MarleneFFL É isso mesmo! O PR Bolsonaro seus ministros e nós população que 
+votou nele, vamos vencer estas dificuldades, só temos que ter paciência! 
+Estamos numa guerra bastante cruenta e difícil, mas temos Deus acima de Tudo 
+com a gente e por isso vamos vencer! TMJ 
+
+Lemmas in this text that loaded on the factor:
+
+votar_verb_fin_sing 

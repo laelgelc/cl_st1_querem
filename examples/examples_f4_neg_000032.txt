@@ -1,0 +1,18 @@
+file = t002915
+date = 2019-01-30
+user = GenaldoAraujo
+conversation = 72896450
+URL = https://twitter.com/GenaldoAraujo/status/1090694101392072706
+
+word count = 32
+words loading = 2
+factor score = -2
+
+@moura2758 @RedeGlobo E tem muito anti comunista novo que são Bolsonaro por 
+modinha ( pra mim PTista infiltrado ) entrando na onde da HASHTAG #globolixo_h, 
+e propagando está fofocas dos comunistas, Eu estou bloqueando. 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_noun_masc_plur 
+comunista_noun_masc_sing 

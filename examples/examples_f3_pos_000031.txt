@@ -1,0 +1,20 @@
+file = t016972
+date = 2022-08-30
+user = NiltoTatto
+conversation = 2674564802
+URL = https://twitter.com/NiltoTatto/status/1564669904426508289
+
+word count = 34
+words loading = 4
+factor score = 6
+
+Só um dos imóveis comprados em dinheiro vivo pela família Bolsonaro, vale 
+mais do que o triplex que Lula não comprou no Guarujá e o sítio em Atibaia 
+que diziam ser dele juntos. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_fin_sing 
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+vivo_adj_masc_sing 

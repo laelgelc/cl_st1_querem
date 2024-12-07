@@ -1,0 +1,18 @@
+file = t000028
+date = 2018-03-30
+user = MarcyaEspindola
+conversation = 294291069
+URL = https://twitter.com/MarcyaEspindola/status/979571975545872384
+
+word count = 50
+words loading = 1
+factor score = -1
+
+@BlogdoNoblat Sou ia de estar armada e poder me defender sem depender de 
+inteligente a ponto de não deturpar o que Bolsonaro fala. Não é homofóbico, 
+nem machista ou racista. A maldade está na cabeça e nos olhos daqueles que os 
+enxergam e os querem semear, apenas. . que pena! 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

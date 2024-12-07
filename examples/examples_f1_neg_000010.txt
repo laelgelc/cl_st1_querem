@@ -1,0 +1,17 @@
+file = t000049
+date = 2018-03-30
+user = Manuffaust
+conversation = 3507067822
+URL = https://twitter.com/Manuffaust/status/979520834325934080
+
+word count = 44
+words loading = 1
+factor score = -1
+
+@Douglasadrian17 Simmm, eu também, mesmo meu pai tendo arma eu sou contra. O 
+povo fala só para cidadão de bem mais quem q vai fica investigando a vida de 
+cada um pra ver quem q eh de boa e quem q n eh 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

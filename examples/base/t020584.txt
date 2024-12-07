@@ -1,0 +1,14 @@
+@Alieel_Skelsen twitterhandle_NOUN_Masc_Sing
+antibilsonaro antibilsonaro_ADJ_Masc_Sing
+e e_CCONJ
+antiapoiadores antiapoiadores_NOUN_Masc_Plur
+fascistas fascista_ADJ_Masc_Plur
+do de_o_ADP_DET_Masc_Sing
+genocida genocida_ADJ_Masc_Sing
+corrupto corrupto_ADJ_Masc_Sing
+, ,
+ladrão ladrão_ADJ_Masc_Sing
+e e_CCONJ
+covarde covarde_ADJ_Masc_Sing
+bolsonaro bolsonaro_NOUN_Masc_Sing
+! !

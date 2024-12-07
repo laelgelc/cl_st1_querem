@@ -1,0 +1,17 @@
+file = t009856
+date = 2021-01-30
+user = ANTICORRUPO4
+conversation = 1345059292701990912
+URL = https://twitter.com/ANTICORRUPO4/status/1355560565331144705
+
+word count = 36
+words loading = 1
+factor score = -3
+
+@Cemalula8 @Potn20 @JornalGGN Kkkkkk tu acha que eu sou que nem tu que defende 
+ladrão de dinheiro público? Kkkkkk pra mim Lula é bolsonaro podem dividir a 
+cela! Eu diferente de ti não apoio ladrão! 
+
+Lemmas in this text that loaded on the factor:
+
+achar_verb_fin_sing 

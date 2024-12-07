@@ -1,0 +1,16 @@
+RT rt_PROPN_Masc_Sing
+@AntonioLyra twitterhandle_VERB_Fin_Sing
+: :
+DeltaFolha deltafolha_VERB_Fin_Sing
+: :
+Famílias família_NOUN_Fem_Plur
+pobres pobre_ADJ_Fem_Plur
+são ser_AUX_Fin_Plur
+enganadas enganar_VERB_Part_Fem_Plur
+e e_CCONJ
+pagam pagar_VERB_Fin_Plur
+para para_ADP
+receber receber_VERB_Inf
+cisternas cisterna_NOUN_Fem_Plur
+sob sob_ADP
+Bolsonaro bolsonaro_PROPN_Masc_Sing

@@ -1,0 +1,17 @@
+file = t001388
+date = 2018-08-30
+user = luizaerundina
+conversation = 55022037
+URL = https://twitter.com/luizaerundina/status/1034963812200394753
+
+word count = 31
+words loading = 1
+factor score = -2
+
+FASCISTAS NÃO PASSARÃO! Armado, apoiador de Bolsonaro ameaça colaboradora da 
+equipe de campanha do Boulos. Não nos intimidarão, não vamos aceitar a 
+naturalização do ódio e da violência. Exigimos providências! 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_masc_sing 

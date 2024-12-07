@@ -1,0 +1,56 @@
+@brunafxveiga twitterhandle_VERB_Fin_Sing
+@marcocanavarro twitterhandle_NOUN_Masc_Sing
+Moça moça_PROPN_Fem_Sing
+, ,
+onde onde_ADV
+é ser_VERB_Fin_Sing
+que que_SCONJ
+estavam estar_AUX_Fin_Plur
+esses esse_DET_Masc_Plur
+comunistas comunista_NOUN_Masc_Plur
+todos todo_PRON_Masc_Plur
+que que_PRON_Rel_Masc_Plur
+vão ir_AUX_Fin_Plur
+assumir assumir_VERB_Inf
+o o_DET_Masc_Sing
+Brasil brasil_PROPN_Masc_Sing
+quando quando_ADV
+tiraram tirar_VERB_Fin_Plur
+a a_ADP
+presidente presidente_NOUN_Masc_Sing
+ "  "
+comunista comunista_NOUN_Masc_Sing
+ "  "
+do de_o_ADP_DET_Masc_Sing
+poder poder_NOUN_Masc_Sing
+? ?
+Quando quando_ADV
+prenderam prender_VERB_Fin_Plur
+o o_DET_Masc_Sing
+líder líder_NOUN_Masc_Sing
+ "  "
+comunista comunista_NOUN_Masc_Sing
+ "  "
+? ?
+Quando quando_ADV
+no em_o_ADP_DET_Masc_Sing
+meio meio_NOUN_Masc_Sing
+do de_o_ADP_DET_Masc_Sing
+governo governo_NOUN_Masc_Sing
+ "  "
+comunista comunista_NOUN_Masc_Sing
+ "  "
+os o_DET_Masc_Plur
+bancos banco_NOUN_Masc_Plur
+tavam tavam_VERB_Fin_Plur
+tendo ter_VERB_Ger
+lucros lucro_NOUN_Masc_Plur
+recordes recorde_ADJ_Masc_Plur
+? ?
+O o_PRON_Masc_Sing
+que que_PRON_Rel_Masc_Sing
+é ser_AUX_Fin_Sing
+comunismo comunismo_NOUN_Masc_Sing
+pra pra_ADP
+você você_PRON_Sing
+? ?

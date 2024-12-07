@@ -1,0 +1,12 @@
+@correio twitterhandle_NOUN_Masc_Sing
+Bolsonaro bolsonaro_ADJ_Masc_Sing
+ladrão ladrão_NOUN_Masc_Sing
+de de_ADP
+joia joia_NOUN_Fem_Sing
+caga cagar_VERB_Fin_Sing
+de de_ADP
+medo medo_NOUN_Masc_Sing
+de de_ADP
+ser ser_AUX_Inf
+preso prender_VERB_Part_Masc_Sing
+. .

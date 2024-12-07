@@ -1,0 +1,17 @@
+file = t020575
+date = 2023-04-29
+user = alloficial
+conversation = 1518792879103172610
+URL = https://twitter.com/alloficial/status/1652088815752736768
+
+word count = 43
+words loading = 0
+factor score = 
+
+@RhangelRibeiro @folha Kkkkkkkk solta o ladrão e o Bolsonaro nas ruas, filho 
+urna fraudada não compra popularidade, o Lule é odiado pela maior parte da 
+população e presidente sem povo não se mantém no cargo, junho está 
+chegando … kkkkkkkkkkk temporada chuchu chegando kkkkkkk 
+
+Lemmas in this text that loaded on the factor:
+

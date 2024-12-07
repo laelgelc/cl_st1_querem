@@ -1,0 +1,12 @@
+Aluno aluno_NOUN_Masc_Sing
+do de_o_ADP_DET_Masc_Sing
+Mackenzie mackenzie_PROPN_Masc_Sing
+posta postar_VERB_Fin_Sing
+vídeo vídeo_NOUN_Masc_Sing
+armado armar_VERB_Part_Masc_Sing
+nas em_o_ADP_DET_Fem_Plur
+redes rede_NOUN_Fem_Plur
+sociais social_ADJ_Fem_Plur
+. .
+HASHTAG hashtag_PROPN_Masc_Sing
+#sópiora_h #sópiora_h

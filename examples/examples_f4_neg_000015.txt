@@ -1,0 +1,19 @@
+file = t000140
+date = 2018-03-29
+user = carlosgvieira_
+conversation = 328871649
+URL = https://twitter.com/carlosgvieira_/status/979417484725051393
+
+word count = 40
+words loading = 3
+factor score = -2
+
+hj teve almoço no madalosso para receber o bolsonaro. . . . . . . se vc foi me 
+exclui pelo amor de deus. . . . . . . O alexandre frota estava la apoiando o 
+cara e vc pagando pau pra ele. . . . vai se fode seus burro do caraio 
+
+Lemmas in this text that loaded on the factor:
+
+deus_noun_masc_sing 
+pau_noun_masc_sing 
+receber_verb_inf (secondary)

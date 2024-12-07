@@ -1,0 +1,19 @@
+file = t005732
+date = 2020-01-30
+user = radiojornalpe
+conversation = 43774330
+URL = https://twitter.com/radiojornalpe/status/1223026206527967233
+
+word count = 45
+words loading = 2
+factor score = -2
+
+URGENTE: O presidente Jair Bolsonaro foi internado às pressas, no Hospital das 
+Forças Armadas de Brasília, na noite desta quinta ( 30 ) . O Palácio do 
+Planalto ainda não informou o motivo da internação. Mais informações 
+durante a programação da Rádio Jornal e nas redes sociais. 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

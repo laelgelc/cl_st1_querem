@@ -1,0 +1,18 @@
+file = t010346
+date = 2021-03-30
+user = AndreGT74
+conversation = 82539020
+URL = https://twitter.com/AndreGT74/status/1377046808258564099
+
+word count = 22
+words loading = 3
+factor score = 4
+
+RT @vtorresfreire: Comandantes das forças armadas estão dizendo que Bolsonaro 
+queria dar um golpe, algum golpe. GOLPE. Em resumo, é o recad … 
+
+Lemmas in this text that loaded on the factor:
+
+armado_adj_fem_plur 
+comandante_noun_masc_plur 
+golpe_noun_masc_sing 

@@ -1,0 +1,16 @@
+file = t009815
+date = 2021-01-30
+user = quiviaje
+conversation = 1907176934
+URL = https://twitter.com/quiviaje/status/1355628523403288576
+
+word count = 18
+words loading = 1
+factor score = -2
+
+@AtlLoggi @ArmandoAmorim4 @pegoncalves @chicobarney Razão = Ódio das causas 
+sociais Um monte de bolsominions, um monte de reaças 
+
+Lemmas in this text that loaded on the factor:
+
+social_adj_fem_plur 

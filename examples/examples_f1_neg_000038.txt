@@ -1,0 +1,18 @@
+file = t000872
+date = 2018-06-29
+user = Emanoel1953
+conversation = 1438906560
+URL = https://twitter.com/Emanoel1953/status/1012669829751492608
+
+word count = 51
+words loading = 1
+factor score = -1
+
+@ojgallo Quem é inimigo do Ciro é o próprio Ciro. Ele não se emenda, fala 
+pelos cotovelos, quer se aliar com Deus e o Diabo ao mesmo tempo e, quando 
+surge uma acusação, ele não se defende. Mas, mesmo assim, se ficar com 
+Bolsonaro, Alckmin ou Marina, eu voto nele. 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

@@ -1,0 +1,10 @@
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+volta voltar_AUX_Fin_Sing
+a a_ADP
+defender defender_VERB_Inf
+armamento armamento_NOUN_Masc_Sing
+da de_o_ADP_DET_Fem_Sing
+população população_NOUN_Fem_Sing
+nas em_o_ADP_DET_Fem_Plur
+redes rede_NOUN_Fem_Plur
+sociais social_ADJ_Fem_Plur

@@ -1,0 +1,21 @@
+file = t007791
+date = 2020-07-30
+user = AlexandreFortu9
+conversation = 3362922377
+URL = https://twitter.com/AlexandreFortu9/status/1288961004735430658
+
+word count = 45
+words loading = 4
+factor score = 5
+
+Brasil afundará na miséria, se depender de Guedes e Bolsonaro. O do fim do 
+auxílio emergencial em setembro vai fragilizar as camadas mais pobres da 
+população brasileira. Para evitar o desastre, PT propõe Mais Bolsa Família, 
+um novo programa de renda básica para o pós-pandemia. 
+
+Lemmas in this text that loaded on the factor:
+
+emergencial_adj_masc_sing 
+pobre_adj_fem_plur 
+programa_noun_masc_sing 
+renda_noun_fem_sing 

@@ -1,0 +1,17 @@
+file = t011125
+date = 2021-04-29
+user = susanabra11
+conversation = 776158957366874113
+URL = https://twitter.com/susanabra11/status/1387809400442793992
+
+word count = 18
+words loading = 2
+factor score = -3
+
+@ScornInPC A cara de quem é capacho de ladrão. Vira gente! Bolsonaro é fruto 
+do teu bandido! 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_noun_masc_sing 
+cara_noun_fem_sing 

@@ -1,0 +1,15 @@
+file = t020578
+date = 2023-04-29
+user = EFertmane
+conversation = 1109881835889324033
+URL = https://twitter.com/EFertmane/status/1652395287556620289
+
+word count = 17
+words loading = 0
+factor score = 
+
+RT @jmb22em2022 : @DijaDasGalaxias @JanainaDoBrasil Ahhhhh kkkk bolsonaro 
+alugou o triprex do ladrão na cabeça dessa gente 
+
+Lemmas in this text that loaded on the factor:
+

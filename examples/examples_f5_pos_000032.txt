@@ -1,0 +1,20 @@
+file = t006325
+date = 2020-03-30
+user = luizbssantos
+conversation = 103127282
+URL = https://twitter.com/luizbssantos/status/1244273876579897346
+
+word count = 34
+words loading = 3
+factor score = 4
+
+@LsbicaConserva2 Bolsonaro: A democracia começa com as forças armadas. 
+Ex-presidente Lula: A democracia começa com a participação popular. Quem é 
+o reacionário e que é o democrático. Será que existe democracia num governo 
+militar? 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+militar_adj_masc_sing 
+presidente 

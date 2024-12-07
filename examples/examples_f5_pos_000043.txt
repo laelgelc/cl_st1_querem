@@ -1,0 +1,18 @@
+file = t018642
+date = 2022-12-30
+user = D76l75l05a12
+conversation = 1522118011511279617
+URL = https://twitter.com/D76l75l05a12/status/1608975656041480192
+
+word count = 19
+words loading = 2
+factor score = 3
+
+RT @marcosaraujjoo: **police_car_light_e** ME SIGAM, AQUI TODOS SÃO LULA! 
+TAGS: O Bolsonaro nikolas forças armadas decepção acabou Bolsonaro HASHTAG 
+#bolsonarofujao_h fro … 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+police_car_light_e 

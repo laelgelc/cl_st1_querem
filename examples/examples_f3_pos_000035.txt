@@ -1,0 +1,20 @@
+file = t016922
+date = 2022-08-30
+user = abocadelobo
+conversation = 1379165573398073345
+URL = https://twitter.com/abocadelobo/status/1564597986969227264
+
+word count = 30
+words loading = 4
+factor score = 6
+
+Olha, pra mim quem tem muito dinheiro vivo ta escondendo alguma coisa, 
+sonegando. . . pra comprar 51 imóveis então. . . Bolsonaro, por que sua 
+família só compra imóvel em dinheiro vivo? thinking_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+compra_noun_fem_sing 
+comprar_verb_inf 
+dinheiro_noun_masc_sing 
+vivo_adj_masc_sing 

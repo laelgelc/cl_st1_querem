@@ -1,0 +1,21 @@
+file = t003037
+date = 2019-02-27
+user = marcogomes
+conversation = 1629241
+URL = https://twitter.com/marcogomes/status/1100851991658549248
+
+word count = 42
+words loading = 4
+factor score = 5
+
+Mas se ela é a especialista ( e não eles ) , pq eles reclamam? [ Apoiadores 
+do presidente ] reclamam que a especialista em segurança pública defende o 
+desarmamento e fez críticas ao decreto de posse de armas assinado por Jair 
+Bolsonaro. HASHTAG #ilonanão_h Ilona Szabó 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+decreto_noun_masc_sing 
+desarmamento_noun_masc_sing 
+posse_noun_fem_sing 

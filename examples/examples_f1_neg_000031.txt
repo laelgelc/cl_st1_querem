@@ -1,0 +1,16 @@
+file = t000754
+date = 2018-05-30
+user = Carmemluci5
+conversation = 973357081288945666
+URL = https://twitter.com/Carmemluci5/status/1001518124850696192
+
+word count = 22
+words loading = 1
+factor score = -1
+
+@AndreaSTC @DetetiveParcial @Lilianpoli1 Com certeza é um PT eu minha família 
+somos Bolsonaro pode Fala ninguém mudar a minha O pinião 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

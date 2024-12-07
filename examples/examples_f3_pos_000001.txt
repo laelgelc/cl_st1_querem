@@ -1,0 +1,20 @@
+file = t016892
+date = 2022-08-30
+user = ThiagoSussekind
+conversation = 939940022916124672
+URL = https://twitter.com/ThiagoSussekind/status/1564615030045392911
+
+word count = 51
+words loading = 3
+factor score = 8
+
+A família Bolsonaro construiu seu patrimônio a base de rachadinha. Imagina se 
+o país acordasse com a notícia que a família do Lula adquiriu 107 imóveis 
+na política, metade com uso de dinheiro vivo. Uma coisa eu tenho certeza: o 
+Moro e o Deltan já teriam se manifestado sobre tudo. 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro_noun_masc_sing 
+metade_noun_fem_sing 
+vivo_adj_masc_sing 

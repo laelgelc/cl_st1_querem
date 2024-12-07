@@ -1,0 +1,20 @@
+file = t000203
+date = 2018-04-29
+user = cynaramenezes
+conversation = 74763991
+URL = https://twitter.com/cynaramenezes/status/990595568765370368
+
+word count = 50
+words loading = 3
+factor score = -3
+
+o mundo que eu sonho tem lugar pra todo mundo: liberais, comunistas, 
+anarquistas, tem lugar até para fã do bolsonaro. mas nossa mídia porca, para 
+arrancar o PT do poder, ressuscitou a ideia tacanha de que comunista bom é 
+comunista morto. e o resultado é esse que estamos vendo 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+comunista_adj_masc_sing 
+comunista_noun_masc_sing 

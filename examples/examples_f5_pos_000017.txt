@@ -1,0 +1,21 @@
+file = t010646
+date = 2021-03-30
+user = RubensOtoni
+conversation = 54539654
+URL = https://twitter.com/RubensOtoni/status/1376958221278179342
+
+word count = 41
+words loading = 4
+factor score = 4
+
+red_circle_e CRISE MILITAR INÉDITA- Folha: Pela primeira vez na história, os 
+três comandantes das Forças Armadas pediram renúncia conjunta por discordar 
+do presidente da República. É a maior crise militar desde 1977 , fruto da 
+insistência de Bolsonaro p / q fizessem manifestações políticas. 
+
+Lemmas in this text that loaded on the factor:
+
+comandante_noun_masc_plur 
+crise_noun_fem_sing 
+militar_adj_fem_sing 
+pedir_verb_fin_plur 

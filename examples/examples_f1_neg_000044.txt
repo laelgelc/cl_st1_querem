@@ -1,0 +1,18 @@
+file = t000981
+date = 2018-06-28
+user = VenturiniDiogo
+conversation = 764905091904237568
+URL = https://twitter.com/VenturiniDiogo/status/1012173147267829760
+
+word count = 49
+words loading = 1
+factor score = -1
+
+Pesquisa eleitoral com Lula não é fraude, é apologia ao crime. A mídia 
+deveria não falar no nome dele, ou se falar, expo -lo como ele o é ; ladrão, 
+criminoso, preso por roubo. Na mesma proporção não tocam no nome de 
+Bolsonaro, e quando o fazem é pra expo -lo em mentiras. 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

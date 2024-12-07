@@ -1,0 +1,20 @@
+file = t010764
+date = 2021-03-30
+user = AfonsoFlorence
+conversation = 599427558
+URL = https://twitter.com/AfonsoFlorence/status/1377034206077935620
+
+word count = 29
+words loading = 3
+factor score = 4
+
+Chefes das três forças armadas entregam seus cargos, ineditamente de forma 
+simultânea, numa nítida reprovação às insistentes tentativas de Bolsonaro 
+manipular as instituições contra a democracia HASHTAG 
+#impeachmentdebolsonarourgente_h HASHTAG #pldogolpenao_h 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+cargo_noun_masc_plur 
+chefe_noun_masc_plur 

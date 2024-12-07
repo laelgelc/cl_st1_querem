@@ -1,0 +1,18 @@
+file = t020593
+date = 2023-04-29
+user = veramariams
+conversation = 840977811057868800
+URL = https://twitter.com/veramariams/status/1652318554916528130
+
+word count = 13
+words loading = 2
+factor score = 
+
+Saudades do Governo Bolsonaro: melhor Presidente do Brasil e de nossa 
+LIBERDADE! **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e (secondary)
+liberdade_noun_fem_sing 

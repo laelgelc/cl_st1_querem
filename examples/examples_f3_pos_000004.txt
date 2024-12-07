@@ -1,0 +1,21 @@
+file = t016998
+date = 2022-08-30
+user = LuisFernOli
+conversation = 324384050
+URL = https://twitter.com/LuisFernOli/status/1564569213582381060
+
+word count = 40
+words loading = 4
+factor score = 7
+
+Nada menos que 51 imóveis do clã Bolsonaro foram comprados com dinheiro, em 
+negócios que somam R$ 26 milhões. Metade do patrimônio da família foi paga 
+assim. Pelo menos 25 operações de compra ou venda foram alvo de 
+investigação. 
+
+Lemmas in this text that loaded on the factor:
+
+compra_noun_fem_sing 
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+metade_noun_fem_sing 

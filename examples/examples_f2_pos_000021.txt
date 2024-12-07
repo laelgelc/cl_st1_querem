@@ -1,0 +1,19 @@
+file = t012846
+date = 2021-10-30
+user = Pimenta13Br
+conversation = 22864100
+URL = https://twitter.com/Pimenta13Br/status/1454500849078583300
+
+word count = 45
+words loading = 2
+factor score = 5
+
+BRASIL DA FOME: A partir da próxima semana, 22 milhões de famílias serão 
+excluídas do auxílio emergencial. Já 17 milhões receberão ajuda por meio 
+do Auxílio Brasil, que nem recursos garantidos tem ainda. O governo Bolsonaro 
+tem prazer com o sofrimento dos mais necessitados. 
+
+Lemmas in this text that loaded on the factor:
+
+emergencial_adj_masc_sing 
+receber_verb_fin_plur 

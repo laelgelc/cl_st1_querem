@@ -1,0 +1,19 @@
+file = t011266
+date = 2021-05-30
+user = flferronato
+conversation = 40637000
+URL = https://twitter.com/flferronato/status/1399063928391581710
+
+word count = 38
+words loading = 2
+factor score = -3
+
+Hoje eu e a @RaquelBlak aparecemos em um gráfico dessas mídias de esquerda 
+como influenciadores cágados do Bolsonaro! ! Quero agradecer a menção e 
+falar que antes cagado que ladrão! ! Porque até merd … tem função na 
+natureza … já bandido, não! ! 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_adj_masc_sing 
+esquerda_noun_fem_sing 

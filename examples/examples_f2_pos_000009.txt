@@ -1,0 +1,19 @@
+file = t019353
+date = 2023-01-30
+user = iditomazelli
+conversation = 41172093
+URL = https://twitter.com/iditomazelli/status/1620011277224665092
+
+word count = 14
+words loading = 4
+factor score = 5
+
+Famílias pobres são enganadas e pagam para receber cisternas sob Bolsonaro. 
+Na @folha: 
+
+Lemmas in this text that loaded on the factor:
+
+cisterna_noun_fem_plur 
+pagar_verb_fin_plur 
+pobre_adj_fem_plur 
+receber_verb_inf 

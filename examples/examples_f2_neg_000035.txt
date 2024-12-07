@@ -1,0 +1,20 @@
+file = t011370
+date = 2021-05-30
+user = Thelma20901657
+conversation = 1385231528897228803
+URL = https://twitter.com/Thelma20901657/status/1398969224882704387
+
+word count = 51
+words loading = 2
+factor score = -3
+
+@faccio_paulo @jandira_feghali Kkkkkkkkkk rindo até 2026 e vc que eh fanático 
+por um ladrão e corrupto. Imagino quem vc eh. . Sou fanática msm, Bolsonaro 
+2022 . . vc deveria criar vergonha na cara pela sua idade deveria saber 
+distinguir o certo e o errado, mas vc tem cocô na cabeça que defeca pela boca 
+mouth_e zipper-mouth_face_e. 
+
+Lemmas in this text that loaded on the factor:
+
+cara_noun_fem_sing 
+corrupto_adj_masc_sing 

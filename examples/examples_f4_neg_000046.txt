@@ -1,0 +1,18 @@
+file = t007424
+date = 2020-06-29
+user = misafb
+conversation = 52372627
+URL = https://twitter.com/misafb/status/1253705115804016641
+
+word count = 23
+words loading = 2
+factor score = -2
+
+@LorenzonItalo @HalestherB Me decepcionei com Bolsonaro? N, O, TIL, NÃO. Ele 
+é a pedra no caminho dos corruptos, comunistas, socialistas, Freiristas. . . 
+HASHTAG #gobolsonaromundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+corrupto_noun_masc_plur 

@@ -1,0 +1,24 @@
+file = t003059
+date = 2019-02-27
+user = MacielCDs
+conversation = 65350112
+URL = https://twitter.com/MacielCDs/status/1100695927097094144
+
+word count = 40
+words loading = 5
+factor score = 5
+
+**flag_brazil_e** EXÉRCITO BOLSONARO **flag_brazil_e** EM SUAS POSIÇÕES? 
+BRASIL ACIMA DE TUDO, DEUS ACIMA DE TODOS, TALQUEI? ? ( aqui só vem cidadão 
+de bem ) 1 • PASSO ( RT ) counterclockwise_arrows_button_e 2 • PASSO ( FV ) 
+**yellow_heart_e** 3 • PASSO ME ( SIGA ) E A TODOS QUE FV ( **green_heart_e** 
+) E AOS QUE TE SEGUIREM **smiling_face_with_sunglasses_e** HASHTAG 
+#direitaunida_h HASHTAG #direitaseguedireita_h 
+
+Lemmas in this text that loaded on the factor:
+
+acimar_verb_fin_sing 
+flag_brazil_e 
+green_heart_e 
+smiling_face_with_sunglasses_e 
+yellow_heart_e 

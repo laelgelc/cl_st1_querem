@@ -1,0 +1,17 @@
+file = t012558
+date = 2021-09-29
+user = EneidaPinheiro1
+conversation = 1143681625861107719
+URL = https://twitter.com/EneidaPinheiro1/status/1443363561154260992
+
+word count = 24
+words loading = 2
+factor score = 4
+
+RT @guimaraes13PT: Bolsonaro trouxe a fome de volta: 2 milhões de famílias 
+caíram na extrema pobreza, entre janeiro de 2019 e junho deste a … 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+pobreza_noun_fem_sing 

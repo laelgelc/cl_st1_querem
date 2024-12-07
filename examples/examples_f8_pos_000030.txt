@@ -1,0 +1,18 @@
+file = t020570
+date = 2023-04-29
+user = estelamaraviana
+conversation = 3127370607
+URL = https://twitter.com/estelamaraviana/status/1647640471760519169
+
+word count = 46
+words loading = 0
+factor score = 
+
+@jairbolsonaro Presidente Jair Bolsonaro, mas capaz que o Torres ainda tá 
+preso? O Terrorista Ministro Alexandre de Morais do TSE, tá fazendo o Torres 
+de duck_e duck_e duck_e pato, duck_e patinho, que Advogados bem ruim, tem que 
+dá dinheiro money_bag_e pro Alexandre ele é Comunista só conhece essa 
+balance_scale_e Justiça, dinheiro money_bag_e 
+
+Lemmas in this text that loaded on the factor:
+

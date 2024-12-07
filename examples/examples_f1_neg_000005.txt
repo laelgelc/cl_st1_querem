@@ -1,0 +1,17 @@
+file = t000001
+date = 2018-03-30
+user = BlogdoNoblat
+conversation = 16794066
+URL = https://twitter.com/BlogdoNoblat/status/979571975545872384
+
+word count = 37
+words loading = 1
+factor score = -1
+
+Bolsonaro deve saber o que está fazendo. Porque pela primeira vez, o 
+eleitorado feminino será maior nas eleições. E ele, no entanto, só fala 
+para os homens e só aparece cercado de homens, parte deles armada. 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

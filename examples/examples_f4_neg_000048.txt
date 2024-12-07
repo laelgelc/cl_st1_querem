@@ -1,0 +1,17 @@
+file = t007643
+date = 2020-07-30
+user = floraswrld
+conversation = 1164464095548104705
+URL = https://twitter.com/floraswrld/status/1288982733990047749
+
+word count = 17
+words loading = 2
+factor score = -2
+
+que porra eh essa de nordeste com bolsonaro que nordeste eh esse pelo amor de 
+deus 
+
+Lemmas in this text that loaded on the factor:
+
+deus_noun_masc_sing 
+nordeste_noun_masc_sing 

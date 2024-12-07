@@ -1,0 +1,24 @@
+file = t003305
+date = 2019-03-30
+user = chavesfernanda_
+conversation = 952812718385500160
+URL = https://twitter.com/chavesfernanda_/status/1111987161069441025
+
+word count = 35
+words loading = 5
+factor score = 5
+
+Bom sábado, meus amores two_hearts_e **flag_brazil_e** EXÉRCITO BOLSONARO 
+**flag_brazil_e** EM SUAS POSIÇÕES? BRASIL ACIMA DE TUDO, DEUS ACIMA DE 
+TODOS, TALQUEI? ? 1•PASSO ( RT ) counterclockwise_arrows_button_e 2•PASSO ( 
+FV ) **yellow_heart_e** 3•PASSO ME ( SIGA ) E A TODOS QUE FV ( 
+**green_heart_e** ) E AOS QUE TE SEGUIREM **smiling_face_with_sunglasses_e** 
+HASHTAG #direitaunida_h HASHTAG #direitaseguedireita_h 
+
+Lemmas in this text that loaded on the factor:
+
+acimar_verb_fin_sing 
+flag_brazil_e 
+green_heart_e 
+smiling_face_with_sunglasses_e 
+yellow_heart_e 

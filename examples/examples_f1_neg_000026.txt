@@ -1,0 +1,17 @@
+file = t000657
+date = 2018-05-30
+user = RednerLima
+conversation = 423398193
+URL = https://twitter.com/RednerLima/status/1001832460467015680
+
+word count = 40
+words loading = 1
+factor score = -1
+
+Eu nunca tive dúvidas disso! ! ! Não existe salvador da Pátria! ! ! ACORDA 
+PORRA! ! ! O povo fala que vai votar em A ou B, sem sequer ver um plano de 
+governo, analisar se a proposta é viável e por aí vai. . . 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

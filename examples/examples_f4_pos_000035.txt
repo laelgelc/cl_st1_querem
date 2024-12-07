@@ -1,0 +1,19 @@
+file = t002469
+date = 2018-12-29
+user = camposmello
+conversation = 36714704
+URL = https://twitter.com/camposmello/status/1079023017437601797
+
+word count = 14
+words loading = 4
+factor score = 4
+
+Bolsonaro promete decreto para liberar posse de arma a pessoas sem ficha 
+criminal 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+decreto_noun_masc_sing 
+liberar_verb_inf 
+posse_noun_fem_sing 

@@ -1,0 +1,17 @@
+file = t001191
+date = 2018-07-30
+user = Erivanjose76
+conversation = 481779226
+URL = https://twitter.com/Erivanjose76/status/1024000958781513728
+
+word count = 32
+words loading = 1
+factor score = -1
+
+é isso que falo para os crentes que defende o COMUNISTO. . . JÁ disse o 
+único que é CONTRA e HONESTO e BOLSONARO 17 . . . . . . acorda povo CRISTÃO. 
+. . . Ele é de DIREITA CONSERVADOR. . . 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

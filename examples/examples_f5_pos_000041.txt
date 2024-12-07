@@ -1,0 +1,20 @@
+file = t018975
+date = 2022-12-30
+user = marcosaraujjoo
+conversation = 2749348212
+URL = https://twitter.com/marcosaraujjoo/status/1608947173986816000
+
+word count = 44
+words loading = 2
+factor score = 3
+
+ESE DIA VAI FICAR PRA HISTÓRIA! O CAPITÃO COVARDE, IMAGINA SE FOSSE UMA 
+GUERRA KKK **police_car_light_e** ME SIGAM, AQUI TODOS SÃO LULA! TAGS: O 
+Bolsonaro forças armadas decepção acabou Bolsonaro HASHTAG #bolsonarofujao_h 
+as monark jair o bozo lulinha Patriotários fugindo fugiu flórida cagão 
+Estados Unidos 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+police_car_light_e 

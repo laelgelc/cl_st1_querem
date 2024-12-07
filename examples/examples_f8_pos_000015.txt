@@ -1,0 +1,17 @@
+file = t020585
+date = 2023-04-29
+user = ashlynxonfire
+conversation = 1492516576708501508
+URL = https://twitter.com/ashlynxonfire/status/1652394245171425286
+
+word count = 42
+words loading = 0
+factor score = 
+
+Alguém proíbe gente que não é bióloga, nem médica veterinária, nem 
+especialista em meio ambiente comentar o caso da Filó pelo amor de Deus. 
+Vocês atacando as leis ambientais e o IBAMA tão piores que o Ricardo Salles e 
+o Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+

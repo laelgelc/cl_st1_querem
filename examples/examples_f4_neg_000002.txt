@@ -1,0 +1,19 @@
+file = t007717
+date = 2020-07-30
+user = Vozdatarde
+conversation = 1268169524
+URL = https://twitter.com/Vozdatarde/status/1288547863924965376
+
+word count = 35
+words loading = 3
+factor score = -3
+
+@Mirkos81265285 @JaneQCarvalho @deltanmd Quem elogia Che Guevara é conservador 
+e de direita ou é comunista? Gosta de comunistas? No final da matéria tem um 
+video do Aras elogiando Guevara. Temos um comunista na PGR. 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_sing 
+comunista_noun_masc_sing 
+comunista_noun_plur 

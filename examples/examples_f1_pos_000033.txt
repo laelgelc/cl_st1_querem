@@ -1,0 +1,24 @@
+file = t013021
+date = 2021-10-30
+user = cola_rogerio
+conversation = 1076504223058137088
+URL = https://twitter.com/cola_rogerio/status/1454582371538415617
+
+word count = 29
+words loading = 5
+factor score = 5
+
+PRESIDENTE BOLSONARO MITANDO PELAS RUAS DE ROMA E TIRANDO SELFIE ' S NA PRAÇA 
+DE SÃO PEDRO, ONDE ENCONTROU MUITOS BRASILEIROS! ! ! . . . 
+**smiling_face_with_sunglasses_e** **backhand_index_pointing_right_e** 
+**backhand_index_pointing_right_e** **backhand_index_pointing_right_e** 
+**flag_brazil_e** BRASIL ACIMA DE TUDO, DEUS ACIMA DE TODOS **flag_brazil_e** 
+backhand_index_pointing_left_e 
+
+Lemmas in this text that loaded on the factor:
+
+acimar_verb_fin_sing 
+backhand_index_pointing_right_e 
+brasileiro_adj_masc_plur 
+flag_brazil_e 
+smiling_face_with_sunglasses_e 

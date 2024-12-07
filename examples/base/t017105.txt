@@ -1,0 +1,37 @@
+51 51_NUM
+imóveis imóvel_NOUN_Masc_Plur
+da de_o_ADP_DET_Fem_Sing
+família família_NOUN_Fem_Sing
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+teriam ter_AUX_Fin_Plur
+sido ser_AUX_Part
+comprados comprar_VERB_Part_Masc_Plur
+com com_ADP
+dinheiro dinheiro_NOUN_Masc_Sing
+em em_ADP
+espécie espécie_NOUN_Fem_Sing
+, ,
+afirma afirmar_VERB_Fin_Sing
+Uol uol_PROPN_Masc_Sing
+. .
+Sobre sobre_ADP
+a o_DET_Fem_Sing
+matéria matéria_NOUN_Fem_Sing
+, ,
+o o_DET_Masc_Sing
+presidente presidente_NOUN_Masc_Sing
+perguntou perguntar_VERB_Fin_Sing
+: :
+ "  "
+Qual qual_PRON_Rel_Masc_Sing
+o o_DET_Masc_Sing
+problema problema_NOUN_Masc_Sing
+de de_ADP
+comprar comprar_VERB_Inf
+com com_ADP
+dinheiro dinheiro_NOUN_Masc_Sing
+vivo vivo_ADJ_Masc_Sing
+algum algum_DET_Masc_Sing
+imóvel imóvel_NOUN_Masc_Sing
+? ?
+ "  "

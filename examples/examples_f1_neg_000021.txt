@@ -1,0 +1,18 @@
+file = t000531
+date = 2018-04-27
+user = Rakresende
+conversation = 3058335912
+URL = https://twitter.com/Rakresende/status/989949997062983680
+
+word count = 42
+words loading = 1
+factor score = -1
+
+@jairbolsonaro @emb_resistencia Senhor Jair Bolsonaro, eu tenho uma idéia para 
+acabar com todas essas mentiras e difamações que a esquerda fala e propaga 
+sobre a sua pessoa! Me procure, se o senhor achar melhor! ABS pra vc e para a 
+sua família! 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

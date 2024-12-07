@@ -1,0 +1,18 @@
+file = t020598
+date = 2023-04-29
+user = Andre19lll
+conversation = 1554492869825683457
+URL = https://twitter.com/Andre19lll/status/1652308555968532481
+
+word count = 51
+words loading = 1
+factor score = 
+
+@eunaovoupararde @CarlosZarattini Os índices de desemprego, PIB, inflação e 
+qualquer outro indicador são melhores do que os de 2015 e 2016 , mas n é meu 
+objetivo ficar dizendo q o mérito foi do Bolsonaro. Todas as pautas de 
+liberdade econômica avançaram apesar dele, q só usou isso pra ganhar voto. 
+
+Lemmas in this text that loaded on the factor:
+
+bom_adj_masc_plur 

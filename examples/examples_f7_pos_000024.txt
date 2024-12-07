@@ -1,0 +1,17 @@
+file = t020576
+date = 2023-04-29
+user = reportersalles
+conversation = 64523460
+URL = https://twitter.com/reportersalles/status/1652286144778731520
+
+word count = 33
+words loading = 1
+factor score = 
+
+Youtube e Google alertam que PL das Fake News vai proteger grandes veículos 
+que publicam desinformação. O Google ainda completa que o projeto de censura 
+traz sérias ameaças à liberdade de expressão. 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade_noun_fem_sing 

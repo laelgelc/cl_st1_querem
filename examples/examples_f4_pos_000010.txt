@@ -1,0 +1,22 @@
+file = t002512
+date = 2018-12-30
+user = olv_thaisa
+conversation = 4724661053
+URL = https://twitter.com/olv_thaisa/status/1079486021555965952
+
+word count = 50
+words loading = 5
+factor score = 5
+
+Pelo e-mail, a assessoria informa que as ações da Taurus foram as que mais 
+subiram em 2018 . A empresa BR é uma das maiores fabricantes de pistolas e 
+revólveres ( e a única a fornecer armamento para a PM ) . Ontem, Bolsonaro 
+afirmou que vai flexibilizar a posse de armas por decreto. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+armamento_noun_masc_sing 
+decreto_noun_masc_sing 
+empresa_noun_fem_sing 
+posse_noun_fem_sing 

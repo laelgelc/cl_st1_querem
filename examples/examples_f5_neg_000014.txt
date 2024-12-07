@@ -1,0 +1,18 @@
+file = t002663
+date = 2019-01-29
+user = senadorhumberto
+conversation = 76049312
+URL = https://twitter.com/senadorhumberto/status/1090228601151242248
+
+word count = 47
+words loading = 1
+factor score = -2
+
+Você é católico, votou no Bolsonaro e ainda o apoia? Saiba q o Papa 
+Francisco é contra o armamento da população, é a favor da educação sexual 
+nas escolas, defende o Pacto de Migração da ONU e condena a intolerância e o 
+populismo praticados por Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+votar_verb_fin_sing 

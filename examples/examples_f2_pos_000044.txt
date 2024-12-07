@@ -1,0 +1,16 @@
+file = t012845
+date = 2021-10-30
+user = eliene_lopez
+conversation = 1392143230972710919
+URL = https://twitter.com/eliene_lopez/status/1454598883657633793
+
+word count = 22
+words loading = 1
+factor score = 4
+
+RT @DeputadoFederal: BRASIL DA FOME: A partir da próxima semana, 22 milhões 
+de famílias serão excluídas do auxílio emergencial. Já 17 milhõ … 
+
+Lemmas in this text that loaded on the factor:
+
+emergencial_adj_masc_sing 

@@ -1,0 +1,19 @@
+file = t016779
+date = 2022-08-30
+user = AnchietaDJ
+conversation = 89941121
+URL = https://twitter.com/AnchietaDJ/status/1564697749064482822
+
+word count = 25
+words loading = 4
+factor score = 6
+
+@flferronato 107 imóveis, mais de 50 comprados. Em dinheiro vivo, total de 
+mais de 20 milhões de reais. . A família Bolsonaro tá roubando MUUUUITO! ! ! 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+real_noun_masc_plur 
+vivo_adj_masc_sing 

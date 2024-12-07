@@ -1,0 +1,17 @@
+file = t003539
+date = 2019-04-29
+user = Mih_ArmstrongL
+conversation = 2416690640
+URL = https://twitter.com/Mih_ArmstrongL/status/1123013814398615552
+
+word count = 41
+words loading = 1
+factor score = -2
+
+Amo como o desemprego só aumenta, a economia só piora, a educação ta 
+parada, saúde um caos e a família Bolsonaro ta no tt divulgando vídeo de 
+aluna perseguindo professor em sala de aula, aluna essa que é do PSL. 
+
+Lemmas in this text that loaded on the factor:
+
+economia_noun_fem_sing 

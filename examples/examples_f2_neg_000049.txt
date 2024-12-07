@@ -1,0 +1,18 @@
+file = t016633
+date = 2022-07-30
+user = Marciolopeste
+conversation = 780371988
+URL = https://twitter.com/Marciolopeste/status/1553325756268396545
+
+word count = 35
+words loading = 2
+factor score = -3
+
+@o_antagonista Quem sabe dizer Moro e Bolsonaro já mais? O ex juíz ladrão se 
+achava a última bolachinha do pacote hoje não passa de um insignificante, na 
+verdade sempre foi isso mas a imprensa insistia. 
+
+Lemmas in this text that loaded on the factor:
+
+achar_verb_fin_sing 
+imprensa_noun_fem_sing 

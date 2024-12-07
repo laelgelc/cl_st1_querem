@@ -1,0 +1,18 @@
+file = t000031
+date = 2018-03-30
+user = RobbieBr15
+conversation = 512281231
+URL = https://twitter.com/RobbieBr15/status/979589618931765248
+
+word count = 44
+words loading = 1
+factor score = -1
+
+Luana Piovani é à favor do aborto, da legalização da maconha, desarmamento, 
+ideologia de gênero, fala mal dos conservadores, fala mal do Trump e da 
+direita republicana americana, fala mal do Bolsonaro, fez curso de ciências 
+humanas. . . ( ! ! ! ! ) Nossa, super de direita ela. Hahaha 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

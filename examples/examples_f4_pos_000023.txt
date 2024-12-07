@@ -1,0 +1,20 @@
+file = t012038
+date = 2021-08-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1432312694456082435
+
+word count = 44
+words loading = 3
+factor score = 4
+
+Os bandidos que aterrorizaram Araçatuba usaram armamento pesado. O Brasil 
+precisa de uma política séria de combate ao tráfico de armas, mas Bolsonaro 
+está ampliando o acesso e destruindo os mecanismos de fiscalização e 
+monitoramento, o que favorece desvios e beneficia o crime. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+armamento_noun_masc_sing 
+crime_noun_masc_sing 

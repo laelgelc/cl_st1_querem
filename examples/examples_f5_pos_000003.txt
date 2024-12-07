@@ -1,0 +1,19 @@
+file = t010704
+date = 2021-03-30
+user = rosiasimoes
+conversation = 4623692057
+URL = https://twitter.com/rosiasimoes/status/1377037184029634560
+
+word count = 19
+words loading = 4
+factor score = 5
+
+RT @nelsonpaffi: A esquerda treme: UOL Comandantes das Forças Armadas pedem 
+demissão em protesto contra Bolsonaro Inédita, crise militar … 
+
+Lemmas in this text that loaded on the factor:
+
+comandante_noun_masc_plur 
+crise_noun_fem_sing 
+militar_adj_fem_sing 
+pedir_verb_fin_plur 

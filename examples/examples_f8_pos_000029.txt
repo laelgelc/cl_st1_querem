@@ -1,0 +1,15 @@
+file = t020571
+date = 2023-04-29
+user = ViddaBR
+conversation = 912313034
+URL = https://twitter.com/ViddaBR/status/1652156779411697664
+
+word count = 17
+words loading = 0
+factor score = 
+
+@MoaiBJJ @CarlosBolsonaro Carlos, não perca a cabeça. Deus vai dar o 
+corretivo que esse danones merece. 
+
+Lemmas in this text that loaded on the factor:
+

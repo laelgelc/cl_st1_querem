@@ -1,0 +1,18 @@
+file = t020597
+date = 2023-04-29
+user = LuccaSo44679209
+conversation = 1547227306913153026
+URL = https://twitter.com/LuccaSo44679209/status/1652359568280678401
+
+word count = 51
+words loading = 1
+factor score = 
+
+@CiresCanisio Não, o Lula não da uma refinaria atroca de propina, só esse 
+bandido ladrão bolsonaro que faz isso! Pau nele não deixa passar de graça! O 
+Lula não roubo, e a justiça deixou prender ele, sem provas, por dois 
+bandidos, Marreco Satanás e bolsonaro Satanás, a quadrilha dos Satanás, 
+
+Lemmas in this text that loaded on the factor:
+
+passar_verb_inf 

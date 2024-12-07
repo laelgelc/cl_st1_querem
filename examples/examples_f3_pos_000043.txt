@@ -1,0 +1,19 @@
+file = t016788
+date = 2022-08-30
+user = ThiagoResiste
+conversation = 1270774020808626176
+URL = https://twitter.com/ThiagoResiste/status/1564730656860635136
+
+word count = 22
+words loading = 4
+factor score = 6
+
+107 imóveis, mais de 50 comprados. Em dinheiro vivo, total de mais de 20 
+milhões de reais. A família Bolsonaro tá roubando MUUUUITO! ! ! 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+real_noun_masc_plur 
+vivo_adj_masc_sing 

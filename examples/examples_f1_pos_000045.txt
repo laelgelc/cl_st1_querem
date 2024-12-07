@@ -1,0 +1,19 @@
+file = t018358
+date = 2022-11-28
+user = laisdangelamr
+conversation = 832616096255590400
+URL = https://twitter.com/laisdangelamr/status/1597227812347580417
+
+word count = 13
+words loading = 3
+factor score = 4
+
+@MurinhoVlogreal Presidente Bolsonaro é o melhor Presidente do mundo. Deus 
+abençoe sempre folded_hands_light_skin_tone_e backhand_index_pointing_up_e 
+**flag_brazil_e** **green_heart_e** **yellow_heart_e** 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+green_heart_e 
+yellow_heart_e 

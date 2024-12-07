@@ -1,0 +1,18 @@
+file = t008011
+date = 2020-08-30
+user = zazaudi
+conversation = 1252060596859740160
+URL = https://twitter.com/zazaudi/status/1300208478871523328
+
+word count = 35
+words loading = 2
+factor score = -2
+
+Vocês viram algum evangélico se posicionando contra a Flordelis? Por ela ter 
+enganado e usado o nome de Deus para cometer crimes? Até agora eu vi um total 
+de 0 nas minhas redes sociais. 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

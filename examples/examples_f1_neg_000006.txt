@@ -1,0 +1,17 @@
+file = t000006
+date = 2018-03-29
+user = AmigoOpressor
+conversation = 979074520823803904
+URL = https://twitter.com/AmigoOpressor/status/979412641352441856
+
+word count = 36
+words loading = 1
+factor score = -1
+
+@gduvivier Quem dá tiro em ônibus é gente que quer criar um mártir. Até 
+então quem fala em pegar em armas é a CUT e o MST, inclusive é nestes que 
+você baba o ovo. . . 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

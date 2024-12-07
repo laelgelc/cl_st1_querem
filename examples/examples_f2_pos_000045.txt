@@ -1,0 +1,18 @@
+file = t012613
+date = 2021-09-29
+user = taliriapetrone
+conversation = 103704608
+URL = https://twitter.com/taliriapetrone/status/1443337068713762820
+
+word count = 44
+words loading = 1
+factor score = 4
+
+Agora, na Câmara, estamos apreciando o PL 1374 / 2021 que instituiu um 
+auxílio para famílias de baixa renda na aquisição do gás de cozinha. No 
+Brasil de Bolsocaro, com o aumento no preço de itens básicos, esse projeto é 
+fundamental. Votaremos a favor! raised_fist_dark_skin_tone_e 
+
+Lemmas in this text that loaded on the factor:
+
+renda_noun_fem_sing 

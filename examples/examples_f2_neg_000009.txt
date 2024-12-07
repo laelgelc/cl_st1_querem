@@ -1,0 +1,20 @@
+file = t017569
+date = 2022-09-29
+user = viniciuscavila
+conversation = 239826610
+URL = https://twitter.com/viniciuscavila/status/1575580853450653696
+
+word count = 44
+words loading = 3
+factor score = -4
+
+@nathalovatto @Savanna52137766 @Gustavo31753873 @catitaadm E na boa, você de 
+fato acabou com a conversa, não vou discutir com liberal de merda que tem 
+vergonha de votar no Bolsonaro. Se achasse ele tão ladrão assim, não 
+começaria o diálogo com apenas narrativas, nenhuma prova 
+
+Lemmas in this text that loaded on the factor:
+
+achar_verb_fin_sing 
+bom_adj_fem_sing 
+votar_verb_inf 

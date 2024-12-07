@@ -1,0 +1,17 @@
+file = t020554
+date = 2023-04-29
+user = marcelodiaso
+conversation = 459497553
+URL = https://twitter.com/marcelodiaso/status/1652298186659094528
+
+word count = 50
+words loading = 0
+factor score = 
+
+@VEJA Cabra bom! Ele é político desde d sempre aliás o maior que esse país 
+já tem falar pq ele sabe que a política quando bem feita é belíssimo 
+instrumento civilização. Agora não confundir, gente como; Moro, Deltan, 
+Dalmares, Mourão, A. Doval, a família Bolsonaro e etc. . . com politicos 
+
+Lemmas in this text that loaded on the factor:
+

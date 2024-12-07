@@ -1,0 +1,20 @@
+file = t010805
+date = 2021-03-30
+user = maria_fro
+conversation = 16177777
+URL = https://twitter.com/maria_fro/status/1377017882551459840
+
+word count = 46
+words loading = 3
+factor score = 4
+
+Bolsonaro só funciona no CAOS. Pra que as forças armadas vão dar golpe se 
+já estão no poder? O que Bolsonaro está fazendo é cacifar as forças 
+armadas como protetoras da democracia, do Estado de Direito e garantindo uma 
+longa duração de milico no poder. 
+
+Lemmas in this text that loaded on the factor:
+
+armado_adj_fem_plur 
+armar_verb_part_fem_plur 
+golpe_noun_masc_sing 

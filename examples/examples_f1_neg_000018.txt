@@ -1,0 +1,18 @@
+file = t000409
+date = 2018-04-28
+user = peidodeantraz
+conversation = 3355763277
+URL = https://twitter.com/peidodeantraz/status/990286619776372737
+
+word count = 46
+words loading = 1
+factor score = -1
+
+A hora q ela falou jamais ja tava a 5 metros de distância dele. Ela achava que 
+o Bolsonaro ia sair correndo atrás dela igual cachorro? Kkkkkkkkkkk e vcs ja 
+nossa tragam o troféu para este ICONE! ! ! ! ! AFRONTOU A SOCIEDADE ah pelo 
+amor de deus 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

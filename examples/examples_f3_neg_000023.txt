@@ -1,0 +1,19 @@
+file = t004211
+date = 2019-07-30
+user = IvanValente
+conversation = 112498734
+URL = https://twitter.com/IvanValente/status/1156302306167730176
+
+word count = 44
+words loading = 2
+factor score = -2
+
+Bolsonaro defende a ditadura, ameaça jornalistas, incita o ódio. Mobiliza 
+fanáticos nas redes movidos a fake news. Ainda pretende liberar armas! Tudo 
+isso envolto em pura irracionalidade. Trata -se de um fascismo do séc. XXI. 
+Eis por que o debate sobre sua queda ganha dimensão. 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura_noun_fem_sing (secondary)
+rede_noun_fem_plur 

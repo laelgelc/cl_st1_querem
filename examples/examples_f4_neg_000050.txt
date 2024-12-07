@@ -1,0 +1,18 @@
+file = t007654
+date = 2020-07-30
+user = Anaclaudia38isa
+conversation = 1234680509680275456
+URL = https://twitter.com/Anaclaudia38isa/status/1288976648117915651
+
+word count = 34
+words loading = 2
+factor score = -2
+
+Aim Bolsonaro mandou os repórteres calar a boca! Queridos eu votei no 
+Bolsonaro pra mandar repórter comunista calar a boca e não meter a mão no 
+bolso e pagar pelo o silêncio deles shushing_face_e victory_hand_e 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_sing 
+mandar_verb_fin_sing 

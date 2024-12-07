@@ -1,0 +1,21 @@
+file = t017532
+date = 2022-08-30
+user = lucaferreiraris
+conversation = 172161992
+URL = https://twitter.com/lucaferreiraris/status/1564613620037812230
+
+word count = 41
+words loading = 4
+factor score = 6
+
+Se Lula foi condenado sem nunca ter sido comprovada posse de um triplex o que 
+as autoridades da República devem fazer a partir de 51 imóveis comprados pela 
+Família Bolsonaro com dinheiro vivo e avaliados em 26 milhões de reais? 
+thinking_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+real_noun_masc_plur 
+vivo_adj_masc_sing 

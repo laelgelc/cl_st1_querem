@@ -1,0 +1,15 @@
+file = t020567
+date = 2023-04-29
+user = ceara59
+conversation = 65812527
+URL = https://twitter.com/ceara59/status/1652397424340611073
+
+word count = 17
+words loading = 0
+factor score = 
+
+RT @MiladyeLord: @cesarcalejon1 A REALIDADE É : BOLSONARISMO É UMA SEITA. . . 
+BOLSONARO TROUXE MORTES. . . DESTRUIÇÃO. . . SEPARAÇÃO FAMÍLIAR CO … 
+
+Lemmas in this text that loaded on the factor:
+

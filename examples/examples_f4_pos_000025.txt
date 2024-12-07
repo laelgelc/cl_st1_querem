@@ -1,0 +1,21 @@
+file = t007569
+date = 2020-07-30
+user = freire_roberto
+conversation = 49685585
+URL = https://twitter.com/freire_roberto/status/1288925360990703618
+
+word count = 46
+words loading = 4
+factor score = 4
+
+Bolsonaro, seu filho Flavio, o advogado, ninguém sabia onde estava Queiroz. Os 
+milicianos agem soltos no Rio. O crime organizado leva e traz armas e drogas e 
+sitia cidades como Botucatu. Mas André Mendonça só monitorava professores e 
+policiais. Ameaça à ordem pública? Nos poupe. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+crime_noun_masc_sing 
+droga_noun_fem_plur 
+organizar_verb_part_masc_sing 

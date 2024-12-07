@@ -1,0 +1,19 @@
+file = t016829
+date = 2022-08-30
+user = AidarMarina
+conversation = 1265651569434992642
+URL = https://twitter.com/AidarMarina/status/1564764556248883200
+
+word count = 21
+words loading = 4
+factor score = 6
+
+RT @PedroRonchi2 : A metade do imóveis milionários da família bolsonaro 
+foram comprados com dinheiro vivo. Ah, quem nunca guardou milhões de … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+metade_noun_fem_sing 
+vivo_adj_masc_sing 

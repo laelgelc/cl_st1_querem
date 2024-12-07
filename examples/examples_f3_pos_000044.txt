@@ -1,0 +1,20 @@
+file = t016787
+date = 2022-08-30
+user = PortaldoJose
+conversation = 1224767212101283840
+URL = https://twitter.com/PortaldoJose/status/1564724115512098816
+
+word count = 44
+words loading = 3
+factor score = 6
+
+Bolsonaro invisível? Alô Bonner! Se a família do governante de Papua-Nova 
+Guiné comprar 51 imóveis com dinheiro vivo, isso é notícia no JN. E se for 
+um governante do Brasil? Se houver algum jornalismo na Globo, esse FATO precisa 
+chegar aos telespectadores. Ou não? 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_inf 
+dinheiro_noun_masc_sing 
+vivo_adj_masc_sing 

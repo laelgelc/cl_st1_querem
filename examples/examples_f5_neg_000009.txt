@@ -1,0 +1,18 @@
+file = t001234
+date = 2018-07-30
+user = eneidafdacosta
+conversation = 144189998
+URL = https://twitter.com/eneidafdacosta/status/1023974862791032833
+
+word count = 37
+words loading = 1
+factor score = -2
+
+Não entendo mesmo de economia ' , afirma Jair Bolsonaro ao GLOBO Em entrevista 
+exclusiva, pré-candidato também comenta vídeo de criança fazendo sinal de 
+arma e diz que não compreende o que o movimento feminista quer Leia mais: 
+stest 
+
+Lemmas in this text that loaded on the factor:
+
+economia_noun_fem_sing 

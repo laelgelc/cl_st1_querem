@@ -1,0 +1,22 @@
+file = t012449
+date = 2021-08-30
+user = alexanfsls
+conversation = 1352020958891151371
+URL = https://twitter.com/alexanfsls/status/1432399902768762883
+
+word count = 57
+words loading = 4
+factor score = 4
+
+@Leandro71402485 @RenaldyOliveira @Rconstantino @diegoreporter Bom, o único 
+chefe de executivo que vi falar e agir a favor, e que não vi fazer decretos ou 
+projetos de lei contra a liberdade individual, contra a vida, contra a posse e 
+o porte de armas de fogo, contra a propriedade privada e contra a livre 
+iniciativa, foi o Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+fogo_noun_masc_sing 
+porte_noun_masc_sing 
+posse_noun_fem_sing 

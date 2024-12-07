@@ -1,0 +1,20 @@
+file = t003982
+date = 2019-06-29
+user = Pimenta13Br
+conversation = 22864100
+URL = https://twitter.com/Pimenta13Br/status/1145059360944656385
+
+word count = 40
+words loading = 3
+factor score = 4
+
+Cocaína na comitiva de Bolsonaro para o HASHTAG #g20_h é descoberta pela 
+Polícia da Espanha. Rede de tráfico internacional de armas ( para milícias e 
+outros tipos de crime organizado ) para o Brasil é descoberta na Argentina. 
+Muito eficiente esse governo. . . 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+crime_noun_masc_sing 
+organizar_verb_part_masc_sing 

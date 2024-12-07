@@ -1,0 +1,19 @@
+file = t002518
+date = 2018-12-30
+user = GoiasBrasil_voz
+conversation = 266666866
+URL = https://twitter.com/GoiasBrasil_voz/status/1079485721298255873
+
+word count = 20
+words loading = 4
+factor score = 4
+
+RT @nanoludica: Jogaram o plebiscito no lixo? ? UOL: Bolsonaro diz que pretende 
+editar decreto para garantir posse de arma. … 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+decreto_noun_masc_sing 
+garantir_verb_inf 
+posse_noun_fem_sing 

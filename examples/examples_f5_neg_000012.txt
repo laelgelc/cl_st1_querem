@@ -1,0 +1,20 @@
+file = t001833
+date = 2018-10-30
+user = carlosrlfilho
+conversation = 1594668524
+URL = https://twitter.com/carlosrlfilho/status/1057044523191332864
+
+word count = 50
+words loading = 2
+factor score = -2
+
+@Laracvsoares Ele não votou pela parte do conservadorismo, nem do fanatismo 
+religioso, e sim por acreditar que o Brasil pode ter uma solução para os 
+problemas de hoje ( principalmente economia, educação, saúde básica ) 
+Entende que a maioria das pessoas também é assim? E não é balela, é mt 
+real 
+
+Lemmas in this text that loaded on the factor:
+
+economia_noun_fem_sing 
+votar_verb_fin_sing 

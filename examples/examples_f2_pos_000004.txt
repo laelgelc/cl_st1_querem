@@ -1,0 +1,20 @@
+file = t010476
+date = 2021-03-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1376899710049529863
+
+word count = 44
+words loading = 3
+factor score = 6
+
+Temos 27 milhões de brasileiros na extrema pobreza. Famílias estão catando 
+resto de comida no lixo p / sobreviver. E o auxílio emergencial segue suspenso 
+há 3 meses. É uma covardia. Quem não morrer do vírus, o desgoverno 
+Bolsonaro quer matar de fome. HASHTAG #vidapaovacinaeducacao_h 
+
+Lemmas in this text that loaded on the factor:
+
+emergencial_adj_masc_sing 
+fome_noun_fem_sing 
+pobreza_noun_fem_sing 

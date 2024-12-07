@@ -1,0 +1,16 @@
+file = t006314
+date = 2020-03-30
+user = JanderSaantos
+conversation = 112715824
+URL = https://twitter.com/JanderSaantos/status/1244774517064556545
+
+word count = 16
+words loading = 2
+factor score = -2
+
+Cara o bolsonaro todo dia faz uma merda meu deus, ele não manda UMA dentro 
+
+Lemmas in this text that loaded on the factor:
+
+deus_noun_masc_sing 
+mandar_verb_fin_sing 

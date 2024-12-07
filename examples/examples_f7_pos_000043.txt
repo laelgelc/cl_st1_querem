@@ -1,0 +1,19 @@
+file = t020557
+date = 2023-04-29
+user = Antenor68091685
+conversation = 1120832019485872128
+URL = https://twitter.com/Antenor68091685/status/1652401067647172613
+
+word count = 29
+words loading = 2
+factor score = 
+
+ Pelo visto, a vitória é certa! Deus Pátria Família e liberdade! Boraaa 
+Brasil! **flag_brazil_e** green_heart_e yellow_heart_e 
+folded_hands_light_skin_tone_e Lula comete o pior erro de sua vida e asfalta o 
+retorno triunfante de Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e (secondary)
+liberdade_noun_fem_sing 

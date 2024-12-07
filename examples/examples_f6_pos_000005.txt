@@ -1,0 +1,15 @@
+file = t020596
+date = 2023-04-29
+user = LuccaSo44679209
+conversation = 1547227306913153026
+URL = https://twitter.com/LuccaSo44679209/status/1652392200167145472
+
+word count = 23
+words loading = 0
+factor score = 
+
+RT @LuccaSo44679209 : @CiresCanisio Não, o Lula não da uma refinaria atroca 
+de propina, só esse bandido ladrão bolsonaro que faz isso! Pau n … 
+
+Lemmas in this text that loaded on the factor:
+

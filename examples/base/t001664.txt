@@ -1,0 +1,30 @@
+RT rt_PROPN_Masc_Sing
+@kallilolv twitterhandle_PROPN_Sing
+: :
+Você você_PRON_Sing
+que que_SCONJ
+aprendeu aprender_VERB_Fin_Sing
+com com_ADP
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+que que_SCONJ
+bandido bandido_NOUN_Masc_Sing
+bom bom_ADJ_Masc_Sing
+é ser_AUX_Fin_Sing
+bandido bandido_ADJ_Masc_Sing
+morto morrer_VERB_Part_Masc_Sing
+como como_ADV
+se se_PRON
+sentiu sentir_VERB_Fin_Sing
+ao a_o_ADP_DET_Masc_Sing
+descobrir descobrir_VERB_Inf
+que que_SCONJ
+o o_DET_Masc_Sing
+ "  "
+mito mito_NOUN_Masc_Sing
+ "  "
+é ser_AUX_Fin_Sing
+ladrão ladrão_NOUN_Masc_Sing
+de de_ADP
+cofre cofre_NOUN_Masc_Sing
+? ?
+… …

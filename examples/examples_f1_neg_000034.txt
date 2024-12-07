@@ -1,0 +1,17 @@
+file = t000795
+date = 2018-06-29
+user = FoxLita1
+conversation = 82249086
+URL = https://twitter.com/FoxLita1/status/1012695425600536576
+
+word count = 40
+words loading = 1
+factor score = -1
+
+@szcnico Existe um abismo entre extrema direita e direita como visto no doc, 
+seria mais pragmático colocar direita autoritária ou conservadora se o foco 
+é o mito, já q tem mts de direita por ai que abominam o Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+extremo_adj_fem_sing 

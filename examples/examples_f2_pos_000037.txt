@@ -1,0 +1,18 @@
+file = t015602
+date = 2022-05-26
+user = ptbrasil
+conversation = 39522911
+URL = https://twitter.com/ptbrasil/status/1529922823254253569
+
+word count = 30
+words loading = 2
+factor score = 4
+
+Fome no Brasil! loudspeaker_e 25 milhões de famílias que recebiam o Bolsa 
+Família ou o Auxílio Emergencial foram abandonadas por Bolsonaro e excluídas 
+do Auxílio Brasil! cross_mark_e Acesse a matéria completa: 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+receber_verb_fin_plur 

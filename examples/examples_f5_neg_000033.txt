@@ -1,0 +1,18 @@
+file = t008987
+date = 2020-10-30
+user = crioulossantafe
+conversation = 1278409276525096966
+URL = https://twitter.com/crioulossantafe/status/1322256079770820608
+
+word count = 29
+words loading = 2
+factor score = -2
+
+Pelo amor de Deus amigos porto-alegrense vão votar nesta comunista, vocês 
+querem uma Venezuela. . . Bolsonaro faz apelo a Poa sobre Manuela: Uma 
+desgraça! Pensem nas consequências ( veja o vídeo ) 
+
+Lemmas in this text that loaded on the factor:
+
+amor_noun_masc_sing 
+votar_verb_inf (secondary)

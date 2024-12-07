@@ -1,0 +1,18 @@
+file = t011094
+date = 2021-04-29
+user = RomeuZema
+conversation = 1020798087449776128
+URL = https://twitter.com/RomeuZema/status/1387875246666141707
+
+word count = 36
+words loading = 2
+factor score = 4
+
+Apoiar as famílias que mais precisam é urgente. Por isso, vamos pagar um 
+auxílio de R$ 500 , em parcela única, para aqueles que estão em situação 
+de extrema pobreza ( renda per capita de R$ 89 ) . 
+
+Lemmas in this text that loaded on the factor:
+
+pobreza_noun_fem_sing 
+renda_noun_fem_sing 

@@ -1,0 +1,20 @@
+file = t010323
+date = 2021-03-30
+user = ricksenra
+conversation = 34359439
+URL = https://twitter.com/ricksenra/status/1376841193808613380
+
+word count = 48
+words loading = 3
+factor score = 4
+
+a ) bolsonaristas chamam insurreição na PM da Bahia b ) racha entre Bolsonaro 
+e forças armadas emerge c ) polícia chega à esplanada pelo topo do min. da 
+Justiça d ) chefes de exército, marinha e aeronáutica cogitam entregar 
+cargos e ) juntas, PMs têm dobro do efetivo das f. armadas + 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+cargo_noun_masc_plur 
+chefe_noun_masc_plur 

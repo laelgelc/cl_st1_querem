@@ -1,0 +1,21 @@
+file = t013734
+date = 2021-12-30
+user = BrasilPost13
+conversation = 1355963617951297548
+URL = https://twitter.com/BrasilPost13/status/1476681104794996740
+
+word count = 47
+words loading = 4
+factor score = -5
+
+A cara de pau desse bandido e sua quadrilha não tem limite. Bolsonaro gravou 
+vídeo convocando a esquerda a fazer panelaço para comemorar 3 anos s / 
+corrupção segundo o ladrão, então vamos comprar apitos e buzinas e gritar 
+fora Genocida das rachadinhas, corrupto e ladrão vagabundo. 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_noun_masc_sing 
+cara_noun_fem_sing 
+corrupto_adj_masc_sing 
+esquerda_noun_fem_sing 

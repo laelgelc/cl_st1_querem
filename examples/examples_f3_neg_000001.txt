@@ -1,0 +1,21 @@
+file = t001830
+date = 2018-10-30
+user = CBNoficial
+conversation = 785833176
+URL = https://twitter.com/CBNoficial/status/1057359400040648704
+
+word count = 45
+words loading = 4
+factor score = -4
+
+A Mackenzie decidiu pela punição do aluno de Direito, que aparece nas redes 
+sociais dizendo que a ' negraiada vai morrer ' . Usando blusa com o rosto de 
+Jair Bolsonaro, ele falou que votaria armado, ' louco para ver um vadio com 
+camiseta vermelha e já matar ' . 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_masc_sing 
+morrer_verb_inf 
+rede_noun_fem_plur 
+social_adj_fem_plur 

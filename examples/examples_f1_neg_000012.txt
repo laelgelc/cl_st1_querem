@@ -1,0 +1,17 @@
+file = t000095
+date = 2018-03-30
+user = claudiogonz
+conversation = 52959962
+URL = https://twitter.com/claudiogonz/status/979511799765708800
+
+word count = 28
+words loading = 1
+factor score = -1
+
+Começo a desconfiar que a candidatura de Bolsonaro não passa de um jabá da 
+indústria de armas. Uma ação do lobby pró-armas. O cara só fala nisso. 
+Aff! 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

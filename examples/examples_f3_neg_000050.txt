@@ -1,0 +1,21 @@
+file = t010940
+date = 2021-04-29
+user = TiagoSampaioAD
+conversation = 61773254
+URL = https://twitter.com/TiagoSampaioAD/status/1387594088568999937
+
+word count = 33
+words loading = 2
+factor score = -2
+
+@arqueira_a @FafahMb @raposa_e @FafahMb1 @fbpborges @MagnoLM_3 @arqueiro_1 
+@ArrowPatriota @DeusaMah @Emma_B38 @DelRamos_2 @vastir_n @VLM_Of 
+@MotoqueiroPatr1 @PedroTelesJuni2 @vandaleal9 @natalin92105056 @republicanajc 
+@MaluMat71492814 @e_republicano @O_Patriota__ Compartilhem nas redes sociais de 
+vocês. Com Bolsonaro pouca promessa e muitas obras para Nordestinos. Mais de 
+80 anos de espera. 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

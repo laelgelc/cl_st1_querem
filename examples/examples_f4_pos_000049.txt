@@ -1,0 +1,19 @@
+file = t001923
+date = 2018-10-29
+user = monicabergamo
+conversation = 58951368
+URL = https://twitter.com/monicabergamo/status/1057036433926569988
+
+word count = 19
+words loading = 4
+factor score = 4
+
+Bolsonaro na Record: ele quer flexibilizar também o porte de armas de fogo, e 
+não apenas a posse. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+fogo_noun_masc_sing 
+porte_noun_masc_sing 
+posse_noun_fem_sing 

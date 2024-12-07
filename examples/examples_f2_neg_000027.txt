@@ -1,0 +1,17 @@
+file = t009475
+date = 2020-12-30
+user = MmipexRenata
+conversation = 372563666
+URL = https://twitter.com/MmipexRenata/status/1344428099186864129
+
+word count = 23
+words loading = 2
+factor score = -3
+
+@brotherjp21 Vai se instruir! Bolsonaro é ladrão, marido de mulher que recebe 
+dinheiro de miliciano e é pai de bandido! É corrupto! 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_noun_masc_sing 
+corrupto_adj_masc_sing 
