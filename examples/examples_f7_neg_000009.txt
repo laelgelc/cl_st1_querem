@@ -1,0 +1,20 @@
+file = t017013
+date = 2022-08-30
+user = myscreenbr
+conversation = 854275854020620288
+URL = https://twitter.com/myscreenbr/status/1564755366814142464
+
+word count = 49
+words loading = 3
+factor score = -3
+
+@UOLNoticias Então vamos ao resumo: Bolsonaro inseriu seus filhos na carreira 
+de **milicianos** na política; suas **esposas** e até sua idosa, **mãe** . 
+Compraram no total 107 imóveis, sendo 51 em dinheiro vivo. Lavagem de 
+dinheiro, peculato e muito mais. Isso não é uma família, isso é uma máfia. 
+
+Lemmas in this text that loaded on the factor:
+
+esposo
+miliciano
+mãe

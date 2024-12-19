@@ -1,0 +1,18 @@
+file = t002533
+date = 2018-12-30
+user = generosomarcelo
+conversation = 152484640
+URL = https://twitter.com/generosomarcelo/status/1079367741658853376
+
+word count = 35
+words loading = 2
+factor score = -2
+
+Eu tenho esperanças em dias melhores sim mas, não crio muitas expectativas. 
+Vejo muita gente colocando o Bolsonaro como **salvador** da **pátria** , 
+endeusando e idolatrando, Calma que o santo é de barro. Tem gente. . . 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

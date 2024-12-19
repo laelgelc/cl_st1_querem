@@ -1,0 +1,23 @@
+file = t017416
+date = 2022-08-30
+user = AbsintheSpirit
+conversation = 2743521
+URL = https://twitter.com/AbsintheSpirit/status/1564703896056078338
+
+word count = 44
+words loading = 5
+factor score = 3
+
+@CaioBellandi @DanielBeck_91 Ao ser questionado sobre as **compras** , 
+Bolsonaro não soube nem precisar o **número** de **imóveis** **comprados** 
+pela família. Fácil assim! É só ser eleito deputado que perde a conta do 
+**patrimônio** - imagine agora depois da presidência - Não dá mesmo pra 
+contar direito 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+comprar
+imóvel
+número (secondary)
+patrimônio (secondary)

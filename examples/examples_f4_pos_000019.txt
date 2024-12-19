@@ -1,0 +1,21 @@
+file = t010506
+date = 2021-03-29
+user = amandafaudi
+conversation = 971415379103842304
+URL = https://twitter.com/amandafaudi/status/1376612853101297667
+
+word count = 44
+words loading = 4
+factor score = 4
+
+Ministro da **Defesa** pedindo **demissão** a poucos dias das " comemorações 
+" do **golpe** de 64 , em meio a um baita clima de motim **militar** , e 
+falando que em seu exercício " preservou as Forças Armadas como instituição 
+de Estado " . É isso mesmo que tá acontecendo. 
+
+Lemmas in this text that loaded on the factor:
+
+defesa
+demissão
+golpe
+militar

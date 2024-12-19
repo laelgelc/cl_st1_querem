@@ -1,0 +1,22 @@
+file = t015405
+date = 2022-04-29
+user = rosikasanostra
+conversation = 343675805
+URL = https://twitter.com/rosikasanostra/status/1520103977517527041
+
+word count = 37
+words loading = 4
+factor score = 3
+
+@FernandoSorgi Além disso, fico feliz ao ver " Professor de **Economia** da 
+UENP. **Conservador** . De **direita** e **liberal** . Fechado com BOLSONARO. 
+Deus e Família em 1o lugar. Cristão. Amor na construção da vida plena. Pelo 
+Brasil! clapping_hands_e clapping_hands_e clapping_hands_e flag_brazil_e 
+HASHTAG #bolsonaroreeleitonoprimeiroturno_h 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+economia (secondary)
+liberal

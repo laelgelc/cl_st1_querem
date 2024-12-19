@@ -1,0 +1,20 @@
+file = t017242
+date = 2022-08-30
+user = leasilviasp
+conversation = 2885049471
+URL = https://twitter.com/leasilviasp/status/1564604755091013633
+
+word count = 46
+words loading = 3
+factor score = 3
+
+@randolfeap Você é patético, uma família inteira **compra** **imóveis** ao 
+longo de 32 anos, e você afirma que foi o presidente que pagou tudo com 
+dinheiro publico roubado, mas o Bolsonaro só é presidente há 3 anos e 8 
+**meses** , como você explica essa matemática? 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+imóvel
+mês

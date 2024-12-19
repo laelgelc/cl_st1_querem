@@ -1,0 +1,20 @@
+file = t010941
+date = 2021-04-29
+user = crismonteirosp
+conversation = 25841252
+URL = https://twitter.com/crismonteirosp/status/1387916276920721409
+
+word count = 39
+words loading = 3
+factor score = 3
+
+Vejo muito esperançosa o fim da trágica era Trump que foi fiel representante 
+de uma extrema-direita raivosa, negacionista e hiper **conservadora** e que tem 
+aqui no Brasil o Presidente Bolsonaro como um clone tropical e mal feito do 
+ex-presidente **americano** . 
+
+Lemmas in this text that loaded on the factor:
+
+americano
+conservador
+direita

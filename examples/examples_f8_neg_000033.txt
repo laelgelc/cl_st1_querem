@@ -1,0 +1,19 @@
+file = t008424
+date = 2020-09-29
+user = lucasapaulino
+conversation = 64514398
+URL = https://twitter.com/lucasapaulino/status/1311015394132590594
+
+word count = 50
+words loading = 2
+factor score = -2
+
+Isso aqui só pode ser piada de mau gosto. Jorge Oliveira obteve a carteira da 
+OAB em 2013 . A minha - para vocês terem uma ideia - é de 2012 . Além disso, 
+só tem uma especialização em Direito Público e **ocupou** **cargos** 
+comissionados para a família Bolsonaro. . . e o que mais? 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+ocupar

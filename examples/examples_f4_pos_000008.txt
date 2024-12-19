@@ -1,0 +1,22 @@
+file = t010554
+date = 2021-03-30
+user = o_antagonista
+conversation = 2880932962
+URL = https://twitter.com/o_antagonista/status/1376952974983979010
+
+word count = 40
+words loading = 5
+factor score = 5
+
+O inédito **pedido** de **demissão** conjunta do **comandantes** do 
+Exército, Marinha e Aeronáutica, inconformados com a **saída** do 
+ex-ministro da **Defesa** Fernando Azevedo e Silva por causa da clara 
+intenção de Bolsonaro de politizar as Forças Armadas, é fato gravíssimo. 
+
+Lemmas in this text that loaded on the factor:
+
+comandante
+defesa
+demissão
+pedido
+saída

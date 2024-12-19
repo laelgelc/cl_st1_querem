@@ -1,0 +1,21 @@
+file = t020129
+date = 2023-03-30
+user = nubia222222222
+conversation = 1445172116572286979
+URL = https://twitter.com/nubia222222222/status/1641583178241691650
+
+word count = 22
+words loading = 5
+factor score = 5
+
+RT @Prof_leonelfer: A presença de Bolsonaro no Brasil dá a todos nós uma 
+GRANDE esperança! DEUS **abençoe** a TODOS nós **AMÉM** **folded_hands_e** 
+**red_heart_e** **raising_hands_e** ? https://t. … 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+amém
+folded_hands_e
+raising_hands_e
+red_heart_e

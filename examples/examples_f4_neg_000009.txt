@@ -1,0 +1,20 @@
+file = t000481
+date = 2018-04-28
+user = nathalia_qga
+conversation = 141045868
+URL = https://twitter.com/nathalia_qga/status/990078937710678016
+
+word count = 45
+words loading = 3
+factor score = -3
+
+Bolsonaro vai colocar ordem no Brasil! Vai como? **Matando** e torturando. Os 
+primeiros serão os favelados, depois os gays, negros, índios. As mulheres 
+serão colocadas num papel " ainda mais " de submissão. Cdadãos de bem 
+enrolados na bandeira nacional falando sobre seu **deus** " de **amor** " 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+deus
+matar

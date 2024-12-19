@@ -1,0 +1,23 @@
+file = t019178
+date = 2022-12-30
+user = malugambogi
+conversation = 1195422614413565953
+URL = https://twitter.com/malugambogi/status/1608074600583241729
+
+word count = 51
+words loading = 5
+factor score = 3
+
+@BolsoringaVemAi @viclucchesi Você viu que ele nomeou vários **militares** em 
+**cargos** públicos nos **últimos** **meses** ? Viu que ele nem havia se 
+mudado do Alvorada? Viu que estava em constantes reuniões? Bolsonaro 
+**tentou** até o **último** segundo, mas o exército, que é pago para 
+defender a pátria, foi covarde e desonesto. 
+
+Lemmas in this text that loaded on the factor:
+
+cargo (secondary)
+militar (secondary)
+mês
+tentar
+último

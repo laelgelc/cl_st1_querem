@@ -1,0 +1,20 @@
+file = t011353
+date = 2021-05-30
+user = neuzaortiz
+conversation = 171315754
+URL = https://twitter.com/neuzaortiz/status/1399125233454432259
+
+word count = 44
+words loading = 3
+factor score = -3
+
+Inúmeros colegas que se dizem **apoiadores** de Moro, que desejam que seja 
+eleito Presidente da República em 2022 , **postam** somente matérias sobre 
+Lula, o ladrão, que perdeu um **dedo** de tanta roubalheira, e Bolsonaro, o 
+psicopata, genocida. Precisamos lotar as redes sociais com @SF_Moro 
+
+Lemmas in this text that loaded on the factor:
+
+apoiador
+dedo
+postar

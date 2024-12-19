@@ -1,0 +1,21 @@
+file = t017306
+date = 2022-08-30
+user = julianopsol
+conversation = 937683426882326529
+URL = https://twitter.com/julianopsol/status/1564598014496440321
+
+word count = 41
+words loading = 3
+factor score = 2
+
+**Bomba** ! **Reportagem** mostra que Bolsonaro e sua família compraram 51 
+**imóveis** em dinheiro vivo! Essa prática é comum na lavagem de dinheiro 
+vindo de atividades criminosas. Você conhece alguém que compra casas em 
+dinheiro? Pois agora conhece várias. HASHTAG #bolsonaronacadeia_h HASHTAG 
+#forabolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+imóvel (secondary)
+reportagem

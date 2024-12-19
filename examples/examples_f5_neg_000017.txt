@@ -1,0 +1,17 @@
+file = t001067
+date = 2018-07-30
+user = domlancellotti
+conversation = 41396580
+URL = https://twitter.com/domlancellotti/status/1024061500724531201
+
+word count = 10
+words loading = 2
+factor score = -2
+
+HASHTAG #bolsonaronorodaviva_h Jair Bolsonaro NÃO é o **salvador** da 
+**pátria** . 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

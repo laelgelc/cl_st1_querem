@@ -1,0 +1,20 @@
+file = t013990
+date = 2022-01-30
+user = novasenhora
+conversation = 631836500
+URL = https://twitter.com/novasenhora/status/1487916268145496072
+
+word count = 40
+words loading = 3
+factor score = -3
+
+E a menina que **tava** comigo ontem no show do Skank **puxando** o " Ei 
+Bolsonaro vai tomar no c* " FOI PERFEITO. Melhor foi só o bolsominion 
+**gritando** lula ladrão e a gente respondendo q ele roubou nosso coração 
+kkkk 
+
+Lemmas in this text that loaded on the factor:
+
+gritar
+puxar
+tava

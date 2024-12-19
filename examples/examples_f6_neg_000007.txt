@@ -1,0 +1,18 @@
+file = t003878
+date = 2019-05-30
+user = blasphmmy
+conversation = 4188973791
+URL = https://twitter.com/blasphmmy/status/1134210467243724806
+
+word count = 29
+words loading = 3
+factor score = -3
+
+e o povo de fortaleza com a **bandeira** comunista gigante e **gritando** ei 
+bolsonaro vai tomar no **cu** no meio do VT da globo eu amo o nordeste 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+cu
+gritar

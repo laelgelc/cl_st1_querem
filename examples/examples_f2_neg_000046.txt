@@ -1,0 +1,16 @@
+file = t000182
+date = 2018-03-29
+user = esthertebaldi
+conversation = 902742133
+URL = https://twitter.com/esthertebaldi/status/979402755541557248
+
+word count = 21
+words loading = 1
+factor score = -1
+
+**acho** q o bolsonaro é uma opção diferenciada eu quero morrer deus me dê 
+paciência eu vou morrer nessa cidade 
+
+Lemmas in this text that loaded on the factor:
+
+achar

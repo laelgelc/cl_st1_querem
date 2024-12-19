@@ -1,0 +1,18 @@
+file = t000078
+date = 2018-03-30
+user = neivacr
+conversation = 83058733
+URL = https://twitter.com/neivacr/status/979485777523601408
+
+word count = 32
+words loading = 1
+factor score = -1
+
+@hoffen_jeff @BolsonaroSP @alefrotabrasil @Francischini_ @FFrancischini_ 
+@jairbolsonaro @OdeCarvalho Amém! Oro por isso sempre, p que Deus abençoe a 
+família HASHTAG #bolsonaro_h e os proteja, e que Ele esteja à **frente** 
+dessa jornada e abençoe o Brasil! 
+
+Lemmas in this text that loaded on the factor:
+
+frente

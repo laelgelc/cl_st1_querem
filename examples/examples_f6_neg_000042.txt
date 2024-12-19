@@ -1,0 +1,17 @@
+file = t002857
+date = 2019-01-30
+user = diloks_guitar
+conversation = 1057104886205202432
+URL = https://twitter.com/diloks_guitar/status/1090701624559968257
+
+word count = 17
+words loading = 2
+factor score = -2
+
+@alvaro022_ @FernandasalesL3 @felipeneto Direita toda lambe **saco** da 
+família Bolsonaro, maioria que vi **tava** defendendo o Flávio 
+
+Lemmas in this text that loaded on the factor:
+
+saco
+tava

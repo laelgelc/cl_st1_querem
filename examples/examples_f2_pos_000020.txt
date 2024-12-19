@@ -1,0 +1,23 @@
+file = t006283
+date = 2020-03-30
+user = samiabomfim
+conversation = 27703690
+URL = https://twitter.com/samiabomfim/status/1244735346140741632
+
+word count = 47
+words loading = 5
+factor score = 5
+
+O Senado acaba de **aprovar** a **renda** **mínima** **emergencial** de até 
+1200 reais por família. É o mínimo do mínimo. A sanção e o pagamento do 
+**benefício** precisam ser imediatos. O governo também tem que informar 
+amplamente e orientar a população. O Brasil tem pressa. HASHTAG 
+#pagalogobolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+benefício
+emergencial
+pequeno
+renda

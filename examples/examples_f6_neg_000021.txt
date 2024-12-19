@@ -1,0 +1,17 @@
+file = t000245
+date = 2018-04-29
+user = 0bserv0Discret0
+conversation = 869355296812085248
+URL = https://twitter.com/0bserv0Discret0/status/990667040687054848
+
+word count = 13
+words loading = 2
+factor score = -2
+
+RT @carlatoscan: Recado para os " Cristãos " **apoiadores** de Bolsonaro. 
+Principalmente os **católicos** . 
+
+Lemmas in this text that loaded on the factor:
+
+apoiador
+católico

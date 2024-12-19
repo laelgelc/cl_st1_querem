@@ -1,0 +1,22 @@
+file = t001596
+date = 2018-09-28
+user = prjbcarvalho
+conversation = 96177631
+URL = https://twitter.com/prjbcarvalho/status/1045651626579693569
+
+word count = 47
+words loading = 4
+factor score = -3
+
+PT assina manifesto em **apoio** à **ditadura** venezuelana PT diz que 
+**tomará** o poder PT diz que derramará sangue PDT faz acerto com o Partido 
+Comunista Chinês PSOL invade propriedades privadas Ex- filiado do PSOL 
+esfaqueia um candidato à presidência Mas o perigo à **democracia** é 
+Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+democracia (secondary)
+ditadura
+tomar

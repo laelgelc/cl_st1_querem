@@ -1,0 +1,21 @@
+file = t002219
+date = 2018-12-30
+user = elianaosonho
+conversation = 211991111
+URL = https://twitter.com/elianaosonho/status/1079527325530767360
+
+word count = 24
+words loading = 5
+factor score = 4
+
+RT @LeiaRachor: Quero que essa " **Direita** **liberal** na **economia** e 
+**conservadora** nos **costumes** " FIQUE NO PODER NOS PRÓXIMOS 60 ANOS ou que 
+os Bras … 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+direita
+economia (secondary)
+liberal

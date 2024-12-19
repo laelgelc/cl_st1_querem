@@ -1,0 +1,19 @@
+file = t000239
+date = 2018-04-29
+user = AnaXavier98
+conversation = 1281766129
+URL = https://twitter.com/AnaXavier98/status/990616068916989952
+
+word count = 48
+words loading = 1
+factor score = -1
+
+@CarlosBolsonaro Bolsonaro quando abre a boca humilha até sua família vc 
+**acha** que povo brasileiro irá deixar Bolsonaro humilhar a família 
+Brasileira? " só não te estupro pq vc não merece " bandido bom, bandido 
+morto " um cara que humilhou a raça negra que negro internacional vai tolerar 
+isso? 
+
+Lemmas in this text that loaded on the factor:
+
+achar

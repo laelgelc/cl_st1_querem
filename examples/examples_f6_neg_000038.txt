@@ -1,0 +1,18 @@
+file = t001911
+date = 2018-10-30
+user = MarceloACoelho1
+conversation = 1151388890
+URL = https://twitter.com/MarceloACoelho1/status/1057415444104183808
+
+word count = 22
+words loading = 2
+factor score = -2
+
+RT @MarceloACoelho1 : Mais armas? Vamos acabar com coitadismo de nordestino, de 
+**gay** , de **negro** e de mulher, diz Bolsonaro. HASHTAG #elenão_h HASHTAG 
+#haddadsim_h … 
+
+Lemmas in this text that loaded on the factor:
+
+gay
+negro

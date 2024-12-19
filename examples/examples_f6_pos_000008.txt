@@ -1,0 +1,22 @@
+file = t016927
+date = 2022-08-30
+user = AArgolo2
+conversation = 1349109785547988993
+URL = https://twitter.com/AArgolo2/status/1564583665610510336
+
+word count = 49
+words loading = 4
+factor score = 4
+
+@hirenkoi @FAngelico Mas existe uma **grande** diferença no exemplo da 
+Família Bolsonaro e usar isso para dizer que **comprar** **imóveis** em 
+espécie é indício de lavagem de dinheiro. A afirmação é absurdamente 
+falsa. A mera **compra** de um **imóvel** em espécie não configura indício 
+de lavagem de dinheiro. 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+comprar
+grande
+imóvel

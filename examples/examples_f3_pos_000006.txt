@@ -1,0 +1,19 @@
+file = t005670
+date = 2019-12-30
+user = Gzgozzi
+conversation = 906942200
+URL = https://twitter.com/Gzgozzi/status/1211739123972636672
+
+word count = 24
+words loading = 3
+factor score = 3
+
+A MAMATA APENAS COMEÇOU! Bolsonaro pratica corrupção via **cartão** 
+corporativo da presidência da República. Quase15 milhões de reais **gastos** 
+em 2019 . **ESCÂNDALO** ! LADRÃO! 
+
+Lemmas in this text that loaded on the factor:
+
+cartão
+escândalo
+gasto

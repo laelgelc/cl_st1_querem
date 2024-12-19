@@ -1,0 +1,18 @@
+file = t004158
+date = 2019-06-29
+user = leonorarls
+conversation = 55565358
+URL = https://twitter.com/leonorarls/status/1145060579310284800
+
+word count = 21
+words loading = 2
+factor score = 2
+
+RT @VillaMarcovilla: Bolsonaro denunciou mais uma armação no **avião** 
+**presidencial** . Além da cocaína teria sido encontrado um livro em seu nome 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+presidencial

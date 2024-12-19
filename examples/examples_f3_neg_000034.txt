@@ -1,0 +1,23 @@
+file = t001939
+date = 2018-10-30
+user = mariomagalhaes_
+conversation = 631293447
+URL = https://twitter.com/mariomagalhaes_/status/1057285598665424897
+
+word count = 47
+words loading = 5
+factor score = -3
+
+O ataque de Bolsonaro à @folha é típico de **inimigos** da **liberdade** de 
+imprensa e da **democracia** . Precisa ser repudiado. Isso não me impede de 
+lamentar que o jornal proíba, em texto noticioso, o termo " extrema 
+**direita** " para designar o campo político do **deputado** ( escrevem " 
+**direita** " ) . 
+
+Lemmas in this text that loaded on the factor:
+
+democracia (secondary)
+deputado
+direita (secondary)
+inimigo
+liberdade

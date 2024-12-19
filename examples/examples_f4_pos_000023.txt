@@ -1,0 +1,23 @@
+file = t010360
+date = 2021-03-30
+user = bolivarescobar
+conversation = 38154205
+URL = https://twitter.com/bolivarescobar/status/1377012606167318533
+
+word count = 45
+words loading = 6
+factor score = 4
+
+Não caiu a ficha ainda que o Bolsonaro pediu **golpe** , os **comandantes** 
+das forças **armadas** foram **demitidos** por não acatarem e esse FILHO DA 
+PUTA continua na presidência Pode tirar o **impeachment** da 
+**constituição** , se não rolou ainda então não serve pra nada mesmo 
+
+Lemmas in this text that loaded on the factor:
+
+armado
+comandante
+constituição
+demitir
+golpe
+impeachment (secondary)

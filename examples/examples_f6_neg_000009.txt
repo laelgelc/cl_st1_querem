@@ -1,0 +1,20 @@
+file = t005639
+date = 2019-12-30
+user = de_ouvir
+conversation = 1100581470144475136
+URL = https://twitter.com/de_ouvir/status/1211500824725262337
+
+word count = 32
+words loading = 3
+factor score = -3
+
+@77drodriguez77 @NihilistRT @l_lb25 @gustavofoia @opropriolavo Collor se vendeu 
+igualzinho ao Bolsonaro, falso moralista, conservador e cristão. E já na 
+época falava q a **bandeira** jamais será **vermelha** . . . Tudo farinha do 
+mesmo **saco** ! 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+saco
+vermelho

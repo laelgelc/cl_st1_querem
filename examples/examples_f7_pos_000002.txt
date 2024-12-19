@@ -1,0 +1,24 @@
+file = t003642
+date = 2019-04-29
+user = freelario
+conversation = 144914084
+URL = https://twitter.com/freelario/status/1122880649357135873
+
+word count = 40
+words loading = 6
+factor score = 5
+
+@SoniaJoventino @luciano_hang quem sabe, a HASHTAG #fakenews_h foi fato imoral 
+nas últimas eleições; aturamos um desgoverno que vive da divulgação de 
+mentiras; investimento de alguns empresários. É o tal neoliberalismo: 
+**conservador** nos **costumes** , **extrema** **direita** nas urnas e " 
+**liberal** " na **economia** 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+direita
+economia (secondary)
+extremo
+liberal

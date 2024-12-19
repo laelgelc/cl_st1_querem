@@ -1,0 +1,20 @@
+file = t000000
+date = 2018-03-28
+user = pelegrini65
+conversation = 287765295
+URL = https://twitter.com/pelegrini65/status/979018234736373760
+
+word count = 47
+words loading = 3
+factor score = -3
+
+Após caluniar, ameaçar, incitar as **pessoas** contra Lula, Dilma, PT e STF, 
+Bolsonaro e Eduardo Bolsonaro terminam com ' Brasil acima de tudo, Deus acima 
+de todos ' . Que cristão é esse que **usa** o nome de Deus pra incitar 
+atentados, ódio e violência contra seus oponentes **políticos** ? ? 
+
+Lemmas in this text that loaded on the factor:
+
+pessoa
+político
+usar

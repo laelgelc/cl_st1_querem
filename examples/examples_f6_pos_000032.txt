@@ -1,0 +1,22 @@
+file = t017220
+date = 2022-08-30
+user = ivolopes13
+conversation = 245994676
+URL = https://twitter.com/ivolopes13/status/1564712191860903938
+
+word count = 50
+words loading = 5
+factor score = 3
+
+51 **imóveis** **comprados** com dinheiro **vivo** . É o **programa** Casa 
+verde e amarela para a família Bolsonaro. Será que vai ter destaque na 
+**imprensa** como foi com o triplex e o sítio de Atibaia que não eram de 
+Lula? Acho que só se tiver pedalinhos e um barco de 3 mil. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+imprensa
+imóvel
+programa (secondary)
+vivo (secondary)

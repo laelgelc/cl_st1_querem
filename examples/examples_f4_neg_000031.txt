@@ -1,0 +1,20 @@
+file = t008241
+date = 2020-08-30
+user = pontesibiapina
+conversation = 70049932
+URL = https://twitter.com/pontesibiapina/status/1300031230080167936
+
+word count = 46
+words loading = 3
+factor score = -3
+
+@Rconstantino Incompetência também é coisa ruim e **mata** . Um **ladrão** 
+competente só te **rouba** . E um **ladrão** incompetente, ele tanto te 
+**rouba** como te **mata** . Com os indícios contar os BOLSONARO, ele pode vir 
+a ser este **ladrão** incompetente. Que vai ser bem pior mesmo. 
+
+Lemmas in this text that loaded on the factor:
+
+ladrão
+matar
+roubar

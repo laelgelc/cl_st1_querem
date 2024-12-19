@@ -1,0 +1,19 @@
+file = t017435
+date = 2022-08-30
+user = BordinDeia
+conversation = 1516768097977384960
+URL = https://twitter.com/BordinDeia/status/1564632131464302593
+
+word count = 26
+words loading = 3
+factor score = 3
+
+@partidonovo30 @fdavilaoficial O Bolsonaro **compra** ele e a família da mão 
+**grande** mais de cem **imóveis** . A metade em dinheiro money_with_wings_e 
+money_bag_e Corruptos Mentiroso Bolsonaro na cadeia 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+grande
+imóvel

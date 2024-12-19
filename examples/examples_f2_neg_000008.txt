@@ -1,0 +1,18 @@
+file = t004622
+date = 2019-08-30
+user = ClovisGato30150
+conversation = 890595766372315137
+URL = https://twitter.com/ClovisGato30150/status/1167447870871625728
+
+word count = 27
+words loading = 2
+factor score = -2
+
+@LuisCValois Mas o Ministério Público não quer **achar** , pois vai prender 
+o **amigo** pessoal da família Bolsonaro. Ai vai ter que contar qual era o 
+esquema. . . 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+amigo

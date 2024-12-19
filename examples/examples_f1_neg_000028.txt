@@ -1,0 +1,19 @@
+file = t000318
+date = 2018-04-29
+user = dantasfatureto
+conversation = 52152588
+URL = https://twitter.com/dantasfatureto/status/990540540721729536
+
+word count = 27
+words loading = 3
+factor score = -2
+
+@joicehasselmann Como parlamentar. Quais são os **projetos** relevantes 
+aprovados pela família Bolsonaro? ? ? ? Relevantes. Chega de **político** de 
+profissão. 02 mandados públicos no máximo por **pessoa** já . 
+
+Lemmas in this text that loaded on the factor:
+
+pessoa
+político
+projeto (secondary)

@@ -1,0 +1,20 @@
+file = t010032
+date = 2021-02-21
+user = gerdwenzel
+conversation = 43442574
+URL = https://twitter.com/gerdwenzel/status/1363551623080005633
+
+word count = 38
+words loading = 3
+factor score = 3
+
+Raízes: " Vínculo entre igrejas evangélicas e atuação política 
+**conservadora** vem desde o século 19 , por **americanos** brancos e racistas 
+que perderam a **Guerra** da Secessão, migraram ao Brasil em missão 
+evangelizadora e se aproximaram das elites locais " . 
+
+Lemmas in this text that loaded on the factor:
+
+americano
+conservador
+guerra

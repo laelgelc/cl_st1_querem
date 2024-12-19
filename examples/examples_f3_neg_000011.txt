@@ -1,0 +1,21 @@
+file = t014141
+date = 2022-01-30
+user = ContaratoSenado
+conversation = 1050121324436307970
+URL = https://twitter.com/ContaratoSenado/status/1487843968075407361
+
+word count = 36
+words loading = 4
+factor score = -4
+
+Os **direitos** humanos que defendemos são essência da Revolução Francesa: 
+**liberdade** , igualdade e fraternidade. E isso abrange meio ambiente, 
+**liberdade** , o devido processo legal, **direito** ao trabalho, à **saúde** 
+, à **educação** , redução da carga tributária. 
+
+Lemmas in this text that loaded on the factor:
+
+direito
+educação
+liberdade
+saúde

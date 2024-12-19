@@ -1,0 +1,24 @@
+file = t013924
+date = 2022-01-30
+user = DVensao
+conversation = 1189512707134971906
+URL = https://twitter.com/DVensao/status/1487722759551606785
+
+word count = 23
+words loading = 5
+factor score = 5
+
+@jairbolsonaro @govbr @exercitooficial @MinCidadania @DefesaGovBr Deus Pai Todo 
+Poderoso Criador do Universo **abençoe** , **ilumine** e **proteja** sempre 
+grandemente nosso querido Presidente Bolsonaro. **green_heart_e** 
+**yellow_heart_e** blue_heart_e **green_heart_e** **yellow_heart_e** 
+blue_heart_e **green_heart_e** **yellow_heart_e** blue_heart_e 
+**green_heart_e** 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+green_heart_e
+iluminar
+proteger
+yellow_heart_e

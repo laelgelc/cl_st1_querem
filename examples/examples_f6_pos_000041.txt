@@ -1,0 +1,22 @@
+file = t017017
+date = 2022-08-30
+user = rennatodutra
+conversation = 1251318936945274881
+URL = https://twitter.com/rennatodutra/status/1564733966975963137
+
+word count = 47
+words loading = 5
+factor score = 3
+
+Lula ficou preso por 580 dias com a acusação de ter visitado um apt que ele 
+nunca **comprou** . A família Bolsonaro **comprou** 51 **imóveis** com 
+dinheiro " **vivíssimo** " gastando mais de R$25 **milhões** nos **últimos** 
+10 anos. É fácil entender, o problema está em como resolver! ? 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+imóvel
+milhão (secondary)
+vivo (secondary)
+último

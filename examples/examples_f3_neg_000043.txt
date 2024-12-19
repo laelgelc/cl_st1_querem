@@ -1,0 +1,22 @@
+file = t003796
+date = 2019-05-30
+user = PH2017sp
+conversation = 901987627330654208
+URL = https://twitter.com/PH2017sp/status/1134200798639001617
+
+word count = 39
+words loading = 5
+factor score = -3
+
+@jdoriajr Em 2002 , Bolsonaro votou em Lula no **segundo** turno. No 
+**primeiro** , **escolheu** Ciro Gomes. Santo Deus! Não tem o **menor** 
+cabimento. Que **direita** é essa que você criou, capitão? Só pode ser a 
+**direita** pra enganar trouxa! 
+
+Lemmas in this text that loaded on the factor:
+
+direita (secondary)
+escolher
+pequeno (secondary)
+primeiro
+segundo

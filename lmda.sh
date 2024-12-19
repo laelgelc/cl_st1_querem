@@ -442,10 +442,10 @@ inputvariables
 #treetagging
 #tokenstypes
 #toplemmas
-sas
-datamatrix
-correlationmatrix
-formats
+#sas
+#datamatrix
+#correlationmatrix
+#formats
 
 #classify
 

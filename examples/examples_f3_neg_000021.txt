@@ -1,0 +1,20 @@
+file = t000378
+date = 2018-04-28
+user = mellocomdoisele
+conversation = 115546745
+URL = https://twitter.com/mellocomdoisele/status/990335304249806848
+
+word count = 40
+words loading = 3
+factor score = -3
+
+Enquanto isso, figuras deploráveis como o presidenciável Bolsonaro e o 
+**deputado** Wladimir Costa ( da tatuagem do Temer ) encenam a violência: o 
+**primeiro** posa para foto apontando uma arma para boneco do Lula; o 
+**segundo** soca um professor em público. 
+
+Lemmas in this text that loaded on the factor:
+
+deputado
+primeiro
+segundo

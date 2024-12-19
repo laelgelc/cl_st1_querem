@@ -1,0 +1,24 @@
+file = t017266
+date = 2022-08-30
+user = Snia62579054
+conversation = 1093339292578050048
+URL = https://twitter.com/Snia62579054/status/1564637799214682117
+
+word count = 50
+words loading = 6
+factor score = 4
+
+@AndreJanonesAdv @vanielvertmundi @CarlosBolsonaro @STF_oficial Em um intervalo 
+de 12 horas, dois **grandes** **escândalos** **envolvendo** a família 
+Bolsonaro. A **compra** de pelo menos 51 **imóveis** em dinheiro **vivo** e a 
+afirmação da Polícia Federal de que a ABIN interviu para atrapalhar 
+investigações contra o filho do presidente, Jair Renan. N. Bonavides 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+envolver
+escândalo (secondary)
+grande
+imóvel
+vivo (secondary)

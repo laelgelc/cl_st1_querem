@@ -1,0 +1,19 @@
+file = t003761
+date = 2019-04-29
+user = Henr1queFragoso
+conversation = 372357564
+URL = https://twitter.com/Henr1queFragoso/status/1122927987572248576
+
+word count = 49
+words loading = 2
+factor score = -2
+
+Lula acerta qdo aponta a diferença que haveria se fossem ele e sua família 
+que tivessem a proximidade que os Bolsonaro têm com **milicianos** Imaginem a 
+verborragia do @deltanmd se fosse com Lula que o **chefe** do " escritório do 
+crime " tivesse os vínculos que tem com Flávio Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+miliciano

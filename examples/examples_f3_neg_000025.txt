@@ -1,0 +1,20 @@
+file = t001412
+date = 2018-08-30
+user = phenosbr
+conversation = 1881418465
+URL = https://twitter.com/phenosbr/status/1035254551383891969
+
+word count = 27
+words loading = 3
+factor score = -3
+
+@batimentoshawn É só não comprar, mas querer **tirar** meu **direito** de 
+**escolher** se quero uma arma ou não isso você não pode. HASHTAG 
+#vemprogab_h HASHTAG #bolsonaro_h HASHTAG #movimentoopressãototal_h HASHTAG 
+#mulherinteligentevotabolsonaro17_h 
+
+Lemmas in this text that loaded on the factor:
+
+direito
+escolher
+tirar

@@ -1,0 +1,18 @@
+file = t020199
+date = 2023-03-28
+user = reinaldoazevedo
+conversation = 18286139
+URL = https://twitter.com/reinaldoazevedo/status/1640806384051666950
+
+word count = 33
+words loading = 2
+factor score = 2
+
+Espetacular entrevista de Ciro Nogueira ao UOL. Diz q **escândalo** das 
+**joias** ñ cola em Bolsonaro pq este não tem cara de ladrão. Para a 
+extrema-direita brasileira, quem tem " cara de ladrão? " Asqueroso. 
+
+Lemmas in this text that loaded on the factor:
+
+escândalo
+joia

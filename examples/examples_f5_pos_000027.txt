@@ -1,0 +1,22 @@
+file = t002209
+date = 2018-12-29
+user = senadorhumberto
+conversation = 76049312
+URL = https://twitter.com/senadorhumberto/status/1079033005132390400
+
+word count = 43
+words loading = 5
+factor score = 5
+
+NO LUGAR DE EMPREGOS, **ARMAS** Entre tantas mudanças que o país precisa 
+fazer, o futuro presidente quer **armar** a **população** . . . Bolsonaro, a 
+**arma** do trabalhador deve ser o emprego, decretar a **posse** de **armas** 
+NÃO vai diminuir a violência. **Tiro** no pé . 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+armar
+população
+posse
+tiro

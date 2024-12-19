@@ -1,0 +1,21 @@
+file = t008321
+date = 2020-09-29
+user = Junior56762186
+conversation = 1274203581802045441
+URL = https://twitter.com/Junior56762186/status/1311090695038472194
+
+word count = 49
+words loading = 4
+factor score = -4
+
+Vergonha pro nosso país esse Marcos Perreira também tá do lado do presidente 
+Jair Bolsonaro que **merda** de **pais** e esse com esse governo pelo **amor** 
+de **Deus** não vamos aceitar não tô cansado de ver o povo aqui passando 
+fome sem poder ajudar pelo **amor** de **Deus** 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+deus
+merda
+pai

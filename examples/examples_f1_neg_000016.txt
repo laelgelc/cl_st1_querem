@@ -1,0 +1,22 @@
+file = t013469
+date = 2021-11-29
+user = JeanCdeCarvalho
+conversation = 316090454
+URL = https://twitter.com/JeanCdeCarvalho/status/1465428450840387589
+
+word count = 41
+words loading = 5
+factor score = -3
+
+@marcelvanhattem, @gilson__marques e @novonacamara, a **mulher** presa por 
+insinuar que Bolsonaro teria rolado no tatame com o instrutor de judô de AMAN, 
+**chamando** o Pr. de noivinha do Aristides, cometeu " **crime** de opinião " 
+ou exerceu o **direito** a liberdade de **expressão** ? 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+crime
+direito (secondary)
+expressão (secondary)
+mulher

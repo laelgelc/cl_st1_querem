@@ -1,0 +1,21 @@
+file = t014069
+date = 2022-01-29
+user = Helenasth
+conversation = 75105340
+URL = https://twitter.com/Helenasth/status/1487543284130099210
+
+word count = 42
+words loading = 4
+factor score = 4
+
+O bandido dono do arsenal tinha 43 certificados de **registro** de **armas** de 
+**fogo** fornecidos pelo Exército brasileiro, todos com a abundante 
+permissividade introduzida pelo -se do ciclo completo que prova para que servem 
+os **decretos** de **armas** e munições de Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+decreto
+fogo
+registro

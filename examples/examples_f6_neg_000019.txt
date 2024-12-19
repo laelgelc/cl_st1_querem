@@ -1,0 +1,20 @@
+file = t000134
+date = 2018-03-29
+user = Williamtjcombr
+conversation = 142161576
+URL = https://twitter.com/Williamtjcombr/status/979479376516599808
+
+word count = 42
+words loading = 3
+factor score = -2
+
+olha o **merda** comunista do Noblat q **postou** uma **foto** do Bolsonaro 
+como um nazista mas ele mesmo era chegado do maldito ditador Fidel q agora jaz 
+nas profundezas do inferno! espero q se encontrem em breve pra matar a saudade! 
+! 
+
+Lemmas in this text that loaded on the factor:
+
+foto
+merda (secondary)
+postar

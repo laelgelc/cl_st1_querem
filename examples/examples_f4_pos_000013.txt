@@ -1,0 +1,21 @@
+file = t012267
+date = 2021-08-29
+user = pauloteixeira13
+conversation = 25562342
+URL = https://twitter.com/pauloteixeira13/status/1432063088950394882
+
+word count = 29
+words loading = 5
+factor score = 4
+
+" **Intervenção** **armada** : crime inafiançável e imprescritível. " Belo 
+**artigo** do Ministro Ricardo Lewandowski, sobre os crimes que Bolsonaro e 
+seus asseclas podem **cometer** no dia 7 de **setembro** . FSP 
+
+Lemmas in this text that loaded on the factor:
+
+armado
+artigo
+cometer (secondary)
+intervenção
+setembro

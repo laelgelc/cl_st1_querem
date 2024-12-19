@@ -1,0 +1,19 @@
+file = t013465
+date = 2021-11-29
+user = adrianoss_
+conversation = 405857121
+URL = https://twitter.com/adrianoss_/status/1465322044132896769
+
+word count = 26
+words loading = 3
+factor score = -3
+
+Sai de cena o messias " mito Bolsonaro " para entrar o caçador de 
+**corruptos** " super marreco Moro " ! ! Todo dia um novo **salvador** da 
+**pátria** ! ! PQP Brasil! ! clown_face_e clown_face_e clown_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+corrupto
+pátria
+salvador

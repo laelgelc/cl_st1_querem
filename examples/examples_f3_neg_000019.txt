@@ -1,0 +1,21 @@
+file = t000169
+date = 2018-03-29
+user = Carlos_Kriok
+conversation = 755490719830192129
+URL = https://twitter.com/Carlos_Kriok/status/979297650825728000
+
+word count = 44
+words loading = 4
+factor score = -3
+
+@anamariabsb @delucca @Miltonneves Tá tudo errado nesse tweet dele. 
+**Primeiro** que chama os outros estados que receberam o Lula de burros e não 
+politizados e **segundo** se o pessoal fosse mesmo culto e politizado 
+entenderia que em uma **democracia** existe **liberdade** de expressão 
+
+Lemmas in this text that loaded on the factor:
+
+democracia (secondary)
+liberdade
+primeiro
+segundo

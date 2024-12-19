@@ -1,0 +1,19 @@
+file = t006630
+date = 2020-04-29
+user = marcelaa_vit
+conversation = 815404613977378816
+URL = https://twitter.com/marcelaa_vit/status/1255645006343307274
+
+word count = 41
+words loading = 3
+factor score = -3
+
+MANO alguém deve ter feito lavagem cerebral no meu **pai** n é possível uma 
+pessoa babar tanto ovo do bolsonaro desse jeito meu **deus** do **céu** vei, 
+chego chorar com as coisas q tenho q escutar e nem é meme 
+
+Lemmas in this text that loaded on the factor:
+
+céu
+deus
+pai

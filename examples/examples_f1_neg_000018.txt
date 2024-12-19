@@ -1,0 +1,20 @@
+file = t015071
+date = 2022-04-29
+user = Junio_Seranto
+conversation = 116297990
+URL = https://twitter.com/Junio_Seranto/status/1520083867549511680
+
+word count = 49
+words loading = 3
+factor score = -3
+
+@g1 As brechas criadas pelos **políticos** para não serem ou ficarem presos, 
+são as mesmas que os marginais comuns **usam** para ficarem livres e 
+continuarem cometendo **crimes** . Pensem nisso antes de dizer que o Lula é 
+vítima de um golpe e que a família Bolsonaro não é corrupta. 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+político
+usar

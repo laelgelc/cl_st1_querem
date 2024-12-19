@@ -1,0 +1,21 @@
+file = t016172
+date = 2022-06-29
+user = stadoanarquista
+conversation = 18972886
+URL = https://twitter.com/stadoanarquista/status/1542217282423775235
+
+word count = 48
+words loading = 3
+factor score = 3
+
+Olhe os **pastores** ladrões que, como ratos imundos, infestam o governo local 
+em busca de oportunidades de roubo e ganhos. Essa gente teme ao Deus que 
+compartilhamos, os **cristãos** , com os **judeus** e muçulmanos? Eles são 
+ateus e HASHTAG #bolsonaro_h não é **cristão** . Mas Biden acaso tem 
+religião? 
+
+Lemmas in this text that loaded on the factor:
+
+cristão
+judeu
+pastor

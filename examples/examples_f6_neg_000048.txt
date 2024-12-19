@@ -1,0 +1,17 @@
+file = t004164
+date = 2019-06-29
+user = Luis5Henrique
+conversation = 1516971492
+URL = https://twitter.com/Luis5Henrique/status/1145058245263929347
+
+word count = 19
+words loading = 2
+factor score = -2
+
+Bolsonaro, quem diria, na verdade é comunista. Daqueles de andar de mãos 
+dadas, com **bandeira** **vermelha** por detrás. 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+vermelho

@@ -1,0 +1,22 @@
+file = t017442
+date = 2022-08-30
+user = OficialAdeodato
+conversation = 847504136295677952
+URL = https://twitter.com/OficialAdeodato/status/1564717533688733697
+
+word count = 52
+words loading = 4
+factor score = 3
+
+@flferronato @LnnAlencarMRam1 Eu vi uma postagem de uma jornalista sobre a 
+**compra** desses **imóveis** com " clima de **escândalo** " , entrei no 
+perfil e vi que a menina se especializou em apurar a **vida** da família do 
+Bolsonaro. 04 anos e a jornalista falhou miseravelmente na tarefa de buscar 
+algum **escândalo** de verdade face_with_hand_over_mouth_e 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+escândalo (secondary)
+imóvel
+vida

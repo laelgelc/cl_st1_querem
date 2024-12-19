@@ -1,0 +1,18 @@
+file = t000809
+date = 2018-06-29
+user = jantoniocs29
+conversation = 3187358651
+URL = https://twitter.com/jantoniocs29/status/1012785187992817664
+
+word count = 25
+words loading = 2
+factor score = -2
+
+Ontem nó novo JC bolivariano, Ricardo sennes disse que Bolsonaro é 
+irresponsável **pôr** se lançar presid, **luladrão** e Dilma é que eram 
+bons né ? 
+
+Lemmas in this text that loaded on the factor:
+
+luladrão
+pôr

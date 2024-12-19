@@ -1,0 +1,20 @@
+file = t003930
+date = 2019-05-30
+user = FernandoHoliday
+conversation = 97081119
+URL = https://twitter.com/FernandoHoliday/status/1134204529447243785
+
+word count = 48
+words loading = 3
+factor score = -3
+
+Queimaram um boneco representando o Presidente, levaram faixas pedindo a 
+**liberdade** do chefe de quadrilha, conhecido como Lula, e no fim passaram o 
+vexame de ver as manifestações esvaziarem. Hoje não foi um dia de luta pela 
+**educação** . Foi mais um dia para a **esquerda** destilar ódio. 
+
+Lemmas in this text that loaded on the factor:
+
+educação
+esquerda
+liberdade

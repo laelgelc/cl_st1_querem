@@ -1,0 +1,20 @@
+file = t015262
+date = 2022-04-29
+user = reporterenato
+conversation = 59150875
+URL = https://twitter.com/reporterenato/status/1519835601914183680
+
+word count = 49
+words loading = 3
+factor score = -3
+
+Estamos juntando as **pessoas** de esquerda, as **pessoas** de bem deste país 
+para tirar da presidência um cidadão que nunca deveria ter chegado lá . Por 
+que ele mente todo santo dia. Ele mente **usando** o nome de Deus, diz Lula 
+sobre Bolsonaro, **chamando** o atual presidente da " fariseu " . 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+pessoa
+usar

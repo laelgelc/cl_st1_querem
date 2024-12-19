@@ -1,0 +1,19 @@
+file = t002558
+date = 2018-12-30
+user = MariadeFtimaCg2
+conversation = 1049255223582232577
+URL = https://twitter.com/MariadeFtimaCg2/status/1079477259868798976
+
+word count = 22
+words loading = 3
+factor score = -3
+
+RT @UbiratanAyres: Bolsonaro propôs a " PEC da **liberdade** " ( diminuirá os 
+investimentos públicos em **saúde** e **educação** e reduzirá o valor do 
+salá … 
+
+Lemmas in this text that loaded on the factor:
+
+educação
+liberdade
+saúde

@@ -1,0 +1,20 @@
+file = t015477
+date = 2022-04-29
+user = MulherAmazonica
+conversation = 1424923491506212865
+URL = https://twitter.com/MulherAmazonica/status/1520151951371026432
+
+word count = 32
+words loading = 3
+factor score = -3
+
+VEJA NO ' PORTAL MULHER AMAZÔNICA Lula diz em ato **político** da Rede que 
+Bolsonaro é ' fariseu ' e **usa** nome de Deus em vão NOS NAS REDES 
+**SOCIAIS** @portalmulheramazonica_am ( Instagram ) e @MulherAmazonica ( 
+Twitter ) 
+
+Lemmas in this text that loaded on the factor:
+
+político
+social
+usar

@@ -1,0 +1,22 @@
+file = t001270
+date = 2018-08-30
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1035279864046211072
+
+word count = 37
+words loading = 6
+factor score = 5
+
+Sobre " não é na **bala** que se **resolve** " : Flores não garantem a paz. 
+Que os " santos " que repetem este bordão deixem de **andar** com **carro** 
+**blindado** e seguranças **armados** que passo a acreditar em suas propostas. 
+
+Lemmas in this text that loaded on the factor:
+
+andar
+armar
+bala
+blindar (secondary)
+carro
+resolver

@@ -1,0 +1,20 @@
+file = t000916
+date = 2018-06-29
+user = oswaldtoshiro
+conversation = 610973663
+URL = https://twitter.com/oswaldtoshiro/status/1012650614692745216
+
+word count = 47
+words loading = 3
+factor score = -3
+
+- No Brasil não existe racismo, meu sogro é o Paulo Negão - Como os índios 
+conseguem tanta **terra** ? - Médico cubano é guerrilheiro fantasiado de 
+médico - Tem que armar o povo e **matá** os bandido tudo Parece adolescente 
+saindo do ensino médio, mas é só Bolsonaro falando **merda** . 
+
+Lemmas in this text that loaded on the factor:
+
+matar
+merda
+terra

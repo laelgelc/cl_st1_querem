@@ -1,0 +1,20 @@
+file = t018884
+date = 2022-12-30
+user = JulioRasec72
+conversation = 1560979195358060544
+URL = https://twitter.com/JulioRasec72/status/1608933599457443840
+
+word count = 47
+words loading = 3
+factor score = 3
+
+@leandroruschel É só não atacar a **democracia** e pedir **golpe** de Estado 
+q tá tudo bem. Estão careca de saber q a liberdade de **expressão** tem seus 
+limites, aí toda vez q algum extremista ultrapassa esse limite e sofre uma 
+punição é sempre o msm mimimi. 
+
+Lemmas in this text that loaded on the factor:
+
+democracia
+expressão
+golpe

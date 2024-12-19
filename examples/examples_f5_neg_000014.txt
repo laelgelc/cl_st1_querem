@@ -1,0 +1,18 @@
+file = t000617
+date = 2018-05-30
+user = BarbioMarcus
+conversation = 320406598
+URL = https://twitter.com/BarbioMarcus/status/1001879552484880385
+
+word count = 26
+words loading = 2
+factor score = -2
+
+Bancada da Globonews toda se cagando com o tal **salvador** da **pátria** que 
+eles mesmos criaram pra estereotipar o Bolsonaro. Outubro vai ser gostoso 
+demais. 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

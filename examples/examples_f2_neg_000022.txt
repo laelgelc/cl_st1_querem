@@ -1,0 +1,20 @@
+file = t013676
+date = 2021-12-30
+user = Cristia27042457
+conversation = 1452783881787215874
+URL = https://twitter.com/Cristia27042457/status/1476542998754340870
+
+word count = 59
+words loading = 2
+factor score = -2
+
+@marcelopjs @conradohubner **Acho** que o Bolsonaro nem **ligo** mais tudo que 
+fala pensa age Tudo e motivo de crítica **Acho** que tem muita gente, que 
+**acha** que se caso o Lula ganhe as eleições Eli vai ser o salvador da 
+pátria Só **acho** que seria uma vergonha pra o Brasil mundo a fora um ex 
+presidiário No poder 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+ligar

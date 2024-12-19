@@ -1,0 +1,23 @@
+file = t008994
+date = 2020-10-30
+user = franklinschmalz
+conversation = 79519882
+URL = https://twitter.com/franklinschmalz/status/1322218703627366401
+
+word count = 51
+words loading = 5
+factor score = 4
+
+Vamos fazer as contas vai. . . Exército lança edital de 8 **milhões** pra 
+coqueteies regados a whisky. 8 **milhões** daria pra **pagar** mais 13 mil 
+**auxílios** **emergenciais** de R$600 , 00 por um **mês** . Seriam 13 mil 
+famílias! Se fosse a R$300 ( já que o Bolsonaro diminuiu ) seriam 26mil 
+**auxílios** ! 
+
+Lemmas in this text that loaded on the factor:
+
+auxílio
+emergencial
+milhão
+mês (secondary)
+pagar

@@ -1,0 +1,19 @@
+file = t005187
+date = 2019-11-29
+user = alberio_felipe
+conversation = 897215604075188224
+URL = https://twitter.com/alberio_felipe/status/1200560622179684355
+
+word count = 22
+words loading = 4
+factor score = -4
+
+RT @manipoetics: Pelo **amor** de **deus** meu auge foi **gastar** 50 reais em 
+doce na Black Friday bolsonaro me **mata** agora 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+deus
+gastar
+matar

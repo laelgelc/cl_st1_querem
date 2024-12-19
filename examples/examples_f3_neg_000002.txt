@@ -1,0 +1,24 @@
+file = t015927
+date = 2022-06-29
+user = jsscadcam
+conversation = 2872197861
+URL = https://twitter.com/jsscadcam/status/1542185838301351938
+
+word count = 54
+words loading = 6
+factor score = -5
+
+Está na hora de nós **apoiadores** do @SF_Moro **tomarmos** uma decisão pois 
+se o bolsonaro e o lula forem para o **segundo** turno o ladrão **vence** 
+fácil. Temos que eliminar os dois, e o jeito é votando em alguém que possa 
+**tirar** o assassino no **primeiro** e **vencer** o ladrão no **segundo** . 
+É urgente. 
+
+Lemmas in this text that loaded on the factor:
+
+apoiador (secondary)
+primeiro
+segundo
+tirar
+tomar
+vencer

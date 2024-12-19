@@ -1,0 +1,22 @@
+file = t005428
+date = 2019-12-30
+user = bibonunes1
+conversation = 3406756888
+URL = https://twitter.com/bibonunes1/status/1211466212938571781
+
+word count = 47
+words loading = 5
+factor score = 5
+
+Com o **registro** de **armas** **aumentando** 50 % em relação ao ano 
+passado, o número de mortes caiu 22 % , diz Bolsonaro. Concordo totalmente, 
+com **armas** nas mãos de **cidadãos** de bem, a bandidagem sabe que agora 
+pode ter reação das antigas vítimas. Desarmado tem que **andar** bandido! 
+
+Lemmas in this text that loaded on the factor:
+
+andar
+arma
+aumentar
+cidadão
+registro

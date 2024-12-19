@@ -1,0 +1,25 @@
+file = t012521
+date = 2021-08-30
+user = trombetta360
+conversation = 1107603364991459328
+URL = https://twitter.com/trombetta360/status/1432461860247330819
+
+word count = 35
+words loading = 8
+factor score = 8
+
+Bolsonaro trabalha para a **indústria** armamentista em duas frentes: 
+flexibilizando as **leis** de controle e **registros** ; e **facilitando** o 
+**acesso** de **civis** ao **armamento** . Quem tem **arma** ou é policial ou 
+é bandido. HASHTAG #forabolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+acesso
+arma
+armamento
+civil
+facilitar
+indústria
+lei
+registro

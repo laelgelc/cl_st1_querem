@@ -1,0 +1,19 @@
+file = t014496
+date = 2022-02-27
+user = alerodrigues68
+conversation = 20844626
+URL = https://twitter.com/alerodrigues68/status/1498053524206211076
+
+word count = 36
+words loading = 3
+factor score = 3
+
+@cotore Isso é fato. Chamar bolsonaro de **direita** , **conservador** , ou o 
+que for, é ridículo. Ele não tem **ideologia** , princípio, convicção de 
+nada. Ele é só um imbecil deslumbrado que não deveria estar onde está . 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+ideologia

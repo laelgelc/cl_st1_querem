@@ -1,0 +1,21 @@
+file = t012152
+date = 2021-08-30
+user = profsosa13
+conversation = 107329307
+URL = https://twitter.com/profsosa13/status/1432488845719789572
+
+word count = 28
+words loading = 5
+factor score = 5
+
+As medidas do governo bolsonaro para " **facilitar** " o **acesso** às 
+**armas** , além de garantir a segurança da **população** , **armou** 
+grupos de bandidos. Nenhuma surpresa! Parabéns aos envolvidos! 
+
+Lemmas in this text that loaded on the factor:
+
+acesso
+arma
+armar
+facilitar
+população

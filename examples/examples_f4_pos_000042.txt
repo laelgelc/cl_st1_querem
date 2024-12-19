@@ -1,0 +1,20 @@
+file = t016552
+date = 2022-07-30
+user = tamir_rimat
+conversation = 123710511
+URL = https://twitter.com/tamir_rimat/status/1553513718167879681
+
+word count = 34
+words loading = 3
+factor score = 3
+
+Olha, acho que não. E se **participarem** será a maior queimação de filme 
+para a instituição em muitos anos. HASHTAG #forabolsonaro_h HASHTAG 
+#impeachmentdebolsonarourgente_h Bolsonaro diz que Forças Armadas 
+**participarão** de **ato** pró-governo de 7 de **setembro** 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+participar
+setembro

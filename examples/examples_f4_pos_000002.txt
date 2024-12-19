@@ -1,0 +1,23 @@
+file = t010502
+date = 2021-03-30
+user = perpetua_acre
+conversation = 44693900
+URL = https://twitter.com/perpetua_acre/status/1376928787158421507
+
+word count = 48
+words loading = 6
+factor score = 6
+
+Quando um min. da Defesa é **demitido** por cumprir seu dever ( **artigo** 142 
+da **Constituição** ) , e os 3 **comandantes** das Forças Armadas decidem 
+pedir **demissão** em **solidariedade** é porque não admitem q as FA sejam 
+tratadas como parte da disputa política, tal qual pretende o presid Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+artigo
+comandante
+constituição
+demissão
+demitir
+solidariedade

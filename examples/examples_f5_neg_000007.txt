@@ -1,0 +1,21 @@
+file = t016088
+date = 2022-06-29
+user = GuiTomassini
+conversation = 1265427903199748096
+URL = https://twitter.com/GuiTomassini/status/1541767908962992128
+
+word count = 55
+words loading = 3
+factor score = -3
+
+@Mitonauro1 @FernandesFill1 @BrunnoLee101 @Elainnefaria1 Cara, como você 
+então consegue ver problema no Bolsonaro? Sério? Eu entendo temer tanto uma 
+**volta** ao poder da esquerda, do quão nocivo o Lula pode ser pro país. Até 
+aí tudo bem. Mas achar que o Bolsonaro é o bom samaritano **salvador** da 
+**pátria** , atacado sempre injustamente, etc etc 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador
+volta

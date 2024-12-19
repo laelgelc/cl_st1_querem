@@ -1,0 +1,21 @@
+file = t013641
+date = 2021-12-30
+user = Anderso45340484
+conversation = 1257106703226675203
+URL = https://twitter.com/Anderso45340484/status/1476641883170369542
+
+word count = 47
+words loading = 3
+factor score = 3
+
+@6Arquivo @JornalOGlobo Coisas que vc paga e não reclama: **cartão** 
+corporativo, viagens da família Bolsonaro, viagem do Dudu Bananinha pra Dubai, 
+picanha e do Exército, viagens do Carluxo com o pai ( o cara é vereador, mas 
+vive em comitivas **presidenciais** ) , **avião** da alegria da Micheque, 
+motociata. . . 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+cartão
+presidencial

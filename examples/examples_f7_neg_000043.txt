@@ -1,0 +1,19 @@
+file = t010620
+date = 2021-03-30
+user = ZellFlorizel
+conversation = 245387166
+URL = https://twitter.com/ZellFlorizel/status/1376947445972791305
+
+word count = 38
+words loading = 2
+factor score = -2
+
+General Edson Pujol, veja backhand_index_pointing_down_e " Fabrício Queiroz, 
+amigo da família Bolsonaro e ex-assessor de Flávio **recebeu** mais de R$ 400 
+mil em transferências bancárias, durante anos, efetuadas por Adriano da 
+Nóbrega apontado como **chefe** da milícia ' escritório do crime ' . " 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+receber

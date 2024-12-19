@@ -1,0 +1,20 @@
+file = t009529
+date = 2020-12-30
+user = oitempestade
+conversation = 945812185606959104
+URL = https://twitter.com/oitempestade/status/1344402625484255235
+
+word count = 40
+words loading = 3
+factor score = -3
+
+O **CARA** NAO QUER VACINAR A POPULAÇÃO QUE TA LITERALMENTE MORRENDOSALVA A 
+VIDA DE MULHERES MEU **DEUS** DO **CÉU** EU NUNCA PENSEI Q PUDESSE ODIAR TANTO 
+UM SER HUMANO Q NEM EU ODEIO ESSE VAGABUNDO MALDITO MORRAAAAAAAAAA MORRA 
+BOLSONARO 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+céu
+deus

@@ -1,0 +1,19 @@
+file = t016495
+date = 2022-07-30
+user = Brasil_caos
+conversation = 1267299624018153474
+URL = https://twitter.com/Brasil_caos/status/1553517307913175043
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @lorenzobmb: Bolsonaro disse que as Forças Armadas e outras instituições 
+fardadas irão **participar** de **ato** eleitoral no 7 de **setembro** , alg 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+participar
+setembro

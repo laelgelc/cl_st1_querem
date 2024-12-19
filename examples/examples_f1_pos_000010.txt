@@ -1,0 +1,25 @@
+file = t017607
+date = 2022-09-29
+user = Roberto31654571
+conversation = 1337727037394604035
+URL = https://twitter.com/Roberto31654571/status/1575621709213798400
+
+word count = 10
+words loading = 6
+factor score = 6
+
+@kimpaim Bolsonaro Reeleito presidente da República Deus ti **proteja** 
+**folded_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **backhand_index_pointing_right_e** 
+**smiling_face_with_sunglasses_e** keycap_2_e keycap_2_e flexed_biceps_e 
+**flag_brazil_e** flag_israel_e **flag_brazil_e** flag_israel_e 
+**flag_brazil_e** flag_israel_e **flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+backhand_index_pointing_right_e
+clapping_hands_e
+flag_brazil_e
+folded_hands_e
+proteger
+smiling_face_with_sunglasses_e

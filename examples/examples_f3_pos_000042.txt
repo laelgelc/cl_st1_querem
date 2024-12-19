@@ -1,0 +1,20 @@
+file = t006014
+date = 2020-02-28
+user = Emanoel1953
+conversation = 1438906560
+URL = https://twitter.com/Emanoel1953/status/1233528391799840769
+
+word count = 48
+words loading = 3
+factor score = 2
+
+Moro ( @SF_Moro ) : " Entrega de equipamentos de segurança, 70 viaturas, 200 
+coletes e 250 armas, à PM ( do RN ) pelo Governo do PR @jairbolsonaro. " Mas. 
+. . E o Caso Marielle? E o Queiróz? E os cheques para Micheque? E os 
+**imóveis** do Flávio Bolsonaro? E as drogas no **avião** **presidencial** ? 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+imóvel (secondary)
+presidencial

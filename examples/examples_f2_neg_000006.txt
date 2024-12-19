@@ -1,0 +1,19 @@
+file = t003478
+date = 2019-03-30
+user = SilCastelhano
+conversation = 634283058
+URL = https://twitter.com/SilCastelhano/status/1112079351359655937
+
+word count = 39
+words loading = 2
+factor score = -2
+
+Era Bolsonaro revela os segredos familiares de **bem** e do **bem** ! ? 
+Famílias, **amigos** , conhecidos p / não respeitarem dversidd brigam! ? Q 
+seres humanos aprendam c / inumanos e vice-versa Nocaute. Disputa entre irmãos 
+Frias, da Folha, chega à Justiça via @nocautefm 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+bem

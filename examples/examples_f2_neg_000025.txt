@@ -1,0 +1,19 @@
+file = t014511
+date = 2022-02-27
+user = LuciRam02132017
+conversation = 1107687638864138242
+URL = https://twitter.com/LuciRam02132017/status/1498048506522705932
+
+word count = 46
+words loading = 2
+factor score = -2
+
+@CentralEleicoes @matheusagostin Por causa de fertilizantes, FERTILIZANTES! 
+Bolsonaro foi visitar, prestou homenagem, hoje **ligou** o maior comunista do 
+mundo. E ainda brigou com o vice por ser contra o novo **amigo** . E isso pq 
+era o PT que ia trazer o comunismo para o Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+ligar

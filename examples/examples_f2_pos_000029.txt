@@ -1,0 +1,21 @@
+file = t016162
+date = 2022-06-28
+user = govbr
+conversation = 861707648584085504
+URL = https://twitter.com/govbr/status/1541782328040718338
+
+word count = 44
+words loading = 4
+factor score = 4
+
+Segundo dados do Ipea, em abril deste ano, atingimos a taxa de 9 , 4 % de 
+desempregados no país, o **menor** índice desde outubro de 2015 . Agora, são 
+97 , 8 **milhões** de trabalhadores empregados. Garantir **emprego** e 
+**renda** , por isso, somos a HASHTAG #pátriadaesperança_h. Acesse: 
+
+Lemmas in this text that loaded on the factor:
+
+emprego
+milhão
+pequeno
+renda

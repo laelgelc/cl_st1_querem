@@ -1,0 +1,23 @@
+file = t006268
+date = 2020-03-30
+user = tuliogadelha
+conversation = 71456987
+URL = https://twitter.com/tuliogadelha/status/1244739939092348931
+
+word count = 46
+words loading = 6
+factor score = 6
+
+Senado **aprovou** a **renda** **básica** **emergencial** de até R$ 1 , 2 mil 
+por família. Só falta Bolsonaro sancionar e **pagar** . Atualmente, há 38 
+**milhões** na informalidade e 11 , 6 **mi** de desempregados. Este recurso é 
+pouco, mas ajudará muitas famílias em meio à crise do Covid-19 . 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+básico
+emergencial
+milhão
+pagar
+renda

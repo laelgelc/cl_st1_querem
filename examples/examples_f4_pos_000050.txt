@@ -1,0 +1,21 @@
+file = t014927
+date = 2022-03-26
+user = may_nunes2
+conversation = 2285261341
+URL = https://twitter.com/may_nunes2/status/1507666170052329479
+
+word count = 41
+words loading = 3
+factor score = 3
+
+@bra89072834 @FariasDeus1 @Estadao -Crime contra o livre exercício dos 
+Poderes. **Ato** : ameaças ao Congresso e STF, e interferência na PF; 
+-Incitar **militares** à desobediência à lei ou infração à disciplina. 
+**Ato** : ir a manifestação a favor da **intervenção** **militar** ; -Entre 
+muitas outras coisas. 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+intervenção
+militar

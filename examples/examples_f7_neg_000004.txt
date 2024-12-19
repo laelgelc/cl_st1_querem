@@ -1,0 +1,21 @@
+file = t001506
+date = 2018-09-29
+user = DacioloCable
+conversation = 1044436079372382208
+URL = https://twitter.com/DacioloCable/status/1046153829824311302
+
+word count = 46
+words loading = 4
+factor score = -3
+
+@jairbolsonaro Deus te abençoe, Jair. Seja bem vindo de volta ao lar da sua 
+terceira **esposa** , **mãe** da sua **filha** , madrasta dos outros filhos 
+que você teve com outras **esposas** que envelheceram e foram trocadas. 
+Glória a Deus, viva a família tradicional brasileira. **AMÉM** , irmão. 
+
+Lemmas in this text that loaded on the factor:
+
+amém (secondary)
+esposo
+filha
+mãe

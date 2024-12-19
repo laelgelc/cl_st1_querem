@@ -1,0 +1,20 @@
+file = t003280
+date = 2019-03-30
+user = mariaau15487649
+conversation = 1090305996067667970
+URL = https://twitter.com/mariaau15487649/status/1112137788449873920
+
+word count = 31
+words loading = 2
+factor score = -2
+
+HASHTAG #vaiter31demarçosim_h graças ao bom Deus não thumbs_down_e somos 
+**vermelhos** flag_brazil_e Meu Brasil flag_brazil_e brasileiro! o Lula squid_e 
+tá preso babaca! Bolsonaro fez os carás amarelarem face_with_tears_of_joy_e 
+face_with_tears_of_joy_e trocou a **bandeira** do PT flag_brazil_e 
+flag_brazil_e flag_brazil_e green_heart_e yellow_heart_e mas, não me enganam 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+vermelho

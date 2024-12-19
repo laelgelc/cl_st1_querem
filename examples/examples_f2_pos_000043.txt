@@ -1,0 +1,22 @@
+file = t012822
+date = 2021-09-29
+user = IsmaelToledo04
+conversation = 3419434029
+URL = https://twitter.com/IsmaelToledo04/status/1443324105818845187
+
+word count = 39
+words loading = 5
+factor score = 4
+
+**Preço** vai cair pela **metade** , se Deus quiser, diz Bolsonaro sobre 
+**gás** de cozinha, mais detalhes: Presidente atribui a alta do utensílio aos 
+governadores, que, segundo ele, não querem **reduzir** o ICMS ( **imposto** 
+estadual ) Mariana Costa Flávia Said. 
+
+Lemmas in this text that loaded on the factor:
+
+gás
+imposto
+metade
+preço
+reduzir (secondary)

@@ -1,0 +1,18 @@
+file = t007193
+date = 2020-05-30
+user = Nivaaldo
+conversation = 9716572
+URL = https://twitter.com/Nivaaldo/status/1266865728633933824
+
+word count = 18
+words loading = 3
+factor score = 3
+
+E daí ? Uma coisa são liberdades individuais. Outra muito diferente é 
+**espalhar** **fake** **news** e triturar reputações. 
+
+Lemmas in this text that loaded on the factor:
+
+espalhar
+fake
+news

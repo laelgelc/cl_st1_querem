@@ -1,0 +1,20 @@
+file = t003113
+date = 2019-02-27
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1100800457499443202
+
+word count = 36
+words loading = 3
+factor score = -3
+
+@soares_ud Faço, sim. Olha só , enquanto a família estava homenageando 
+**milicianos** , eu estava presidindo a **CPI** das Milícias e viabilizando a 
+prisão dos principais **chefes** das milícias. Quem não fez muito como dep. 
+federal foi Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+cpi
+miliciano

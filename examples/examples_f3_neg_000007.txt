@@ -1,0 +1,22 @@
+file = t006027
+date = 2020-02-28
+user = padilhando
+conversation = 58065771
+URL = https://twitter.com/padilhando/status/1233433958211366912
+
+word count = 43
+words loading = 5
+factor score = -4
+
+megaphone_e **Ditadura** nunca mais! Confira as datas das manifestações 
+contra o ataque de Bolsonaro à **democracia** , onde o autoritarismo não 
+terá vez. A luta em prol dos **direitos** e da **liberdade** será mais 
+**forte** do que nunca. link_e Orientação do PT sobre os atos: 
+
+Lemmas in this text that loaded on the factor:
+
+democracia (secondary)
+direito
+ditadura
+forte
+liberdade

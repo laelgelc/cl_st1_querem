@@ -1,0 +1,16 @@
+file = t000101
+date = 2018-03-30
+user = daisemeira
+conversation = 29843181
+URL = https://twitter.com/daisemeira/status/979512232718557184
+
+word count = 23
+words loading = 1
+factor score = -1
+
+RT @ojotacamelo: Vocês realmente **acham** que o Bolsonaro quer o MST armado 
+até os dentes? Os sindicatos armados? A favela armada? As organiza … 
+
+Lemmas in this text that loaded on the factor:
+
+achar

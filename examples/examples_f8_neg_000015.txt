@@ -1,0 +1,19 @@
+file = t003139
+date = 2019-02-27
+user = sheilohka
+conversation = 1424714929
+URL = https://twitter.com/sheilohka/status/1100782946829697024
+
+word count = 37
+words loading = 2
+factor score = -2
+
+@AndersonCARocha @SergoPamboukian @afonsodeandre @FabiBrasil17 @allantercalivre 
+@AlessandraMano5 Ser oposição é uma coisa. **Nomear** oposição e inimiga 
+do governo para **cargo** no governo é bem diferente! Está comunista ODEIA o 
+Presidente Jair Bolsonaro! Por que colocá -la dentro do governo? 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+nomear

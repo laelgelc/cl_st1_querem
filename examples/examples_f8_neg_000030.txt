@@ -1,0 +1,19 @@
+file = t007365
+date = 2020-06-29
+user = Leo_Ferreiraa
+conversation = 58956020
+URL = https://twitter.com/Leo_Ferreiraa/status/1277736437237067776
+
+word count = 41
+words loading = 2
+factor score = -2
+
+@jnascim @robsonboninjor @VEJA Decotelli em entrevista agora a pouco, disse que 
+continuará Ministro. Não duvido q Bolsonaro lhe garantiu o **cargo** , apesar 
+do mal estar, mas vai **nomear** outro louco que não diz 5 palavras sem ter " 
+comunista " no meio. 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+nomear

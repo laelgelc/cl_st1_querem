@@ -1,0 +1,18 @@
+file = t000113
+date = 2018-03-29
+user = Hezlena
+conversation = 287928859
+URL = https://twitter.com/Hezlena/status/979503692364812288
+
+word count = 32
+words loading = 2
+factor score = -2
+
+Bolsonaro gosta tanto de arma que deviam dar um tiro logo nele pra parar de 
+**encher** o **saco** ahhhhh vc gosta de arma então segura esses tiro seu 
+cuzao do caralho 
+
+Lemmas in this text that loaded on the factor:
+
+encher
+saco

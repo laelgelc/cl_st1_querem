@@ -1,0 +1,22 @@
+file = t012632
+date = 2021-09-29
+user = heldersalomao
+conversation = 80575628
+URL = https://twitter.com/heldersalomao/status/1443355899943342087
+
+word count = 33
+words loading = 5
+factor score = 4
+
+ATENÇÃO! Bancada do PT garante vale-gás para famílias de **baixa** 
+**renda** ! Sou coautor do **projeto** 1374 / 21 de autoria do deputado 
+@CarlosZarattini **assinado** pela bancada do partido. Quem DEFENDE você é o 
+PT 
+
+Lemmas in this text that loaded on the factor:
+
+assinar (secondary)
+baixo
+gás
+projeto
+renda

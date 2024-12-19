@@ -1,0 +1,19 @@
+file = t006829
+date = 2020-04-29
+user = INSISTENTE6
+conversation = 1202186269553504256
+URL = https://twitter.com/INSISTENTE6/status/1255620573721505793
+
+word count = 54
+words loading = 2
+factor score = -2
+
+Como é que são as coisas, Tio Chico acatou liminar para que o Bolsonaro não 
+pudesse **nomear** um Delegado da PF no **cargo** de chefia pq foi considerado 
+amigo da família, O Lewandowski como todos sabem, só foi indicado ao STF pq a 
+mãe dele era amiga da finada Mariza Leticia, aí pode. . . 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+nomear

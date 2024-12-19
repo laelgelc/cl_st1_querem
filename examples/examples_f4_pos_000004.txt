@@ -1,0 +1,23 @@
+file = t016712
+date = 2022-07-30
+user = lorenzobmb
+conversation = 593062050
+URL = https://twitter.com/lorenzobmb/status/1553501348041297927
+
+word count = 39
+words loading = 5
+factor score = 5
+
+Bolsonaro disse que as Forças Armadas e outras instituições fardadas irão 
+**participar** de **ato** eleitoral no 7 de **setembro** , algo vedado pela 
+**Constituição** . Pergunto ao @TSEjusbr: se esses **militares** efetivarem o 
+crime, qual força seria escolhida pra prendê -los? HASHTAG 
+#bolsonaronacadeia_h 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+constituição
+militar
+participar
+setembro

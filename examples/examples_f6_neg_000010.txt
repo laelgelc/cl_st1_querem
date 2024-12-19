@@ -1,0 +1,19 @@
+file = t007448
+date = 2020-06-29
+user = a_dcruz2009
+conversation = 4834227388
+URL = https://twitter.com/a_dcruz2009/status/1277733830028333057
+
+word count = 29
+words loading = 3
+factor score = -3
+
+Eu sou ateu, adepto da filosofia existencialista fenomenológica. Estou com 
+Bolsonaro e não tenho nada contra cristãos ou **católicos** . Jamais serei 
+esquerda e nossa **bandeira** jamais será **vermelha** . 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+católico
+vermelho

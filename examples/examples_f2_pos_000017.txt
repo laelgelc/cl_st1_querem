@@ -1,0 +1,22 @@
+file = t007250
+date = 2020-06-29
+user = ConversaAfiada
+conversation = 17229791
+URL = https://twitter.com/ConversaAfiada/status/1277571283979587585
+
+word count = 47
+words loading = 5
+factor score = 5
+
+Enquanto defende a redução do **auxílio** de R$ 600 a informais, Bolsonaro 
+não hesita em **aprovar** **aumento** de **benefícios** ao oficialato das 
+Forças Armadas. Um grupo de militares com **salários** brutos que podem 
+chegar a R$ 50 mil terá um **aumento** de até R$ 1 . 600 . 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+aumento
+auxílio
+benefício
+salário

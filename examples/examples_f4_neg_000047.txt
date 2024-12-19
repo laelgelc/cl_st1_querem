@@ -1,0 +1,21 @@
+file = t011163
+date = 2021-04-29
+user = minserkill
+conversation = 3044615261
+URL = https://twitter.com/minserkill/status/1387570767810936832
+
+word count = 54
+words loading = 3
+factor score = -3
+
+@SSilva13as @blueameyre mas vc prova q ele chegou a **roubar** ? ? ? ? esse 
+papo de **ladrão** é **ladrão** não cola meu **amor** , lula fez mais por 
+esse país do q esse atual, investiu em educação, investiu no sus, investiu 
+nas faculdades federais e em fundos para mandar estudantes para outro país, 
+tinham 12 candidatos amg 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+ladrão
+roubar

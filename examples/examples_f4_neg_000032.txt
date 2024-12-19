@@ -1,0 +1,20 @@
+file = t008395
+date = 2020-09-29
+user = Evilzio5
+conversation = 1116304854111141889
+URL = https://twitter.com/Evilzio5/status/1310916259656105985
+
+word count = 49
+words loading = 3
+factor score = -3
+
+@jaqueswagner @SenadoFederal Bolsonaro **rouba** de quem não tem, para fazer 
+propaganda. Prejudica velhos e todos os brasileiros. Normal, para quem disse 
+que queria **matar** 30 mil brasileiros e já **matou** 150 mil só de Covid. O 
+**cara** não dá a mínima para os brasileiros. Só pensa na família. 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+matar
+roubar

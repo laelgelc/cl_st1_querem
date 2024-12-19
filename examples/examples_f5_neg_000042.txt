@@ -1,0 +1,18 @@
+file = t006718
+date = 2020-04-29
+user = hemanoferreira
+conversation = 804540945492541444
+URL = https://twitter.com/hemanoferreira/status/1255641130890395648
+
+word count = 29
+words loading = 2
+factor score = -2
+
+Brasil ontem **chegou** aos 5 . 017 mortos pelo covid-19 . Bolsonaro quando 
+questionado: " E daí ? Lamento. Quer que eu faça o quê ? Eu sou Messias, mas 
+não faço milagre " HASHTAG #conservadorquerimpeachemnt_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+covid

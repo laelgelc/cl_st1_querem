@@ -1,0 +1,16 @@
+file = t001539
+date = 2018-09-29
+user = opablolima
+conversation = 63118242
+URL = https://twitter.com/opablolima/status/1046096170244870144
+
+word count = 8
+words loading = 2
+factor score = -2
+
+Mensalão? O **salvador** da **pátria** ? Não creio. . . 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

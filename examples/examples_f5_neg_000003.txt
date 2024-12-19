@@ -1,0 +1,19 @@
+file = t011199
+date = 2021-04-29
+user = Pacoca_cedilha
+conversation = 1012485979360452609
+URL = https://twitter.com/Pacoca_cedilha/status/1387865071494307844
+
+word count = 25
+words loading = 3
+factor score = -3
+
+@Marcia_mrp @joaoamoedonovo Há uma terceira possibilidade: recusar -se a votar 
+em qualquer populista que se apresente como **salvador** da **pátria** . 
+Getúlio, Jânio, Collor, Lula, Dilma, Bolsonaro. . . **Chega** ! 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+pátria
+salvador

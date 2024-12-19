@@ -1,0 +1,21 @@
+file = t010772
+date = 2021-03-30
+user = LekkoMr
+conversation = 42585102
+URL = https://twitter.com/LekkoMr/status/1377031809452675073
+
+word count = 37
+words loading = 3
+factor score = -3
+
+bolsonaro e sua família são vizinhos de **milicianos** ; namoram **filhas** d 
+**milicianos** ; homenageiam **milicianos** ; contratam assessores 
+**milicianos** ; contratam mulheres, sogras e filhos de **milicianos** ; 
+**recebem** visitas de **milicianos** ; fazem rachadinha com **milicianos** . . 
+. E não são **milicianos** ? thinking_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+filha
+miliciano
+receber

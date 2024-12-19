@@ -1,0 +1,21 @@
+file = t015486
+date = 2022-05-30
+user = EdRaposo_
+conversation = 1518965841261441024
+URL = https://twitter.com/EdRaposo_/status/1531297540297170949
+
+word count = 49
+words loading = 4
+factor score = -4
+
+Em 2019 Bolsonaro voltou de viagem aos EUA e disse que houve fraude nas 
+eleições e que tinha **vencido** no **primeiro** turno. Se cassarem a Kokay 
+pelo tweet dela vão cassar o PR também. Deixem eles falarem! Lutem por 
+**liberdade** , inclusive pelo **direito** de falar bobagem dos petistas! 
+
+Lemmas in this text that loaded on the factor:
+
+direito
+liberdade
+primeiro
+vencer

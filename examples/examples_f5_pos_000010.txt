@@ -1,0 +1,21 @@
+file = t005371
+date = 2019-12-29
+user = JornalBSM
+conversation = 1201864404855377922
+URL = https://twitter.com/JornalBSM/status/1211404514634477573
+
+word count = 30
+words loading = 5
+factor score = 5
+
+**Registros** de **armas** **aumentaram** 23 % ; homicídios caíram 22 % . Com 
+base nesses números, presidente vai solicitar ao Congresso que amplie a 
+**posse** e o **porte** de **armas** para os brasileiros. 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+aumentar
+porte
+posse
+registro

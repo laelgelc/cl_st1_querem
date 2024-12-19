@@ -1,0 +1,22 @@
+file = t013973
+date = 2022-01-30
+user = DutraSargento
+conversation = 1329556568791265283
+URL = https://twitter.com/DutraSargento/status/1487912791814160396
+
+word count = 21
+words loading = 3
+factor score = 2
+
+@VlogdoLisboa Apenas em dezembro, os **cartões** exclusivos da família 
+**presidencial** foram usados em **compras** que somaram R$ 1 , 5 milhão cow_e 
+cow_e cow_e cow_e cow_e backhand_index_pointing_right_e 
+backhand_index_pointing_right_e backhand_index_pointing_right_e 
+backhand_index_pointing_right_e clown_face_e clown_face_e clown_face_e 
+clown_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+cartão
+compra (secondary)
+presidencial

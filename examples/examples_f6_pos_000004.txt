@@ -1,0 +1,22 @@
+file = t017265
+date = 2022-08-30
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1564554418611257345
+
+word count = 42
+words loading = 5
+factor score = 4
+
+- Os **recordes** não param de ser batidos: a Polícia Rodoviária Federal 
+apreendeu 250 kg de cocaína em Piraju ( SP ) . - Apenas nessa, R$ 44 
+**milhões** de perda para o crime **organizado** . - Mais um golpe ao crime 
+**organizado** , **vida** **salvas** e famílias preservadas. 
+
+Lemmas in this text that loaded on the factor:
+
+milhão (secondary)
+organizar
+recorde
+salvar
+vida

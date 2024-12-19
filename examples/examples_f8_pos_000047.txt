@@ -1,0 +1,19 @@
+file = t019281
+date = 2023-01-30
+user = NiltoTatto
+conversation = 2674564802
+URL = https://twitter.com/NiltoTatto/status/1619882840577183745
+
+word count = 42
+words loading = 2
+factor score = 2
+
+No HASHTAG #fantastico_h, @SoniaBridi mostrou a barbárie a que foram 
+submetidos os HASHTAG #yanomami_h Fica claro que foram **vítimas** de 
+tentativa de genocídio promovida pelo governo Bolsonaro. Se alguém que se diz 
+patriota e **cristão** ainda apoia esse sujeito é porque é desumano 
+
+Lemmas in this text that loaded on the factor:
+
+cristão
+vítima

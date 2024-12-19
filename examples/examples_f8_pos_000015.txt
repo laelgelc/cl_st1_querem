@@ -1,0 +1,19 @@
+file = t012869
+date = 2021-10-30
+user = Karl_original
+conversation = 797650380238753792
+URL = https://twitter.com/Karl_original/status/1454535022636150785
+
+word count = 39
+words loading = 3
+factor score = 3
+
+**** Eu quero fazer uma pergunta bem sincera. O @TSEjusbr vai punir severamente 
+as **fake** **news** nas eleições de 22 . A pergunta é simples, vão punir o 
+candidato que falar que a **facada** no Bolsonaro, em 2018 , foi armação? 
+
+Lemmas in this text that loaded on the factor:
+
+facada
+fake
+news

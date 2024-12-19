@@ -1,0 +1,21 @@
+file = t016603
+date = 2022-07-30
+user = IsmaelToledo04
+conversation = 3419434029
+URL = https://twitter.com/IsmaelToledo04/status/1553506929560981504
+
+word count = 41
+words loading = 4
+factor score = 3
+
+Bolsonaro diz que Forças Armadas **participarão** de **ato** pró-governo de 
+7 de **setembro** Durante discurso em convenção de Tarcísio de Freitas, o 
+**chefe** do Executivo ainda defendeu que o seu governo não teve casos de 
+corrupção orgânica 30 . 07 . 2022 14H30 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+chefe (secondary)
+participar
+setembro

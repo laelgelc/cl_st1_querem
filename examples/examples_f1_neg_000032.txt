@@ -1,0 +1,16 @@
+file = t000642
+date = 2018-05-30
+user = dezopaaa
+conversation = 790361435146711040
+URL = https://twitter.com/dezopaaa/status/1001829416765411329
+
+word count = 12
+words loading = 2
+factor score = -2
+
+eu vivi pra ver as **pessoas** **chamando** o bolsonaro de comunista 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+pessoa

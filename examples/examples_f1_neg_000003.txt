@@ -1,0 +1,20 @@
+file = t000106
+date = 2018-03-21
+user = luizguiprado
+conversation = 836801502383640577
+URL = https://twitter.com/luizguiprado/status/976482121199095809
+
+word count = 37
+words loading = 3
+factor score = -3
+
+Pra eleitor de Bolsonaro só existem duas formas de combater a violência: 
+armando todo mundo ou **chamando** o batman A opção estudar segurança 
+pública, **usar** dados e inteligência para descobrir o **problema** e 
+resolver não existe 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+problema
+usar

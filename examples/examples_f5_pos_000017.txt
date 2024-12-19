@@ -1,0 +1,21 @@
+file = t002454
+date = 2018-12-30
+user = TitoGremistazo
+conversation = 2850568264
+URL = https://twitter.com/TitoGremistazo/status/1079497694115254272
+
+word count = 17
+words loading = 5
+factor score = 5
+
+RT @OSul_noticias: O **registro** de **armas** subiu 280 % ; HASHTAG 
+#bolsonaro_h prometeu **decreto** para **facilitar** a **posse** HASHTAG 
+#armamento_h HASHTAG #p_h … 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+decreto
+facilitar
+posse
+registro

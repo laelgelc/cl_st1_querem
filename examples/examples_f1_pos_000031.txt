@@ -1,0 +1,22 @@
+file = t014031
+date = 2022-01-30
+user = alexruizmarques
+conversation = 73513427
+URL = https://twitter.com/alexruizmarques/status/1487910525505843203
+
+word count = 19
+words loading = 5
+factor score = 5
+
+RT @ciancaglini_15 : Esse meu presida é realmente genial! **Abençoado** por 
+Deus! Rezo todos os dias por ele! **folded_hands_e** **flag_brazil_e** 
+**green_heart_e** **yellow_heart_e** @jairbolsonaro HASHTAG #bolsonaroreel_h 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+flag_brazil_e
+folded_hands_e
+green_heart_e
+yellow_heart_e

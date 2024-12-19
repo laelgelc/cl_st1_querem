@@ -1,0 +1,19 @@
+file = t017458
+date = 2022-08-30
+user = franclei07
+conversation = 248355135
+URL = https://twitter.com/franclei07/status/1564741514273517568
+
+word count = 16
+words loading = 4
+factor score = 3
+
+@folha Enquanto isso na **vida** real, a família Bolsonaro **comprou** 51 
+**imóveis** com dinheiro **vivo** 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+imóvel
+vida
+vivo (secondary)

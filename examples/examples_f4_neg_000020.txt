@@ -1,0 +1,19 @@
+file = t005034
+date = 2019-10-30
+user = _MyLoneliness
+conversation = 58320497
+URL = https://twitter.com/_MyLoneliness/status/1189620622810202112
+
+word count = 42
+words loading = 3
+factor score = -3
+
+@RRigolin @JornalOGlobo falou o **cara** que acredita nas **merdas** que o 
+bolsonaro e família e fala e o moro e aí depois chupa a rola deles e vem aqui 
+defender eles com unha e dente pra provar seu **amor** por eles 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cara
+merda

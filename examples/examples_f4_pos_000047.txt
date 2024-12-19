@@ -1,0 +1,19 @@
+file = t016242
+date = 2022-07-30
+user = SamPancher
+conversation = 56457949
+URL = https://twitter.com/SamPancher/status/1553408604090388480
+
+word count = 34
+words loading = 3
+factor score = 3
+
+" Vamos mostrar que o nosso povo, mais do que querer, tem o direito e exige 
+paz, **democracia** , transparência e liberdade " , diz Bolsonaro sobre 
+**ato** em 7 de **Setembro** durante desfile das Forças Armadas. 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+democracia
+setembro

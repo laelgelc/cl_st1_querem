@@ -1,0 +1,20 @@
+file = t009243
+date = 2020-11-29
+user = sandrabrasilia
+conversation = 177048412
+URL = https://twitter.com/sandrabrasilia/status/1333026504121397250
+
+word count = 45
+words loading = 2
+factor score = -2
+
+@jairbolsonaro @inep_oficial Que ótimo trabalho o ex-ministro Abraham 
+Weintraub fez, nheim presidente! Imagine se ele tivesse permanecido no 
+**cargo** ! Meu Deus, o HASHTAG #melhorministrodahistoria_h mudou o ensino em 
+14 meses frente ao MEC, imagine só se ficasse os 4 anos! Ao senhor, obrigada 
+por tê -lo **nomeado** no MEC! 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+nomear

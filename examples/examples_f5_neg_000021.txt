@@ -1,0 +1,17 @@
+file = t001410
+date = 2018-08-30
+user = DiegoLo1995789
+conversation = 987823381146947584
+URL = https://twitter.com/DiegoLo1995789/status/1034889145561309185
+
+word count = 20
+words loading = 2
+factor score = -2
+
+@jleolemos @marioasouza72 @jorgepesafi @STF_oficial Então sou a favor meu voto 
+é Bolsonaro 17 . **Chega** de **corruptos** e comunistas no governo 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+corrupto

@@ -1,0 +1,20 @@
+file = t004944
+date = 2019-10-30
+user = 1984Jailton
+conversation = 1139509979373813760
+URL = https://twitter.com/1984Jailton/status/1189636282227531776
+
+word count = 39
+words loading = 3
+factor score = -3
+
+@jairbolsonaro Em nome do Senhor Jesus, todo mal que o inimigo do Presidente 
+Bolsonaro desejar em desfavor do mesmo, **caia** por **terra** nesse momento, 
+em nome do **pai** , do filho e do Espírito Santo de Deus. Amém ( JOÃO 
+14:12-13-14 ) . 
+
+Lemmas in this text that loaded on the factor:
+
+cair
+pai
+terra

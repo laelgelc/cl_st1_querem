@@ -1,0 +1,19 @@
+file = t010355
+date = 2021-03-30
+user = vivireispsol
+conversation = 246985981
+URL = https://twitter.com/vivireispsol/status/1377026208966262785
+
+word count = 45
+words loading = 2
+factor score = -2
+
+3 . 780 mil vidas perdidas no país onde a prioridade do **chefe** da nação 
+são os acordos que ainda sustentam o seu governo da morte. Quando Bolsonaro 
+dizia defender a família, falava exclusivamente da sua própria. O único 
+remédio p / acabar essa tragédia é o **impeachment** ! 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+impeachment

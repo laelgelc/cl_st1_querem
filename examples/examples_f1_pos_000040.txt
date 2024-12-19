@@ -1,0 +1,26 @@
+file = t001829
+date = 2018-10-30
+user = GinPiero2
+conversation = 931550096055046144
+URL = https://twitter.com/GinPiero2/status/1057211860884303877
+
+word count = 41
+words loading = 5
+factor score = 5
+
+**flag_brazil_e** BRASIL **ACIMA** DE TUDO E DEUS ACIMA DE TODOS! 
+**flag_brazil_e** BOLSONARO PRESIDENTE **smiling_face_with_sunglasses_e** NOSSA 
+LUTA APENAS COMEÇOU **backhand_index_pointing_right_e** 
+**backhand_index_pointing_right_e** **flag_brazil_e** DIREITA SEGUE DIREITA 
+**flag_brazil_e** 1 • PASSO ( FV ) **red_heart_e** 2 • PASSO COMENTE 3 • 
+PASSO ME SIGA E A TODOS QUE FV **red_heart_e** E TODOS QUE TE SEGUIREM 4 . 
+PASSO ( RT ) counterclockwise_arrows_button_e **flag_brazil_e** DIREITA UNIDA 
+**flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+acimar
+backhand_index_pointing_right_e
+flag_brazil_e
+red_heart_e
+smiling_face_with_sunglasses_e

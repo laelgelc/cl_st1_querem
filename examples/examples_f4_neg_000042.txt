@@ -1,0 +1,20 @@
+file = t010448
+date = 2021-03-30
+user = DonizettiPere13
+conversation = 1372732806988713984
+URL = https://twitter.com/DonizettiPere13/status/1377014351840825349
+
+word count = 42
+words loading = 3
+factor score = -3
+
+@SanchesCosta1 @UOLNoticias Maldito são os homens que acreditam em outros 
+homens. Nem Lula, Dilma, Temer, Bolsonaro, etc, não são dignos de confiança. 
+Minha confiança está no Senhor que fez os **céus** e a **terra** . Cada um 
+tem o " **deus** " que merece. . . 
+
+Lemmas in this text that loaded on the factor:
+
+céu
+deus
+terra

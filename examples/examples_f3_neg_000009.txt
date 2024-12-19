@@ -1,0 +1,20 @@
+file = t007348
+date = 2020-06-29
+user = AdrianaAmati
+conversation = 191484529
+URL = https://twitter.com/AdrianaAmati/status/1277704643490054152
+
+word count = 33
+words loading = 4
+factor score = -4
+
+@UOL Eu **apoio** Bolsonaro por defender as vidas das **liberdades** 
+democráticas de **direito** , a qual vem defendendo **tomando** atitudes não 
+simpáticas e vindo contra a onda. Tenho muito orgulho do meu voto 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+direito
+liberdade
+tomar

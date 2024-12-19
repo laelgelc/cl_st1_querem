@@ -1,0 +1,19 @@
+file = t012113
+date = 2021-08-27
+user = _AlessandroSE
+conversation = 4250596815
+URL = https://twitter.com/_AlessandroSE/status/1431287091888103425
+
+word count = 50
+words loading = 2
+factor score = 2
+
+Não deixe Bolsonaro desviar sua atenção falando besteira no cercadinho. É 
+método para fugir da crise e das notícias inexplicáveis. A de hoje é mais 
+uma mansão para a família **presidencial** , agora do filho 04 . Já a crise 
+se agrava, com a volta da **inflação** , juros altos e fome. 
+
+Lemmas in this text that loaded on the factor:
+
+inflação
+presidencial

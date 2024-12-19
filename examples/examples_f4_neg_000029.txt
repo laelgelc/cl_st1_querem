@@ -1,0 +1,18 @@
+file = t007691
+date = 2020-07-30
+user = Renatod57025419
+conversation = 1274073219482488835
+URL = https://twitter.com/Renatod57025419/status/1288977140185280513
+
+word count = 21
+words loading = 3
+factor score = -3
+
+Nao votamos no bolsonaro para ser uma copia do lula. Ele copia o **cara** em 
+tudo pelo **amor** de **deus** . 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cara
+deus

@@ -1,0 +1,21 @@
+file = t009112
+date = 2020-11-29
+user = 3_conta_reserva
+conversation = 1322696228879110144
+URL = https://twitter.com/3_conta_reserva/status/1333026504121397250
+
+word count = 36
+words loading = 2
+factor score = -2
+
+@jairbolsonaro @inep_oficial HASHTAG #eleicoes2020_h HASHTAG 
+#direitaquerflavionacadeia_h FAMÍLIA HASHTAG #bolsonaro_h. 30 ANOS de HASHTAG 
+#rachadinha_h. A PERGUNTA QUE NÃO QUER CALAR: Presidente @jairbolsonaro, por 
+que sua **esposa** , Michelle, **recebeu** R$ 89 mil de Fabrício Queiroz 
+red_question_mark_e NA FAMÍLIA HASHTAG #bolsonaro_h TODOS FAZEM HASHTAG 
+#rachadinha_h 
+
+Lemmas in this text that loaded on the factor:
+
+esposo
+receber

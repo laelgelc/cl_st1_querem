@@ -1,0 +1,20 @@
+file = t007468
+date = 2020-06-29
+user = lobotosasha
+conversation = 1127740851915038720
+URL = https://twitter.com/lobotosasha/status/1277713061403602949
+
+word count = 43
+words loading = 3
+factor score = -3
+
+Se o Presidente " **corre** " o risco de ser impeachmado por **cometer** crime 
+de improbidade ao **nomear** Decotelli como ministro, resta saber QUEM INDICOU 
+CARLOS ALBERTO para a pasta E SUPOSTAMENTE sabia do falso currículo e QUERIA 
+QUE ISSO ACONTECESSE AO JAIR. Armação? thinking_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+cometer
+correr
+nomear

@@ -1,0 +1,19 @@
+file = t000857
+date = 2018-06-29
+user = a__esquerda
+conversation = 3264595035
+URL = https://twitter.com/a__esquerda/status/1012717196106260480
+
+word count = 37
+words loading = 3
+factor score = -2
+
+O cara quer aumentar o efetivo judiciário e corta os custos como bolsa 
+família alegando dispensas, em um vídeo diz não **abrir** mão das suas 
+regalias **políticas** . Se isso é a mudança o **pobre** está fodido. . 
+
+Lemmas in this text that loaded on the factor:
+
+abrir
+pobre (secondary)
+político

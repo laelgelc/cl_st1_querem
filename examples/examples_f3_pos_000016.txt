@@ -1,0 +1,19 @@
+file = t018911
+date = 2022-12-30
+user = ismaelsousa
+conversation = 26104235
+URL = https://twitter.com/ismaelsousa/status/1608969768811499524
+
+word count = 51
+words loading = 2
+factor score = 2
+
+Eu não entendi o motivo dos petistas dizerem q Bolsonaro fugiu do Brasil, ao 
+viajar p / passar 30 dias de férias e descanso com a família nos EUA. Havia 
+mandado de prisão contra ele? Qual crime responde? Deve ser a única pessoa do 
+mundo a " fugir " em um **avião** **presidencial** . 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+presidencial

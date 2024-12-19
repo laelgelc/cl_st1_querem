@@ -1,0 +1,21 @@
+file = t000212
+date = 2018-04-23
+user = gabrieljacobsen
+conversation = 14216882
+URL = https://twitter.com/gabrieljacobsen/status/988468960982110208
+
+word count = 38
+words loading = 3
+factor score = 3
+
+**Espalhar** **fake** **news** ( notícias falsas ) é um atendado à 
+democracia que não poderia ser praticado, conscientemente, por um agente 
+político. De forma alguma. Esquerda, direita, centrão, liberal, socialista, 
+conservador, progressista. . . Tudo é válido, politicamente. **Fake** 
+**news** , NÃO. 
+
+Lemmas in this text that loaded on the factor:
+
+espalhar
+fake
+news

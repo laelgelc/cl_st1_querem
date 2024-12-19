@@ -1,0 +1,18 @@
+file = t007656
+date = 2020-07-30
+user = rrrockyhorror
+conversation = 1081060102864621571
+URL = https://twitter.com/rrrockyhorror/status/1288980658547830792
+
+word count = 16
+words loading = 3
+factor score = -3
+
+esse povo subestima d+ oq pessoas fariam por **dinheiro** pelo **amor** d 
+**deus** eh casa pergunta 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+deus
+dinheiro

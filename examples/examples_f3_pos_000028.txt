@@ -1,0 +1,20 @@
+file = t014048
+date = 2022-01-30
+user = Helenasth
+conversation = 75105340
+URL = https://twitter.com/Helenasth/status/1487863715298959373
+
+word count = 48
+words loading = 3
+factor score = 2
+
+No mês passado, os **cartões** exclusivos da família Bolsonaro, — pago 
+pelo povo, — foram usados em **compras** que somaram R$ 1 , 5 milhão ( isso 
+o que ele deixa a imprensa saber. A outra parte de **gasto** está em sigilo ) 
+. Bolsonaro passou os últimos 30dias de dezembro em férias 
+
+Lemmas in this text that loaded on the factor:
+
+cartão
+compra (secondary)
+gasto

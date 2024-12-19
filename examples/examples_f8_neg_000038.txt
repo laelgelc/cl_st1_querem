@@ -1,0 +1,18 @@
+file = t009470
+date = 2020-12-30
+user = AutoridadeSForo
+conversation = 985614448076492802
+URL = https://twitter.com/AutoridadeSForo/status/1344422092813565960
+
+word count = 37
+words loading = 2
+factor score = -2
+
+@GuCaracante Primeiro **cobre** a enteada sobre o encosto que ela arrumou, 
+faça o encosto repetir Lula ladrão toda vez que ouvir a palavra Bolsonaro, se 
+descumprir será convidado a se **retirar** e socializar com seus pares. 
+
+Lemmas in this text that loaded on the factor:
+
+cobrar
+retirar

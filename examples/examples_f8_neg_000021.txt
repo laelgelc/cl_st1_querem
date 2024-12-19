@@ -1,0 +1,20 @@
+file = t004356
+date = 2019-07-30
+user = eusougalvao
+conversation = 58780764
+URL = https://twitter.com/eusougalvao/status/1156336542266384385
+
+word count = 32
+words loading = 3
+factor score = -2
+
+Inaceitável o ataque aos Direitos Humanos, à OAB, à memória de um 
+desaparecido político e sua família. Bolsonaro NÃO tem estatura **moral** 
+para **ocupar** o **cargo** de Presidente da República HASHTAG 
+#impeachmentbolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+moral (secondary)
+ocupar

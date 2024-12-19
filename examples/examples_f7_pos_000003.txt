@@ -1,0 +1,21 @@
+file = t017568
+date = 2022-09-29
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1575325362304737281
+
+word count = 52
+words loading = 4
+factor score = 4
+
+- E é um **erro** pensar que o alvo principal é Jair Bolsonaro. O sistema se 
+uniu contra cada brasileiro que defende a familia, a liberdade de expressão, o 
+**combate** ao **aborto** e às **drogas** , a propriedade privada, o livre 
+mercado e tudo aquilo que por em xeque a ilusão do socialismo. 
+
+Lemmas in this text that loaded on the factor:
+
+aborto
+combate
+droga
+erro

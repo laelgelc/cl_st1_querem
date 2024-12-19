@@ -1,0 +1,18 @@
+file = t001585
+date = 2018-09-29
+user = rafaellainette
+conversation = 2372191295
+URL = https://twitter.com/rafaellainette/status/1046134110551494656
+
+word count = 23
+words loading = 3
+factor score = -3
+
+@smxccly Prefiro mil vezes o PT do que o BOLSONARO. Pelo **amor** de **Deus** 
+não me diz que vais votar nesse **merda** . 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+deus
+merda

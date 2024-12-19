@@ -1,0 +1,21 @@
+file = t014442
+date = 2022-02-27
+user = Insurgente1977
+conversation = 138568006
+URL = https://twitter.com/Insurgente1977/status/1498059291307225090
+
+word count = 40
+words loading = 4
+factor score = -3
+
+@caleromarcelo @crisrenovada27 O retardo **social** promovido por Bolsonaro, 
+seu entorno **político** e familiar conduziram 25 % dos brasileiros num estado 
+de mediocridade severa e a prática de **crimes** sob a ótica de bons costumes 
+e liberdade de **expressão** . Levará décadas! 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+expressão (secondary)
+político
+social

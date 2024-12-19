@@ -1,0 +1,21 @@
+file = t010348
+date = 2021-03-30
+user = jdoriajr
+conversation = 64706049
+URL = https://twitter.com/jdoriajr/status/1376958263967768583
+
+word count = 38
+words loading = 4
+factor score = 4
+
+Minha **solidariedade** aos ex-comandantes das Forças Armadas e ao ex-Ministro 
+da **Defesa** , Fernando Azevedo e Silva. Eles demonstraram grandeza ao 
+**recusar** qualquer subserviência a inclinações autoritárias. O País 
+resistirá a qualquer **ato** que comprometa o Estado Democrático de Direito. 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+defesa
+recusar
+solidariedade

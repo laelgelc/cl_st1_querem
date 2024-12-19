@@ -1,0 +1,20 @@
+file = t009971
+date = 2021-02-27
+user = rafamfilho
+conversation = 219368520
+URL = https://twitter.com/rafamfilho/status/1365636316965326848
+
+word count = 47
+words loading = 3
+factor score = 3
+
+Errar é **humano** . Votar em Bolsonaro uma segunda vez é burrice, falta de 
+inteligência, discernimento e amor a Pátria. Não importa quem está 
+concorrendo no primeiro **turno** , se de esquerda, **direita** ou centro. 
+Qualquer um que respire e pense, é melhor do que este genocida inapto. 
+
+Lemmas in this text that loaded on the factor:
+
+direita
+humano
+turno

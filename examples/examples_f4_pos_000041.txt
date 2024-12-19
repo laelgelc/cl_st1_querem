@@ -1,0 +1,18 @@
+file = t016602
+date = 2022-07-30
+user = sonia_divinaa
+conversation = 42271371
+URL = https://twitter.com/sonia_divinaa/status/1553510271578144768
+
+word count = 16
+words loading = 3
+factor score = 3
+
+RT @IsmaelToledo04 : Bolsonaro diz que Forças Armadas **participarão** de 
+**ato** pró-governo de 7 de **setembro** Durante dis … 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+participar
+setembro

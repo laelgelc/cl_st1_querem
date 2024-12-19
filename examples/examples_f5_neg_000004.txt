@@ -1,0 +1,19 @@
+file = t011233
+date = 2021-04-29
+user = lcc289
+conversation = 62704976
+URL = https://twitter.com/lcc289/status/1387876346555207682
+
+word count = 24
+words loading = 3
+factor score = -3
+
+RT @serafinipsol: **Chegamos** a **triste** marca de 400 mil mortos por 
+**Covid** . São 400 mil famílias chorando seus entes queridos e um único 
+respons … 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+covid
+triste

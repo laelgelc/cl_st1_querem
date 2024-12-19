@@ -1,0 +1,19 @@
+file = t000546
+date = 2018-04-27
+user = leandrogmachado
+conversation = 169901836
+URL = https://twitter.com/leandrogmachado/status/989758091058016256
+
+word count = 51
+words loading = 2
+factor score = -2
+
+@haas_lennon Lennon, isso é argumento batido. O cara disse que mudou a visão 
+dele. O **problema** é quando as **pessoas** continuam repetindo a mesma coisa 
+que falaram ( erradas ) . O mesmo caminho dos petistas em querer ditar a forma 
+de pensar dos outros! O liberdade da escolha deve estar acima de tudo 
+
+Lemmas in this text that loaded on the factor:
+
+pessoa
+problema

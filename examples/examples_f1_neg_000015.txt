@@ -1,0 +1,21 @@
+file = t013412
+date = 2021-11-28
+user = desmentindobozo
+conversation = 1345206382312775680
+URL = https://twitter.com/desmentindobozo/status/1464972212268580864
+
+word count = 43
+words loading = 3
+factor score = -3
+
+Bolsonaro **chama** ministro do STF de imbecil, **político** opositor de 
+ladrão, vagabundo, calcinha apertada, idiota e nada acontece. Mas uma 
+**pessoa** de dentro do carro " ousou " xingar o presidente totalmente cercado 
+por policiais e a **pessoa** foi detida. É um HASHTAG #bolsonarochiliquento_h 
+mesmo! 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+pessoa
+político

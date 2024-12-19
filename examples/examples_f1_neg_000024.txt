@@ -1,0 +1,20 @@
+file = t019868
+date = 2023-02-27
+user = AndrSoa86544769
+conversation = 1508807145428594708
+URL = https://twitter.com/AndrSoa86544769/status/1630237059074994176
+
+word count = 48
+words loading = 3
+factor score = -3
+
+Olha o flagrante em andamento no nordeste, alguém **chame** a polícia o 
+**crime** esta em curso. Que maldade meu Deus, como isto é aceitável não dá 
+, negar água para o povo um **crime** contra a dignidade da **pessoa** humana, 
+estava tudo funcionando água fluindo no Gov. Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+crime
+pessoa

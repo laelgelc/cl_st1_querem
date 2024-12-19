@@ -1,0 +1,22 @@
+file = t015516
+date = 2022-05-30
+user = heldersalomao
+conversation = 80575628
+URL = https://twitter.com/heldersalomao/status/1531269349306138627
+
+word count = 43
+words loading = 5
+factor score = 4
+
+ESPALHE A VERDADE Bolsonaro acabou com o Bolsa Família e abandonou os 
+brasileiros mais **pobres** passando fome. 3 , 2 **milhões** de famílias em 
+situação de **pobreza** ou extrema **pobreza** estão inscritas no Cadastro 
+Único sem **receber** nenhum **auxílio** , mostra reportagem do UOL. 
+
+Lemmas in this text that loaded on the factor:
+
+auxílio
+milhão
+pobre
+pobreza
+receber (secondary)

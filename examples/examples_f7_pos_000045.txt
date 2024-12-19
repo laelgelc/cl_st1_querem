@@ -1,0 +1,20 @@
+file = t010315
+date = 2021-03-30
+user = FMouraBrasil
+conversation = 52849416
+URL = https://twitter.com/FMouraBrasil/status/1377044372626276353
+
+word count = 43
+words loading = 3
+factor score = 3
+
+Bolsonaro vocalizou o sentimento da parcela **conservadora** do povo em 2018 ao 
+defender **pautas** que não tinham representatividade política. Isso fez dele 
+um **conservador** ? Claro que não. Escrevi ainda em 2018 que ele não era a 
+encarnação do **conservadorismo** . Força, mentes binárias. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+conservadorismo
+pauta

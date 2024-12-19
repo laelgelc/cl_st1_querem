@@ -1,0 +1,17 @@
+file = t010136
+date = 2021-02-27
+user = magdielnascimen
+conversation = 705608186
+URL = https://twitter.com/magdielnascimen/status/1365784568167624704
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @Sonaira_sp: **Recebemos** em nosso **gabinete** comerciantes da região do 
+centro para articular ações em defesa da liberdade e do trabalho. E … 
+
+Lemmas in this text that loaded on the factor:
+
+gabinete
+receber

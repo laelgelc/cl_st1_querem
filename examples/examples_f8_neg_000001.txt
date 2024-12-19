@@ -1,0 +1,21 @@
+file = t006023
+date = 2020-02-28
+user = AbramoMax
+conversation = 1108903761345429505
+URL = https://twitter.com/AbramoMax/status/1233540530061139970
+
+word count = 32
+words loading = 4
+factor score = -3
+
+Bolsonaro não só **retirou** **força** de um **Governador** de estado Ele 
+fortaleceu policiais militares amotinados armados e encastelados em 
+**quartéis** Jogou gasolina na fogueira no Ceará . HASHTAG #bandnewsfm_h 
+HASHTAG #jn_h HASHTAG #jg_h HASHTAG #globonews_h HASHTAG #g1_h 
+
+Lemmas in this text that loaded on the factor:
+
+força (secondary)
+governador
+quartel
+retirar

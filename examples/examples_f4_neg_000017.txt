@@ -1,0 +1,19 @@
+file = t004047
+date = 2019-06-29
+user = denisejayme
+conversation = 178843389
+URL = https://twitter.com/denisejayme/status/1144633253422346249
+
+word count = 36
+words loading = 3
+factor score = -3
+
+@guimaraes13PT Kkkkkkkkkkkk é nos dias do PT se enfiava **dinheiro** na cueca 
+e ninguém se importava! Agora no governo Bolsonaro se **roubar** eles enfiam 
+os 3 pinos no teu c. . . kkkkkk vai te catar **ladrão** ! 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro
+ladrão
+roubar

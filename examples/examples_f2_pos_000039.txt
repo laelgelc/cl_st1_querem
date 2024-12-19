@@ -1,0 +1,21 @@
+file = t013437
+date = 2021-11-29
+user = pcdob_oficial
+conversation = 54312869
+URL = https://twitter.com/pcdob_oficial/status/1465437804264144899
+
+word count = 38
+words loading = 4
+factor score = 4
+
+O novo **benefício** do governo Bolsonaro tem caráter eleitoreiro e exclui 
+**milhões** de brasileiros. Deputados reiteram importância de um **programa** 
+consolidado, como o Bolsa Família, diante de notícias sobre **aumento** da 
+fome entre a população. Leia: HASHTAG #forabolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+aumento
+benefício
+milhão
+programa

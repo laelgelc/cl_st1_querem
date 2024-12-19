@@ -1,0 +1,20 @@
+file = t005681
+date = 2019-12-05
+user = rudaricci
+conversation = 36781987
+URL = https://twitter.com/rudaricci/status/1202386999430266881
+
+word count = 39
+words loading = 3
+factor score = 3
+
+Bolsonaro já possuí milícias armadas! Pois é exatamente isso que Joice 
+Hasselmann mostrou na CPMI das **fake** **news** . No vídeo, integrantes do 
+**Movimento** Conservador, fiel ao Bolsonaro, armados de fuzis, ameaçam Gilmar 
+Mendes e os " isentões " . ( Ivan Valente ) 
+
+Lemmas in this text that loaded on the factor:
+
+fake
+movimento
+news

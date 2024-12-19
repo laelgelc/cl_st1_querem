@@ -1,0 +1,20 @@
+file = t011401
+date = 2021-05-30
+user = CassioGabrielx
+conversation = 1002752469456375808
+URL = https://twitter.com/CassioGabrielx/status/1399109124777025539
+
+word count = 40
+words loading = 3
+factor score = -3
+
+Nossa! Meu Deus do céu! Que absurdo! As **pessoas** foram a uma manifestação 
+**POLÍTICA** , crítica às POLÍTICAS do presidente Bolsonaro, utilizando 
+camisas e bandeiras de partido **POLÍTICO** . É um absurdo esse negócio de 
+**usar** partido **POLÍTICO** na POLÍTICA! Inaceitável! 
+
+Lemmas in this text that loaded on the factor:
+
+pessoa
+político
+usar

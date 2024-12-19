@@ -1,0 +1,23 @@
+file = t016847
+date = 2022-08-30
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1564750800705961984
+
+word count = 50
+words loading = 5
+factor score = 4
+
+- Em 2018 , o PT dizia que a violência **aumentaria** em meu governo. Hoje 
+temos o **menor** nível de homicídios de toda a série histórica. Disseram 
+que abandonaríamos os mais **pobres** . Hoje **pagamos** no **mínimo** 3x 
+mais que a média do bolsa família e incluímos mais 6 **milhões** de 
+pessoas. 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar (secondary)
+milhão
+pagar
+pequeno
+pobre

@@ -1,0 +1,20 @@
+file = t017187
+date = 2022-08-30
+user = MaCris2005
+conversation = 339712378
+URL = https://twitter.com/MaCris2005/status/1564760302381662208
+
+word count = 21
+words loading = 4
+factor score = 3
+
+RT @Socorrofpb: Esperando o tuite do jornalista sobre a **corrupção** da 
+Família Bolsonaro que **compra** **imóveis** com dinheiro **vivo** . 
+@GloboNews 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+imóvel
+vivo (secondary)

@@ -1,0 +1,17 @@
+file = t016694
+date = 2022-07-30
+user = Hudsonrpd
+conversation = 237078766
+URL = https://twitter.com/Hudsonrpd/status/1553502710036664324
+
+word count = 25
+words loading = 2
+factor score = 2
+
+RT @BlogdoNoblat: País se mobiliza para **desarmar** a **bomba** dos atos de 
+Bolsonaro no 7 de Setembro, que perigam entrar para a história com ata … 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+desarmar

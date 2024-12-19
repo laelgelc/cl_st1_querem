@@ -1,0 +1,19 @@
+file = t003460
+date = 2019-03-30
+user = LudwigRodrigues
+conversation = 1090415108927438848
+URL = https://twitter.com/LudwigRodrigues/status/1111704474668728320
+
+word count = 49
+words loading = 2
+factor score = -2
+
+@JeanGordan @BolsonaroSP @silvioluiz @moura_101 Este tipo de gente idiota que 
+tem no Brasil é que vai demorar para acabar e morrer tudo! Só assim teremos 
+uma nação prospera! Bolsonaro va em **frente** e não **liga** para pessoas 
+sem inteligência! Deus salvou sua vida para o Sr salvar o Brasil! 
+
+Lemmas in this text that loaded on the factor:
+
+frente
+ligar

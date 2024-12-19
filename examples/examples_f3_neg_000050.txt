@@ -1,0 +1,21 @@
+file = t007308
+date = 2020-06-29
+user = claudinha_jp
+conversation = 280071298
+URL = https://twitter.com/claudinha_jp/status/1277434522771034112
+
+word count = 51
+words loading = 3
+factor score = -3
+
+@Biakicis @LRobertoBarroso @RevistaISTOE @kimpkat @jairbolsonaro @Biakicis Eu 
+Não entendo porque o Presidente nao **toma** uma atitude em relação a esses 
+**deputados** e essas pessoas que ficam queimar a imagem dele, isso não é 
+**liberdade** de expressão é falta de respeito, kd os advogados? ? ele têm 
+que dar um basta nisso. 
+
+Lemmas in this text that loaded on the factor:
+
+deputado
+liberdade
+tomar

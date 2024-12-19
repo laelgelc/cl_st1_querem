@@ -1,0 +1,20 @@
+file = t004865
+date = 2019-09-29
+user = asinhorinha
+conversation = 1084537674466316289
+URL = https://twitter.com/asinhorinha/status/1178407165004075014
+
+word count = 41
+words loading = 3
+factor score = -3
+
+ESTRATÉGIA MAXISTA: desacreditar o **inimigo** para **vencer** ! Não caiam 
+nessa armadilha! Querem **tirar** o único triunfo de Bolsonaro: o povo! Alguns 
+perfis estão sendo IMPLANTADOS dizendo que estão desistindo do presidente 
+para TE LEVAR JUNTO! SEJA ESPERTO! Estou com Bolsonaro! 
+
+Lemmas in this text that loaded on the factor:
+
+inimigo
+tirar
+vencer

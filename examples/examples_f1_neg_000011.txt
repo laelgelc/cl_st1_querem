@@ -1,0 +1,20 @@
+file = t009646
+date = 2020-12-30
+user = habitmaniac
+conversation = 1304171646996164610
+URL = https://twitter.com/habitmaniac/status/1344399543308312576
+
+word count = 46
+words loading = 3
+factor score = -3
+
+@BpJRBatista @jairbolsonaro onde q **chamaram** o Bolsonaro de gay sai dessa, 
+ninguém elogiaria ele tão bem não! ! KKKKKKKK você apoia alguém que matou 
+diversas **pessoas** , um genocida do caralho se raciocinasse de verdade não 
+apoiaria alguém como ele. ele só **usa** deus pra ganhar seguidores. 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+pessoa
+usar

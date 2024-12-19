@@ -1,0 +1,20 @@
+file = t000545
+date = 2018-04-27
+user = EstranhoSemNome
+conversation = 2474572016
+URL = https://twitter.com/EstranhoSemNome/status/989819130118332416
+
+word count = 48
+words loading = 3
+factor score = -2
+
+de **mulher** q trabalha comigo, hoje: " bolsonaro? o que tu achas q vai 
+acontecer com as **mulheres** ? vamos ter de ficar em casa, enquanto o marido 
+trabalha? " **ai** , cara. . . deus do ceu eu nao tenho um saco infinto pior q 
+as fake **news** contra o bolsonaro COLAM 
+
+Lemmas in this text that loaded on the factor:
+
+ai
+mulher
+news (secondary)

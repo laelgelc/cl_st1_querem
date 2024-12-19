@@ -1,0 +1,21 @@
+file = t019547
+date = 2023-02-27
+user = betok43
+conversation = 4726375156
+URL = https://twitter.com/betok43/status/1630300024507707394
+
+word count = 38
+words loading = 4
+factor score = 3
+
+Enquanto @LulaOficial lança **programa** para vacinar a população, age para 
+**salvar** **vidas** indígenas e o meio ambiente, a família Bolsonaro lança 
+um calendário, atrasado dois **meses** , a 50 reais. A história vai dando 
+seus freios de arrumação! 
+
+Lemmas in this text that loaded on the factor:
+
+mês
+programa (secondary)
+salvar
+vida

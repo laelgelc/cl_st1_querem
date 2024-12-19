@@ -1,0 +1,18 @@
+file = t005308
+date = 2019-11-29
+user = chmpgneprblmsks
+conversation = 191436371
+URL = https://twitter.com/chmpgneprblmsks/status/1200531905059467264
+
+word count = 16
+words loading = 3
+factor score = -3
+
+meu **deus** do ceu. . . . . . . . . . esse raio que **caiu** aqui agora meu 
+**pai** , vamos todos morrer 
+
+Lemmas in this text that loaded on the factor:
+
+cair
+deus
+pai

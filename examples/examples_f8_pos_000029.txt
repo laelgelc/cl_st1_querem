@@ -1,0 +1,21 @@
+file = t001968
+date = 2018-10-29
+user = conexaopolitica
+conversation = 1523748277
+URL = https://twitter.com/conexaopolitica/status/1057035159554453505
+
+word count = 47
+words loading = 3
+factor score = 3
+
+AO **VIVO** : Ao ser questionado sobre se existirá limite de liberdade de 
+expressão em seu governo, @jairbolsonaro garante que, " quem vai impor o 
+limite é o leitor " e não o governo. Bolsonaro também diz que o brasileiro 
+já está dando respostas as mídias ' **fake** **news** ' . HASHTAG 
+#bolsonaronarecord_h 
+
+Lemmas in this text that loaded on the factor:
+
+fake
+news
+vivo

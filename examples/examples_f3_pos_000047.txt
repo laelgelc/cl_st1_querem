@@ -1,0 +1,19 @@
+file = t004141
+date = 2019-06-27
+user = gleisi
+conversation = 31139434
+URL = https://twitter.com/gleisi/status/1144208031888150528
+
+word count = 46
+words loading = 2
+factor score = 2
+
+Prisão do sargento na Espanha com 39 kilos de cocaína, q estava no **avião** 
+da comitiva de Bolsonaro repercutiu muito internacionalmente. O caso é 
+constrangedor p / o país, mostra desorganização e frouxidão do governo e 
+possível contaminação de setores das Forças Armadas c / o **tráfico** 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+tráfico

@@ -1,0 +1,18 @@
+file = t001641
+date = 2018-09-29
+user = ecorreiafilho
+conversation = 150860267
+URL = https://twitter.com/ecorreiafilho/status/1046179927442288641
+
+word count = 23
+words loading = 2
+factor score = -2
+
+RT @JosAntn72824116 : Brasil, onde a democracia acabou. Se você apóia HASHTAG 
+#bolsonaro_h, as **pessoas** te **chamam** de louco ( s ) . E quem apóia 
+ladrão com … 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+pessoa

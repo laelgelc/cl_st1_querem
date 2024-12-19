@@ -1,0 +1,19 @@
+file = t011234
+date = 2021-04-29
+user = serafinipsol
+conversation = 168155564
+URL = https://twitter.com/serafinipsol/status/1387810515833999360
+
+word count = 26
+words loading = 3
+factor score = -3
+
+**Chegamos** a **triste** marca de 400 mil mortos por **Covid** . São 400 mil 
+famílias chorando seus entes queridos e um único responsável pela tragédia: 
+Bolsonaro! 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+covid
+triste

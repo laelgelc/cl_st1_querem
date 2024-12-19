@@ -1,0 +1,22 @@
+file = t010435
+date = 2021-03-30
+user = reporterenato
+conversation = 59150875
+URL = https://twitter.com/reporterenato/status/1377021752786698240
+
+word count = 44
+words loading = 4
+factor score = 4
+
+URGENTE: Em seu primeiro **ato** , ministro da **Defesa** , Braga Netto, afirma 
+que **golpe** **militar** de 64 deve ser celebrado, e teve o apoio dos " 
+brasileiros " , da " imprensa " , " lideranças políticas e igrejas " . As 
+Forças Armadas acabaram assumindo a responsabilidade de pacificar o País " , 
+disse 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+defesa
+golpe
+militar

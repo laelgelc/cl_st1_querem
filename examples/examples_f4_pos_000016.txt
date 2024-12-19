@@ -1,0 +1,21 @@
+file = t010762
+date = 2021-03-30
+user = southaferreira
+conversation = 995054095542177792
+URL = https://twitter.com/southaferreira/status/1376940515204214793
+
+word count = 42
+words loading = 4
+factor score = 4
+
+BOLSONARO É UM RISCO PARA **DEMOCRACIA** ! Pela primeira vez na história, os 
+três **comandantes** das Forças Armadas, Aeronáutica, Exército e Marinha, 
+entregaram o cargo em **protesto** contra o presidente. Os **comandantes** 
+afirmaram que não vão **participar** de aventuras golpistas com Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+comandante
+democracia
+participar
+protesto

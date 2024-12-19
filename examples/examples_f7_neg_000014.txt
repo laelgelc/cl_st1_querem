@@ -1,0 +1,17 @@
+file = t003112
+date = 2019-02-27
+user = tialilucas
+conversation = 1088629745598771200
+URL = https://twitter.com/tialilucas/status/1100894166966517760
+
+word count = 19
+words loading = 2
+factor score = -2
+
+RT @MarceloFreixo: @soares_ud Faço, sim. Olha só , enquanto a família estava 
+homenageando **milicianos** , eu estava presidindo a **CPI** das Milícia … 
+
+Lemmas in this text that loaded on the factor:
+
+cpi
+miliciano

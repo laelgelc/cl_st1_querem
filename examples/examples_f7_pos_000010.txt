@@ -1,0 +1,22 @@
+file = t002946
+date = 2019-01-30
+user = TiagoSullevan
+conversation = 922559163124862977
+URL = https://twitter.com/TiagoSullevan/status/1090636815428657153
+
+word count = 49
+words loading = 4
+factor score = 4
+
+@SousaDarezzo @partidonovo30 @CanalDoOtario " **conservadores** nos 
+**costumes** " , isso era uma opinião pessoal do Amoêdo, não reflete todo um 
+partido. . . O Bolsonaro é **conservador** nos **costumes** FERRENHO e o 
+partido dele é dito como **liberal** . . . E aí ? Shaushah Ele representa 
+TODO o partido? Aliás, o Amoêdo defende a liberdade **individual** 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+individual
+liberal

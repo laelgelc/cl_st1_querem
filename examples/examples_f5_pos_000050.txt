@@ -1,0 +1,21 @@
+file = t013950
+date = 2022-01-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1487756619991629824
+
+word count = 47
+words loading = 4
+factor score = 4
+
+5 . A liberação em massa de **armamento** pesado para **civis** fragiliza o 
+monopólio da força exercido pelo Estado. Bolsonaro quer que o poder da 
+**bala** esteja acima do poder da **lei** . Ele não esconde o desejo de 
+repetir no Brasil uma versão mais violenta da invasão do Capitólio. 
+
+Lemmas in this text that loaded on the factor:
+
+armamento
+bala
+civil
+lei

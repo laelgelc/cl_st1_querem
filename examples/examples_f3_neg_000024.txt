@@ -1,0 +1,20 @@
+file = t001188
+date = 2018-07-30
+user = roddysta
+conversation = 323217328
+URL = https://twitter.com/roddysta/status/1024001018881867777
+
+word count = 35
+words loading = 3
+factor score = -3
+
+@asupernovaa Só um País q vive sem **ditadura** pode dar **liberdade** aos 
+seus habitantes ao ponto de alguém apoiar um Bolsonaro. Parece até fake news 
+ver notícia de **apoio** ao se lembrar de Bolsonaro grimacing_face_e 
+grimacing_face_e grimacing_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+ditadura
+liberdade

@@ -1,0 +1,22 @@
+file = t005936
+date = 2020-01-30
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/1222631202554896392
+
+word count = 48
+words loading = 4
+factor score = -3
+
+@jrguzzofatos Ele foi demitido por ser desalinhado ideologicamente, por 
+desautorizar o Bolsonaro em público e nos bastidores, por destoar da agenda 
+**eleita** . Eu diria que Jair Bolsonaro é **conservador** e cristão como a 
+maioria do povo, **direita** raiz, e que o Sant0s Cruz é isentão ( nova 
+**esquerda** ) . 
+
+Lemmas in this text that loaded on the factor:
+
+conservador (secondary)
+direito
+eleger
+esquerda

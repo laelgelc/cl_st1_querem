@@ -1,0 +1,21 @@
+file = t012616
+date = 2021-09-29
+user = prestes_jacira
+conversation = 1146171698317803522
+URL = https://twitter.com/prestes_jacira/status/1443220967380201472
+
+word count = 52
+words loading = 2
+factor score = -2
+
+@Jacariana @ECantanhede Pois é esses gênios é que estão tentando 
+desconstruir o governo Bolsonaro woman_facepalming_e see-no-evil_monkey_e mas 
+de certa forma deixaram escancarado o tipo de gente que foi elevado ao 
+**cargo** de **senador** da república, meu Deus face_with_rolling_eyes_e 
+face_screaming_in_fear_e por isso nosso país estava indo ao fundo do poço. 
+Tem gente que vota nisso aí clown_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+senador

@@ -1,0 +1,18 @@
+file = t003585
+date = 2019-04-29
+user = Jacck13
+conversation = 58500178
+URL = https://twitter.com/Jacck13/status/1123010625481867264
+
+word count = 17
+words loading = 3
+factor score = -2
+
+Alguém **põem** uma fita na **boca** do Bolsonaro, esse Bozo caga pela 
+**boca** , Deus do **céu** 
+
+Lemmas in this text that loaded on the factor:
+
+boca
+céu (secondary)
+pôr

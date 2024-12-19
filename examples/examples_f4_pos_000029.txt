@@ -1,0 +1,21 @@
+file = t010264
+date = 2021-03-30
+user = erikakokay
+conversation = 87021796
+URL = https://twitter.com/erikakokay/status/1376879018004377606
+
+word count = 49
+words loading = 4
+factor score = 4
+
+É gravíssima a revelação de que Azevedo foi **demitido** do ministério da 
+**Defesa** por se negar a usar as Forças Armadas para pressionar o Congresso a 
+aprovar Estado de Sítio. Não vamos tolerar estado de exceção, Bolsonaro. A 
+**oposição** está de pé p / resistir em **defesa** da **democracia** . 
+
+Lemmas in this text that loaded on the factor:
+
+defesa
+demitir
+democracia
+oposição

@@ -1,0 +1,19 @@
+file = t004028
+date = 2019-06-28
+user = VillaMarcovilla
+conversation = 3021556996
+URL = https://twitter.com/VillaMarcovilla/status/1144589725086433280
+
+word count = 26
+words loading = 2
+factor score = 2
+
+Bolsonaro denunciou mais uma armação no **avião** **presidencial** . Além 
+da cocaína teria sido encontrado um livro em seu nome. HASHTAG 
+#marcoantoniovilla_h HASHTAG #bolsonaro_h HASHTAG #g20_h HASHTAG 
+#aviaopresidencial_h HASHTAG #drogas_h HASHTAG #livros_h 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+presidencial

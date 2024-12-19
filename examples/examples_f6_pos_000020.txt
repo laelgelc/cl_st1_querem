@@ -1,0 +1,21 @@
+file = t017672
+date = 2022-09-23
+user = zerotoledo
+conversation = 41660842
+URL = https://twitter.com/zerotoledo/status/1573315952627924994
+
+word count = 39
+words loading = 4
+factor score = 3
+
+O clã Bolsonaro não quer que você leia as reportagens do UOL sobre como a 
+família usou dinheiro **vivo** para **comprar** **imóveis** . A censura veio 
+diretamente de Brasília. Será que é por serem muitos **imóveis** 
+**envolvendo** muito dinheiro? 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+envolver
+imóvel
+vivo (secondary)

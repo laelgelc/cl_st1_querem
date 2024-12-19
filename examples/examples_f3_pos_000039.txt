@@ -1,0 +1,18 @@
+file = t010294
+date = 2021-03-30
+user = diancarlos10
+conversation = 2461177233
+URL = https://twitter.com/diancarlos10/status/1376920719603433472
+
+word count = 23
+words loading = 2
+factor score = 2
+
+@Bispinhoz @Reisconservador @KimKataguiri Mesmo com os **gastos** com 
+**aviões** os **gastos** estão na média com os outros presidente essa 
+narrativa não cola 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+gasto

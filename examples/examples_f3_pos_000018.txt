@@ -1,0 +1,21 @@
+file = t017321
+date = 2022-08-30
+user = AllSalvad
+conversation = 954725843326132224
+URL = https://twitter.com/AllSalvad/status/1564756891288436736
+
+word count = 32
+words loading = 4
+factor score = 2
+
+Bolsonaro e filhos compraram 107 **imóveis** , 51 pagos em dinheiro; Haddad 
+pede prisão **Reportagem** **publicada** nesta terça-feira revela que metade 
+do **patrimônio** em **imóveis** da família Bolsonaro foi adquirida com 
+dinheiro vivo 
+
+Lemmas in this text that loaded on the factor:
+
+imóvel (secondary)
+patrimônio
+publicar (secondary)
+reportagem

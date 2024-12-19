@@ -1,0 +1,20 @@
+file = t016374
+date = 2022-07-30
+user = Ed61897233
+conversation = 1103409426457915396
+URL = https://twitter.com/Ed61897233/status/1553525027965997056
+
+word count = 24
+words loading = 4
+factor score = 4
+
+RT @QuebrandoOTabu: Bolsonaro flexibilizou o **acesso** a **armas** sob o 
+argumento de que estaria **armando** o " **cidadão** de bem " contra o crime. 
+A rea … 
+
+Lemmas in this text that loaded on the factor:
+
+acesso
+arma
+armar
+cidadão

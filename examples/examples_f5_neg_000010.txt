@@ -1,0 +1,17 @@
+file = t000391
+date = 2018-04-28
+user = PedroH_san
+conversation = 2315837628
+URL = https://twitter.com/PedroH_san/status/989924922666307585
+
+word count = 22
+words loading = 2
+factor score = -2
+
+@kammuy @acabraquele @CdNLeon Sim, por isso não creio em **salvadores** da 
+**pátria** ( Bolsonaro ) , acho que a mudança no congresso é primordial. 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

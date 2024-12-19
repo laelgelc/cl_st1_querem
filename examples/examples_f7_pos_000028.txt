@@ -1,0 +1,20 @@
+file = t015404
+date = 2022-04-29
+user = Silva29020432
+conversation = 1513861257027362816
+URL = https://twitter.com/Silva29020432/status/1520160110856785926
+
+word count = 20
+words loading = 4
+factor score = 3
+
+RT @rosikasanostra: @FernandoSorgi Além disso, fico feliz ao ver " Professor 
+de **Economia** da UENP. **Conservador** . De **direita** e **liberal** . 
+Fechado … 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+economia (secondary)
+liberal

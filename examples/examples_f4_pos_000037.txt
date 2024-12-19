@@ -1,0 +1,20 @@
+file = t018825
+date = 2022-12-30
+user = lucianolrk
+conversation = 136869185
+URL = https://twitter.com/lucianolrk/status/1608867992619864064
+
+word count = 44
+words loading = 3
+factor score = 3
+
+@lcfontes84 @LeoMaranhao22 Caro Luís FFAA são Institução de Estado Não de 
+Gov Nunca houve motivo p **golpe** / **intervenção** ( não houve fraude nas 
+urnas ) Exatamente o oposto: se Bolso tivesse ouvido os **militares** e menos 
+seus filhos bitolados teria sido reeleito Povo escolheu Luladrão + 
+
+Lemmas in this text that loaded on the factor:
+
+golpe
+intervenção
+militar

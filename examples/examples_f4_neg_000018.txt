@@ -1,0 +1,19 @@
+file = t004272
+date = 2019-07-30
+user = osidius
+conversation = 14649317
+URL = https://twitter.com/osidius/status/1156200014059835392
+
+word count = 27
+words loading = 3
+factor score = -3
+
+@KorffQuelli @randolfeap @marcelvanhattem @tarcisiogdf quer que flávio 
+bolsonaro vá pra cadeia, mas o papai não? hahahahaha pelo **amor** de 
+**deus** , vocês não têm vergonha na **cara** ? 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cara
+deus

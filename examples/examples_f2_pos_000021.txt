@@ -1,0 +1,22 @@
+file = t006274
+date = 2020-03-30
+user = erikakokay
+conversation = 87021796
+URL = https://twitter.com/erikakokay/status/1244743302982795266
+
+word count = 44
+words loading = 5
+factor score = 5
+
+**APROVADA** Renda **básica** **emergencial** no Senado. Bolsonaro, que não 
+fez nada até aqui, tem a obrigação de sancionar e começar a **pagar** o 
+mais rápido possível o **benefício** de R$ 600 ou R$ 1 , 2 mil às 
+famílias. A fome não espera! HASHTAG #pagalogobolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+benefício
+básico
+emergencial
+pagar

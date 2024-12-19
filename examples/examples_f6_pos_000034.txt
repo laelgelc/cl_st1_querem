@@ -1,0 +1,19 @@
+file = t017188
+date = 2022-08-30
+user = Socorrofpb
+conversation = 2730557166
+URL = https://twitter.com/Socorrofpb/status/1564760071657111555
+
+word count = 19
+words loading = 4
+factor score = 3
+
+Esperando o tuite do jornalista sobre a **corrupção** da Família Bolsonaro 
+que **compra** **imóveis** com dinheiro **vivo** . @GloboNews 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+imóvel
+vivo (secondary)

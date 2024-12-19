@@ -1,0 +1,22 @@
+file = t015108
+date = 2022-04-29
+user = jjunior19715870
+conversation = 1258884840725925888
+URL = https://twitter.com/jjunior19715870/status/1519970629075800064
+
+word count = 31
+words loading = 5
+factor score = -4
+
+@BlogdoNoblat Bolsonaro **reeleito** 1 turno. Nunca foi tão fácil 
+**escolher** entre **liberdade** , **democracia** , família e Pátria versos 
+corrupção, **ditadura** , mentirosos e oportunistas. Comunismo não cabe mais 
+no Brasil " povo amadureceu " . 
+
+Lemmas in this text that loaded on the factor:
+
+democracia (secondary)
+ditadura
+escolher
+liberdade
+reeleger

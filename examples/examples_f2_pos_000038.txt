@@ -1,0 +1,21 @@
+file = t013505
+date = 2021-11-29
+user = pstu
+conversation = 26250547
+URL = https://twitter.com/pstu/status/1465310073211678727
+
+word count = 43
+words loading = 4
+factor score = 4
+
+OPINIÃO SOCIALISTA - Sem auxílio-emergencial, extinto por Bolsonaro e que 
+deixa algo como 22 **milhões** à míngua, sem **emprego** e com uma 
+precarização cada vez maior, as cenas das filas por ossos e de famílias 
+buscando alimento no lixo devem se repetir em 2022 
+
+Lemmas in this text that loaded on the factor:
+
+auxílio
+emergencial
+emprego
+milhão

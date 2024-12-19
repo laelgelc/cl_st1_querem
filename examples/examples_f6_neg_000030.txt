@@ -1,0 +1,20 @@
+file = t001256
+date = 2018-08-29
+user = hoxseason
+conversation = 946964319106977792
+URL = https://twitter.com/hoxseason/status/1034592597325565952
+
+word count = 52
+words loading = 3
+factor score = -2
+
+a minha família **tava** assistindo a entrevista do bolsonaro **ai** meu pai 
+solta um " é verdade o q ele disse, é uma decepção ver o filho virando 
+**gay** " eu fiquei com tanta raiva q respondi sem pensar duas vez " isso não 
+é vergonha não, vergonha é ser homofóbico igual o senhor " 
+
+Lemmas in this text that loaded on the factor:
+
+ai (secondary)
+gay
+tava

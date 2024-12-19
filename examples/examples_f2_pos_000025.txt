@@ -1,0 +1,22 @@
+file = t020449
+date = 2023-04-29
+user = Juju89100152
+conversation = 1522258846475034626
+URL = https://twitter.com/Juju89100152/status/1651022795814449156
+
+word count = 58
+words loading = 4
+factor score = 4
+
+@augustobort @miquerinus @peterjordan100 @helio_rn2011 Mas pra gado igual a vc, 
+está bom, o importante é q o amor venceu, mesmo ele saindo muito caro. . Já 
+aproveita pra fazer seu **imposto** de **renda** pq seu ladrão mentiu q ia 
+isentar o **pobre** , nem money_bag_e da picanha vai ter, o negócio é picanha 
+de jack-o-lantern_e comprado com os 18 conto de **aumento** smirking_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+aumento
+imposto
+pobre
+renda

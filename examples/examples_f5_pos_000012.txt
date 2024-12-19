@@ -1,0 +1,19 @@
+file = t002862
+date = 2019-01-30
+user = grfavoritos
+conversation = 1884183840
+URL = https://twitter.com/grfavoritos/status/1090723590356516864
+
+word count = 11
+words loading = 5
+factor score = 5
+
+Bolsonaro assina **decreto** que **facilita** **posse** de **arma** de **fogo** 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+decreto
+facilitar
+fogo
+posse

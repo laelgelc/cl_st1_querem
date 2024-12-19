@@ -1,0 +1,17 @@
+file = t001484
+date = 2018-08-30
+user = AnitaEscAltF4
+conversation = 18786201
+URL = https://twitter.com/AnitaEscAltF4/status/1035276083690651648
+
+word count = 19
+words loading = 2
+factor score = -2
+
+RT @psol50 : URGENTE - **apoiador** de Bolsonaro **puxa** arma contra 
+colaboradora da campanha do PSOL em SP. Leia: https: / / … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiador
+puxar

@@ -1,0 +1,19 @@
+file = t003980
+date = 2019-06-29
+user = JefinhoMenes
+conversation = 357200663
+URL = https://twitter.com/JefinhoMenes/status/1145106891439312897
+
+word count = 48
+words loading = 2
+factor score = 2
+
+Deixa eu contar um segredo pra vocês: Bolsonaro bate tanto no auxílio 
+reclusão, mas sabe o traficante do **avião** **presidencial** ? Essa reforma 
+da previdência é tão boa para os militares que, após ele ser expulso, a 
+família dele vai receber pensão com salário integral até ele morrer. 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+presidencial

@@ -1,0 +1,22 @@
+file = t000833
+date = 2018-06-29
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/1012734742737932290
+
+word count = 48
+words loading = 4
+factor score = -2
+
+@consultor_de @RevistaEpoca @brunodegoes Jair Bolsonaro, tem **projeto** na 
+outra ponta, pro dono da arma registrada que for pego fazendo besteira. PL – 
+4730 / 2016 – Esse **projeto** de **lei** visa incluir no rol dos **crimes** 
+hediondos aqueles dolosos, praticados com arma de fogo, mediante violência ou 
+grave ameaça à **pessoa** . 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+lei (secondary)
+pessoa
+projeto (secondary)

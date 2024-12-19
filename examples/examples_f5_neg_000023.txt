@@ -1,0 +1,18 @@
+file = t001673
+date = 2018-09-29
+user = mvitorodrigues
+conversation = 345524427
+URL = https://twitter.com/mvitorodrigues/status/1045870547966599174
+
+word count = 39
+words loading = 2
+factor score = -2
+
+Pois, repito, a derrota está sacramentada. O PT conseguiu se livrar de Dilma, 
+sair como vítima e voltar no papel de **salvador** da **pátria** . O PT pariu 
+Bolsonaro e se livrará dele como se fosse um rebento indesejado. 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

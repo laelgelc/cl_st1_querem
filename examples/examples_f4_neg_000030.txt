@@ -1,0 +1,21 @@
+file = t007886
+date = 2020-07-30
+user = LuciPacheco10
+conversation = 1158133431756316677
+URL = https://twitter.com/LuciPacheco10/status/1288868699802406912
+
+word count = 50
+words loading = 3
+factor score = -3
+
+@LulaOficial Deixe de ser hipocrita seu **ladrão** . Além dessa foto ser uma 
+montagem mal feita, ninguém no Brasil era **feliz** na sua época como 
+presidente. Nós apenas respeitamos a escolha de uma minoria, embora às urnas 
+devem ter **roubado** na época. Agora sim somos um povo **feliz** com 
+Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+feliz
+ladrão
+roubar

@@ -1,0 +1,17 @@
+file = t019987
+date = 2023-03-30
+user = ProfZeGotinha
+conversation = 1000145313959677952
+URL = https://twitter.com/ProfZeGotinha/status/1641389621291393024
+
+word count = 18
+words loading = 2
+factor score = 2
+
+@RTdoBrasil @jairbolsonaro Tudo **joia** ou tem cocaína da Muzema no 
+**avião** . . . . BOLSONARO O MAIOR LADRÃO DO PAÍS. . . 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+joia

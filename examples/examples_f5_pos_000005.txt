@@ -1,0 +1,24 @@
+file = t000289
+date = 2018-04-29
+user = SidneiAmaral10
+conversation = 329055569
+URL = https://twitter.com/SidneiAmaral10/status/990594822686892040
+
+word count = 47
+words loading = 6
+factor score = 6
+
+@rbanffy @papa_creed @policiafederal 1 . Se me chamar pessoalmente de fascista 
+serás processado. 2 . Como **armas** são proibidas para a **população** , 
+acredito que no acampamento dos coitados sem terra ninguém esteja **armado** . 
+3 . Pessoas que votam no Bolsonaro cumprem a **lei** e não **andam** com 
+**armas** sem **porte** . 
+
+Lemmas in this text that loaded on the factor:
+
+andar
+arma
+armar
+lei
+população
+porte

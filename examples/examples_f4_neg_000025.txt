@@ -1,0 +1,20 @@
+file = t006332
+date = 2020-03-30
+user = jumoraeees
+conversation = 766881241
+URL = https://twitter.com/jumoraeees/status/1244690207632437253
+
+word count = 38
+words loading = 3
+factor score = -3
+
+@Celicealvespa @viniciussexto @Ezelimafoz73 Meu **Deus** , tinha que ser 
+bolsominion pra acreditar em fake News. Amada, tá na **cara** q isso é falso? 
+Pelo **amor** de **deus** , inteligencia passou longe né KKKKKKKKKKKK explica 
+-se porque é eleitora do Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cara
+deus

@@ -1,0 +1,20 @@
+file = t007783
+date = 2020-07-29
+user = tabataamaralsp
+conversation = 1001251931812220928
+URL = https://twitter.com/tabataamaralsp/status/1288584321595564034
+
+word count = 44
+words loading = 3
+factor score = -2
+
+Bolsonaro vetou o PL que ampliava as possibilidades para famílias 
+monoparentais **receberem** o auxilio emergencial, prejudicando as crianças. O 
+PL priorizava **mães** solo e permitia que **pais** solo **recebessem** em 
+dobro, como é o caso das **mães** solo. Vamos derrubar esse veto absurdo! 
+
+Lemmas in this text that loaded on the factor:
+
+mãe
+pai (secondary)
+receber

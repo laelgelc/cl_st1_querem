@@ -1,0 +1,20 @@
+file = t006166
+date = 2020-02-28
+user = BuzzFeedNewsBR
+conversation = 771381237436915712
+URL = https://twitter.com/BuzzFeedNewsBR/status/1233507683615023109
+
+word count = 49
+words loading = 3
+factor score = -3
+
+Eles falaram que Hitler devia ter **matado** mais judeus. Meu quipá **caiu** 
+no chão. Um deles pegou o quipá e o outro o cortou com um canivete. Ele disse 
+que a próxima vez que me encontrassem seria pior. Eu fiquei no chão, 
+sangrando. Nada foi **roubado** da vítima. 
+
+Lemmas in this text that loaded on the factor:
+
+cair
+matar
+roubar

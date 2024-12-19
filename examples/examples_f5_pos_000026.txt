@@ -1,0 +1,22 @@
+file = t002229
+date = 2018-12-29
+user = Florisrs
+conversation = 404225913
+URL = https://twitter.com/Florisrs/status/1079083699059286016
+
+word count = 49
+words loading = 5
+factor score = 5
+
+Lula quando ia tomar **posse** anunciou como grande desafio acabar com a fome e 
+combater a miséria. Isto é se preocupar com a vida Já Bolsonaro anuncia que 
+vai **facilitar** **porte** de **armas** por **decreto** . Isto para levar as 
+pessoas a morte! Que diferença de postura. Lula livre! ! 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+decreto
+facilitar
+porte
+posse

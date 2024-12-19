@@ -1,0 +1,22 @@
+file = t017128
+date = 2022-08-28
+user = julianadalpiva
+conversation = 28217833
+URL = https://twitter.com/julianadalpiva/status/1564038256810987520
+
+word count = 43
+words loading = 4
+factor score = 3
+
+Quero ver se algum candidato vai ter coragem de perguntar sobre os casos de 
+**corrupção** da família Bolsonaro? Vão perguntar dos **imóveis** 
+**comprados** em dinheiro **vivo** ? Dos cheques que Queiroz depositou para 
+Michelle? O assunto sempre tirou Bolsonaro do sério. HASHTAG #debatenaband_h 
+HASHTAG #debatenouol_h 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+imóvel
+vivo (secondary)

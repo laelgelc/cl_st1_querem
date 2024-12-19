@@ -1,0 +1,21 @@
+file = t019961
+date = 2023-03-30
+user = _Janoninho
+conversation = 1563897907446747136
+URL = https://twitter.com/_Janoninho/status/1641528637160562708
+
+word count = 30
+words loading = 5
+factor score = 4
+
+O ladrão de joias caçando **carro** **blindado** , sendo que foi ele que 
+**armou** a **população** . Que se defenda sozinho com suas **armas** . Faz 
+arminha com a mão BOLSONARO PRESO 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+armar
+blindar (secondary)
+carro
+população

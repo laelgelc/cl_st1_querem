@@ -1,0 +1,19 @@
+file = t017676
+date = 2022-09-28
+user = LeonelRadde
+conversation = 35268237
+URL = https://twitter.com/LeonelRadde/status/1574945197632339969
+
+word count = 50
+words loading = 2
+factor score = 2
+
+A jornalista da Jovem Klan que chamou a Janja de maconheira só esqueceu de 
+dizer que a Michelle Bolsonaro teve a avó presa por **tráfico** de drogas, a 
+mãe acusada de falsificação, o **tio** preso por ser miliciano e o outro 
+**tio** foragido por pedofilia. A tradicional família brasileira. 
+
+Lemmas in this text that loaded on the factor:
+
+tio
+tráfico

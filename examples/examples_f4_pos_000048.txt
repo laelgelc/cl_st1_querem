@@ -1,0 +1,20 @@
+file = t015391
+date = 2022-04-29
+user = LRobertoLeitao
+conversation = 711681826201477120
+URL = https://twitter.com/LRobertoLeitao/status/1520158777865089024
+
+word count = 40
+words loading = 3
+factor score = 3
+
+ENQUETE – OS PINGOS NOS IS – Você **participará** das manifestações de 
+1º de Maio pela liberdade flag_brazil_e? Avenida Paulista receberá apoiadores 
+de Bolsonaro para **ato** em favor da liberdade de **expressão** e em apoio ao 
+indulto concedido ao deputado Daniel Silveira 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+expressão
+participar

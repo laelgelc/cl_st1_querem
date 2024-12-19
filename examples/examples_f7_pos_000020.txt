@@ -1,0 +1,18 @@
+file = t019539
+date = 2023-02-27
+user = Paulapucca1
+conversation = 1207376427135492099
+URL = https://twitter.com/Paulapucca1/status/1630355826798911491
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @Oliveira13_L: Viram pessoal da **direita** **conservadora** da moral e bons 
+**costumes** falar sobre os casos de trabalho escravo no Sul? Só lembra … 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+direita

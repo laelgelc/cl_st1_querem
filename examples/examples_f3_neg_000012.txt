@@ -1,0 +1,23 @@
+file = t014812
+date = 2022-03-30
+user = SandraR27576720
+conversation = 940965559511941122
+URL = https://twitter.com/SandraR27576720/status/1509282884145881092
+
+word count = 47
+words loading = 5
+factor score = -4
+
+@UOLNoticias Meu Deus! O presidente Bolsonaro sempre querendo fazer tudo pela 
+**força** e violência, por falta de conhecimento e discernimento para 
+governar o Brasil. Ele desde **eleito** , **escolhe** como caminho de governo, 
+ficar **armando** de tudo e a todos, agora, pra ser **reeleito** de qualquer 
+jeito. 
+
+Lemmas in this text that loaded on the factor:
+
+armar (secondary)
+eleger
+escolher
+força
+reeleger

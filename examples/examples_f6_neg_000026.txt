@@ -1,0 +1,18 @@
+file = t001162
+date = 2018-07-30
+user = tininhasouzarj
+conversation = 822908649047785473
+URL = https://twitter.com/tininhasouzarj/status/1024025201682640898
+
+word count = 25
+words loading = 2
+factor score = -2
+
+Essa é a esquerda, se vc concorda não vote em Bolsonaro, nossa **bandeira** 
+nunca será **vermelha** flag_brazil_e flag_brazil_e flag_brazil_e Comunistas 
+queimando a **bandeira** do Brasil. . . via @YouTube 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+vermelho

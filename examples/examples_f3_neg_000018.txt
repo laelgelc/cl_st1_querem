@@ -1,0 +1,22 @@
+file = t018814
+date = 2022-12-30
+user = marcelvanhattem
+conversation = 21069302
+URL = https://twitter.com/marcelvanhattem/status/1608964031771217922
+
+word count = 41
+words loading = 5
+factor score = -4
+
+É preciso muita organização, **forte** e corajosa resistência na última e 
+mais frondosa trincheira de uma **democracia** : a representação popular 
+**eleita** no Congresso. A defesa da **liberdade** não pode esmorecer jamais, 
+sobretudo contra seus mais terríveis **inimigos** . Conte sempre comigo! 
+
+Lemmas in this text that loaded on the factor:
+
+democracia (secondary)
+eleger
+forte
+inimigo
+liberdade

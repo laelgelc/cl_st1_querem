@@ -1,0 +1,18 @@
+file = t006392
+date = 2020-03-30
+user = facadabot
+conversation = 1193675541519519744
+URL = https://twitter.com/facadabot/status/1244771200435445760
+
+word count = 20
+words loading = 3
+factor score = -3
+
+RT @lcnutella: nunca vi um **cara** puxar tanto o saco de bolsonaro igual meu 
+**pai** doido, **deus** me livre 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+deus
+pai

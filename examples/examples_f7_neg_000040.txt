@@ -1,0 +1,19 @@
+file = t010168
+date = 2021-02-27
+user = Sonaira_sp
+conversation = 1285299871340167173
+URL = https://twitter.com/Sonaira_sp/status/1365776051218108427
+
+word count = 39
+words loading = 2
+factor score = -2
+
+**Recebemos** em nosso **gabinete** comerciantes da região do centro para 
+articular ações em defesa da liberdade e do trabalho. E ainda tivemos a 
+visita dos deputados federais Eduardo Bolsonaro, Roberto de Lucena e o deputado 
+estadual Gil Diniz. 
+
+Lemmas in this text that loaded on the factor:
+
+gabinete
+receber

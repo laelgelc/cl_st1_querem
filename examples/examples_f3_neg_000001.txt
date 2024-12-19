@@ -1,0 +1,22 @@
+file = t012201
+date = 2021-08-30
+user = LulaDias4
+conversation = 1146485363852140551
+URL = https://twitter.com/LulaDias4/status/1432467773158998019
+
+word count = 36
+words loading = 5
+factor score = -5
+
+Ladrão te rouba dinheiro, carro, celular e relógio. Bolsonaro tá te roubando 
+felicidade, **saúde** , **educação** , segurança, paz, emprego e dignidade. 
+O fato é q o **primeiro** te **escolhe** , mas o **segundo** foi vc quem 
+**escolheu** . 
+
+Lemmas in this text that loaded on the factor:
+
+educação
+escolher
+primeiro
+saúde
+segundo

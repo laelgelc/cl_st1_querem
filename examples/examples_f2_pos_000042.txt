@@ -1,0 +1,21 @@
+file = t012876
+date = 2021-10-30
+user = guimaraes13PT
+conversation = 49696756
+URL = https://twitter.com/guimaraes13PT/status/1454474797237297161
+
+word count = 50
+words loading = 4
+factor score = 4
+
+Do dia p / noite o Brasil não tem mais o Bolsa Família, nem o Minha Casa 
+Minha Vida, nem o Mais Médicos … E tantos outros **programas** de inclusão 
+social e distribuição de **renda** sufocados por Bolsonaro e seu clã ! O 
+resultado? Quase 30 **milhões** vivendo na extrema **pobreza** . Dilma avisou! 
+
+Lemmas in this text that loaded on the factor:
+
+milhão
+pobreza
+programa
+renda

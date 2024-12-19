@@ -1,0 +1,20 @@
+file = t016467
+date = 2022-07-30
+user = Metropoles
+conversation = 3331429624
+URL = https://twitter.com/Metropoles/status/1553519557855289345
+
+word count = 33
+words loading = 3
+factor score = 3
+
+right_arrow_e Bolsonaro diz que fará desfile **militar** no Rio em 7 de 
+**Setembro** O presidente afirmou que irá " inovar " neste ano e 
+**participará** da comemoração em Copacabana, ao lado das Forças Armadas. 
+Leia: 
+
+Lemmas in this text that loaded on the factor:
+
+militar
+participar
+setembro

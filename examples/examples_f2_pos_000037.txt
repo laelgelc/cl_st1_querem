@@ -1,0 +1,21 @@
+file = t013551
+date = 2021-12-30
+user = amandafaudi
+conversation = 971415379103842304
+URL = https://twitter.com/amandafaudi/status/1476547594230894595
+
+word count = 49
+words loading = 4
+factor score = 4
+
+É difícil de entender quando se diz que Bolsonaro " **aprovou** com vetos " 
+alguma lei. De forma simplificada, os vetos do Auxílio Brasil permitem que ele 
+NÃO **PAGUE** o **benefício** para TODAS as famílias que se encaixam nos 
+critérios de **pobreza** e extrema **pobreza** . Vai sobrar gente na fila. 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+benefício
+pagar
+pobreza

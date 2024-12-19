@@ -1,0 +1,20 @@
+file = t008133
+date = 2020-08-30
+user = felipelanhi
+conversation = 2520622946
+URL = https://twitter.com/felipelanhi/status/1300193468149575681
+
+word count = 44
+words loading = 3
+factor score = -2
+
+É fato: o único dinheiro público que o clã bolsonaro tinha controle, como 
+parlamentares, era a verba de **gabinete** e o **salário** dos assessores. 
+Coincidência que esse seja justamente o foco das investigações contra a 
+família de **milicianos** . A ocasião faz o ladrão. 
+
+Lemmas in this text that loaded on the factor:
+
+gabinete
+miliciano
+salário (secondary)

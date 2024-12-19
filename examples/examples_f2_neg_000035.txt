@@ -1,0 +1,19 @@
+file = t020272
+date = 2023-03-30
+user = vozesspaces
+conversation = 1484659618349469700
+URL = https://twitter.com/vozesspaces/status/1641574205241131008
+
+word count = 41
+words loading = 2
+factor score = -2
+
+flag_brazil_e 🫣BEM FEITO HASHTAG #vozesprogressistas_h Donald Trump primeiro 
+ex presidente dos EUA indiciado c acusação formal em caso de suborno a atriz 
+pornô Stormy Daniels. FBI investigou e tem provas robustas. O **amigo** do 
+Bolsonaro ladrão disse ser vítima de perseguição. Cuidado bozo eyes_e 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+bem

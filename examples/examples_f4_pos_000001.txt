@@ -1,0 +1,23 @@
+file = t010705
+date = 2021-03-30
+user = nelsonpaffi
+conversation = 1410119389
+URL = https://twitter.com/nelsonpaffi/status/1376987281089781764
+
+word count = 39
+words loading = 6
+factor score = 6
+
+A esquerda treme: " UOL **Comandantes** das Forças Armadas pedem **demissão** 
+em **protesto** contra Bolsonaro Inédita, **crise** **militar** é a maior 
+desde 1977 , mas fardados trabalham para baixar a temperatura " Foram 
+**demitidos** , não cumpriram o dever como deveria ser. 
+
+Lemmas in this text that loaded on the factor:
+
+comandante
+crise
+demissão
+demitir
+militar
+protesto

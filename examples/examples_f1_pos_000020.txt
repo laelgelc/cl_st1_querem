@@ -1,0 +1,21 @@
+file = t020079
+date = 2023-03-30
+user = LeberJucelia
+conversation = 1577002386694049828
+URL = https://twitter.com/LeberJucelia/status/1641549154240593920
+
+word count = 6
+words loading = 5
+factor score = 5
+
+@VanLiberdade Bem vindo presidente Bolsonaro **folded_hands_e** 
+place_of_worship_e **raising_hands_e** **folded_hands_e** **flag_brazil_e** 
+**green_heart_e** **yellow_heart_e** blue_heart_e white_heart_e 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+folded_hands_e
+green_heart_e
+raising_hands_e
+yellow_heart_e

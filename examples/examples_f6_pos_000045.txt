@@ -1,0 +1,20 @@
+file = t016967
+date = 2022-08-30
+user = lczmello
+conversation = 500217730
+URL = https://twitter.com/lczmello/status/1564763376563126278
+
+word count = 21
+words loading = 4
+factor score = 3
+
+RT @iriny_13 : Quantos minutos os 51 **imóveis** " Verde e Amarelo " da 
+família Bolsonaro, **comprados** com dinheiro **vivo** , vão ocupar na 
+**imprensa** br … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+imprensa
+imóvel
+vivo (secondary)

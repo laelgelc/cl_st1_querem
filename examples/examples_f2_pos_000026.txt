@@ -1,0 +1,23 @@
+file = t019801
+date = 2023-02-27
+user = NidiaMartinsCa1
+conversation = 1171937259085586434
+URL = https://twitter.com/NidiaMartinsCa1/status/1630330744483504128
+
+word count = 39
+words loading = 4
+factor score = 4
+
+Os brasileiros já sentem saudades de Bolsonaro! ! Em março volta o ICMS? ? 
+**Pobre** passa a **pagar** **imposto** de Renda. Muitos **benefícios** do 
+Bolsa família serão cortados? ? O que mais? ? O pior que o L vai fazer todos 
+**pagarem** . downcast_face_with_sweat_e downcast_face_with_sweat_e 
+tired_face_e weary_face_e tired_face_e loudly_crying_face_e 
+loudly_crying_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+benefício
+imposto
+pagar
+pobre

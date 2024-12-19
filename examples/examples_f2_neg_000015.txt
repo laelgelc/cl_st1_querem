@@ -1,0 +1,18 @@
+file = t008283
+date = 2020-09-29
+user = Pimenta13Br
+conversation = 22864100
+URL = https://twitter.com/Pimenta13Br/status/1311029388348133386
+
+word count = 23
+words loading = 2
+factor score = -2
+
+**Amigo** dos **amigos** : Equipe de Aras arquiva investigação sobre contas 
+que **ligam** família Bolsonaro ao gabinete do ódio - Clique para ver também 
+☛ 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+ligar

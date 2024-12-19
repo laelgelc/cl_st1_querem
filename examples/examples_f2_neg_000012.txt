@@ -1,0 +1,18 @@
+file = t006340
+date = 2020-03-30
+user = aguedescartoon
+conversation = 162453393
+URL = https://twitter.com/aguedescartoon/status/1244772834775351296
+
+word count = 31
+words loading = 2
+factor score = -2
+
+Arrotei na mesa na hora do jantar, cocei o saco na **frente** de uma senhora e 
+mandei o porteiro tomar no cu, **acho** que já posso ser chamado de 
+conservador 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+frente

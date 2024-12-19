@@ -1,0 +1,22 @@
+file = t015616
+date = 2022-05-30
+user = ptdeminas
+conversation = 88994803
+URL = https://twitter.com/ptdeminas/status/1531396282337488896
+
+word count = 39
+words loading = 4
+factor score = 4
+
+no_entry_e ️ Bolsonaro explode **renda** das famílias com sucessivos 
+**aumentos** do **gás** . cross_mark_e Em SP, mais **pobres** comprometem 11 % 
+da **renda** com **gás** de cozinha. No país, compras com supermercado 
+abocanham 60 % do dinheiro das classes D e E. mobile_phone_with_arrow_e Saiba 
+mais: 
+
+Lemmas in this text that loaded on the factor:
+
+aumento
+gás
+pobre
+renda

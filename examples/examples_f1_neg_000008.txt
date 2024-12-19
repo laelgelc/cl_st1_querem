@@ -1,0 +1,19 @@
+file = t005368
+date = 2019-12-30
+user = diariodpolitica
+conversation = 769751358681604097
+URL = https://twitter.com/diariodpolitica/status/1211789321826635778
+
+word count = 30
+words loading = 3
+factor score = -3
+
+@OlavoOpressor Um dos mais fiéis aliados de Bolsonaro, o Príncipe herdeiro da 
+Família Real **chamou** atenção para o fato do centrão ser o grupo 
+**político** que engana mais **pessoas** . 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+pessoa
+político

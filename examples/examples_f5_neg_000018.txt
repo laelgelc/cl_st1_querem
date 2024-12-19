@@ -1,0 +1,17 @@
+file = t001127
+date = 2018-07-30
+user = CanalDoOtario
+conversation = 548024965
+URL = https://twitter.com/CanalDoOtario/status/1023876455518937088
+
+word count = 19
+words loading = 2
+factor score = -2
+
+Pior é no Brasil, onde pintam burro de **salvador** da **pátria** . . . e o 
+povo ainda leva para casa. thinking_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

@@ -1,0 +1,18 @@
+file = t000572
+date = 2018-05-30
+user = lucassennav8
+conversation = 3314549550
+URL = https://twitter.com/lucassennav8/status/1001946636782882818
+
+word count = 32
+words loading = 2
+factor score = -2
+
+@JuMagalhaesBH As pessoas querem o **salvador** da **pátria** , eu vou votar 
+no Bolsonaro mas o problema é quem vota nele achando q ele é o **salvador** 
+do Brasil, não é assim. 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

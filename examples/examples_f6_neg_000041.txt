@@ -1,0 +1,18 @@
+file = t002326
+date = 2018-12-30
+user = mazafp
+conversation = 1057590782163607553
+URL = https://twitter.com/mazafp/status/1079155096557182976
+
+word count = 37
+words loading = 2
+factor score = -2
+
+@joseluisfreita2 Caro amigo com todo respeito nunca vi um **negro** parlamentar 
+tão submisso sem expressão sem carisma parece sim escravo do Bolsonaro pós 
+não vejo ele na comunidade **negra** e sim chupando o **saco** da família 
+
+Lemmas in this text that loaded on the factor:
+
+negro
+saco

@@ -1,0 +1,23 @@
+file = t016975
+date = 2022-08-30
+user = taliriapetrone
+conversation = 103704608
+URL = https://twitter.com/taliriapetrone/status/1564602377944145920
+
+word count = 36
+words loading = 6
+factor score = 4
+
+O dia mal começou e temos dois **escândalos** **envolvendo** a família 
+Bolsonaro: - **Compra** de 51 **imóveis** com dinheiro **VIVO** - Abin 
+atrapalhando investigações que **envolvem** Jair Renan É a família da 
+rachadinha e da **corrupção** escancarada! 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+corrupção
+envolver
+escândalo (secondary)
+imóvel
+vivo (secondary)

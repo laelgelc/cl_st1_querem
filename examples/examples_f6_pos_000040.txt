@@ -1,0 +1,21 @@
+file = t017032
+date = 2022-08-30
+user = pmrqs
+conversation = 41178162
+URL = https://twitter.com/pmrqs/status/1564596840997208067
+
+word count = 37
+words loading = 4
+factor score = 3
+
+@UOLNoticias Só espero que quem se indignou com a **compra** de um suposto 
+triplex, não vote naquele ( Bolsonaro ) e sua família que pagaram com 
+dinheiro **vivo** 107 **IMÓVEIS** , né ? Não era sobre **corrupção** e 
+imoralidade? ! thinking_face_e thinking_face_e HASHTAG #forabolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+corrupção
+imóvel
+vivo (secondary)

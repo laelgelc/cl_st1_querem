@@ -1,0 +1,20 @@
+file = t004053
+date = 2019-06-29
+user = EmilianoEsteve9
+conversation = 1051154839793741825
+URL = https://twitter.com/EmilianoEsteve9/status/1144805326065197066
+
+word count = 48
+words loading = 2
+factor score = 2
+
+@RaquelFragoso9 @ggreenwald @policiafederal @SF_Moro E me diga, como chegam 
+armas de guerra nas mãos das facções? Não vê que o traficantezinho de 
+favela é só a ponta do iceberg. O envolvimento do alto escalão é evidente, 
+vide os 39 kilinhos que foram passear na Espanha no **avião** **presidencial** 
+. 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+presidencial

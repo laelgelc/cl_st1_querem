@@ -1,0 +1,21 @@
+file = t015329
+date = 2022-04-29
+user = BrazilViro
+conversation = 1073626896875831296
+URL = https://twitter.com/BrazilViro/status/1519693416904511488
+
+word count = 49
+words loading = 3
+factor score = 3
+
+@marcofeliciano A liberdade de expressão dos bolsonaristas é ameaças 
+agressão falta de respeito, isso não liberdade de expressão não Feliciano! 
+O que o bolsonaro defende é o direito de mentir e **espalhar** fecknews, me 
+espanta um **pastor** achar isso correto, vai pra **igreja** pô cumprir o seu 
+papel! 
+
+Lemmas in this text that loaded on the factor:
+
+espalhar
+igreja
+pastor

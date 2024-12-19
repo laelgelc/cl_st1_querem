@@ -1,0 +1,22 @@
+file = t017228
+date = 2022-08-30
+user = marcus_pa_
+conversation = 1564162513851277312
+URL = https://twitter.com/marcus_pa_/status/1564759572593737734
+
+word count = 40
+words loading = 5
+factor score = 5
+
+Outro **programa** bom do Lula, comparando os **preços** do **gás** , do 
+diesel e da comida, entre os governos Lula e Bolsonaro. De novo totalmente 
+focado em **emprego** , **salário** e sustento da família. **Programa** 
+alegre, jingles ótimos, o povo falando smiling_face_with_hearts_e 
+
+Lemmas in this text that loaded on the factor:
+
+emprego
+gás
+preço
+programa
+salário

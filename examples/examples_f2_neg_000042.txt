@@ -1,0 +1,16 @@
+file = t000104
+date = 2018-03-30
+user = Wallan_Stoner
+conversation = 255458988
+URL = https://twitter.com/Wallan_Stoner/status/979511330125352961
+
+word count = 28
+words loading = 1
+factor score = -1
+
+Um recado para meus **amigos** dá direita. Graças a Deus, eu ri muito quando 
+meu candidato, Bolsonaro levou uma ovada. Por isso rio do Lula sem culpa. . . 
+
+Lemmas in this text that loaded on the factor:
+
+amigo

@@ -1,0 +1,22 @@
+file = t016917
+date = 2022-08-30
+user = FelippeRegazio
+conversation = 927028057763995648
+URL = https://twitter.com/FelippeRegazio/status/1564763329234718721
+
+word count = 39
+words loading = 5
+factor score = 3
+
+família bolsonaro **comprou** 51 **imóveis** em dinheiro **vivo** totalizando 
+25 **milhões** de reais. claro que não é dinheiro sujo de **corrupção** 
+né , a explicação é óbvia: o brasileiro está **comprando** muitos 
+chocolates na lojinha do flavio, só pode 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+imóvel
+milhão (secondary)
+vivo (secondary)

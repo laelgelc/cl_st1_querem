@@ -1,0 +1,21 @@
+file = t001510
+date = 2018-09-29
+user = pablovillaca
+conversation = 13653812
+URL = https://twitter.com/pablovillaca/status/1046076229424750592
+
+word count = 44
+words loading = 4
+factor score = 4
+
+A PF comprovou que o cara que esfaqueou HASHTAG #elenão_h ( não vou citar o 
+nome de nenhum dos dois ) **tentou** **comprar** arma de fogo pra cometer o 
+atentado, mas não conseguiu por ser difícil registrá -la. O Estatuto do 
+Desarmamento LITERALMENTE **salvou** a **vida** de HASHTAG #elenão_h. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+salvar
+tentar
+vida

@@ -1,0 +1,20 @@
+file = t005780
+date = 2020-01-30
+user = euraibolt
+conversation = 1219348487445327874
+URL = https://twitter.com/euraibolt/status/1222991275651215362
+
+word count = 61
+words loading = 2
+factor score = -2
+
+@rafaelbragapmw @Kurameshi1 @mafinha_veron @Marliga @badgallore @lucigoncalvesa 
+@itau Tá , mas e aí quem falou de pt aqui? ? **Amigo** pt já foi, Lula foi 
+preso e continua investigado agora os filhos do presidente não. . . . algo de 
+errado não está certo não **acha** ? Vamos parar de ficar repetindo boot e 
+cair na real? Tanto PT quanto a família Bolsonaro são farinha do mesmo saco 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+amigo

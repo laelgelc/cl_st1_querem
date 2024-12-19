@@ -1,0 +1,22 @@
+file = t015256
+date = 2022-04-29
+user = rosaelinex
+conversation = 219764602
+URL = https://twitter.com/rosaelinex/status/1520173124666417153
+
+word count = 40
+words loading = 4
+factor score = 4
+
+Bolsonaro, **militares** e seus fanáticos podem atentar contra a 
+**democracia** . O povo brasileiro não pode permitir que esses tiranos 
+amordaçem nossa **Constituição** e nossa liberdade de escolha. HASHTAG 
+#forabolsonaro_h # @Anitta Bolsonaro quer dar **golpe** contra a **Democracia** 
+. Alerte os fãs. 
+
+Lemmas in this text that loaded on the factor:
+
+constituição
+democracia
+golpe
+militar

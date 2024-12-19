@@ -1,0 +1,24 @@
+file = t005441
+date = 2019-12-30
+user = RizethJ
+conversation = 1109234347771613185
+URL = https://twitter.com/RizethJ/status/1211687077743644672
+
+word count = 33
+words loading = 6
+factor score = 6
+
+Nada de faroeste? HASHTAG #vempracabrasil_h flag_brazil_e Mais uma decepção. 
+winking_face_e HASHTAG #2020juntoscombolsonaro_h " **Registros** de **armas** 
+de **fogo** **aumentaram** 48 % ; homicídios caíram 22 % . Com base nesses 
+números, Bolsonaro pressiona Congresso a ampliar **porte** e **posse** de 
+**armas** . " 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+aumentar
+fogo
+porte
+posse
+registro

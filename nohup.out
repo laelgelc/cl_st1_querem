@@ -105010,3 +105010,1620 @@ Word counts written to sas/wcount.txt
 --- python correlation ... ---
 --- sas/sas/corr.txt ---
 --- sas/word_labels_format.sas ---
+'./examples/factors' file successfully created!
+--- examples f1pos ---
+--- factor 1 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f1neg ---
+--- factor 1 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 1 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f2pos ---
+--- factor 2 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f2neg ---
+--- factor 2 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 2 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f3pos ---
+--- factor 3 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f3neg ---
+--- factor 3 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 3 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f4pos ---
+--- factor 4 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f4neg ---
+--- factor 4 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 4 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f5pos ---
+--- factor 5 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f5neg ---
+--- factor 5 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 5 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f6pos ---
+--- factor 6 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f6neg ---
+--- factor 6 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 6 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f7pos ---
+--- factor 7 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f7neg ---
+--- factor 7 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 7 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f8pos ---
+--- factor 8 pos # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 pos # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- examples f8neg ---
+--- factor 8 neg # 000001 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000002 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000003 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000004 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000005 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000006 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000007 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000008 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000009 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000010 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000011 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000012 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000013 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000014 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000015 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000016 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000017 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000018 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000019 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000020 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000021 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000022 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000023 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000024 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000025 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000026 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000027 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000028 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000029 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000030 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000031 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000032 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000033 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000034 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000035 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000036 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000037 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000038 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000039 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000040 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000041 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000042 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000043 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000044 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000045 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000046 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000047 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000048 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000049 ---
+tr: warning: an unescaped backslash at end of string is not portable
+--- factor 8 neg # 000050 ---
+tr: warning: an unescaped backslash at end of string is not portable

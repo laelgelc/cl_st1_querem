@@ -1,0 +1,19 @@
+file = t002353
+date = 2018-12-30
+user = FrenteDemocrat
+conversation = 1051938406555668480
+URL = https://twitter.com/FrenteDemocrat/status/1079479180105039872
+
+word count = 39
+words loading = 2
+factor score = -2
+
+A lógica do " liberalismo " do governo Bolsonaro é estranha. Libera arma pra 
+todo mundo. Maconha não ( vamos manter o tráfico ilegal lucrando a rodo ) . 
+Privatiza tudo. Mas mantém os privilégios dos militares, vai. . . E as 
+**filhas** , **esposas** , famílias. . . 
+
+Lemmas in this text that loaded on the factor:
+
+esposo
+filha

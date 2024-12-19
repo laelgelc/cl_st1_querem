@@ -1,0 +1,25 @@
+file = t013292
+date = 2021-11-23
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1463273849336868875
+
+word count = 54
+words loading = 7
+factor score = 6
+
+- Após zerar os **impostos** federais do **gás** de cozinha, há **meses** , 
+agora sancionamos o **Projeto** de Lei n° 1 . 374 , de 2021 , que cria o 
+Auxílio **Gás** , com objetivo de aliviar o **preço** do **gás** de cozinha 
+à famílias de **baixa** **renda** diante do " fique em casa que a economia a 
+gente vê depois " . 
+
+Lemmas in this text that loaded on the factor:
+
+baixo
+gás
+imposto
+mês (secondary)
+preço
+projeto
+renda

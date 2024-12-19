@@ -1,0 +1,19 @@
+file = t005154
+date = 2019-11-29
+user = FernandoDSantos
+conversation = 33299033
+URL = https://twitter.com/FernandoDSantos/status/1200564651681046528
+
+word count = 21
+words loading = 3
+factor score = 2
+
+RT @zeca_dirceu: Diga **adeus** às **compras** parceladas no **cartão** de 
+crédito sem juros! Governo Bolsonaro quer acabar com este tipo de operação 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+adeus
+cartão
+compra (secondary)

@@ -1,0 +1,20 @@
+file = t010128
+date = 2021-02-27
+user = MarxDaGoiabeira
+conversation = 332925914
+URL = https://twitter.com/MarxDaGoiabeira/status/1365740598557368328
+
+word count = 35
+words loading = 3
+factor score = 3
+
+eu sabia que os militares eram **conservadores** nos **costumes** , incultos e 
+politicamente de **direita** . só não imaginava que fossem ladrões, 
+corruptos, entreguistas, canalhas cruéis e estúpidos. Bolsonaro fez o favor 
+de nos revelar isso. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+direita

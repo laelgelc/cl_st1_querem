@@ -1,0 +1,25 @@
+file = t013961
+date = 2022-01-30
+user = Wagner_Presente
+conversation = 1230623975945965575
+URL = https://twitter.com/Wagner_Presente/status/1487477731117916164
+
+word count = 46
+words loading = 7
+factor score = 7
+
+@_Welljesus @GamboaGangl @PauloMartins10 **Empregos** com **baixos** 
+**salários** , precarizados pela reforma trabalhista de temer. Ou seja, 
+subempregos! Não sustentam uma família, não **pagam** um aluguel. Com o 
+**aumento** vergonhoso de **preços** do governo Bolsonaro não **pagam** uma 
+cesta **básica** . Então qual a diferença de ser carteira assinad 
+
+Lemmas in this text that loaded on the factor:
+
+aumento
+baixo
+básico
+emprego
+pagar
+preço
+salário

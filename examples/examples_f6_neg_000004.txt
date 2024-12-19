@@ -1,0 +1,20 @@
+file = t000729
+date = 2018-05-30
+user = MauricioRicardo
+conversation = 40240813
+URL = https://twitter.com/MauricioRicardo/status/1001668617761644544
+
+word count = 50
+words loading = 3
+factor score = -3
+
+Por dez milhões de reais eu nunca mais **posto** uma charge, uma zoeira ou uma 
+crítica. Em vez de me **encher** o **saco** , ou me desejarem um câncer 
+doloroso, o que não é Cristão, vocês que não curtem o que eu faço podem 
+me tirar do ar com um beaming_face_with_smiling_eyes_e 
+
+Lemmas in this text that loaded on the factor:
+
+encher
+postar
+saco

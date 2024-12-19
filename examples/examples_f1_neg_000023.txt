@@ -1,0 +1,19 @@
+file = t018444
+date = 2022-11-29
+user = JosCast56439501
+conversation = 1244342975993466881
+URL = https://twitter.com/JosCast56439501/status/1597671654427021312
+
+word count = 42
+words loading = 3
+factor score = -3
+
+@fabia68471656 Pra mim so presta se for por amor o Brasil! **abre** mao do seu 
+salário e aceita 1200 . Reais passor disso sso todos ganancioso e ladrão! 
+Todos ate meu pai se um dia for **políticos** eu mesmo **chamo** de ladrao 
+
+Lemmas in this text that loaded on the factor:
+
+abrir
+chamar
+político

@@ -1,0 +1,19 @@
+file = t001876
+date = 2018-10-30
+user = JoceyrR
+conversation = 2609357698
+URL = https://twitter.com/JoceyrR/status/1057417276633346050
+
+word count = 20
+words loading = 4
+factor score = -4
+
+RT @emanoelseabra: **Apoiador** de Bolsonaro **posta** **foto** com arma, é 
+flagrado em aplicativo **gay** e pede desculpas em vídeo 
+
+Lemmas in this text that loaded on the factor:
+
+apoiador
+foto
+gay
+pôr

@@ -1,0 +1,19 @@
+file = t004248
+date = 2019-07-29
+user = RTaokey
+conversation = 1089269762088157184
+URL = https://twitter.com/RTaokey/status/1155951652047769600
+
+word count = 46
+words loading = 2
+factor score = -2
+
+Será q ele tbm sabe quem mandou matar assaltante, **mãe** e **esposa** ? 
+ASSALTO SOFRIDO POR BOLSONARO EM 1995 CULMINOU COM A MORTE MISTERIOSA DE UM 
+BANDIDO E DE SUA FAMÍLIA Esposa e **mãe** tbm foram encontradas mortas a 
+tiros às margens da Rodovia Presidente Dutra 
+
+Lemmas in this text that loaded on the factor:
+
+esposo
+mãe

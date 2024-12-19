@@ -1,0 +1,17 @@
+file = t000130
+date = 2018-03-29
+user = LuP0c
+conversation = 2317826054
+URL = https://twitter.com/LuP0c/status/979483538369253382
+
+word count = 42
+words loading = 1
+factor score = -1
+
+@LastZFighter SEM FALAR NO DESGRAÇADO que na fila do pedágio, parado, o cara 
+fica com farol alto **ligado** , só pra me fuder. Quase desci do carro pra 
+falar com o cara. Bolsonaro não pode ganhar, pq se eu tiver uma arma. . . 
+
+Lemmas in this text that loaded on the factor:
+
+ligar

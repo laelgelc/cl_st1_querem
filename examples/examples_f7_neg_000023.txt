@@ -1,0 +1,20 @@
+file = t005943
+date = 2020-01-30
+user = JaildonLima
+conversation = 157719275
+URL = https://twitter.com/JaildonLima/status/1222988097866039297
+
+word count = 46
+words loading = 3
+factor score = -2
+
+Vcs sabiam que o secretário da presidência da república é o nome que o 
+bolsonaro está trabalhando para ser indicado para o STF? Curriculum: amigao da 
+família bolsonaro Sua **mãe** e sua **tia** eram funcionárias fantasma dos 
+**gabinetes** do bolsonaro Assinou 7 ações até hoje 
+
+Lemmas in this text that loaded on the factor:
+
+gabinete
+mãe
+tio (secondary)

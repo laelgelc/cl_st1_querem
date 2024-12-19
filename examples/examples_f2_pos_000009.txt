@@ -1,0 +1,24 @@
+file = t006512
+date = 2020-03-30
+user = VICENTINHOPT
+conversation = 74762633
+URL = https://twitter.com/VICENTINHOPT/status/1244762854324084744
+
+word count = 49
+words loading = 6
+factor score = 6
+
+Bolsonaro queria **pagar** apenas 200 reais para o nosso povo. Mas, foi 
+**aprovado** a **renda** **básica** **emergencial** . Ele tem agora a 
+obrigação de sancionar e **pagar** o **benefício** de R$600 ou R$1 , 2mil 
+às famíÓRIA DO POVO BRASILEIRO! LUTA DO PT E DA OPOSIÇÃO. @PTnaCamara 
+HASHTAG #pagalogobolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+benefício
+básico
+emergencial
+pagar
+renda

@@ -1,0 +1,17 @@
+file = t007172
+date = 2020-05-30
+user = Joaocqf
+conversation = 963875620504600578
+URL = https://twitter.com/Joaocqf/status/1266840306189774849
+
+word count = 18
+words loading = 2
+factor score = -2
+
+@SimoneF67636054 Cuidado p não votar em Moro ou qlqr outro **salvador** da 
+**pátria** em 2022 . TMJ HASHTAG #somos70porcento_h 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

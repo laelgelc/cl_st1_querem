@@ -1,0 +1,20 @@
+file = t003083
+date = 2019-02-27
+user = rklacerda
+conversation = 61951458
+URL = https://twitter.com/rklacerda/status/1100900772324216832
+
+word count = 49
+words loading = 2
+factor score = -2
+
+Se dizem de Direita, e se calam, com argumento de não ir contra o governo, 
+hipócritas, em cima do muro, é fácil, desce, e se posiciona! Esse é o 
+Governo Bolsonaro, criado nas Redes Sociais! Aqui não tem **bandeira** 
+**vermelha** ! Brasil acima de tudo, DEUS acima de todos! flag_brazil_e 
+smiling_face_with_sunglasses_e folded_hands_e heart_suit_e 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+vermelho

@@ -1,0 +1,21 @@
+file = t007439
+date = 2020-06-29
+user = Sergio30304503
+conversation = 1276297154072645634
+URL = https://twitter.com/Sergio30304503/status/1277732973476032513
+
+word count = 35
+words loading = 5
+factor score = 4
+
+@arthurmoledoval nada disso, fique com seu **conservador** nos **costumes** e 
+**liberal** na **economia** , aqui na esquerda já tem a desgraça do Lula, 
+bolsonaro não teve nenhum voto da esquerda, a **direita** assuma sua desgraça 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+direita
+economia (secondary)
+liberal

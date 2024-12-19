@@ -1,0 +1,19 @@
+file = t003717
+date = 2019-04-29
+user = crssing
+conversation = 245839431
+URL = https://twitter.com/crssing/status/1122989613646274560
+
+word count = 28
+words loading = 3
+factor score = -3
+
+não **apoio** nenhum membro da familia bolsonaro e nem apoiarei mas tenho que 
+defender o **direito** da **liberdade** de falar literalmente quando algo não 
+está literalmente acontecendo 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+direito
+liberdade

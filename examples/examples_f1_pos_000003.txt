@@ -1,0 +1,25 @@
+file = t010197
+date = 2021-02-27
+user = SueliSo60720860
+conversation = 1356778694363258880
+URL = https://twitter.com/SueliSo60720860/status/1365745194361118720
+
+word count = 15
+words loading = 7
+factor score = 7
+
+@jairbolsonaro @mctic @Astro_Pontes **Parabéns** Nosso amado Presidente Jair 
+Messias Bolsonaro. Deus **abençoe** e **proteja** sempre **folded_hands_e** 
+**folded_hands_e** **folded_hands_e** **red_heart_e** **red_heart_e** 
+**red_heart_e** **clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+clapping_hands_e
+flag_brazil_e
+folded_hands_e
+parabéns
+proteger
+red_heart_e

@@ -1,0 +1,20 @@
+file = t001977
+date = 2018-10-24
+user = MarceloACoelho1
+conversation = 1151388890
+URL = https://twitter.com/MarceloACoelho1/status/1055170180484079618
+
+word count = 47
+words loading = 2
+factor score = -2
+
+HASHTAG #elenão_h HASHTAG #seuvotomepoeemrisco_h HASHTAG 
+#bolsonaroèocaralho_h Mais armas? Bolsonaro disse que perserguir todos os 
+opositores, que vai acabar com os mi mi mi de mulheres, **gays** e **negros** . 
+Não e é só acabar com as cotas, é acabar com ensino fundamental, disse que 
+só brancos tem direito a estudar 
+
+Lemmas in this text that loaded on the factor:
+
+gay
+negro

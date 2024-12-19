@@ -1,0 +1,19 @@
+file = t003142
+date = 2019-02-27
+user = dariojjunior
+conversation = 2842615187
+URL = https://twitter.com/dariojjunior/status/1100805645903777794
+
+word count = 43
+words loading = 2
+factor score = -2
+
+Sabem o que significa essa Ilona Szabó ser **nomeada** como conselheira 
+SUPLENTE no CNPCP? NADA. Ela não terá NENHUMA influência sobre as políticas 
+de armas, drogas e aperfeiçoamento de investigações. Para conhecer a exata 
+dimensão do **cargo** é só dar uma lida 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+nomear

@@ -1,0 +1,19 @@
+file = t007150
+date = 2020-05-30
+user = SimoneF67636054
+conversation = 1146240541652393984
+URL = https://twitter.com/SimoneF67636054/status/1266840306189774849
+
+word count = 33
+words loading = 3
+factor score = -3
+
+@Joaocqf Não tem **salvador** da **pátria** ! Votei no Lula e me arrependo, 
+votei em Bolsonaro e aconteceu o mesmo! Infelizmente o que **chega** nas urnas 
+é o que eles querem. Difícil escolha. 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+pátria
+salvador

@@ -1,0 +1,25 @@
+file = t012497
+date = 2021-08-30
+user = EliseWilshaw
+conversation = 282882073
+URL = https://twitter.com/EliseWilshaw/status/1432385852664074247
+
+word count = 21
+words loading = 6
+factor score = 6
+
+@JTabieli @JHenriqueFonsec @OVigilante11 @ZilaHelena @arianepatriota 
+@CrisCorinto8891 @DiKarlo02 @ricardo45866060 @Luizoli1965 @FATIMAC75843178 
+@LEANDROCORR21 @pe_mendes @MiriamCunha19 @LeoniceMariana1 @RobertoRJBrasil 
+Apoio Absoluto à Direita Conservadora Bolsonaro **raising_hands_e** 
+**flag_brazil_e** hundred_points_e rose_e **folded_hands_e** **green_heart_e** 
+**yellow_heart_e** blue_heart_e **red_heart_e** check_mark_button_e 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+folded_hands_e
+green_heart_e
+raising_hands_e
+red_heart_e
+yellow_heart_e

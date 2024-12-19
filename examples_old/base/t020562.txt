@@ -1,7 +1,0 @@
-@folha twitterhandle_VERB_Fin_Sing
-Graças graças_PROPN_Sing
-a a_ADP
-Deus deus_PROPN_Sing
-Bolsonaro bolsonaro_PROPN_Sing
-perdeu perder_VERB_Fin_Sing
-. .

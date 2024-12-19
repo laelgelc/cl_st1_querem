@@ -1,0 +1,21 @@
+file = t000609
+date = 2018-05-30
+user = clovisilha
+conversation = 243294632
+URL = https://twitter.com/clovisilha/status/1001820208267497473
+
+word count = 41
+words loading = 4
+factor score = 4
+
+Amigos e amigas Não contem com **intervenção** **militar** . Nossas Forças 
+Armadas prezam a **democracia** e cumprem a **constituição** . Vamos mudar o 
+Brasil pelo voto, que é o caminho certo. Falta pouco para as eleições. 
+Paciência. " As Forças Armadas estão vacinadas " 
+
+Lemmas in this text that loaded on the factor:
+
+constituição
+democracia
+intervenção
+militar

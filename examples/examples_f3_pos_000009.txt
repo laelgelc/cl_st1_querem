@@ -1,0 +1,17 @@
+file = t020027
+date = 2023-03-30
+user = brasil247
+conversation = 248890506
+URL = https://twitter.com/brasil247/status/1641432285072457729
+
+word count = 17
+words loading = 2
+factor score = 2
+
+**Bomba** a ser **desarmada** , diz Dino sobre risco de tumultos pela volta de 
+Bolsonaro ao Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+desarmar

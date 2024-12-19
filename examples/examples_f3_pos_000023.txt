@@ -1,0 +1,20 @@
+file = t016801
+date = 2022-08-30
+user = psol50
+conversation = 1202130601
+URL = https://twitter.com/psol50/status/1564605582417469445
+
+word count = 49
+words loading = 3
+factor score = 2
+
+É um **ESCÂNDALO** ! A família Bolsonaro comprou pelo menos 51 **imóveis** 
+com R$ 25 , 6 MILHÕES EM DINHEIRO VIVO. Prática é comum para lavagem de 
+dinheiro e ocultação de **patrimônio** de criminosos. Nada mais justifica 
+tanto dinheiro assim em espécie. Isso não é uma família, é uma quadrilha! 
+
+Lemmas in this text that loaded on the factor:
+
+escândalo
+imóvel (secondary)
+patrimônio

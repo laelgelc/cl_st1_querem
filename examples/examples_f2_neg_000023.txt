@@ -1,0 +1,19 @@
+file = t014262
+date = 2022-02-27
+user = Paulofenga
+conversation = 1257257401952108544
+URL = https://twitter.com/Paulofenga/status/1498078164173705217
+
+word count = 50
+words loading = 2
+factor score = -2
+
+Bolsonaro **liga** para Putin e diz que Brasil está neutro em relação à 
+Ucrânia? Será que ele ainda **acha** que representa o povo brasileiro? Pelo 
+Amor de Deus! Pelo povo do Brasil pode ter certeza que opinião nos temos. O 
+trigo, o milho que se phoda. Salvem a Ucrânia. 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+ligar

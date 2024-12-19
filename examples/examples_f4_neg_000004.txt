@@ -1,0 +1,19 @@
+file = t005188
+date = 2019-11-29
+user = manipoetics
+conversation = 4779552801
+URL = https://twitter.com/manipoetics/status/1200544652564320258
+
+word count = 20
+words loading = 4
+factor score = -4
+
+Pelo **amor** de **deus** meu auge foi **gastar** 50 reais em doce na Black 
+Friday bolsonaro me **mata** agora 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+deus
+gastar
+matar

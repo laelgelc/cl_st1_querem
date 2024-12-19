@@ -1,0 +1,21 @@
+file = t014019
+date = 2022-01-30
+user = adaopensador
+conversation = 1054362765849182208
+URL = https://twitter.com/adaopensador/status/1487912101830184965
+
+word count = 26
+words loading = 5
+factor score = 5
+
+RT @DosPartidos: Qual era o objetivo de **facilitar** a **posse** e **porte** 
+de **armas** de **fogo** no Brasil? Explico é para forma um exército 
+paralelo, uma … 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+facilitar
+fogo
+porte
+posse

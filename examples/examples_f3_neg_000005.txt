@@ -1,0 +1,25 @@
+file = t003268
+date = 2019-03-30
+user = Nayenne78
+conversation = 1080233102604148738
+URL = https://twitter.com/Nayenne78/status/1112062239442386945
+
+word count = 45
+words loading = 6
+factor score = -4
+
+@RGConservador @BelinhaPoodlle Deus escreve certo por linhas tortas. Deus 
+**escolheu** Bolsonaro, junto com ele, deu **força** , coragem e 
+determinação. **Tirou** o véu q encobria nossa face, mostrando à nós o que 
+estava escondido. Bolsonaro trocou a **liberdade** dele e família para 
+reconstruir o Brasil smiling_face_with_sunglasses_e **flag_brazil_e** 
+**folded_hands_e** 
+
+Lemmas in this text that loaded on the factor:
+
+escolher
+flag_brazil_e (secondary)
+folded_hands_e (secondary)
+força
+liberdade
+tirar

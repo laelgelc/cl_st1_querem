@@ -1,0 +1,20 @@
+file = t010716
+date = 2021-03-30
+user = FabioFrancaDaS3
+conversation = 1370842186091216902
+URL = https://twitter.com/FabioFrancaDaS3/status/1377033402071793666
+
+word count = 20
+words loading = 3
+factor score = -3
+
+@vanessa_qrz o nome do Bolsonaro é doce na **boca** das feminista e 
+militância e **apoiadores** do **luladrão** e da Globolixo 
+face_with_tears_of_joy_e face_with_tears_of_joy_e face_with_tears_of_joy_e 
+person_facepalming_e person_facepalming_e person_facepalming_e 
+
+Lemmas in this text that loaded on the factor:
+
+apoiador
+boca
+luladrão

@@ -1,0 +1,21 @@
+file = t002508
+date = 2018-12-30
+user = westonravenel
+conversation = 1591487269
+URL = https://twitter.com/westonravenel/status/1079486959565918210
+
+word count = 45
+words loading = 4
+factor score = -3
+
+a gente **tava** no clube hj né **ai** pedimos pra um cara tirar uma **foto** 
+nossa, na hora da **foto** meu cunhado **gritou** BOLSONARO, a família q 
+**tava** do lado olhou com uma cara pra nós, a vontade de sumir foi imensa que 
+vergonha 
+
+Lemmas in this text that loaded on the factor:
+
+ai (secondary)
+foto
+gritar
+tava

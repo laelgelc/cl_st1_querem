@@ -1,0 +1,21 @@
+file = t010203
+date = 2021-02-27
+user = salmitofilho
+conversation = 76811576
+URL = https://twitter.com/salmitofilho/status/1365614308118380548
+
+word count = 38
+words loading = 3
+factor score = 3
+
+Pandemia X **Ideologia** Política = VIDA Governos de diferentes **ideologias** 
+tomam decisões para salvar vidas. Governos de **direita** e **conservadores** 
+como o de Israel e do Reino Unido são firmes em " lockdowns " . Bolsonaro é " 
+FAKE " ! HASHTAG #bolsonaroéfake_h HASHTAG #bolsonarogenocida_h HASHTAG 
+#bolsonarismomata_h 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+ideologia

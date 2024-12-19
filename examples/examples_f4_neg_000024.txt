@@ -1,0 +1,19 @@
+file = t006233
+date = 2020-02-27
+user = AndreLCarlos
+conversation = 62814805
+URL = https://twitter.com/AndreLCarlos/status/1233175750439841792
+
+word count = 25
+words loading = 3
+factor score = -3
+
+Perceberam a armação? Congresso bandido **rouba** 30bi do Executivo. 
+Bolsonaro não tem **dinheiro** para honrar compromissos. **Cai** na Lei de 
+responsabilidade fiscal. Sofre Impeachment. 
+
+Lemmas in this text that loaded on the factor:
+
+cair
+dinheiro
+roubar

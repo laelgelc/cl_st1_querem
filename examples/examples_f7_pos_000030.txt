@@ -1,0 +1,21 @@
+file = t014769
+date = 2022-03-29
+user = Alargolo1
+conversation = 1283254652490977283
+URL = https://twitter.com/Alargolo1/status/1508755366250692609
+
+word count = 45
+words loading = 4
+factor score = 3
+
+Atenção militância. Esqueçam a **pauta** dos **costumes** ! O povo 
+brasileiro é **conservador** , portanto, não caiam em ciladas datadas. A 
+**pauta** dos **costumes** só interessa ao genocida Bolsonaro e sua súcia de 
+milícos e focar na **economia** e apontar o desastre que é esse desgoverno 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+economia (secondary)
+pauta

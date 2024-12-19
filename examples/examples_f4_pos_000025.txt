@@ -1,0 +1,21 @@
+file = t010337
+date = 2021-03-30
+user = freianastaciopt
+conversation = 1057644576918462464
+URL = https://twitter.com/freianastaciopt/status/1376881113906429955
+
+word count = 51
+words loading = 4
+factor score = 4
+
+O **pedido** de **demissão** do ministro da **defesa** revelou o **golpe** que 
+Bolsonaro queria dar no país, com decreto de Estado de Sítio. O general 
+mostrou que as forças armadas ainda são fiéis ao Estado. Está explicado 
+porque Bolsonaro não combate a pandemia. Ele quer levar o Brasil ao caos. 
+
+Lemmas in this text that loaded on the factor:
+
+defesa
+demissão
+golpe
+pedido

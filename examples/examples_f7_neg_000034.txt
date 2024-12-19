@@ -1,0 +1,17 @@
+file = t008814
+date = 2020-10-30
+user = BolsonarosFatos
+conversation = 1310544008377229318
+URL = https://twitter.com/BolsonarosFatos/status/1322297313826623490
+
+word count = 17
+words loading = 2
+factor score = -2
+
+Vc sabia? A atual **esposa** do Bolsonaro, Micheque, **recebeu** 86 mil do 
+assessor da família bozo 
+
+Lemmas in this text that loaded on the factor:
+
+esposo
+receber

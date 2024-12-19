@@ -1,0 +1,18 @@
+file = t007105
+date = 2020-05-30
+user = ednilsonglopes
+conversation = 3433444713
+URL = https://twitter.com/ednilsonglopes/status/1266470742633394188
+
+word count = 33
+words loading = 2
+factor score = 2
+
+@ArmandoContenda @UOLNoticias Você tem algum posicionamento quanto ao 
+**cartão** corporativo e os **gastos** em sigilo do presidente? Se não tem, 
+sinto muito, mas quem tá passando pano pra alguém aqui é você . 
+
+Lemmas in this text that loaded on the factor:
+
+cartão
+gasto

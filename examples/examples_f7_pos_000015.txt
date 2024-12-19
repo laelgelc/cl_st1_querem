@@ -1,0 +1,21 @@
+file = t000316
+date = 2018-04-29
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/990546234157879297
+
+word count = 38
+words loading = 4
+factor score = 4
+
+@Estadao Esses aí não tem histórico de defender bandeiras. **Conservador** 
+mesmo, dentre tantos progressistas declarados, ou isentões, só Jair 
+Bolsonaro. É o único que não relativiza **pautas** caras ao 
+**conservadorismo** , nos campos cultural, moral, dos **costumes** , e: / / 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+conservadorismo
+costume
+pauta

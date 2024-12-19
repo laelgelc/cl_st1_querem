@@ -1,0 +1,19 @@
+file = t011142
+date = 2021-04-29
+user = catatopper
+conversation = 561543036
+URL = https://twitter.com/catatopper/status/1387869337457922051
+
+word count = 36
+words loading = 3
+factor score = -3
+
+- **Cara** pelo **amor** de **Deus** o Bolsonaro tá literalmente esfaqueando a 
+sua mãe olha ali - Aaaah mas agora eu sou obrigado a votar no Lula? Pelo 
+**amor** de **Deus** gente PT de novo não né 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cara
+deus

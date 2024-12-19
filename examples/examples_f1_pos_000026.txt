@@ -1,0 +1,21 @@
+file = t017972
+date = 2022-10-30
+user = simonemaciels
+conversation = 1207032186496532482
+URL = https://twitter.com/simonemaciels/status/1586861510999023616
+
+word count = 13
+words loading = 5
+factor score = 5
+
+@Rconstantino Que Deus nos **proteja** **folded_hands_e** obrigada Bolsonaro 
+**smiling_face_with_sunglasses_e** **flag_brazil_e** por Tudo **red_heart_e** 
+Deus, pátria, família **red_heart_e** **flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+folded_hands_e
+proteger
+red_heart_e
+smiling_face_with_sunglasses_e

@@ -1,0 +1,23 @@
+file = t012566
+date = 2021-09-29
+user = AlencarBraga13
+conversation = 74243131
+URL = https://twitter.com/AlencarBraga13/status/1443362390653952002
+
+word count = 47
+words loading = 5
+factor score = 4
+
+Bancada do @PTnaCamara **assinou** inteira o HASHTAG #pl1374_h para garantir 
+desconto no **gás** para famílias de **baixa** **renda** , que acabou de ser 
+**APROVADO** na Câmara! Se depender de Bolsonaro e Paulo Guedes as pessoas 
+vão continuar se queimando e morrendo com álcool porque não podem comprar 
+**gás** . 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+assinar (secondary)
+baixo
+gás
+renda

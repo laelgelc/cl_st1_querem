@@ -1,0 +1,18 @@
+file = t016261
+date = 2022-07-30
+user = OliverStuenkel
+conversation = 18048681
+URL = https://twitter.com/OliverStuenkel/status/1553487578069860353
+
+word count = 21
+words loading = 3
+factor score = 3
+
+Bolsonaro afirma que as Forças Armadas vão **participar** " ao lado " de seus 
+apoiadores dos **atos** governistas de 7 de **Setembro** 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+participar
+setembro

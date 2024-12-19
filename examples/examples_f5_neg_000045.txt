@@ -1,0 +1,19 @@
+file = t006916
+date = 2020-05-30
+user = Boscardin
+conversation = 159995198
+URL = https://twitter.com/Boscardin/status/1266746148510928898
+
+word count = 40
+words loading = 2
+factor score = -2
+
+Considerando que em 2022 precisaríamos de um candidato que una o Centro e a 
+Esquerda para reunificar e reconstruir o país, em um mandato de transição, 
+sem reeleição, sem mitos e **salvadores** da **pátria** , os senhores 
+escolheriam quem destes: 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

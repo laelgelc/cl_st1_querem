@@ -1,0 +1,21 @@
+file = t015878
+date = 2022-05-30
+user = HMallarme
+conversation = 1521821697367810049
+URL = https://twitter.com/HMallarme/status/1531230011201658880
+
+word count = 49
+words loading = 4
+factor score = 4
+
+Enquanto **milhões** de pais e mães de família se desesperam para alimentar 
+seus filhos e **pagar** as contas, ante a destruição da **renda** e o forte 
+avanço do pobreza, BOLSONARO faz de seu mandato uma grande COLÔNIA DE FÉRIAS 
+DE LUXO bancada com nossos **impostos** . Isso precisa acabar. 
+
+Lemmas in this text that loaded on the factor:
+
+imposto
+milhão
+pagar
+renda

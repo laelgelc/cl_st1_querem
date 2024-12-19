@@ -1,0 +1,19 @@
+file = t010146
+date = 2021-02-27
+user = OnesioJunior
+conversation = 1221893135044947969
+URL = https://twitter.com/OnesioJunior/status/1365660441695973377
+
+word count = 27
+words loading = 3
+factor score = -3
+
+@UOLNoticias A cada dia que passa, os discursos da família Bolsonaro estão 
+**caindo** por **terra** , afinal, são mais de 1 / 4 de milhão de **mortos** 
+pelo COVID-19 . 
+
+Lemmas in this text that loaded on the factor:
+
+cair
+matar
+terra

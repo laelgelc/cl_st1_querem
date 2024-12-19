@@ -1,0 +1,17 @@
+file = t000040
+date = 2018-03-30
+user = Knopp_Igor
+conversation = 4903270191
+URL = https://twitter.com/Knopp_Igor/status/979395799879647233
+
+word count = 32
+words loading = 1
+factor score = -1
+
+@Katuto_ Manoooo, crl viado. Você não entende, por que eles são diferentes? 
+Você **acha** que eles não querem o melhor pra humanidade? Eles são humanos 
+também mano, pelo amor de Deus! ! ! ! Pensa. 
+
+Lemmas in this text that loaded on the factor:
+
+achar

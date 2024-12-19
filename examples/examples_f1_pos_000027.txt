@@ -1,0 +1,22 @@
+file = t016025
+date = 2022-06-29
+user = AnglicaKurten
+conversation = 1418571713013506048
+URL = https://twitter.com/AnglicaKurten/status/1542224997854466053
+
+word count = 17
+words loading = 5
+factor score = 5
+
+@jairbolsonaro @govbr Boa **noite** querido Presidente Jair Messias Bolsonaro! 
+Que Deus te cubra de bênçãos! ! **Amém** ! ! ! **flag_brazil_e** 
+**flag_brazil_e** **red_heart_e** **red_heart_e** **folded_hands_e** 
+**folded_hands_e** 
+
+Lemmas in this text that loaded on the factor:
+
+amém
+flag_brazil_e
+folded_hands_e
+noite
+red_heart_e

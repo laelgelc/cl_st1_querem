@@ -1,0 +1,21 @@
+file = t011795
+date = 2021-07-30
+user = reinaldoazevedo
+conversation = 18286139
+URL = https://twitter.com/reinaldoazevedo/status/1421067374254510082
+
+word count = 44
+words loading = 4
+factor score = -3
+
+proselitismo ideológico. Uma postura corrói a democracia; a outra mata 
+**pessoas** . O momento é delicado. Bolsonaro já sabota seu recém-indicado 
+ministro da Casa Civil. A trapaça se opera com a mesma sem-cerimônia com que 
+o **crime** é **chamado** de liberdade de **expressão** , e a liberdade 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+crime
+expressão (secondary)
+pessoa

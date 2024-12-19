@@ -1,0 +1,18 @@
+file = t016692
+date = 2022-07-30
+user = Wjuim
+conversation = 1528461217
+URL = https://twitter.com/Wjuim/status/1553502793297809408
+
+word count = 15
+words loading = 3
+factor score = 3
+
+RT @MendesOnca: Bolsonaro diz que Forças Armadas **participarão** de **ato** 
+pró-governo de 7 de **setembro** … 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+participar
+setembro

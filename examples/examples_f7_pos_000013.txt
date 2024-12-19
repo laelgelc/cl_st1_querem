@@ -1,0 +1,21 @@
+file = t002177
+date = 2018-11-29
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/1068007685562527744
+
+word count = 45
+words loading = 4
+factor score = 4
+
+O capitão não precisa de ministério das mulheres ou dos direitos **humanos** 
+. Isso não tem cara de Jair Bolsonaro. Não tem cara de ser **pauta** um 
+governo **conservador** , de **direita** . Não tem pra quê ministério das 
+mulheres, dos homens, ou das cores de pele. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+humano
+pauta

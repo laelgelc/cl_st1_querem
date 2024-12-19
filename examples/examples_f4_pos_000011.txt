@@ -1,0 +1,21 @@
+file = t018488
+date = 2022-11-29
+user = KriskaCarvalho
+conversation = 1298913397967290368
+URL = https://twitter.com/KriskaCarvalho/status/1597646996365795328
+
+word count = 42
+words loading = 4
+factor score = 4
+
+Silas Malafaia está ameaçando a **democracia** e o STF. Ameaça até os 
+**comandantes** das Forças Armadas. Quer que o Bolsonaro **assine** uma ordem 
+para o **golpe** e que prenda todos eles. Silas Malafaia é um criminoso, pq 
+ainda não foi preso? 
+
+Lemmas in this text that loaded on the factor:
+
+assinar
+comandante
+democracia
+golpe

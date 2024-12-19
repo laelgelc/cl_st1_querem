@@ -1,0 +1,23 @@
+file = t002392
+date = 2018-12-30
+user = erikakokay
+conversation = 87021796
+URL = https://twitter.com/erikakokay/status/1079311106882056193
+
+word count = 45
+words loading = 5
+factor score = 5
+
+**Liberar** **armas** de **fogo** para **aumentar** a segurança é um 
+equívoco. O Brasil já tem uma das maiores taxas de homicídio do mundo. Mais 
+**armas** em circulação significa mais violência. Se Bolsonaro decretar " 
+**libera** geral " vamos propor **decreto** legislativo p / derrubar essa 
+medida absurda! 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+aumentar
+decreto
+fogo
+liberar

@@ -1,0 +1,18 @@
+file = t001136
+date = 2018-07-30
+user = luizcampagnollo
+conversation = 463080802
+URL = https://twitter.com/luizcampagnollo/status/1024036913055973376
+
+word count = 33
+words loading = 2
+factor score = -2
+
+@g1 Tem nada não, ano que vem Bolsonaro **abre** contra a Dilma, pimentel, 
+aluizio nunes, jose genuino, jose dirceu, jose serra entre outros tantos 
+guerrilheiros comunistas que nunca pagaram por seis **crimes** . 
+
+Lemmas in this text that loaded on the factor:
+
+abrir
+crime

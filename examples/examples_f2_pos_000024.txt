@@ -1,0 +1,23 @@
+file = t020452
+date = 2023-04-29
+user = caracterenulo
+conversation = 745743689239101440
+URL = https://twitter.com/caracterenulo/status/1652247601792847872
+
+word count = 50
+words loading = 5
+factor score = 4
+
+@Maryzzynha @Estadao @opiniao_estadao Eai tá feliz com o **aumento** dos 
+combustiveis, desemprego em 8 , 8 % , **auxílio** de mais de 1mi de pessoas 
+cortados, endividamento em 78 , 9 % das famílias brasileiras, imposto até da 
+luz do sol, taxas e juros altos, **inflação** prejudicando os mais **pobres** 
+nas compras **básicas** . . . tá gostando? 
+
+Lemmas in this text that loaded on the factor:
+
+aumento
+auxílio
+básico
+inflação (secondary)
+pobre

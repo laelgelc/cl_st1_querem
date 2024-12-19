@@ -1,0 +1,18 @@
+file = t003877
+date = 2019-05-30
+user = taniaeginaramos
+conversation = 3038197395
+URL = https://twitter.com/taniaeginaramos/status/1134232721486700544
+
+word count = 28
+words loading = 3
+factor score = -3
+
+RT @blasphmmy: e o povo de fortaleza com a **bandeira** comunista gigante e 
+**gritando** ei bolsonaro vai tomar no **cu** no meio do VT da globo eu amo … 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+cu
+gritar

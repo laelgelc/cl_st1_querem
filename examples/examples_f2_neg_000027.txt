@@ -1,0 +1,20 @@
+file = t017810
+date = 2022-09-29
+user = LucianoGiusepp4
+conversation = 1440656640399663113
+URL = https://twitter.com/LucianoGiusepp4/status/1575587079941070848
+
+word count = 43
+words loading = 3
+factor score = -2
+
+**Amigos** , ouçam na íntegra a denuncia de Mara Gabrilli, contra o 
+muladrão. Quando todos esperavam uma grande **fake** news contra Bolsonaro, 
+acaba de vir de onde eu não **achava** que viria. Não precisa ouvir a live 
+inteira, procurem só a denuncia. Viral. 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+amigo
+fake (secondary)

@@ -1,0 +1,20 @@
+file = t007511
+date = 2020-06-29
+user = ThisIsThieriot
+conversation = 1271131716539875329
+URL = https://twitter.com/ThisIsThieriot/status/1277596539293184003
+
+word count = 52
+words loading = 3
+factor score = -3
+
+@deusacimadt @diego_lo2039 O Bolsonaro fica aí dizendo que **gay** tem que 
+levar surra, que tal mulher merecia ser estuprada ou não, e que o filho dele 
+não ficaria com uma **negra** porque ele tem educação. Então é obvio que 
+eu tô **puto** ! Você só não está porque essa violência não é contigo. 
+
+Lemmas in this text that loaded on the factor:
+
+gay
+negro
+puto

@@ -1,0 +1,21 @@
+file = t010989
+date = 2021-04-29
+user = juformici2
+conversation = 1232796339391598592
+URL = https://twitter.com/juformici2/status/1387742214797803520
+
+word count = 34
+words loading = 4
+factor score = 3
+
+Sou **cristã** , de **direita** , carnívora, **conservadora** , sem mimimi, 
+contra **drogas** , pró vida e a favor do porte de armas. Como posso irritar 
+mais os esquerdistas hoje? ( adap. HG ) Bom dia aí meus bons sunflower_e 
+green_heart_e 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+cristão (secondary)
+direita
+droga

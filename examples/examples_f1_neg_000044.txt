@@ -1,0 +1,17 @@
+file = t001275
+date = 2018-08-30
+user = solanbatista
+conversation = 60062381
+URL = https://twitter.com/solanbatista/status/1035314920219402240
+
+word count = 15
+words loading = 2
+factor score = -2
+
+Vai contar q **usa** arma qdo jovem ou só é **crime** para bolsonaro HASHTAG 
+#nãonegocieseuvoto_h 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+usar

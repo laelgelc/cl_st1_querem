@@ -1,0 +1,21 @@
+file = t003141
+date = 2019-02-27
+user = CleitoMoura
+conversation = 360344062
+URL = https://twitter.com/CleitoMoura/status/1100788958714310657
+
+word count = 36
+words loading = 4
+factor score = 4
+
+Ditador paraguaio **elogiado** por Bolsonaro, era filho de imigrante alemão e 
+protegeu refugiados **nazistas** , como o " açougueiro de Riga " , 
+responsável pela **morte** de 30 mil **judeus** na Letônia, e o " Anjo da 
+**morte** " , Josef Mengele. 
+
+Lemmas in this text that loaded on the factor:
+
+elogiar
+judeu
+morte
+nazista

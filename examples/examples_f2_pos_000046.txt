@@ -1,0 +1,19 @@
+file = t012555
+date = 2021-09-29
+user = revistaforum
+conversation = 19593634
+URL = https://twitter.com/revistaforum/status/1443361395291168778
+
+word count = 19
+words loading = 4
+factor score = 4
+
+URGENTE: Câmara **aprova** **projeto** do PT que dá 50 % de desconto no 
+**gás** de cozinha a famílias **pobres** 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+gás
+pobre
+projeto

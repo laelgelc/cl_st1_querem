@@ -1,0 +1,21 @@
+file = t010858
+date = 2021-03-30
+user = DrRenan38
+conversation = 1233748733059387392
+URL = https://twitter.com/DrRenan38/status/1376742493585338372
+
+word count = 30
+words loading = 4
+factor score = 3
+
+Os verdadeiros **conservadores** , **cristãos** e patriotas não deixaram de 
+seguir o Bolsonaro. Somente os traíra abandonaram a batalha em plena 
+**guerra** . Bolsonaro reeleito no primeiro **turno** de 2022 HASHTAG 
+#opovoestacombolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+cristão (secondary)
+guerra
+turno

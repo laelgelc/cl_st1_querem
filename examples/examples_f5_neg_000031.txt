@@ -1,0 +1,19 @@
+file = t003816
+date = 2019-05-30
+user = osmarsilveira86
+conversation = 379187186
+URL = https://twitter.com/osmarsilveira86/status/1134242495527829504
+
+word count = 30
+words loading = 2
+factor score = -2
+
+Bolsonaro não é um santo milagreiro, não é o **salvador** da **pátria** , 
+é apenas um homem lutando por uma nação afundada na lama há anos por 
+governos anteriores! thumbs_up_e flag_brazil_e smiling_face_with_sunglasses_e 
+backhand_index_pointing_right_e HASHTAG #bolsonaro2022_h 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

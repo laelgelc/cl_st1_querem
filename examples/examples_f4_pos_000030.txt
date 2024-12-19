@@ -1,0 +1,22 @@
+file = t008891
+date = 2020-10-30
+user = joao_jb22
+conversation = 71161870
+URL = https://twitter.com/joao_jb22/status/1322276345615929345
+
+word count = 46
+words loading = 4
+factor score = 4
+
+@allanldsantos Trump não fará nada? As forças **armadas** americanas não 
+farão uma **intervenção** **militar** ? Vão chamar Trump de frouxo ou 
+covarde? Se fosse no Brasil, você estaria falando tudo contra o presidente 
+Bolsonaro! Ainda há quem acredite que são apoiadores e não **oposição** ! 
+Carluxo knows! 
+
+Lemmas in this text that loaded on the factor:
+
+armado
+intervenção
+militar
+oposição

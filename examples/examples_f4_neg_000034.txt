@@ -1,0 +1,19 @@
+file = t009401
+date = 2020-11-29
+user = swanooy
+conversation = 558781783
+URL = https://twitter.com/swanooy/status/1333160299353018369
+
+word count = 44
+words loading = 3
+factor score = -3
+
+ES é um estado filha da puta como que o pessoal deixa um **merda** que nem o 
+pazolini vencer? o **cara** tentou impedir o aborto de uma menina de 10 anos 
+invadiu hospital a mando do bolsonaro meu **deus** eu odeio esse lugar 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+deus
+merda

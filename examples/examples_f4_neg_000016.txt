@@ -1,0 +1,21 @@
+file = t003294
+date = 2019-03-30
+user = QuintinoElisete
+conversation = 910685347708833793
+URL = https://twitter.com/QuintinoElisete/status/1112080142426427392
+
+word count = 55
+words loading = 3
+factor score = -3
+
+@jcoarglea @SuzyVitoria_ O Deus que criou o **céu** a **terra** e o mar é 
+mais poderoso, fiel e verdadeiro que tudo isso aí . Vamos orar e pedir ao 
+Senhor Nosso Deus para que abençoe e proteja o povo trabalhador brasileiro e 
+nosso presidente Jair Messias Bolsonaro Que **caia** por **terra** todo esse 
+trabalho dos infiéis 
+
+Lemmas in this text that loaded on the factor:
+
+cair
+céu
+terra

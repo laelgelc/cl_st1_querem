@@ -1,0 +1,19 @@
+file = t001402
+date = 2018-08-30
+user = domlancellotti
+conversation = 41396580
+URL = https://twitter.com/domlancellotti/status/1035292823069880321
+
+word count = 45
+words loading = 2
+factor score = -2
+
+HASHTAG #votobolsonaro17_h " E ainda há quem diga que Bolsonaro nada fez em 30 
+anos de vida **política** . Só isso de ter sido voz sozinha na defesa das 
+crianças e da família, enquanto é **chamado** de louco e de homofóbico, já 
+valeria pela vida inteira. " - @Teodorico1967 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+político

@@ -1,0 +1,20 @@
+file = t007420
+date = 2020-06-29
+user = inter1414
+conversation = 2601848468
+URL = https://twitter.com/inter1414/status/1277685202874228736
+
+word count = 43
+words loading = 2
+factor score = -2
+
+O nosso Presidente @jairbolsonaro sofre muito com os comunistas, mas ele 
+também tem os eventos positivos que lhe devem render muita alegria, imagina 
+ele que sempre **bateu** nesta tecla da falta de **água** no nordeste e 
+consegue levar **água** para aquele povo. flag_brazil_e clapping_hands_e 
+clapping_hands_e clapping_hands_e 
+
+Lemmas in this text that loaded on the factor:
+
+bater
+água

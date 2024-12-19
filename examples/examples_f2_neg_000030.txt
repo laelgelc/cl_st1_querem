@@ -1,0 +1,17 @@
+file = t018468
+date = 2022-11-29
+user = Bianca84792462
+conversation = 1036708068728483841
+URL = https://twitter.com/Bianca84792462/status/1597735450336452609
+
+word count = 18
+words loading = 2
+factor score = -2
+
+RT @Conservadora191 : @LucianoGiusepp4 Eu não. Deixa o presidente Bolsonaro 
+agir como ele **achar** melhor. Vamos em **frente** . 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+frente

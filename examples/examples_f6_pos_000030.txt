@@ -1,0 +1,21 @@
+file = t017263
+date = 2022-08-30
+user = tarlouze
+conversation = 1560797137
+URL = https://twitter.com/tarlouze/status/1564758857313914884
+
+word count = 43
+words loading = 4
+factor score = 3
+
+bobfernandes ] Metade dos seus 51 **imóveis** , Bolsonaro e família 
+**compraram** com dinheiro **vivo** . Cheques do Queiroz pra Michelle, 
+relações com acusados de matar, **corrupção** " secreta " no orçamento de 
+R$ 54 bilhões etc. Perguntas que o JN e candidatos não fizeram a Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+imóvel
+vivo (secondary)

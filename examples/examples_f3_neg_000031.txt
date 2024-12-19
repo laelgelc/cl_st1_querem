@@ -1,0 +1,20 @@
+file = t001761
+date = 2018-10-30
+user = bernardo_jb22
+conversation = 1025779303353659400
+URL = https://twitter.com/bernardo_jb22/status/1057290770112282624
+
+word count = 34
+words loading = 3
+factor score = -3
+
+@anallp79 @crf_vem2019 Vamos seguir e oferecer total **apoio** à **Deputada** 
+@AnaCampagnolo que incentivou os estudantes a filmar e denunciar professores 
+que denigrem a imagem de Bolsonaro em SC, não respeitando a **liberdade** de 
+escolha. 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+deputado
+liberdade

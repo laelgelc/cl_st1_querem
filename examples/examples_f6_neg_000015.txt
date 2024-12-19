@@ -1,0 +1,20 @@
+file = t013011
+date = 2021-10-30
+user = teoandre
+conversation = 67903415
+URL = https://twitter.com/teoandre/status/1454584795615350785
+
+word count = 47
+words loading = 3
+factor score = -3
+
+**Ponham** uma coisa nas suas cabeças: Não é por: causa **gay** , causa 
+**negra** , pelos pobres, pelo trabalhador, pela educação, pela arte, pela 
+democracia, pela liberdade de expressão, etc. . . É só pelo poder e pelo 
+dinheiro. E o Bolsonaro cortou a fonte! Só através do trabalho agora! 
+
+Lemmas in this text that loaded on the factor:
+
+gay
+negro
+pôr

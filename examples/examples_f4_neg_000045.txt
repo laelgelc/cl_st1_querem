@@ -1,0 +1,20 @@
+file = t011095
+date = 2021-04-29
+user = Eduma35
+conversation = 1367878843978182658
+URL = https://twitter.com/Eduma35/status/1387888306256588801
+
+word count = 39
+words loading = 3
+factor score = -3
+
+@VaGrangeiro @MarceloCRedeTV @Vlogdolisboa2 @sikerajr @jairbolsonaro Val. . 
+imagina, ficar na fila, o dia todo pra receber isso. . meu **Deus** do **céu** 
+. Olha. . . não tenho nem palavras. . @exercitooficial por favor, esteja ao 
+lado do seu povo! Pelo **amor** de **Deus** 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+céu
+deus

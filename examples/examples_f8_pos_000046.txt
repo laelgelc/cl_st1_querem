@@ -1,0 +1,18 @@
+file = t019315
+date = 2023-01-30
+user = PedroRonchi2
+conversation = 1097073004658470913
+URL = https://twitter.com/PedroRonchi2/status/1620075318584414208
+
+word count = 33
+words loading = 2
+factor score = 2
+
+Não é coincidência que depois que Bolsonaro foi eleito **cristãos** 
+passaram a levar a bíblia e a tornozeleira eletrônica pra **igreja** . É má 
+influência, é discurso de ódio e incitação ao crime. 
+
+Lemmas in this text that loaded on the factor:
+
+cristão
+igreja

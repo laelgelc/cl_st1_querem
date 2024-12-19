@@ -1,0 +1,19 @@
+file = t003040
+date = 2019-02-27
+user = RubinhoNunes
+conversation = 2838953716
+URL = https://twitter.com/RubinhoNunes/status/1100792864466976768
+
+word count = 50
+words loading = 2
+factor score = -2
+
+A nomeação de Ilona Szabó para o Conselho do Ministério da Justiça afronta 
+aos valores e votos que levaram Jair à Presidência. Desarmamentista e 
+progressista, Ilona é óleo na **água** de Bolsonaro e **água** no chopp de 
+seus eleitores, seria o mesmo que **nomear** o Cardozo para a AGU. 
+
+Lemmas in this text that loaded on the factor:
+
+nomear
+água

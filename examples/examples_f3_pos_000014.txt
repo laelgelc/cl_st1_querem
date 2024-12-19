@@ -1,0 +1,18 @@
+file = t019121
+date = 2022-12-30
+user = RoseCarvalhoTe1
+conversation = 1059486243195678721
+URL = https://twitter.com/RoseCarvalhoTe1/status/1608964368376696832
+
+word count = 31
+words loading = 2
+factor score = 2
+
+E vai ficar tudo por isso mesmo? Havia realmente uma **bomba** no aeroporto de 
+Brasília para tentar explodir o **avião** com o Bolsonaro e família, e 
+ninguém vai fazer nada? 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+bomba

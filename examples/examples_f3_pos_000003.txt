@@ -1,0 +1,21 @@
+file = t017067
+date = 2022-08-30
+user = ReginaldoLopes
+conversation = 50088692
+URL = https://twitter.com/ReginaldoLopes/status/1564667604362485766
+
+word count = 44
+words loading = 3
+factor score = 3
+
+Duas **bombas** no mesmo dia. A sociedade descobre que metade do 
+**patrimônio** da família Bolsonaro foi comprado com dinheiro vivo. 51 
+milhões em dinheiro vivo. . Além disso, a PF afirma que Abin atrapalhou 
+investigações contra o filho do presidente. **Escândalo** atrás de 
+**escândalo** . 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+escândalo
+patrimônio

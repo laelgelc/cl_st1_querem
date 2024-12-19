@@ -1,0 +1,18 @@
+file = t013844
+date = 2022-01-30
+user = otempo
+conversation = 29274419
+URL = https://twitter.com/otempo/status/1487751536390414344
+
+word count = 20
+words loading = 3
+factor score = 2
+
+Apenas em dezembro, os **cartões** exclusivos da família **presidencial** 
+foram usados em **compras** que somaram R$ 1 , 5 milhão 
+
+Lemmas in this text that loaded on the factor:
+
+cartão
+compra (secondary)
+presidencial

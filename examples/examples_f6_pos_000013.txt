@@ -1,0 +1,21 @@
+file = t003620
+date = 2019-04-29
+user = JoelmaMarcia
+conversation = 71237348
+URL = https://twitter.com/JoelmaMarcia/status/1122970284309590016
+
+word count = 43
+words loading = 4
+factor score = 4
+
+Bolsonaro, o patriota, em 3 **meses** já desvalorizou as duas **maiores** 
+empresas de **economia** mista da nação. Óia que homem sabiduuuu rapá 
+Aposto que o mercado financeiro está bem feliz com a escolha do presidente que 
+ia **salvar** a pátria amada Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+economia
+grande
+mês
+salvar

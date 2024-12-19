@@ -1,0 +1,20 @@
+file = t003167
+date = 2019-02-27
+user = Prof_Ricardo_SP
+conversation = 806567693646233607
+URL = https://twitter.com/Prof_Ricardo_SP/status/1100879033150177280
+
+word count = 43
+words loading = 3
+factor score = -2
+
+Será que a genialidade dos generais brasileiros não percebeu que capitão 
+bandidão Bolsonaro **chefe** de **milicianos** iria trazer para o Alvorada seu 
+estilo mafioso. Desde quando um Presidente pode ser confundido com um bandidão 
+impunemente? Meu Deus oque esses generais **andaram** fizendo 
+
+Lemmas in this text that loaded on the factor:
+
+andar (secondary)
+chefe
+miliciano

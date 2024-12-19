@@ -1,0 +1,21 @@
+file = t010265
+date = 2021-03-30
+user = SaBolsonaro
+conversation = 1101680527709483008
+URL = https://twitter.com/SaBolsonaro/status/1376932491810967553
+
+word count = 48
+words loading = 3
+factor score = -3
+
+Jair Bolsonaro tem nervo de aço. Tem décadas de bagagem nas costas. Outros no 
+lugar dele já teriam **caído** e **caído** nas armadilhas dos inimigos. Os 
+inimigos do Brasil e do Bolsonaro nunca **gastaram** tanta energia e 
+**dinheiro** contra um alvo como agora. E Bolsonaro está lá . 
+backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+cair
+dinheiro
+gastar

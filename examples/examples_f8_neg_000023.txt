@@ -1,0 +1,20 @@
+file = t005828
+date = 2020-01-30
+user = Ilisp_org
+conversation = 4871942260
+URL = https://twitter.com/Ilisp_org/status/1222726371891388416
+
+word count = 43
+words loading = 3
+factor score = -2
+
+23:59 : Faça um show público ao demitir o secretário-executivo da Casa Civil 
+por ele ter utilizado um **avião** da FAB em uma viagem internacional. 00:00 : 
+Usando uma edição extra do diário oficial, **nomeie** ele para outro 
+**cargo** na Casa Civil porque é amiguinho da família Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+avião (secondary)
+cargo
+nomear

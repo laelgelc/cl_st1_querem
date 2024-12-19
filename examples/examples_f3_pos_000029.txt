@@ -1,0 +1,18 @@
+file = t013994
+date = 2022-01-30
+user = SERGIOVIEIRA652
+conversation = 1003710220118446080
+URL = https://twitter.com/SERGIOVIEIRA652/status/1487883992963686402
+
+word count = 29
+words loading = 2
+factor score = 2
+
+@RicardoRoqueso1 @freire_roberto @jairbolsonaro As lagostas do STF, o ex 
+presidiário ladrão e a picanha de 1 . 799kg e **gastos** com **cartão** 
+corporativo do Bolsonaro não merecem justificativas! Tudo vagabundo! 
+
+Lemmas in this text that loaded on the factor:
+
+cartão
+gasto

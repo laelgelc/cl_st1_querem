@@ -1,0 +1,23 @@
+file = t010723
+date = 2021-03-30
+user = Fazendo_Nerdice
+conversation = 3031528949
+URL = https://twitter.com/Fazendo_Nerdice/status/1376957626412642306
+
+word count = 50
+words loading = 5
+factor score = 5
+
+Daí o Ministro de Relações Exteriores pede **demissão** . O Ministro da 
+Defesa é **demitido** por se **recusar** a cooperar com o **golpe** do 
+Bolsonaro. Os três **comandantes** das Forças Armadas pulam fora. O AGU é 
+substituído por um amigão do presidente. E a Câmara dos Deputados, tá 
+fazendo oque? 
+
+Lemmas in this text that loaded on the factor:
+
+comandante
+demissão
+demitir
+golpe
+recusar

@@ -1,0 +1,17 @@
+file = t017066
+date = 2022-08-30
+user = AdrianaEleuter6
+conversation = 1186715764805505025
+URL = https://twitter.com/AdrianaEleuter6/status/1564762143999811585
+
+word count = 21
+words loading = 2
+factor score = 2
+
+RT @ReginaldoLopes: Duas **bombas** no mesmo dia. A sociedade descobre que 
+metade do **patrimônio** da família Bolsonaro foi comprado com dinheiro … 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+patrimônio

@@ -1,0 +1,23 @@
+file = t020194
+date = 2023-03-30
+user = Carolwin7
+conversation = 1588586687097176065
+URL = https://twitter.com/Carolwin7/status/1641492891330650112
+
+word count = 26
+words loading = 6
+factor score = 6
+
+@grasielly_karla @miltoncloss Seguindo de volta. . **Amém** . . Que nosso 
+amado Deus seja conosco da direita e com nosso amado e eterno presidente 
+Bolsonaro. . Tenha uma **noite** **abençoada** . **flag_brazil_e** 
+**folded_hands_e** **green_heart_e** 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+amém
+flag_brazil_e
+folded_hands_e
+green_heart_e
+noite

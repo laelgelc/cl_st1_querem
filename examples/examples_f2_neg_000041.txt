@@ -1,0 +1,17 @@
+file = t000102
+date = 2018-03-28
+user = ojotacamelo
+conversation = 359295661
+URL = https://twitter.com/ojotacamelo/status/978882342810013696
+
+word count = 35
+words loading = 1
+factor score = -1
+
+Vocês realmente **acham** que o Bolsonaro quer o MST armado até os dentes? Os 
+sindicatos armados? A favela armada? As organizações populares armadas? Os 
+trabalhadores armados? Então, parem de espalhar o mito de que. . . 
+
+Lemmas in this text that loaded on the factor:
+
+achar

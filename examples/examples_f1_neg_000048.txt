@@ -1,0 +1,19 @@
+file = t001508
+date = 2018-09-29
+user = mphistoria
+conversation = 932859801532555264
+URL = https://twitter.com/mphistoria/status/1045854613788872705
+
+word count = 35
+words loading = 2
+factor score = -2
+
+Haddad comunista que quer acabar com a família brasileira: casado há 30 anos. 
+Bolsonaro, homem de bem, que salvará a família brasileira: 3 casamentos, 
+ameaçou de morte sua ex-esposa e **usou** sua influência **política** para 
+persegui -la. 
+
+Lemmas in this text that loaded on the factor:
+
+político
+usar

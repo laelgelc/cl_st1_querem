@@ -1,0 +1,21 @@
+file = t000607
+date = 2018-05-30
+user = AlexVille1907
+conversation = 981135257679400960
+URL = https://twitter.com/AlexVille1907/status/1001890228418818049
+
+word count = 43
+words loading = 3
+factor score = -3
+
+Creio que há desinformação aí ! Se assim for, então apenas candidatos de 
+**primeira** " viagem " poderão se candidatar. Réu é o q não falta. Além 
+disso, Lula está preso por corrupção. . . Bolsonaro teve o **direito** da 
+imunidade parlamentar e **liberdade** expressão desconsiderados. Armação. . 
+. 
+
+Lemmas in this text that loaded on the factor:
+
+direito
+liberdade
+primeiro

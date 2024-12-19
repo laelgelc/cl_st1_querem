@@ -1,0 +1,18 @@
+file = t008282
+date = 2020-09-29
+user = Gabriel6828
+conversation = 3506114175
+URL = https://twitter.com/Gabriel6828/status/1311092939406311425
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @DeputadoFederal: **Amigo** dos **amigos** : Equipe de Aras arquiva 
+investigação sobre contas que **ligam** família Bolsonaro ao gabinete do 
+ódio - C … 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+ligar

@@ -1,0 +1,19 @@
+file = t012382
+date = 2021-08-30
+user = Filipeint3r
+conversation = 982449761394536448
+URL = https://twitter.com/Filipeint3r/status/1432380132048740356
+
+word count = 45
+words loading = 2
+factor score = -2
+
+@BolsonaroSP Queremos liberdade! Como? **Retirando** os direitos a democracia e 
+dando na mão de militares! Muito bom! Muito efetivo! Muito conhecido já as 
+consequências destes atos. Dia 12 / 09 é o dia de acabar com essas narrativas 
+patéticas e **cobrar** planejamento econômico e estratégico! 
+
+Lemmas in this text that loaded on the factor:
+
+cobrar
+retirar

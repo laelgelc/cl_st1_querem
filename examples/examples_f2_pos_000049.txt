@@ -1,0 +1,22 @@
+file = t009685
+date = 2020-12-30
+user = Macau52549795
+conversation = 1249770884509978624
+URL = https://twitter.com/Macau52549795/status/1344075617386573829
+
+word count = 43
+words loading = 5
+factor score = 4
+
+@CarlaZambelli38 O povo está sendo torturado por este governo desastroso e 
+infame. Fome Desemprego Zero **aumento** do **salário** **mínimo** 
+Cancelamento do aux. **emergencial** Filho ladrão Alta do dólar Alta da 
+**inflação** Falta de vacina Isto é tortura real que sentirmos na pele. 
+
+Lemmas in this text that loaded on the factor:
+
+aumento
+emergencial
+inflação (secondary)
+pequeno
+salário

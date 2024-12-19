@@ -1,0 +1,20 @@
+file = t013230
+date = 2021-10-30
+user = PauloBr78655167
+conversation = 1354983598269620227
+URL = https://twitter.com/PauloBr78655167/status/1453025868440289280
+
+word count = 55
+words loading = 2
+factor score = -2
+
+@Fehnanda77 @sergiodireita1 @FiatBR Feh, **acho** que no caso do Mauricio não 
+foi somente a opinião. Uma coisa é ter uma visão diferente, outra é atacar 
+e querer a inexistencia. Digo isso pq sou cristão e vejo muitos falhando e 
+trazendo mal testemunho trajados de cristãos ou de familia do **bem** ! 
+Respeitar é o ponto 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+bem

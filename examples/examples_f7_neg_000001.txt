@@ -1,0 +1,21 @@
+file = t003435
+date = 2019-03-28
+user = abdalafarah
+conversation = 336878973
+URL = https://twitter.com/abdalafarah/status/1111194893999841280
+
+word count = 48
+words loading = 4
+factor score = -4
+
+Hoje é dia 28 / 03 / 2019 ! Quando será o depoimento do Flávio Bolsonaro? E 
+as investigações sobre o Queiroz, **esposa** e **filhas** ? E o cheque da 
+Michele Bolsonaro? E o Jair? Esquemas? E os **milicianos** ? E suas famílias 
+nos **gabinetes** ? Quem mandou matar Marielle? Cadê as respostas? ! ? ! 
+
+Lemmas in this text that loaded on the factor:
+
+esposo
+filha
+gabinete
+miliciano

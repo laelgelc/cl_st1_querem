@@ -1,0 +1,20 @@
+file = t019811
+date = 2023-02-27
+user = FiscalDireita
+conversation = 1610044466009710592
+URL = https://twitter.com/FiscalDireita/status/1630254390807281665
+
+word count = 52
+words loading = 3
+factor score = 2
+
+PL das **fake** **news** está a todo vapor para colocar uma mordaça em nossas 
+bocas. Será necessário sairmos as ruas e fazermos vigílias em prol da nossa 
+liberdade que está sendo **tomada** ? Isso não é Lula vs Bolsonaro, mas sim 
+o Totalitarismo vs Liberdade de opinião, seja qual for a sua! 
+
+Lemmas in this text that loaded on the factor:
+
+fake
+news
+tomar (secondary)

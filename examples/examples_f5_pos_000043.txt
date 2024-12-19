@@ -1,0 +1,20 @@
+file = t019304
+date = 2023-01-30
+user = maria_auxi18
+conversation = 1575197185909604352
+URL = https://twitter.com/maria_auxi18/status/1620202911874834432
+
+word count = 21
+words loading = 4
+factor score = 4
+
+RT @renatoroseno: 4 . Governo Lula também estancou a sangria armamentista 
+patrocinada por Bolsonaro, **reduzindo** o **acesso** a **armas** de **fogo** , 
+sus … 
+
+Lemmas in this text that loaded on the factor:
+
+acesso
+arma
+fogo
+reduzir

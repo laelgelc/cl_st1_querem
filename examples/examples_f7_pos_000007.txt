@@ -1,0 +1,23 @@
+file = t008010
+date = 2020-08-30
+user = HeraldoCesarPol
+conversation = 2573690509
+URL = https://twitter.com/HeraldoCesarPol/status/1300211339240124416
+
+word count = 54
+words loading = 5
+factor score = 4
+
+Eu não tenho nenhum remorso em também ter votado no Amoedo no 1º **turno** , 
+ele se declarava um **liberal** na **economia** e **conservador** nos 
+**costumes** , por isso votei nele, mas hoje vejo que não é nada disso, 
+conseguiu me enganar. Já no 2º **turno** fui de Bolsonaro e não me arrependo 
+em nada. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+economia (secondary)
+liberal
+turno

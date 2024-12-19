@@ -1,0 +1,22 @@
+file = t001443
+date = 2018-08-30
+user = MorenoJose0809
+conversation = 992558884782034949
+URL = https://twitter.com/MorenoJose0809/status/1035284424143843328
+
+word count = 29
+words loading = 6
+factor score = 5
+
+Alckmin: " **armas** não **resolvem** o problema da violência e segurança " 
+Bolsonaro: " quando Alckmin deixar de **andar** de **carro** **blindado** e 
+seguranças **armados** , eu passo a acreditar nele " HASHTAG #ospingosnosis_h 
+
+Lemmas in this text that loaded on the factor:
+
+andar
+arma
+armar
+blindar (secondary)
+carro
+resolver

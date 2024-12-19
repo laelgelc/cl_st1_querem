@@ -1,0 +1,22 @@
+file = t000562
+date = 2018-05-30
+user = Derick30675412
+conversation = 967660279160066048
+URL = https://twitter.com/Derick30675412/status/1001925810025127938
+
+word count = 43
+words loading = 5
+factor score = -4
+
+@Gen_VillasBoas @exercitooficial Não somos mais reféns de caminhoneiros. 
+Somos reféns dos 3 poderes e **forças** **armadas** . Ainda por cima 
+**tiraram** nosso **direito** a armas p nos impedir de lutar contra td esse 
+sistema q massacra o povo. Isso sim é uma **ditadura** . Nojo. 
+
+Lemmas in this text that loaded on the factor:
+
+armar (secondary)
+direito
+ditadura
+força
+tirar

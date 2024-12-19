@@ -1,0 +1,20 @@
+file = t010267
+date = 2021-03-30
+user = cristianominas
+conversation = 190798741
+URL = https://twitter.com/cristianominas/status/1376985463983112194
+
+word count = 32
+words loading = 4
+factor score = 4
+
+**Comandantes** do Exército pedem **demissão** em **protesto** contra 
+Bolsonaro. É esse o nível do bolsonarismo: querer transformar as Forças 
+Armadas em um instrumento de **defesa** dos seus crimes contra o Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+comandante
+defesa
+demissão
+protesto

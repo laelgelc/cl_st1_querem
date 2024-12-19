@@ -1,0 +1,23 @@
+file = t007989
+date = 2020-08-30
+user = CassianoJardson
+conversation = 174878728
+URL = https://twitter.com/CassianoJardson/status/1299935314551746560
+
+word count = 46
+words loading = 5
+factor score = 4
+
+@AbdelSantos8 @heliopoli_sp @TVHDOzzy Além disso NINGUÉM OLHAVA P / O 
+BOLSONARO e ainda na época ninguém se declarava " **conservador** " até pq 
+NUNCA EXISTIU **DIREITA** NO BRASIL, Conforme a campanha vinha se desenrolando, 
+e vendo Bolsonaro defender **combate** à corrupção e segurança pública, 
+**economia** **liberal** e pro vida. . . 
+
+Lemmas in this text that loaded on the factor:
+
+combate
+conservador
+direita
+economia (secondary)
+liberal

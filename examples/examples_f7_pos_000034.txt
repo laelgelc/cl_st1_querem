@@ -1,0 +1,21 @@
+file = t013727
+date = 2021-12-30
+user = LevialfeuLevita
+conversation = 1434568397459791876
+URL = https://twitter.com/LevialfeuLevita/status/1476595777904562179
+
+word count = 41
+words loading = 4
+factor score = 3
+
+@leandromcfc @NadaOpinador @augustodeAB Bolsonaro tinha bem mais carisma, se 
+quiser que Moro vá ao segundo **turno** manda ele falar de outras **pautas** 
+econômicas e **sociais** , e que ele age como alguém de **pauta** 
+**conservadora** , será que o @SF_Moro conseguirá dessa vez? 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+pauta
+social (secondary)
+turno

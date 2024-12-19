@@ -1,0 +1,18 @@
+file = t000155
+date = 2018-03-29
+user = uadisluv
+conversation = 298162383
+URL = https://twitter.com/uadisluv/status/979442378309292033
+
+word count = 50
+words loading = 1
+factor score = -1
+
+@Umsalesrosa Eu notei q, ignorando parentes, 95 % dos meus **amigos** n gostam 
+do Bolsonaro Isso é bom, por um lado E ruim, pois tenho pouco contato com 
+prováveis eleitores dele q n gostam dele, mas caem no conto do " honesto, 
+cristão e patriota " Involuntariamente eu tb acabo numa bolha 
+
+Lemmas in this text that loaded on the factor:
+
+amigo

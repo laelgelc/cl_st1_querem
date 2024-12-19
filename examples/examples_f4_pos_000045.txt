@@ -1,0 +1,20 @@
+file = t016289
+date = 2022-07-30
+user = PauloVencato
+conversation = 1127631196530380803
+URL = https://twitter.com/PauloVencato/status/1553528917700517891
+
+word count = 41
+words loading = 3
+factor score = 3
+
+Presidente da República deu declarações neste sábado Neste sábado ( 30 ) , 
+o presidente Jair Bolsonaro afirmou que as Forças Armadas vão **participar** 
+" ao lado " de seus apoiadores dos **atos** governistas de 7 de **setembro** , 
+em Brasília e no Rio de Janeiro. 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+participar
+setembro

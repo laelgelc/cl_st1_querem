@@ -1,0 +1,19 @@
+file = t006528
+date = 2020-04-29
+user = camiloschirmer
+conversation = 937278046943547392
+URL = https://twitter.com/camiloschirmer/status/1255605926846959620
+
+word count = 43
+words loading = 2
+factor score = -2
+
+@rosaneoliveira Deixa de ser safada e posta aí no teu tt vídeos de famílias 
+indignadas com diagnósticos falsos de **Covid** . . . tu não tem coragem. . . 
+é militante do PT. . . teu lema: **volta** dinheiro pra RBS. . . aí vou 
+apoiar o Bolsonaro. . tu é canalha 
+
+Lemmas in this text that loaded on the factor:
+
+covid
+volta

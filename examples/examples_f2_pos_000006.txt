@@ -1,0 +1,23 @@
+file = t011019
+date = 2021-04-29
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1387889657510301698
+
+word count = 38
+words loading = 6
+factor score = 6
+
+Estados utilizam recursos da covid para **pagar** **salários** ; . Indígenas 
+sobre a vida em suas terras; . Biocombustível; . Brasil possui uma das 
+matrizes de energia mais limpas do mundo; . **Programas** de **auxílio** à 
+manutenção de **empregos** , **auxílio** **emergencial** e bolsa-família; 
+
+Lemmas in this text that loaded on the factor:
+
+auxílio
+emergencial
+emprego
+pagar
+programa
+salário

@@ -1,0 +1,18 @@
+file = t019109
+date = 2022-12-30
+user = JuTrajano23
+conversation = 1600894323494715392
+URL = https://twitter.com/JuTrajano23/status/1608777377466966016
+
+word count = 20
+words loading = 2
+factor score = 2
+
+@GabrielKustow Conservador, o quê malandro? Puxa-saco do Bolsonaro, 
+conselheiro, viajando em **avião** **presidencial** para passear com ele pelos 
+outros países. 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+presidencial

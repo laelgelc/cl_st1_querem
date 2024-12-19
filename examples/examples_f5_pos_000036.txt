@@ -1,0 +1,21 @@
+file = t000366
+date = 2018-04-28
+user = Henriquerr34
+conversation = 80200717
+URL = https://twitter.com/Henriquerr34/status/990353773464875009
+
+word count = 36
+words loading = 5
+factor score = 5
+
+Eleitor do bolsonaro é engraçado, o " mito " quer **liberar** o **porte** de 
+**arma** colocando **arma** na mão de qualquer doido pra a por aí 
+**resolvendo** tudo na **bala** , mas quem promove ódio é o PT. . . . . 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+bala
+liberar
+porte
+resolver

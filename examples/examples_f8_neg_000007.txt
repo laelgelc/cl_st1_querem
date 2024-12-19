@@ -1,0 +1,19 @@
+file = t020170
+date = 2023-03-30
+user = LuismarSilvaLi2
+conversation = 870726237152575488
+URL = https://twitter.com/LuismarSilvaLi2/status/1641487154713972738
+
+word count = 34
+words loading = 3
+factor score = -3
+
+@BolsonaroSP @costa_rui 1 . PCC planeja matar Moro. 2 . Lula diz ser armação 
+do **senador** . 3 . Dino visita reduto de traficantes. 4 . Lula **retira** 
+carro **blindado** de Bolsonaro. Esse governo realmente facilita para o crime. 
+
+Lemmas in this text that loaded on the factor:
+
+blindar
+retirar
+senador

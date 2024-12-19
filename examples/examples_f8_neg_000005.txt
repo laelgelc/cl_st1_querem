@@ -1,0 +1,22 @@
+file = t019601
+date = 2023-02-27
+user = FlaSempre_
+conversation = 154602506
+URL = https://twitter.com/FlaSempre_/status/1630303137398415371
+
+word count = 45
+words loading = 4
+factor score = -3
+
+@Ze_Augusto @mendlowicz Pô cara, várias pessoas inclusive o Justus alertaram 
+para os **erros** que o Bolsonaro / bolsonarismo estavam **cometendo** , e a 
+galera ao invés de **cobrar** o Bolsonaro preferiram brigar chamar de 
+**traidores** e comunista todos aqueles criticavam … e no final deu no que 
+deu né man_shrugging_medium-dark_skin_tone_e 
+
+Lemmas in this text that loaded on the factor:
+
+cobrar
+cometer
+erro (secondary)
+traidor

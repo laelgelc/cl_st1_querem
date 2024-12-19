@@ -1,0 +1,20 @@
+file = t001463
+date = 2018-08-30
+user = Ale1973Castro
+conversation = 43899560
+URL = https://twitter.com/Ale1973Castro/status/1035280786780504064
+
+word count = 40
+words loading = 3
+factor score = -3
+
+Favorite tweet: Ciro diz que Bolsonaro é um " Hitlerzinho tropical " . Como se 
+Bolsonaro chamasse negro de capitão-do-mato, fosse receber os outros Poderes 
+na bala, odiasse Israel e fizesse acordo com tudo quanto é **ditadura** do 
+mundo **inimiga** da **liberdade** . thinking_face_e — Flavio Morgenster … 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+inimigo
+liberdade

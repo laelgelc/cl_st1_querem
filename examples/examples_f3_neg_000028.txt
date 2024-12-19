@@ -1,0 +1,18 @@
+file = t001532
+date = 2018-09-29
+user = guilherme_alvf
+conversation = 1009464796469657601
+URL = https://twitter.com/guilherme_alvf/status/1046184846572310528
+
+word count = 15
+words loading = 3
+factor score = -3
+
+@loarcanjo ou seja, isso **tira** o **direito** de **liberdade** dessa menina? 
+entendi foi nada 
+
+Lemmas in this text that loaded on the factor:
+
+direito
+liberdade
+tirar

@@ -1,0 +1,20 @@
+file = t013868
+date = 2022-01-30
+user = caiquemartinsbr
+conversation = 1210675830768259072
+URL = https://twitter.com/caiquemartinsbr/status/1487935022036303872
+
+word count = 37
+words loading = 3
+factor score = 3
+
+Família Bolsonaro é humilde, do povo e gente como a gente taokey? 
+Quadruplicar **patrimônio** milionário em 2 anos com o papai presidente da 
+república decretando sigilo nos **gastos** **presidenciais** é apenas uma 
+mera coincidência poxa vida. 
+
+Lemmas in this text that loaded on the factor:
+
+gasto
+patrimônio
+presidencial

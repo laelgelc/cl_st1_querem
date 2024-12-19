@@ -1,0 +1,20 @@
+file = t011638
+date = 2021-06-29
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1409940385338691586
+
+word count = 41
+words loading = 3
+factor score = -2
+
+A **CPI** da **Covid** já **recebeu** os dados da quebra do sigilo fiscal do 
+empresário Francisco Maximiano, sócio da Precisa Medicamentos, que 
+intermediou a compra das vacinas da Covaxin. É preciso investigar as 
+relações de Maximiano com a família Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+covid (secondary)
+cpi
+receber

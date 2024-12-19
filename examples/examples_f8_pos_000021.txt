@@ -1,0 +1,21 @@
+file = t005812
+date = 2020-01-30
+user = PedroMottaB
+conversation = 978030180584316929
+URL = https://twitter.com/PedroMottaB/status/1223025186531938305
+
+word count = 40
+words loading = 4
+factor score = 3
+
+Comunidade **judia** , que foi libertada do cativeiro **nazista** de Aushwitz 
+pelo Exército Vermelho soviético, precisa se conscientizar de que aro 
+representa a reprodução aqui do nazismo. AO **VIVO** : Lula participa de 
+**ato** com **judeus** e **judias** em São Paulo 
+
+Lemmas in this text that loaded on the factor:
+
+ato (secondary)
+judeu
+nazista
+vivo

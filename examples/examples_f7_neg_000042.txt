@@ -1,0 +1,19 @@
+file = t010549
+date = 2021-03-30
+user = Heroi_Romanesco
+conversation = 320418868
+URL = https://twitter.com/Heroi_Romanesco/status/1377035408832262148
+
+word count = 46
+words loading = 2
+factor score = -2
+
+@CNNBrasil É muita já jumentice junta. O Presidente Bolsonaro é o **chefe** 
+das Forças Armadas, **recebeu** o aval da população brasileira através dos 
+votos. Com todos os poderes a ele concebidos pela Constituição Federal. 
+Então, ele faz o que bem entender dentro da sua competência! ! 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+receber

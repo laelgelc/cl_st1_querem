@@ -1,0 +1,22 @@
+file = t005616
+date = 2019-12-29
+user = leticiaduarte
+conversation = 21464276
+URL = https://twitter.com/leticiaduarte/status/1211389677250449410
+
+word count = 48
+words loading = 4
+factor score = -4
+
+@TheAtlantic Nesse **primeiro** encontro, Olavo falou mal de jornalistas como 
+de costume, mas foi educado. Me mostrou sua coleção de armas, contou 
+histórias e definiu o governo Bolsonaro como uma " ejaculação precoce " , 
+por ter sido **eleito** antes de **vencer** a " guerra cultural contra a 
+**esquerda** " ( 3 / 16 ) 
+
+Lemmas in this text that loaded on the factor:
+
+eleger
+esquerda
+primeiro
+vencer

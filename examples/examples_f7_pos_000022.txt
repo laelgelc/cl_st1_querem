@@ -1,0 +1,20 @@
+file = t019006
+date = 2022-12-30
+user = eduard_castr_
+conversation = 1580581083757907973
+URL = https://twitter.com/eduard_castr_/status/1608837619487748098
+
+word count = 41
+words loading = 3
+factor score = 3
+
+@Adrualdo É preciso que os verdadeiros **conservadores** assumam o 
+protagonismo da **direita** . Fiscalizar, apontar os **erros** e apresentar 
+alternativas, é essa **direita** que precisa atuar. Não apresentem soluções 
+populistas, Jair Bolsonaro foi o pior presidente que esse país já teve. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+erro

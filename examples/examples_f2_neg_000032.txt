@@ -1,0 +1,18 @@
+file = t019020
+date = 2022-12-30
+user = M4th3u5engtel09
+conversation = 182377150
+URL = https://twitter.com/M4th3u5engtel09/status/1608966693631713280
+
+word count = 26
+words loading = 2
+factor score = -2
+
+RT @HugoBasagliaMT: Bolsonaro ter ido embora e um cuspe na cara de quem lhe 
+apoio, brigou com **amigos** , família, sofreu na chuva e sol na **frente** 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+frente

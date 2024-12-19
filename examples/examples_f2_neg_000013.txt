@@ -1,0 +1,19 @@
+file = t006369
+date = 2020-03-30
+user = Cincuunn
+conversation = 1187499221387300864
+URL = https://twitter.com/Cincuunn/status/1244772233517699080
+
+word count = 41
+words loading = 2
+factor score = -2
+
+Sou democrático e **acho** um absurdo a ditadura comunista chinesa censurar 
+entrevistas de órgãos e pessoas **ligadas** à saúde a respeito do Corona 
+vírus. Absurdo, né ? Mas foi o Bolsonaro que acabou de censurar as 
+entrevistas do Ministério da Saúde. 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+ligar

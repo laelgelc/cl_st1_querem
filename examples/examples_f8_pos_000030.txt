@@ -1,0 +1,20 @@
+file = t001943
+date = 2018-10-30
+user = FPADomingues
+conversation = 130850291
+URL = https://twitter.com/FPADomingues/status/1057388440013152257
+
+word count = 43
+words loading = 3
+factor score = 3
+
+Sim, **pastor** ! o estado é laico e o presidente nesse momento representa a 
+todos. Temos **cristãos** , evangélicos, **judeus** , umbandistas, ateus. . . 
+queria ver se o presidente fosse do candomblé e no discurso da vitória 
+recebesse uma entidade. Vc seria o primeiro a chiar. 
+
+Lemmas in this text that loaded on the factor:
+
+cristão
+judeu
+pastor

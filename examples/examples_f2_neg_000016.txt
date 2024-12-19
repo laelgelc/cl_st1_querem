@@ -1,0 +1,18 @@
+file = t008616
+date = 2020-09-29
+user = 3Berte3
+conversation = 2790573696
+URL = https://twitter.com/3Berte3/status/1311048476491485185
+
+word count = 26
+words loading = 2
+factor score = -2
+
+Acabei de ver **Amigo** dos **amigos** : Equipe de Aras arquiva investigação 
+sobre contas que **ligam** família Bolsonaro ao gabinete do ódio - Clique 
+para ver também ☛ 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+ligar

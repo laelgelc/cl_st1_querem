@@ -1,0 +1,19 @@
+file = t009838
+date = 2021-01-30
+user = CRochamonte
+conversation = 3039110637
+URL = https://twitter.com/CRochamonte/status/1355649460714561538
+
+word count = 32
+words loading = 3
+factor score = 3
+
+Presidente do Instituto **Liberal** do Nordeste, Catarina Rochamonte defende 
+que **liberais** e **conservadores** rompam com o governo Jair Bolsonaro. A 
+**direita** precisa fazer um mea culpa sobre Bolsonaro, diz Catarina Rochamonte 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+liberal

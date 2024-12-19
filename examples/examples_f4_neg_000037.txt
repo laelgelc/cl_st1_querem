@@ -1,0 +1,20 @@
+file = t010118
+date = 2021-02-27
+user = nadia_patria
+conversation = 989198300132921344
+URL = https://twitter.com/nadia_patria/status/1364679133184286720
+
+word count = 38
+words loading = 3
+factor score = -3
+
+@LulaOficial @emersonSVPT Oh, babaca com eterna **cara** de cachaceiro, vc só 
+está solto pq o " amigo do amigo do meu **pai** " o soltou. Mas vc não deixou 
+de ser **ladrão** . E opinião de **ladrão** não vale. HASHTAG 
+#bolsonarotemrazao_h 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+ladrão
+pai

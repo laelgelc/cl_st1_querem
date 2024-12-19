@@ -1,0 +1,22 @@
+file = t009914
+date = 2021-01-30
+user = otaldebochado
+conversation = 1050174967298629633
+URL = https://twitter.com/otaldebochado/status/1355513059754831874
+
+word count = 50
+words loading = 4
+factor score = 4
+
+Vacina da Johnson & Johnson tem 66 % de eficácia e por ser dose única 
+agilizaria a vacinação no Brasil. Governo Bolsonaro já entrou em contato com 
+a farmacêutica? Já está negociando as **compras** ? Não. Não querem 
+**salvar** **vidas** e nem a **economia** , querem viver do caos pra vencer em 
+2022 . 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+economia
+salvar
+vida

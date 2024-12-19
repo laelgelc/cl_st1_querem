@@ -1,0 +1,22 @@
+file = t002220
+date = 2018-12-30
+user = LeiaRachor
+conversation = 361836159
+URL = https://twitter.com/LeiaRachor/status/1079430994954997765
+
+word count = 45
+words loading = 5
+factor score = 4
+
+Quero que essa " **Direita** **liberal** na **economia** e **conservadora** nos 
+**costumes** " FIQUE NO PODER NOS PRÓXIMOS 60 ANOS ou que os Brasileiros NUNCA 
+MAIS ELEJAM um representante de esquerda por que o exemplo nós já tivemos e 
+estamos vendo pelo mundo a fora. HASHTAG #direita_h 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+direita
+economia (secondary)
+liberal

@@ -1,0 +1,17 @@
+file = t007617
+date = 2020-07-30
+user = 89nuncamais
+conversation = 170498695
+URL = https://twitter.com/89nuncamais/status/1288984805724557312
+
+word count = 18
+words loading = 2
+factor score = -2
+
+RT @luizaerundina: Bolsonaro veta projeto do PSOL que prioriza mulheres 
+**chefes** de família para **receber** auxílio emergencial: … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+receber

@@ -1,0 +1,23 @@
+file = t000290
+date = 2018-04-29
+user = claudiodemetri3
+conversation = 2758656195
+URL = https://twitter.com/claudiodemetri3/status/990587758237437953
+
+word count = 44
+words loading = 5
+factor score = 4
+
+@Estadao @EstadaoPolitica. Nada mais natural. **Conservadores** , via de regra 
+são **cristãos** e Magno e o seu partido PR, pode consolidar a vitória de 
+Bolsonaro no 1º **turno** . Evangélicos não estão gostando dessas 
+**pautas** esquerdistas, como **aborto** , Sodoma e Gomorra nas TVs e 
+corrupção. . . 
+
+Lemmas in this text that loaded on the factor:
+
+aborto
+conservador
+cristão (secondary)
+pauta
+turno

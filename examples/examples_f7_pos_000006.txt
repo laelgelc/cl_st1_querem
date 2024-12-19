@@ -1,0 +1,21 @@
+file = t009215
+date = 2020-11-29
+user = 3TiagoAlves
+conversation = 2425533967
+URL = https://twitter.com/3TiagoAlves/status/1333180371815501824
+
+word count = 51
+words loading = 4
+factor score = 4
+
+O grande **erro** é achar que o Bolsonarismo só existe com Bolsonaro. O 
+Bolsonarismo são os **liberais** , os neoliberais e os **conservadores** . As 
+**pautas** estão passando. . . E irão passar. É hora de organizar o ódio ( 
+sem isso não tem revolução ) e o povo. Vamos fortalecer a luta e o PT. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+erro
+liberal
+pauta

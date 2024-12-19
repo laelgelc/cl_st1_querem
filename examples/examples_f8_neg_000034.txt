@@ -1,0 +1,19 @@
+file = t008449
+date = 2020-09-29
+user = drviniciussp
+conversation = 934981757551697920
+URL = https://twitter.com/drviniciussp/status/1311012423004979207
+
+word count = 48
+words loading = 2
+factor score = -2
+
+CUIDADO SOROCABA Quem participa de eventos com os Bolsonaros sabe que eles são 
+atenciosos e **batem** foto com o público presente. Tem GOLPISTA querendo 
+fingir que tem apoio da família Bolsonaro, mas na verdade está aliado aos 
+**traidores** . Quem é de verdade sabe quem é de mentira 
+
+Lemmas in this text that loaded on the factor:
+
+bater
+traidor

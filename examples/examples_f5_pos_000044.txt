@@ -1,0 +1,21 @@
+file = t018589
+date = 2022-11-28
+user = AndreJanonesAdv
+conversation = 1198004545
+URL = https://twitter.com/AndreJanonesAdv/status/1597198488772964354
+
+word count = 49
+words loading = 4
+factor score = 4
+
+Pode investigar que, se bobear, o pai bolsonarista do assassino que entrou 
+**atirando** nas escolas está por trás do crime! Muito suspeito a maneira 
+como o moleque teve **acesso** às **armas** , ao colete e ao **carro** dos 
+pais. Lembrando que o vagabundo é policial e adorador de Hittler! thumbs_up_e 
+
+Lemmas in this text that loaded on the factor:
+
+acesso
+arma
+atirar
+carro

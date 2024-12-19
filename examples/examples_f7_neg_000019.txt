@@ -1,0 +1,19 @@
+file = t004354
+date = 2019-07-30
+user = tonny_coxa
+conversation = 156846206
+URL = https://twitter.com/tonny_coxa/status/1156201363086467072
+
+word count = 44
+words loading = 2
+factor score = -2
+
+Qdo Bolsonaro estava no **hospital** pela facada, surgiu noticia de infecção, 
+teve bloguista PT que seus **olhos** brilhavam de alegria, uns até previram 
+sua morte, hoje os mesmos satirizam e chamam de FacadaFake ESSES IMBECIS ESTÃO 
+PREOCUPADOS C / GUERRILHEIRO COMUNISTA MORTO HÁ 50ANOS? 
+
+Lemmas in this text that loaded on the factor:
+
+hospital
+olho

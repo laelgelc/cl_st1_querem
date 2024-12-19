@@ -1,0 +1,19 @@
+file = t017856
+date = 2022-10-30
+user = Tati__Lima
+conversation = 2809556135
+URL = https://twitter.com/Tati__Lima/status/1586870554069504003
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @MairaMRT: Tarcísio foi eleito para governar São Paulo ao gosto de 
+Bolsonaro e da **extrema** **direita** . Apoiado no **conservadorismo** 
+paulista, … 
+
+Lemmas in this text that loaded on the factor:
+
+conservadorismo
+direita
+extremo

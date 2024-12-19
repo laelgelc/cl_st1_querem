@@ -1,0 +1,22 @@
+file = t006010
+date = 2020-02-28
+user = Iracema818385
+conversation = 301819770
+URL = https://twitter.com/Iracema818385/status/1233425062159638535
+
+word count = 49
+words loading = 4
+factor score = -3
+
+@sil_alle @rochlilia @Sanges_gsgp @BolsonaroSP @monicabergamo Insensatez pura. 
+Quem tem **apoio** das **forças** **armadas** não precisa de miliciano. Estes 
+foram incentivados pela **esquerda** que necessita deles para prática de seus 
+atos ilícitos. Freixo do PSOL é o comandante deles no RJ, segundo Cidinha 
+Campos, que o acusou e ele não negou. 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+armar (secondary)
+esquerda
+força

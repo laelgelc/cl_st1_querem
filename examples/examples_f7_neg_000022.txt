@@ -1,0 +1,18 @@
+file = t005604
+date = 2019-12-26
+user = OlavoOpressor
+conversation = 751471278968758272
+URL = https://twitter.com/OlavoOpressor/status/1210292730288623618
+
+word count = 25
+words loading = 2
+factor score = -2
+
+Esses comunistas são capazes de matar suas próprias **mães** só para dar a 
+impressão de que os eleitores do Bolsonaro são perigosos **milicianos** 
+fascistas. 
+
+Lemmas in this text that loaded on the factor:
+
+miliciano
+mãe

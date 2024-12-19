@@ -1,0 +1,18 @@
+file = t005599
+date = 2019-12-30
+user = BlogdoNoblat
+conversation = 16794066
+URL = https://twitter.com/BlogdoNoblat/status/1211526533950693377
+
+word count = 33
+words loading = 2
+factor score = -2
+
+Cultura, sob Bolsonaro, vive **volta** da censura, perda de ministério e viés 
+**evangélico** Primeiro ano da pasta no governo teve caça a temas sensíveis, 
+conservadores em postos importantes e mudanças na Rouanet 
+
+Lemmas in this text that loaded on the factor:
+
+evangélico
+volta

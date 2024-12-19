@@ -1,0 +1,21 @@
+file = t009894
+date = 2021-01-30
+user = neuzaortiz
+conversation = 171315754
+URL = https://twitter.com/neuzaortiz/status/1355366053023506437
+
+word count = 42
+words loading = 4
+factor score = 4
+
+Precisamos nos livrar da praga, Bolsonaro antes de 2022 , para evitarmos um 
+golpe como **tentou** Trump. Já começou a questionar as urnas eletrônicas; 
+facilitou a **compra** de armas; **tenta** desacreditar a **imprensa** ; 
+privilegia as FFAA e, agora, **compra** o Congresso Nacional. 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+comprar
+imprensa
+tentar

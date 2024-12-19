@@ -1,0 +1,18 @@
+file = t001318
+date = 2018-08-30
+user = veramagalhaes
+conversation = 19667016
+URL = https://twitter.com/veramagalhaes/status/1034972129513623553
+
+word count = 28
+words loading = 2
+factor score = -2
+
+25 anos de carreira, muita história já vista, barrada e escrita. Nenhuma 
+ilusão quanto a **salvadores** ( as ) da **pátria** . Uma vida empenhada ao 
+jornalismo, do regional ao nacional. Sempre com … 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

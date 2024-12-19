@@ -1,0 +1,23 @@
+file = t001429
+date = 2018-08-30
+user = marcoaureliop
+conversation = 50153262
+URL = https://twitter.com/marcoaureliop/status/1035278486045253632
+
+word count = 40
+words loading = 6
+factor score = 5
+
+@JovemPanNews Sobre " não é na **bala** que se **resolve** " : Flores não 
+garantem a paz. Que os " santos " que repetem este bordão deixem de **andar** 
+com **carro** **blindado** e seguranças **armados** que passo a acreditar em 
+suas propostas. Jair Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+andar
+armar
+bala
+blindar (secondary)
+carro
+resolver

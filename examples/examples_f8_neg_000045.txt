@@ -1,0 +1,17 @@
+file = t011714
+date = 2021-06-29
+user = Luciano45592426
+conversation = 1398835633288888320
+URL = https://twitter.com/Luciano45592426/status/1410013023717277700
+
+word count = 19
+words loading = 2
+factor score = -2
+
+RT @o_antagonista: O **senador** Chico Rodrigues ( DEM ) , aliado da família 
+Bolsonaro, **retirou** sua assinatura do requerimento que pede a prorroga … 
+
+Lemmas in this text that loaded on the factor:
+
+retirar
+senador

@@ -1,0 +1,23 @@
+file = t018383
+date = 2022-11-29
+user = Joseymard
+conversation = 133113590
+URL = https://twitter.com/Joseymard/status/1597619768135417858
+
+word count = 46
+words loading = 6
+factor score = -5
+
+@flferronato @MatthewTyrmand Estamos precisando de **apoio** internacional, 
+contra essa **esquerda** que a todo custo quer implantar sua **ditadura** em 
+nosso País. estamos confiante em Deus em **primeiro** lugar e em **segundo** 
+no bom senso da **população** . Que Deus nos ajude a nos livrar deste mal. 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+ditadura
+esquerda
+população (secondary)
+primeiro
+segundo

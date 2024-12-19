@@ -1,0 +1,17 @@
+file = t001172
+date = 2018-07-30
+user = exame
+conversation = 30070288
+URL = https://twitter.com/exame/status/1023964262937620480
+
+word count = 13
+words loading = 2
+factor score = -2
+
+O Boticário **põe** família **negra** em comercial – e os racistas não 
+gostaram 
+
+Lemmas in this text that loaded on the factor:
+
+negro
+pôr

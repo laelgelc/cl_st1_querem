@@ -1,0 +1,21 @@
+file = t002179
+date = 2018-11-29
+user = ciancaglini_15
+conversation = 85696235
+URL = https://twitter.com/ciancaglini_15/status/1068223703551549441
+
+word count = 36
+words loading = 3
+factor score = 3
+
+@CarlosBolsonaro @RitaCRafaeli Carlos. Esse deputadozinho comunista que anda 
+com 800 seguranças e jamais levará uma **facada** como Bolsonaro, justamente 
+porque vive cercado dos seguranças, resolveu agora ficar repassando **fake** 
+**news** . BOLSONARO é seu PRESIDENTE bbca! face_with_tears_of_joy_e 
+face_with_tears_of_joy_e face_with_tears_of_joy_e 
+
+Lemmas in this text that loaded on the factor:
+
+facada
+fake
+news

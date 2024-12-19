@@ -1,0 +1,18 @@
+file = t001979
+date = 2018-10-30
+user = RogerioPSousa
+conversation = 785882894
+URL = https://twitter.com/RogerioPSousa/status/1057410538731397120
+
+word count = 15
+words loading = 3
+factor score = -3
+
+Peraí " A Educação na gestão Bolsonaro " ? ? ! O **CARA** NÃO ASSUMIU! ! ! 
+! ! Pelo **amor** de **Deus** 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cara
+deus

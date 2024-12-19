@@ -1,0 +1,18 @@
+file = t019641
+date = 2023-02-27
+user = b_oretorno
+conversation = 1625589536221716482
+URL = https://twitter.com/b_oretorno/status/1630334056540909569
+
+word count = 27
+words loading = 2
+factor score = 2
+
+@PauloMartins10 **Desarmar** o **bomba** relógio que o Bolsonaro deixou eles 
+jornaleiros na merda, agora o Lula o salvador dos jornaleiros sendo o herói da 
+boquinha nervosa money-mouth_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+desarmar

@@ -1,0 +1,19 @@
+file = t003285
+date = 2019-03-30
+user = cileine_l
+conversation = 743606719784288257
+URL = https://twitter.com/cileine_l/status/1111708240281288705
+
+word count = 45
+words loading = 2
+factor score = -2
+
+@jmmadeira @gugachacra Querer mudar a embaixada do Brasil para Jerusalém só 
+foi por causa de tecnologia? Admiração ao **corrupto** e retrógrado 
+Netanyahu é também em devido a tecnologia? Não tem nada a ver com ideologia 
+ultra conservadora ou a obsessão **evangélica** com o sionismo? 
+
+Lemmas in this text that loaded on the factor:
+
+corrupto
+evangélico

@@ -1,0 +1,20 @@
+file = t014755
+date = 2022-03-30
+user = cynaramenezes
+conversation = 74763991
+URL = https://twitter.com/cynaramenezes/status/1508994831607078917
+
+word count = 24
+words loading = 4
+factor score = 4
+
+no brasil de bolsonaro toda hora alguém inocente leva um **tiro** de uma 
+pessoa **armada** , porque, segundo eles, as **armas** " protegem " a 
+**população** 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+armar
+população
+tiro

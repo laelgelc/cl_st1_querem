@@ -1,0 +1,20 @@
+file = t012437
+date = 2021-08-30
+user = dem_o_cracia
+conversation = 334919059
+URL = https://twitter.com/dem_o_cracia/status/1432381764983574528
+
+word count = 42
+words loading = 3
+factor score = 3
+
+@RachelSherazade SE ENXERGA, MULHER! Você fazia discursob racista, 
+**conservador** , e protofascista em rede nacional muito antes de Bolsonaro. A 
+gênese do Bolsonarismo estava em você e sempre esteve na **direita** 
+**liberal** e **conservadora** brasileira, quem não te conhece que te compra. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+liberal

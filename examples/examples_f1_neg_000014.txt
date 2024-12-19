@@ -1,0 +1,20 @@
+file = t012393
+date = 2021-08-30
+user = RosaSoa88533536
+conversation = 1140406832718069760
+URL = https://twitter.com/RosaSoa88533536/status/1432473088973844480
+
+word count = 43
+words loading = 3
+factor score = -3
+
+Eu não entendo, vi a cabeça de Bolsonaro na mão de uma **mulher** , 
+**chamaram** de arte, servindo de bola, vi um assassino sem poder ser 
+investigado. . . O que está acontecendo meu Deus? pensive_face_e PGR denuncia 
+Roberto Jefferson ao STF por incitação ao **crime** 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+crime
+mulher

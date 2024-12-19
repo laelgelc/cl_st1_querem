@@ -1,0 +1,19 @@
+file = t014768
+date = 2022-03-30
+user = LeilaO26
+conversation = 1317216685770870784
+URL = https://twitter.com/LeilaO26/status/1509302330205872128
+
+word count = 21
+words loading = 3
+factor score = 3
+
+RT @Alargolo1 : Atenção militância. Esqueçam a **pauta** dos **costumes** ! 
+O povo brasileiro é **conservador** , portanto, não caiam em ciladas datadas. 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+costume
+pauta

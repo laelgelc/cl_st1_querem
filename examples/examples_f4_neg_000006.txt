@@ -1,0 +1,21 @@
+file = t015973
+date = 2022-06-29
+user = SousaLuceli
+conversation = 1280673152830447616
+URL = https://twitter.com/SousaLuceli/status/1542293565732184064
+
+word count = 46
+words loading = 4
+factor score = -4
+
+Cala a boca **ladrão** que **roubou** milhões de poupança de pessoas que 
+até se **mataram** por causa do **dinheiro** que tava guardado na poupança 
+você não tem dignidade nem você nem bolsonaro dois **ladrão** corrupto 
+aliás vocês todos que tá junto com bolsonaro são corruptos 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro
+ladrão
+matar
+roubar

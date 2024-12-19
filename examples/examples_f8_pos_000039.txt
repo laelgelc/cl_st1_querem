@@ -1,0 +1,18 @@
+file = t020190
+date = 2023-03-30
+user = thiagulucio
+conversation = 1348028356978241536
+URL = https://twitter.com/thiagulucio/status/1641496890423271428
+
+word count = 30
+words loading = 2
+factor score = 2
+
+@AnnaCarol_SVP @FredCSantana @BolsonaroSP Eu percebi que você é **cristã** 
+deixa eu te falar porque a **igreja** adora o Bolsonaro, observe que eu disse a 
+**igreja** e não Deus ou Jesus. 
+
+Lemmas in this text that loaded on the factor:
+
+cristão
+igreja

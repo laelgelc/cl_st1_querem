@@ -1,0 +1,21 @@
+file = t004358
+date = 2019-07-30
+user = montana171ad
+conversation = 343640333
+URL = https://twitter.com/montana171ad/status/1155957445627265025
+
+word count = 37
+words loading = 4
+factor score = -4
+
+@Flavio_Quintela Parabéns ao Presidente. Meu **pai** não foi perseguido e nem 
+morto. Sabe pq? ? pq ele n carregava armar, n **matava** brasileiros, n 
+**roubava** bancos. Trabalhava para o crescimento do Brasil. PARABÉNS 
+PRESIDENTE BOLSONARO, É O **CARA** . 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+matar
+pai
+roubar

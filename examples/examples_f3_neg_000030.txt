@@ -1,0 +1,21 @@
+file = t001746
+date = 2018-10-30
+user = GuilhermeBoulos
+conversation = 762402774260875265
+URL = https://twitter.com/GuilhermeBoulos/status/1057346626333933571
+
+word count = 42
+words loading = 3
+factor score = -3
+
+Bolsonaro foi **eleito** presidente. Mas não imperador. Não pode passar por 
+cima dos valores democráticos, da **liberdade** de manifestação e 
+expressão. Precisa respeitar a oposição e os movimentos sociais. Por isso 
+estaremos nas ruas, pelas **liberdades** democráticas e por nossos 
+**direitos** . 
+
+Lemmas in this text that loaded on the factor:
+
+direito
+eleger
+liberdade

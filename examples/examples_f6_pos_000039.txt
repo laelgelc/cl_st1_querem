@@ -1,0 +1,21 @@
+file = t017050
+date = 2022-08-30
+user = joaobettega_
+conversation = 1177185451536465920
+URL = https://twitter.com/joaobettega_/status/1564685699546218500
+
+word count = 40
+words loading = 4
+factor score = 3
+
+Nos **últimos** anos, a família Bolsonaro negociou 51 **imóveis** em 
+dinheiro **vivo** . Quando questionado, o Presidente disse: " Qual o problema 
+de **comprar** com dinheiro **vivo** algum **imóvel** ? " Não precisa ser 
+muito inteligente para saber que tem coisa errada aí ! 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+imóvel
+vivo (secondary)
+último

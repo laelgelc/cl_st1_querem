@@ -1,0 +1,21 @@
+file = t007914
+date = 2020-08-30
+user = ricardope
+conversation = 36705462
+URL = https://twitter.com/ricardope/status/1300081801143169027
+
+word count = 41
+words loading = 4
+factor score = -4
+
+O afastamento de Witzel mostra que bolsonaro **usa** o aparato 
+jurídico-policial para atacar adversários **políticos** enquanto blinda à 
+si e sua família. O " impeachment sem **crime** de responsabilidade " de Dilma 
+e a condenação injusta de Lula **abriram** a porteira pro arbitrário. 
+
+Lemmas in this text that loaded on the factor:
+
+abrir
+crime
+político
+usar

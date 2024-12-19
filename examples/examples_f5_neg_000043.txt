@@ -1,0 +1,17 @@
+file = t006738
+date = 2020-04-29
+user = anabellbar
+conversation = 219101621
+URL = https://twitter.com/anabellbar/status/1255633975080517635
+
+word count = 24
+words loading = 2
+factor score = -2
+
+@jcwmorsch @folha Igualar bolsonaro a LULA é tentar fazer a cabeça dos 
+idiotas que agora o Brasil tem um novo **salvador** da **pátria** . 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

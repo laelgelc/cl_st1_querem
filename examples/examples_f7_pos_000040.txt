@@ -1,0 +1,21 @@
+file = t011176
+date = 2021-04-29
+user = Jaquelinefileti
+conversation = 1154132512819621888
+URL = https://twitter.com/Jaquelinefileti/status/1386787213808214018
+
+word count = 52
+words loading = 3
+factor score = 3
+
+@LiroMenino @simoneregazio @janussa @taoquei1 Da pena de Vocês. Mudaram de 
+assunto quando perguntei se leram algo que não seguisse a **ideologia** . 
+Escrevi que sou contra **extremos** . Não sou robo. Acho que a máquina 
+pública é muito inchada, sou a favor do liberalismo econômico, também sou 
+**conservadora** . Nunca chegaremos a um fim. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+extremo
+ideologia

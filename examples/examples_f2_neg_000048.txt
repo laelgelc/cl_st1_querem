@@ -1,0 +1,17 @@
+file = t000242
+date = 2018-04-29
+user = AbimaelNasc71
+conversation = 475021680
+URL = https://twitter.com/AbimaelNasc71/status/990679026883678208
+
+word count = 37
+words loading = 1
+factor score = -1
+
+Tudo o PT transforma em atos **ligados** a apoiadores de Bolsonaro! Não somos 
+bandidos, somos pessoas de bem, pais de famílias, trabalhadores que sonham com 
+um Brasil melhor para TODOS, sem distinção! MAIS UMA FARSA DO. . . 
+
+Lemmas in this text that loaded on the factor:
+
+ligar

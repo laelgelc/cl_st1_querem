@@ -1,0 +1,21 @@
+file = t004107
+date = 2019-06-29
+user = davidresende3
+conversation = 781638486361333760
+URL = https://twitter.com/davidresende3/status/1144384962369601541
+
+word count = 51
+words loading = 3
+factor score = -3
+
+@rodrigo_ataides @jose_simao **Acho** que o Lula deva permanecer preso, depois 
+de um julgamento justo, e nao a farsa armada pelo moro, e quem foi preso foi a 
+Mula qualificada, e com certeza nao agiu sozinho, vão investigar e não se 
+espante se ele for **ligado** a milicias cariocas **amiguinhas** do Flavio 
+Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+amigo
+ligar

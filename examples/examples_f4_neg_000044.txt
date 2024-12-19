@@ -1,0 +1,21 @@
+file = t010980
+date = 2021-04-29
+user = SSilva13as
+conversation = 1292905148130512897
+URL = https://twitter.com/SSilva13as/status/1387570767810936832
+
+word count = 55
+words loading = 3
+factor score = -3
+
+@catchlimnsb @blueameyre o **cara** é um bandido, LADRÃO, **roubou** do teu 
+**dinheiro** , do **dinheiro** da tua família, e do outro lado tem um **cara** 
+que deixou teus familiares e teus amigos morrerem, a questão é que ao invés 
+de montar uma terceira força, querem colocar a porra de um corrupto de volta 
+no poder 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+dinheiro
+roubar

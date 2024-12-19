@@ -1,0 +1,22 @@
+file = t002498
+date = 2018-12-29
+user = SaraLaurian
+conversation = 889639703934369794
+URL = https://twitter.com/SaraLaurian/status/1079128673457004544
+
+word count = 50
+words loading = 5
+factor score = 5
+
+Não estou cabendo em mim, primeiro pela **posse** de Bolsonaro e sua equipe 
+Maiúscula. Segundo pq o Presida vai **liberar** o **porte** de **armas** p 
+pessoas sem ficha criminal. Daí que a bandidagem, vai pensar 2 vezes antes de 
+vir roubar **cidadão** de bem. Minha. 40 me aguarde, menina! grinning_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+cidadão
+liberar
+porte
+posse

@@ -1,0 +1,22 @@
+file = t002701
+date = 2019-01-30
+user = gugachacra
+conversation = 45409867
+URL = https://twitter.com/gugachacra/status/1090753105162047489
+
+word count = 40
+words loading = 5
+factor score = -3
+
+Este Paulo Figueiredo, foragido e procurado pela Interpol por acusações de 
+**crimes** de **corrupção** , era ativo nas redes **sociais** , onde 
+costumava atacar imigrantes muçulmanos e jornalistas. Era um árduo defensor 
+das armas. Costumava **chamar** o nytimes de " fake **news** " 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+corrupção (secondary)
+crime
+news (secondary)
+social

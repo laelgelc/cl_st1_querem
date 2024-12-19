@@ -1,0 +1,20 @@
+file = t010724
+date = 2021-03-30
+user = caiovillela
+conversation = 51456412
+URL = https://twitter.com/caiovillela/status/1376984682831708160
+
+word count = 42
+words loading = 3
+factor score = -3
+
+Quanto tempo vai demorar pra esses cornos do congresso pautarem o impeachment? 
+Como pode o minúsculo na presidência incitar o caos no meio de uma porra de 
+uma pandemia, fora todas as outras coisas, e não **cair** ? Pelo **amor** de 
+**deus** . 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cair
+deus

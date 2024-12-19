@@ -1,0 +1,17 @@
+file = t000128
+date = 2018-03-29
+user = eliezerdealiga
+conversation = 215265750
+URL = https://twitter.com/eliezerdealiga/status/979481747032281089
+
+word count = 28
+words loading = 1
+factor score = -1
+
+@Georges1959 Pois é rapaz, é cada tipo esquisito de " cristãos " que nos 
+aparece. qual credencial Bolsonaro e seus adeptos possuem para se **acharem** 
+representantes de Cristo Jesus? 
+
+Lemmas in this text that loaded on the factor:
+
+achar

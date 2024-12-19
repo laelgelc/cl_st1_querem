@@ -1,0 +1,20 @@
+file = t019911
+date = 2023-02-27
+user = Rogrio25391002
+conversation = 1333529043879202818
+URL = https://twitter.com/Rogrio25391002/status/1630006789407141888
+
+word count = 44
+words loading = 3
+factor score = 3
+
+@_Dan_Almeida_ No entanto me indentifico mais com a **direita** pelas 
+**pautas** **conservadoras** . . . de Sarney pra cá , Bolsonaro foi o melhor 
+presidente, não pq é esplêndido, mas pq os anteriores foram piores. . . do 
+período militar para trás não posso opinar, pois não vivi esse período 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+pauta

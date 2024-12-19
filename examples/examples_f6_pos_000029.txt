@@ -1,0 +1,19 @@
+file = t017273
+date = 2022-08-30
+user = odio_nao
+conversation = 715364459099856896
+URL = https://twitter.com/odio_nao/status/1564758667953684488
+
+word count = 20
+words loading = 3
+factor score = 3
+
+RT @AlencarBraga13 : Uma família que **comprou** 51 **imóveis** pagando em 
+espécie construiu carreira política falando em combater a **corrupção** . 
+Não … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+imóvel

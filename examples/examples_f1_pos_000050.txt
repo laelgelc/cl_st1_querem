@@ -1,0 +1,21 @@
+file = t015254
+date = 2022-04-29
+user = ffernandes165
+conversation = 950318934024171521
+URL = https://twitter.com/ffernandes165/status/1520173144279027712
+
+word count = 18
+words loading = 4
+factor score = 4
+
+RT @portela333 : 01 . 05 . 2022 Bolsonaro, a liberdade do Brasil. OEscolhido 
+pelo Pai. blue_heart_e **yellow_heart_e** **green_heart_e** **flag_brazil_e** 
+dove_e family_man, _woman, _boy, _boy_e **folded_hands_e** em Copacabana, Posto 
+5 … 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+folded_hands_e
+green_heart_e
+yellow_heart_e

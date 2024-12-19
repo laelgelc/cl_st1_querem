@@ -1,0 +1,19 @@
+file = t001768
+date = 2018-10-30
+user = CrisBonoro
+conversation = 775461208447152128
+URL = https://twitter.com/CrisBonoro/status/1056760805847392256
+
+word count = 45
+words loading = 2
+factor score = -2
+
+@Lureizel @kbooz @_JonathanBastos @DG_Barcellos Eu pesquisei o Face dele, os 
+familiares dele! Ele sendo elogiado pelos familiares em **fotos** ( antes do 
+ocorrido ) ! Depois do ocorrido não se falou mais nada! Se ele tivesse sido 
+espancado só por ser **negro** e eleitor do Bolsonaro, a família apoiaria! 
+
+Lemmas in this text that loaded on the factor:
+
+foto
+negro

@@ -1,0 +1,20 @@
+file = t008598
+date = 2020-09-28
+user = MarineSassoo
+conversation = 1122127745742405633
+URL = https://twitter.com/MarineSassoo/status/1310628602166366214
+
+word count = 41
+words loading = 3
+factor score = 3
+
+Vocês viram em Praga, capital da República Tcheca, cidade que tem um 
+**número** infinito de **igrejas** , as pessoas nas ruas agradecendo ao 
+presidente, por ter falado na Onu sobre a perseguição que os **cristãos** 
+estão sofrendo, eles dizem: obrigado Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+cristão
+igreja
+número

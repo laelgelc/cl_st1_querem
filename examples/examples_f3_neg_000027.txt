@@ -1,0 +1,20 @@
+file = t001531
+date = 2018-09-29
+user = loarcanjo
+conversation = 4481274573
+URL = https://twitter.com/loarcanjo/status/1046184846572310528
+
+word count = 43
+words loading = 3
+factor score = -3
+
+@guilherme_alvf não, o discurso do Bolsonaro não é uma simples opinião, é 
+discurso de ódio concordando com ele ela ta passando pano pra fascista que 
+quer **tirar** o **direito** dos outros, afetando a **liberdade** deles ou 
+seja, ele e ela estão sendo idiotas 
+
+Lemmas in this text that loaded on the factor:
+
+direito
+liberdade
+tirar

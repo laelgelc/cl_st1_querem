@@ -1,0 +1,19 @@
+file = t017110
+date = 2022-08-30
+user = Baiantifascista
+conversation = 1346159006700752896
+URL = https://twitter.com/Baiantifascista/status/1564651237529817089
+
+word count = 36
+words loading = 3
+factor score = 3
+
+Sem justificar a renda e como comprovar a **compra** de tantos **imóveis** por 
+ele e pela família, Bolsonaro interfere na receita, coaf e polícia 
+**federal** . Um absurdo que já deveria ter sido investigado e processado. 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+federal
+imóvel

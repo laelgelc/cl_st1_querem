@@ -1,0 +1,19 @@
+file = t001399
+date = 2018-08-30
+user = RejanePaiva
+conversation = 89306052
+URL = https://twitter.com/RejanePaiva/status/1035267937039527936
+
+word count = 40
+words loading = 2
+factor score = -2
+
+Apoio comprado é para os fracos, aqui apoiamos de graça e sedentos por 
+mudança! Bolsonaro é o nosso caminho, não o **salvador** da **pátria** mas 
+um homem com poder de derrubar o establishment com a ajuda do povo. HASHTAG 
+#bolsonaro17_h 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

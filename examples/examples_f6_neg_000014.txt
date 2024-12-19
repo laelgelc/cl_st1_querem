@@ -1,0 +1,21 @@
+file = t011428
+date = 2021-05-30
+user = feeIsadie
+conversation = 1298350552460427267
+URL = https://twitter.com/feeIsadie/status/1399137904618844161
+
+word count = 57
+words loading = 4
+factor score = -3
+
+meu **deus** eu acabei de **postar** uma **foto** de um casal safico com uma 
+placa escrita fora bolsonaro e escrevi " um dia eu vou ta assim " e a minha 
+dinda chegou e me falou " oq é isso aqui sofia? ? " e eu tomei um susto 
+achanso que ela **tava** falando da **foto** mei **deus** eu to tremendo 
+
+Lemmas in this text that loaded on the factor:
+
+deus (secondary)
+foto
+postar
+tava

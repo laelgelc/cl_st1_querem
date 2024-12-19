@@ -1,0 +1,19 @@
+file = t011892
+date = 2021-07-30
+user = 1403Marcelo
+conversation = 302947650
+URL = https://twitter.com/1403Marcelo/status/1421221564763287562
+
+word count = 38
+words loading = 2
+factor score = 2
+
+@DoloresGontijo1 @TSEjusbr @LRobertoBarroso @treacre Minha senhora, queria que 
+fizesse essa mesma cobrança com os churrasco requintados promovidos pelo seu 
+Deus Bolsonaro, com os **gastos** estratosférico do **cartão** corporativo, e 
+de outras tantas irregularidade com a coisa pública. 
+
+Lemmas in this text that loaded on the factor:
+
+cartão
+gasto

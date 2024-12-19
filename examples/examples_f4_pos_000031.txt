@@ -1,0 +1,21 @@
+file = t007312
+date = 2020-06-28
+user = camposmello
+conversation = 36714704
+URL = https://twitter.com/camposmello/status/1277296684960305154
+
+word count = 39
+words loading = 4
+factor score = 4
+
+Nós exigimos **intervenção** **militar** já , com Bolsonaro no poder - essa 
+é uma das faixas de apoiadores de Bolsonaro em **protesto** em Brasília hoje. 
+Há muitas faixas semelhantes. Para lembrar, qdo disserem que são 
+**protestos** pela liberdade e **democracia** 
+
+Lemmas in this text that loaded on the factor:
+
+democracia
+intervenção
+militar
+protesto

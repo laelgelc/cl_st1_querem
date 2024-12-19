@@ -1,0 +1,19 @@
+file = t011573
+date = 2021-06-29
+user = mtst
+conversation = 218229279
+URL = https://twitter.com/mtst/status/1410020688648417280
+
+word count = 33
+words loading = 2
+factor score = 2
+
+**BOMBA** ! Folha de S. Paulo revela depoimento de representante da 
+farmacêutica AstraZeneca revelando que o Governo Federal pediu propina de 1 
+dólar por dose de vacina comprada! **Escândalo** ! Genocidas, corruptos, 
+corruptos genocidas! 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+escândalo

@@ -1,0 +1,20 @@
+file = t001771
+date = 2018-10-30
+user = ptbrasil
+conversation = 39522911
+URL = https://twitter.com/ptbrasil/status/1057285020614823936
+
+word count = 24
+words loading = 5
+factor score = 3
+
+Bolsonaro nem **tomou** **posse** e já começou a fazer o que faz de melhor: 
+**espalhar** **fake** **news** e inibir a liberdade de imprensa. 
+
+Lemmas in this text that loaded on the factor:
+
+espalhar
+fake
+news
+posse (secondary)
+tomar (secondary)

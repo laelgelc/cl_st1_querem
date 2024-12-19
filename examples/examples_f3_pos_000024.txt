@@ -1,0 +1,18 @@
+file = t016747
+date = 2022-08-30
+user = GuilhermeBoulos
+conversation = 762402774260875265
+URL = https://twitter.com/GuilhermeBoulos/status/1564561312948097028
+
+word count = 29
+words loading = 2
+factor score = 2
+
+**BOMBA** ! Levantamento inédito mostra que metade do **patrimônio** da 
+família Bolsonaro foi comprada em DINHEIRO VIVO. É a República da 
+rachadinha, da lavagem de dinheiro e da mílicia! 
+
+Lemmas in this text that loaded on the factor:
+
+bomba
+patrimônio

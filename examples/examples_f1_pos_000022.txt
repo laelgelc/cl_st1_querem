@@ -1,0 +1,21 @@
+file = t019061
+date = 2022-12-30
+user = PaulinhaLove38
+conversation = 1560199258451722242
+URL = https://twitter.com/PaulinhaLove38/status/1608965673048506369
+
+word count = 15
+words loading = 5
+factor score = 5
+
+Tenho orgulho do meu Presidente Bolsonaro Te amo presidente DEUS te 
+**abençoe** sempre TMJ **oncoming_fist_e** **flag_brazil_e** 
+smiling_face_with_hearts_e **red_heart_e** **folded_hands_e** 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+flag_brazil_e
+folded_hands_e
+oncoming_fist_e
+red_heart_e

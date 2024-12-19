@@ -1,0 +1,19 @@
+file = t007669
+date = 2020-07-28
+user = gleisi
+conversation = 31139434
+URL = https://twitter.com/gleisi/status/1288140481122177024
+
+word count = 44
+words loading = 2
+factor score = -2
+
+Governo Bolsonaro estuda proibir famílias carentes de **receberem** + de um 
+benefício social. Se uma **mãe** solteira **recebe** , por exemplo, abono 
+salarial e bolsa família, perderá 1 dos benefícios. É menos dinheiro p / 
+comida, remédio, luz. Esse governo não tem compromisso c / os + pobres! 
+
+Lemmas in this text that loaded on the factor:
+
+mãe
+receber

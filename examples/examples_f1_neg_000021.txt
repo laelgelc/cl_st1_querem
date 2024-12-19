@@ -1,0 +1,20 @@
+file = t016227
+date = 2022-07-30
+user = PedroRonchi2
+conversation = 1097073004658470913
+URL = https://twitter.com/PedroRonchi2/status/1553529790598189056
+
+word count = 41
+words loading = 3
+factor score = -3
+
+Bolsonaro disse que liberar armas é para garantir a liberdade no futuro. Um 
+país com **pessoas** conscientes, com igualdade e justiça **social** não 
+precisa de armas. Na história do humanidade armas sempre foram **usadas** para 
+dominar, escravizar e saquear países. 
+
+Lemmas in this text that loaded on the factor:
+
+pessoa
+social
+usar

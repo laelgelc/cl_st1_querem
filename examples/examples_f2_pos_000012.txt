@@ -1,0 +1,25 @@
+file = t015479
+date = 2022-04-29
+user = WaldemirodaSil4
+conversation = 1276205209874767873
+URL = https://twitter.com/WaldemirodaSil4/status/1520151624840355840
+
+word count = 48
+words loading = 6
+factor score = 5
+
+smiling_face_with_sunglasses_e thumbs_up_e backhand_index_pointing_right_e 
+flag_brazil_e Ação Gov. BOLSONARO flag_brazil_e Aprovada a MP nº 1 . 076 / 
+21 , do Governo Federal, que garante valor **mínimo** de R$ 400 do Auxílio 
+Brasil de forma permanente às famílias. Quem conseguir um **emprego** formal 
+não perderá o **benefício** e **receberá** R$ 200 do Auxílio — 
+**metade** do valor **pago** . . . 
+
+Lemmas in this text that loaded on the factor:
+
+benefício
+emprego
+metade
+pagar
+pequeno
+receber (secondary)

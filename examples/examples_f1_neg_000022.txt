@@ -1,0 +1,20 @@
+file = t018163
+date = 2022-10-30
+user = Jeffe_thirl
+conversation = 1090984452287881216
+URL = https://twitter.com/Jeffe_thirl/status/1586869454801190913
+
+word count = 51
+words loading = 3
+factor score = -3
+
+o **crime** no Brasil compensa diz os eleitores do Bolsonaro mas engraçado que 
+morte em massa no Brasil por conta de uma pandemia pode e ser **chamado** de 
+gripezinha e negar vacinas né , queria ver se alguma **pessoa** da sua 
+família tivesse morrido de covid por ele ter negado compra. . . 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+crime
+pessoa

@@ -1,0 +1,23 @@
+file = t002559
+date = 2018-12-29
+user = UbiratanAyres
+conversation = 351910125
+URL = https://twitter.com/UbiratanAyres/status/1079083303918022656
+
+word count = 47
+words loading = 5
+factor score = -3
+
+Bolsonaro propôs a " PEC da **liberdade** " ( diminuirá os investimentos 
+públicos em **saúde** e **educação** e reduzirá o valor do salário 
+**mínimo** ) . Também quer dar $17 bilhões aos ruralistas ( $público, é 
+claro ) . Mas para ocultar esses ataques aos trabalhadores, o facho quer 
+**armar** o cidadão de bem. 
+
+Lemmas in this text that loaded on the factor:
+
+armar (secondary)
+educação
+liberdade
+pequeno (secondary)
+saúde

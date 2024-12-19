@@ -1,0 +1,23 @@
+file = t002245
+date = 2018-12-29
+user = joaooalvarenga
+conversation = 3903528703
+URL = https://twitter.com/joaooalvarenga/status/1079096892473180161
+
+word count = 49
+words loading = 5
+factor score = 5
+
+Bolsonaro não poderia **liberar** a **posse** de **arma** por **decreto** . 
+Teria que ser no máximo, por MP. Primeiro pq **decreto** é norma jurídica 
+inferior à **lei** ordinária. Portanto, n poderia mudar a **Lei** 10826 / 
+2003 por **decreto** . Segundo pq **decreto** é p / normatizar **lei** . Não 
+pode alterar direitos. 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+decreto
+lei
+liberar
+posse

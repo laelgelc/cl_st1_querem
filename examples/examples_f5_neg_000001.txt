@@ -1,0 +1,19 @@
+file = t003242
+date = 2019-02-18
+user = OlavoOpressor
+conversation = 751471278968758272
+URL = https://twitter.com/OlavoOpressor/status/1097426944176590849
+
+word count = 29
+words loading = 3
+factor score = -3
+
+O único objetivo da mídia brasileira é manter o governo Bolsonaro em crise 
+permanente, tornar o Brasil ingovernável e trazer o Lula de **volta** como 
+**salvador** da **pátria** . 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador
+volta

@@ -1,0 +1,22 @@
+file = t013282
+date = 2021-11-29
+user = tiberioalloggio
+conversation = 50077892
+URL = https://twitter.com/tiberioalloggio/status/1465466091954753539
+
+word count = 31
+words loading = 3
+factor score = 3
+
+BOMBA! Enquanto a mídia do Brasil silencia sobre a suposta facada, site dos 
+EUA publica reportagem que liga clube de tiro, indústria de armas, Bolsonaro e 
+Adélio a **extrema** **direita** norte-americana 
+backhand_index_pointing_down_e backhand_index_pointing_down_e 
+backhand_index_pointing_down_e backhand_index_pointing_down_e 
+backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+americano
+direita
+extremo

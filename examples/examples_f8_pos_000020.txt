@@ -1,0 +1,20 @@
+file = t006611
+date = 2020-04-29
+user = romulocosta
+conversation = 15140588
+URL = https://twitter.com/romulocosta/status/1255639711886061569
+
+word count = 44
+words loading = 3
+factor score = 3
+
+Quem **espalhar** **fake** **news** sobre o coronavírus poderá ser multado no 
+Ceará . A medida foi aprovada hoje pela Assembleia Legislativa. Apenas dois 
+deputados foram contra: André Fernandes e Dra. Silvana, ambos da base de 
+Bolsonaro. O argumento foi: " fere a liberdade de expressão " . flushed_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+espalhar
+fake
+news

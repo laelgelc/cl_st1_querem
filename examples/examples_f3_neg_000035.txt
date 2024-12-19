@@ -1,0 +1,20 @@
+file = t001990
+date = 2018-10-29
+user = Marcostenm4
+conversation = 3247093370
+URL = https://twitter.com/Marcostenm4/status/1057034860378968064
+
+word count = 35
+words loading = 3
+factor score = -3
+
+Bolsonaro dizendo agora na Tv Record que não haverá **ditadura** , e que 
+haverá **liberdade** total de expressão em seu governo. Daqui a pouco a 
+**esquerda** não vai ter mais como sustentar seus discursos! HASHTAG 
+#bolsonaronarecord_h 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+esquerda
+liberdade

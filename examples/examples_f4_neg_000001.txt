@@ -1,0 +1,20 @@
+file = t000843
+date = 2018-06-29
+user = xyyzzzz
+conversation = 61309401
+URL = https://twitter.com/xyyzzzz/status/1012730408075780096
+
+word count = 23
+words loading = 5
+factor score = -5
+
+@artuiter_ olha a minha **cara** de quem **gasta** **dinheiro** pra andar com a 
+carinha do Bolsonaro no peito pelo **amor** de **deus** ! ! ! ! ! hahahaha 
+
+Lemmas in this text that loaded on the factor:
+
+amor
+cara
+deus
+dinheiro
+gastar

@@ -1,0 +1,20 @@
+file = t001549
+date = 2018-09-29
+user = TonyStarkMeta
+conversation = 96004495
+URL = https://twitter.com/TonyStarkMeta/status/1046150354302377986
+
+word count = 42
+words loading = 3
+factor score = -3
+
+Mais um **pai** de família que morre tentando defender seu filho. Assaltante o 
+**mata** na frente da criança. Logo na sequência a apresentadora da Globonews 
+com **cara** de esfinge mostra a manifestação contra Bolsonaro. Dia 07 isso 
+vai começar a mudar. 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+matar
+pai

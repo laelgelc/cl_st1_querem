@@ -1,0 +1,19 @@
+file = t002856
+date = 2019-01-27
+user = arte_prima
+conversation = 1645736942
+URL = https://twitter.com/arte_prima/status/1089606352350183431
+
+word count = 40
+words loading = 2
+factor score = -2
+
+Israel Bolsonaro **nomeou** 5 MIL **cargos** comissionados com salários até 
+R$16 MIL. . . Só o Sérgio Moro teve 2473 **cargos** a sua disposição para 
+**nomear** . Tiraram o HASHTAG #bolsafamília_h dos pobres para sustentar o 
+HASHTAG #bolsamamata_h dos amigos, parentes et caterva! ! ! 
+
+Lemmas in this text that loaded on the factor:
+
+cargo
+nomear

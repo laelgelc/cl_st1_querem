@@ -1,0 +1,20 @@
+file = t010121
+date = 2021-02-27
+user = omgerva
+conversation = 38079558
+URL = https://twitter.com/omgerva/status/1365702316435922955
+
+word count = 45
+words loading = 3
+factor score = -3
+
+@ssanfeli Meu **deus** do **céu** . O **cara** abre a foto e já vem um texto 
+contra o STF, contra o " politicamente correto " , contra militância, contra o 
+comunista. A favor do Ernesto Araújo, do Lavo meu Baralho e do Bolsonaro. 
+Termina com uma frase bíblica. 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+céu
+deus

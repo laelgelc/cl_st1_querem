@@ -1,0 +1,20 @@
+file = t017379
+date = 2022-08-30
+user = MargaridaSolar
+conversation = 1550142302789816324
+URL = https://twitter.com/MargaridaSolar/status/1564756155573964800
+
+word count = 22
+words loading = 4
+factor score = 3
+
+RT @SergioAJBarrett: A família Bolsonaro privatizou a Minha Casa Minha Vida? 
+Quem é que **compra** 51 **imóveis** com dinheiro **vivo** ? **Milícias** ? 
+h … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+imóvel
+milícia
+vivo (secondary)

@@ -1,0 +1,20 @@
+file = t014451
+date = 2022-02-26
+user = FernandoHortaOf
+conversation = 865302702821126144
+URL = https://twitter.com/FernandoHortaOf/status/1497721468150505474
+
+word count = 47
+words loading = 3
+factor score = 3
+
+Putin é fascista / nazista? Não, não é . Nem toda **extrema** **direita** 
+é nazista e fascista. O conceito de fascismo tem discussões, mas ele já tem 
+um corpo de consenso suficiente para que se diga que putin, mesmo sendo um 
+**conservador** autocrata de **direita** , não é fascista. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+extremo

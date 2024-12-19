@@ -1,0 +1,18 @@
+file = t005120
+date = 2019-10-30
+user = Alcyranha
+conversation = 1605191010
+URL = https://twitter.com/Alcyranha/status/1189558606225694720
+
+word count = 32
+words loading = 2
+factor score = -2
+
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK mano o Bolsonaro falando " a vó da minha 
+**esposa** q foi presa por tráfico. A **mãe** da minha **esposa** q foi por 
+falsidade ideológica " Mds q família é essa? Kkkkkkkkkkk 
+
+Lemmas in this text that loaded on the factor:
+
+esposo
+mãe

@@ -1,0 +1,21 @@
+file = t010595
+date = 2021-03-30
+user = KatiaAbreu
+conversation = 31116114
+URL = https://twitter.com/KatiaAbreu/status/1376987636347367435
+
+word count = 43
+words loading = 4
+factor score = 4
+
+Seria prudente que o ministro da **defesa** Neto se pronunciasse p / 
+tranquilizar a nação qdo a impossibilidade de **intervenção** **militar** . 
+Tenho convicção da forte **democracia** que construímos. As Forças Armadas 
+fazem parte do Estado brasileiro e tem a confiança de todos nós. 
+
+Lemmas in this text that loaded on the factor:
+
+defesa
+democracia
+intervenção
+militar

@@ -1,0 +1,21 @@
+file = t004052
+date = 2019-05-20
+user = CristPolit
+conversation = 195357756
+URL = https://twitter.com/CristPolit/status/1129025305912463361
+
+word count = 34
+words loading = 3
+factor score = -3
+
+@tovaga @jairbolsonaro flag_brazil_e HASHTAG #bolsonarotemrazao_h O Twitter e 
+todo sistema de mídia & enganação esquerdopata chamam de " manifestações 
+pela educação " aquele pessoal com **bandeiras** **vermelhas** que usam 
+qualquer pretexto pra **gritar** " Fora Bolsonaro " , " Lula Livre " . 
+zany_face_e HASHTAG #deusbrasilbolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+gritar
+vermelho

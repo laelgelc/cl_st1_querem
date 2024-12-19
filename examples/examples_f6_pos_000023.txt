@@ -1,0 +1,21 @@
+file = t017445
+date = 2022-08-30
+user = guimaraes13PT
+conversation = 49696756
+URL = https://twitter.com/guimaraes13PT/status/1564614122184081410
+
+word count = 35
+words loading = 5
+factor score = 3
+
+ENCANDALOSO! Quantos **imóveis** você já **comprou** com dinheiro **vivo** ? 
+O clã Bolsonaro **comprou** 51 ! Mais um **escândalo** da família de bem que 
+desconhece a **corrupção** e só quer o bem do Brasil. Vai vendo! 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+escândalo (secondary)
+imóvel
+vivo (secondary)

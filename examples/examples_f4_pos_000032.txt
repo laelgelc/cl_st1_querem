@@ -1,0 +1,20 @@
+file = t004214
+date = 2019-07-30
+user = claubrianese
+conversation = 630432364
+URL = https://twitter.com/claubrianese/status/1156352003318177792
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @MarceloFreixo: Hoje estarei no **ato** na ABI em **solidariedade** a 
+@ggreenwald e em **defesa** da liberdade de imprensa e da **Constituição** 
+brasil … 
+
+Lemmas in this text that loaded on the factor:
+
+ato
+constituição
+defesa
+solidariedade

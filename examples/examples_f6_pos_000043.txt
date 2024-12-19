@@ -1,0 +1,19 @@
+file = t016988
+date = 2022-08-30
+user = Socorrofpb
+conversation = 2730557166
+URL = https://twitter.com/Socorrofpb/status/1564755293870981121
+
+word count = 25
+words loading = 3
+factor score = 3
+
+@ManuelaDavila Só a família bolsonaro **compra** 51 **imóveis** com Dinheiro 
+Vivo. Se isso não é **corrupção** eu não sei mais o que é HASHTAG 
+#lulapresidente13_h 
+
+Lemmas in this text that loaded on the factor:
+
+compra
+corrupção
+imóvel

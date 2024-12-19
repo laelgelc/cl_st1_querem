@@ -1,0 +1,22 @@
+file = t016968
+date = 2022-08-30
+user = iriny_13
+conversation = 66810575
+URL = https://twitter.com/iriny_13/status/1564710927374721025
+
+word count = 47
+words loading = 5
+factor score = 4
+
+Quantos minutos os 51 **imóveis** " Verde e Amarelo " da família Bolsonaro, 
+**comprados** com dinheiro **vivo** , vão ocupar na **imprensa** brasileira? 
+Vale lembrar que Lula foi condenado por um sítio de Atibaia e um triplex que 
+não eram dele, e motivaram uma **grande** mobilização para o golpe. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+grande
+imprensa
+imóvel
+vivo (secondary)

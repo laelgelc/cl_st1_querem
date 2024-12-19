@@ -1,0 +1,25 @@
+file = t003988
+date = 2019-06-29
+user = renato_paes
+conversation = 99792684
+URL = https://twitter.com/renato_paes/status/1144943709466890240
+
+word count = 35
+words loading = 5
+factor score = 5
+
+@jairbolsonaro Muda Brasil Muda Brasil Muda de verdade Bolsonaro presidente do 
+Brasil musical_notes_e musical_note_e trumpet_e guitar_e Deus **abençoe** , 
+fortaleça, frutifique e multiplique sua coragem e vigor na condução do 
+País. Boa **noite** meu presidente JB17 HASHTAG #bolsonaronog20_h HASHTAG 
+#bolsonaroorgulhodobrasil_h HASHTAG #bolsonaroate2026_h 
+**smiling_face_with_sunglasses_e** **backhand_index_pointing_right_e** 
+**backhand_index_pointing_right_e** **flag_brazil_e** flag_united_states_e 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+backhand_index_pointing_right_e
+flag_brazil_e
+noite
+smiling_face_with_sunglasses_e

@@ -1,0 +1,22 @@
+file = t012545
+date = 2021-09-29
+user = HenriqueFontana
+conversation = 62804559
+URL = https://twitter.com/HenriqueFontana/status/1443361593182588933
+
+word count = 43
+words loading = 5
+factor score = 5
+
+Acabamos de **aprovar** na Câmara **projeto** da nossa bancada @PTnaCamara, do 
+qual sou coautor, que institui o vale-gás para ajudar as famílias de 
+**baixa** **renda** na compra do **gás** de cozinha, que hoje, no Brasil de 
+Bolsonaro, está custando mais de R$ 100 ! 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+baixo
+gás
+projeto
+renda

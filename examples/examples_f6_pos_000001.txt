@@ -1,0 +1,22 @@
+file = t017402
+date = 2022-08-30
+user = FelipeBernarde
+conversation = 90737055
+URL = https://twitter.com/FelipeBernarde/status/1564714679661895680
+
+word count = 39
+words loading = 5
+factor score = 4
+
+@DanilloAmorim4 @felipeneto @CarlosBolsonaro lula visitar um apartamento sem 
+provas reais de **corrupção** : bandido bolsonaro e família **comprando** 
+vários **imóveis** em tempo **recorde** com dinheiro **vivo** , impondo 
+sigilo sobre ele e os seus e barrar todos que investigam: honesto 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+corrupção
+imóvel
+recorde
+vivo (secondary)

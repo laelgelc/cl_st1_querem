@@ -1,0 +1,17 @@
+file = t002431
+date = 2018-12-30
+user = FcoFeitosa2016
+conversation = 329290018
+URL = https://twitter.com/FcoFeitosa2016/status/1079332418971148288
+
+word count = 19
+words loading = 2
+factor score = -2
+
+@CarlaZambelli17 É os Bolsonaro querendo colocar os paus mandados dele. Mas os 
+**senadores** não vão cair nessa **armadilha** 
+
+Lemmas in this text that loaded on the factor:
+
+armadilha
+senador

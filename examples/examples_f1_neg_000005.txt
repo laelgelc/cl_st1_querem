@@ -1,0 +1,20 @@
+file = t001580
+date = 2018-09-29
+user = yurivs
+conversation = 15726088
+URL = https://twitter.com/yurivs/status/1046129609752891392
+
+word count = 47
+words loading = 3
+factor score = -3
+
+A Manuela d ' Ávila é do Partido Comunista do Brasil, que é cúmplice moral 
+dos regimes que mataram mais de 100 milhões de **pessoas** no século XX -- 
+suponhamos que metade desses mortos fosse de **mulheres** -- mas a turminha com 
+**problemas** cognitivos prefere protestar contra o Bolsonaro. 
+
+Lemmas in this text that loaded on the factor:
+
+mulher
+pessoa
+problema

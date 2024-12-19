@@ -1,0 +1,21 @@
+file = t019960
+date = 2023-03-30
+user = CarlosFiorelli2
+conversation = 1488398972947517443
+URL = https://twitter.com/CarlosFiorelli2/status/1641590485549748224
+
+word count = 24
+words loading = 5
+factor score = 4
+
+RT @_Janoninho: O ladrão de joias caçando **carro** **blindado** , sendo que 
+foi ele que **armou** a **população** . Que se defenda sozinho com suas 
+**armas** . F … 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+armar
+blindar (secondary)
+carro
+população

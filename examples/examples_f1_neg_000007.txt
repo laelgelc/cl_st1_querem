@@ -1,0 +1,20 @@
+file = t004867
+date = 2019-09-29
+user = brandao_xanxere
+conversation = 956983401025802240
+URL = https://twitter.com/brandao_xanxere/status/1178406814624423937
+
+word count = 35
+words loading = 3
+factor score = -3
+
+Isso não é **crime** ? Inconstitucional? E a liberdade **política** ? De 
+manifestação do pensamento? Quem irá processar esse calhorda? General de 
+Bolsonaro vasculha até rede **social** da família de servidores para ver se 
+tem petista 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+político
+social

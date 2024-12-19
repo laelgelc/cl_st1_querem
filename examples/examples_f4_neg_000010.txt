@@ -1,0 +1,20 @@
+file = t000628
+date = 2018-05-30
+user = _putindesaias
+conversation = 51316644
+URL = https://twitter.com/_putindesaias/status/1001658140776194049
+
+word count = 58
+words loading = 3
+factor score = -3
+
+A gente não pode mais nem falar mal do Alckmin sem surgir fã do BOLSONARO 
+vindo seguir. Então deixa eu ser bem clara: vocês são o mesmo que **merda** 
+e o ícone de vocês vale menos que isso. Se eu tivesse ele numa sala e uma 
+arma, eu **matava** na porrada pra não **gastar** bala com bosta. 
+
+Lemmas in this text that loaded on the factor:
+
+gastar
+matar
+merda

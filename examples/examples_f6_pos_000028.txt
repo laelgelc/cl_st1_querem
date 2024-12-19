@@ -1,0 +1,19 @@
+file = t017297
+date = 2022-08-30
+user = logomaiseuvolto
+conversation = 908404723723722752
+URL = https://twitter.com/logomaiseuvolto/status/1564758126011752451
+
+word count = 33
+words loading = 3
+factor score = 3
+
+Pegaram todos os **imóveis** da família do presidente Bolsonaro dos 
+**últimos** 30 anos, somaram os valores e estão querendo passar como 
+**corrupção** para o Loola ter o que falar no próximo debate. 
+
+Lemmas in this text that loaded on the factor:
+
+corrupção
+imóvel
+último

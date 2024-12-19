@@ -1,0 +1,19 @@
+file = t018301
+date = 2022-11-29
+user = Lereandrade
+conversation = 1576727779072163840
+URL = https://twitter.com/Lereandrade/status/1597699121447829504
+
+word count = 44
+words loading = 2
+factor score = -2
+
+@PaulaLi20746961 @erixkscript @Msvilarino @Jouberth19 Oxe, mas eu não tô nem 
+pra ele e nem pra onde ele vai flor, você são tão burros que **acham** mesmo 
+que o povo tá na **frente** dos quartéis por causa da família Bolsonaro. Mas 
+são asnos mesmo. 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+frente

@@ -1,0 +1,20 @@
+file = t003256
+date = 2019-03-30
+user = inesdlx
+conversation = 134946979
+URL = https://twitter.com/inesdlx/status/1112083716472492032
+
+word count = 45
+words loading = 3
+factor score = -2
+
+@BolsonaroSP Um dos assassinos de Marielle Franco ser vizinho da família 
+Bolsonaro e manter um arsenal de 117 fuzis em casa, além de ser amigo de seu 
+**pai** , outros dois **milicianos** condenados e presos, **receberem** 
+homenagens e honrarias do seu irmão, é coincidência mesmo? 
+
+Lemmas in this text that loaded on the factor:
+
+miliciano
+pai (secondary)
+receber

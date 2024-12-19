@@ -1,0 +1,19 @@
+file = t006206
+date = 2020-02-28
+user = luizhenriquevas
+conversation = 26799550
+URL = https://twitter.com/luizhenriquevas/status/1233508613605462017
+
+word count = 42
+words loading = 2
+factor score = -2
+
+@CarlosBolsonaro A facada existiu, apesar de eu achar que foi um ato 
+deplorável, um crime político, mas que não transforma o Bolsonaro em 
+**salvador** da **pátria** , é só o mais fraco e pior dos 38 que ali 
+sentaram. Cadê o Queiroz? 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

@@ -1,0 +1,18 @@
+file = t019021
+date = 2022-12-30
+user = HugoBasagliaMT
+conversation = 1518688335182667778
+URL = https://twitter.com/HugoBasagliaMT/status/1608949524579627010
+
+word count = 40
+words loading = 2
+factor score = -2
+
+Bolsonaro ter ido embora e um cuspe na cara de quem lhe apoio, brigou com 
+**amigos** , família, sofreu na chuva e sol na **frente** dos quartéis. E 
+ainda mais depositou suas esperanças nele ISSO E O PIOR DE TUDO 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+frente

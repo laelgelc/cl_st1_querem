@@ -1,0 +1,21 @@
+file = t017537
+date = 2022-08-30
+user = thicico
+conversation = 1534367888504758272
+URL = https://twitter.com/thicico/status/1564638385624473608
+
+word count = 29
+words loading = 5
+factor score = 3
+
+A família Bolsonaro é conservadora e guarda dinheiro no colchão. O colchão 
+deles deve bem **grande** por que guardaram 26 **milhões** para **comprar** os 
+**imóveis** em dinheiro **vivo** . 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+grande
+imóvel
+milhão (secondary)
+vivo (secondary)

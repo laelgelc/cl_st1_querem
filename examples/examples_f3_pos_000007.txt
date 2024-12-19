@@ -1,0 +1,21 @@
+file = t004077
+date = 2019-06-29
+user = DalsolerXaianny
+conversation = 932747410094329856
+URL = https://twitter.com/DalsolerXaianny/status/1145093164719628290
+
+word count = 52
+words loading = 3
+factor score = 3
+
+a FAMÍLIA TODA reunida agora, **tios** , **tias** , primos, todos 
+bolsominions. . . passou na tv a **reportagem** do **avião** com droga e a 
+mãe perguntou se tinha algo com o bolsonaro, falei " sim mãe, olha aí o 
+presidente de vcs perfeito " , a mãe disse q eu era PTzinha e só faltaram me 
+matar 
+
+Lemmas in this text that loaded on the factor:
+
+avião
+reportagem
+tio

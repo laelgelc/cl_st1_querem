@@ -1,0 +1,18 @@
+file = t003815
+date = 2019-05-30
+user = mdbgrava
+conversation = 2613556345
+URL = https://twitter.com/mdbgrava/status/1134243805920714753
+
+word count = 25
+words loading = 2
+factor score = -2
+
+RT @silveiraB17 : Bolsonaro não é um santo milagreiro, não é o **salvador** 
+da **pátria** , é apenas um homem lutando por uma nação afundada na lama 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

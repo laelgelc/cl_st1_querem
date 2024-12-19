@@ -1,0 +1,22 @@
+file = t006240
+date = 2020-02-28
+user = Larissafgaspar
+conversation = 132480664
+URL = https://twitter.com/Larissafgaspar/status/1233507727953080323
+
+word count = 42
+words loading = 5
+factor score = -4
+
+NOS ENCONTRAREMOS NAS RUAS! ! megaphone_e **Ditadura** nunca mais! Confira as 
+datas das manifestações contra o ataque de Bolsonaro à **democracia** , onde 
+o autoritarismo não terá vez. A luta em prol dos **direitos** e da 
+**liberdade** será mais **forte** do que nunca. HASHTAG #forabolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+democracia (secondary)
+direito
+ditadura
+forte
+liberdade

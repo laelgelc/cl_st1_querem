@@ -1,0 +1,20 @@
+file = t009907
+date = 2021-01-29
+user = 2511Thais
+conversation = 1229809199439339521
+URL = https://twitter.com/2511Thais/status/1355122490549411842
+
+word count = 53
+words loading = 2
+factor score = -2
+
+@AguiarEdil @MarcoFe04024669 Sempre falei q a única maneira de acabar com toda 
+bandidagem de vez, é povo dia de semana nas ruas em massa chamando as FFAA p 
+prender todos **traidores** da pátria do STF Câmara senado **governadores** 
+prefeitos, com PR Bolsonaro no governo claro, gente a única solução é essa, 
+ATITUDE flag_brazil_e 
+
+Lemmas in this text that loaded on the factor:
+
+governador
+traidor

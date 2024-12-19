@@ -1,0 +1,20 @@
+file = t019626
+date = 2023-02-27
+user = joaopedrofsz
+conversation = 851625971237171201
+URL = https://twitter.com/joaopedrofsz/status/1629350774911148033
+
+word count = 45
+words loading = 3
+factor score = 3
+
+@brutalouthere31 @_oxeicaro **direita** bolsonaro**** Isso porque, ser 
+**liberal** ou **conservador** de facto está bem longe de ser bolsonarista, 
+que é usado pelo oportunista Bolsonaro que deu golpe eleitoral nos eleitores 
+em 2018 e queria fazer igual em 2022 , e teve a proeza de perder pro squid_e. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador
+direita
+liberal

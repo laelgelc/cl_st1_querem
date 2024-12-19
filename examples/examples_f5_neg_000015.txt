@@ -1,0 +1,19 @@
+file = t000684
+date = 2018-05-30
+user = BETOLUIZROSA66
+conversation = 48801408
+URL = https://twitter.com/BETOLUIZROSA66/status/1001657014941048836
+
+word count = 45
+words loading = 2
+factor score = -2
+
+Se issso não for uma encenação teatral, eu fico abismado com esse 25 % de 
+pessoas que acreditam e transformaram esse sr o tal Jair Bolsonaro em um mito 
+**salvador** da **pátria** santificado e amado quase um Adolf Hitler! ! ! 
+Realmente to com medo do meu. . . 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

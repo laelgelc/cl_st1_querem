@@ -1,0 +1,18 @@
+file = t000891
+date = 2018-06-29
+user = AnjokaBramax
+conversation = 633015465
+URL = https://twitter.com/AnjokaBramax/status/1012680952697540609
+
+word count = 36
+words loading = 2
+factor score = -2
+
+**Problema** resolvido, então: LULA ASSUME O HASHTAG #stf_h em Setembro, na 
+**pessoa** de Dias Toffoli E tudo será como o chefe da OrCrim mandar. Não 
+direi adeus. Começarei a me preparar para um tsunami - Enfim, Brasizuela! 
+
+Lemmas in this text that loaded on the factor:
+
+pessoa
+problema

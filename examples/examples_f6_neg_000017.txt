@@ -1,0 +1,19 @@
+file = t014907
+date = 2022-03-30
+user = jalmendes
+conversation = 162688597
+URL = https://twitter.com/jalmendes/status/1509286700106887171
+
+word count = 22
+words loading = 3
+factor score = -3
+
+@LulaOficial Cala a **boca** comunista sua **bandeira** é **vermelha** , 
+Bolsonaro fez o brasileiro ter esperança, a **bandeira** brasileira reapareceu 
+com ele! flag_brazil_e flag_brazil_e 
+
+Lemmas in this text that loaded on the factor:
+
+bandeira
+boca
+vermelho

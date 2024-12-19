@@ -1,0 +1,24 @@
+file = t006351
+date = 2020-03-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1244600460234960911
+
+word count = 47
+words loading = 6
+factor score = 5
+
+ATENÇÃO! Senado vota hoje o **projeto** da **renda** **básica** de R$ 1 . 
+200 por família que **aprovamos** semana passada na Câmara. Próximo passo 
+será pressionar Bolsonaro p / começar a liberar logo esse dinheiro e explicar 
+aos brasileiros o procedimento p / **receber** o **benefício** . Seguimos na 
+luta! 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+benefício
+básico
+projeto
+receber (secondary)
+renda

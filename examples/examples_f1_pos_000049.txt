@@ -1,0 +1,20 @@
+file = t015255
+date = 2022-04-28
+user = portela333
+conversation = 1010349492036624385
+URL = https://twitter.com/portela333/status/1519630944143036417
+
+word count = 14
+words loading = 4
+factor score = 4
+
+01 . 05 . 2022 Bolsonaro, a liberdade do Brasil. OEscolhido pelo Pai. 
+blue_heart_e **yellow_heart_e** **green_heart_e** **flag_brazil_e** dove_e 
+family_man, _woman, _boy, _boy_e **folded_hands_e** em Copacabana, Posto 5 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+folded_hands_e
+green_heart_e
+yellow_heart_e

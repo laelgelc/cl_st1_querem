@@ -1,0 +1,17 @@
+file = t000268
+date = 2018-04-29
+user = MCCdoBrasil
+conversation = 915787628
+URL = https://twitter.com/MCCdoBrasil/status/990636468891738112
+
+word count = 23
+words loading = 1
+factor score = -1
+
+RT @blimadelima: " cidadão de **bem** " atira contra pessoas que estão 
+dormindo, arma restrita ao público, com munição 9 mm, e ainda grita " bols 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+bem

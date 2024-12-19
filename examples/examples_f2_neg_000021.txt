@@ -1,0 +1,19 @@
+file = t013584
+date = 2021-12-30
+user = suzi_nh
+conversation = 1141079411510435841
+URL = https://twitter.com/suzi_nh/status/1476697669582172168
+
+word count = 45
+words loading = 2
+factor score = -2
+
+@LevialfeuLevita Cristo defende o amor, a empatia, a tolerância, a cura, a 
+divisão dos **bens** , o respeito às minorias. Vc vê isso em Bolsonaro ou no 
+Lula? **Acho** que se vc quer votar no bozo, faça isso, mas tire o " cristão 
+" da sua bio. 
+
+Lemmas in this text that loaded on the factor:
+
+achar
+bem

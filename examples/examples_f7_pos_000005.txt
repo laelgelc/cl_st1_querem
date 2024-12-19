@@ -1,0 +1,24 @@
+file = t013184
+date = 2021-10-30
+user = gustavomdca
+conversation = 1313952038393442310
+URL = https://twitter.com/gustavomdca/status/1454551007162245121
+
+word count = 43
+words loading = 6
+factor score = 4
+
+Porque Bolsonaro backhand_index_pointing_down_e - Sim a liberdade 
+**individual** - Sim a liberdade econômica - Sim a liberdade religiosa - Sim 
+ao **armamento** **civil** de quem não tem antecedentes criminais - Não ao 
+**aborto** - Não a legalização das **drogas** - Não a **ideologia** de 
+gênero - Não a sexualização de crianças 
+
+Lemmas in this text that loaded on the factor:
+
+aborto
+armamento (secondary)
+civil (secondary)
+droga
+ideologia
+individual

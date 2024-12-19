@@ -1,0 +1,21 @@
+file = t000070
+date = 2018-03-30
+user = joseanjp
+conversation = 175383964
+URL = https://twitter.com/joseanjp/status/979533245263032321
+
+word count = 27
+words loading = 5
+factor score = 5
+
+O único plano de governo de Bolsonaro é revogar o Estatuto do 
+**Desarmamento** , **armar** a **população** para encher os cofres da 
+**indústria** de **armas** , só isso! 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+armar
+desarmamento
+indústria
+população

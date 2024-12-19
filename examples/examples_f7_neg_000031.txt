@@ -1,0 +1,18 @@
+file = t007830
+date = 2020-07-30
+user = feubah
+conversation = 1093197707768987650
+URL = https://twitter.com/feubah/status/1288956753628073984
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @fernandapsol: Hoje Bolsonaro vetou o projeto de minha autoria que 
+priorizava mulheres **chefes** de família para **receber** o auxílio emergenc 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+receber

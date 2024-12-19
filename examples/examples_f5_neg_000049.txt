@@ -1,0 +1,19 @@
+file = t007157
+date = 2020-05-30
+user = JuballMoyses
+conversation = 955229600715624450
+URL = https://twitter.com/JuballMoyses/status/1266867999107174401
+
+word count = 39
+words loading = 2
+factor score = -2
+
+Essa mulher não é **evangélica** . Não é de Deus. Isso é uma das 
+assistentes do Demônio de Brasília. Cadeia para esses bandidos. Damares se 
+diz estarrecida com índices do **covid** em estados com governadores que 
+Bolsonaro não gosta 
+
+Lemmas in this text that loaded on the factor:
+
+covid
+evangélico

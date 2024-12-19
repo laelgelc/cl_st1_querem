@@ -1,0 +1,21 @@
+file = t010441
+date = 2021-03-30
+user = taliriapetrone
+conversation = 103704608
+URL = https://twitter.com/taliriapetrone/status/1377028528944906240
+
+word count = 43
+words loading = 4
+factor score = 4
+
+Braga Netto, novo ministro da Defesa, já mostrou a que veio e publicou uma 
+ordem do dia dizendo que o **golpe** empresarial-militar de 1964 deveria ser 
+comemorado. Isso é um ataque à nossa frágil **democracia** e a quem lutou 
+pelas liberdades **democráticas** ! HASHTAG #ditaduranuncamais_h 
+
+Lemmas in this text that loaded on the factor:
+
+democracia
+democrático
+golpe
+militar

@@ -1,0 +1,17 @@
+file = t007588
+date = 2020-07-30
+user = 89nuncamais
+conversation = 170498695
+URL = https://twitter.com/89nuncamais/status/1288986241006997507
+
+word count = 26
+words loading = 2
+factor score = -2
+
+RT @ManuelaDavila: Depois de toda luta das e dos parlamentares p / aprovar o PL 
+q prioriza **mães** **chefes** de família p / o recebimento dos R$120 … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+mãe

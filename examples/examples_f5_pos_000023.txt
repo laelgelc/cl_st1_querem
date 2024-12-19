@@ -1,0 +1,20 @@
+file = t002263
+date = 2018-12-30
+user = BlogdoNoblat
+conversation = 16794066
+URL = https://twitter.com/BlogdoNoblat/status/1079218232798658560
+
+word count = 22
+words loading = 5
+factor score = 5
+
+Por **decreto** , Bolsonaro garantirá a **posse** de **arma** de **fogo** para 
+o **cidadão** sem antecedentes criminais. O que você acha disso? 
+
+Lemmas in this text that loaded on the factor:
+
+arma
+cidadão
+decreto
+fogo
+posse

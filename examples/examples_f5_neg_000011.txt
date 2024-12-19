@@ -1,0 +1,18 @@
+file = t000492
+date = 2018-04-28
+user = noahshuster
+conversation = 192219079
+URL = https://twitter.com/noahshuster/status/989895791904022528
+
+word count = 26
+words loading = 2
+factor score = -2
+
+@paulodisca @helocruz @parodrigues1970 @glaucobr @albuquerque_af @marcuspcunha 
+@rownlo @geraldoalckmin Esse pessoal não sabe o que diz. Estão iludidos, 
+depositando em Bolsonaro uma expectativa de **salvador** da **pátria** . 
+
+Lemmas in this text that loaded on the factor:
+
+pátria
+salvador

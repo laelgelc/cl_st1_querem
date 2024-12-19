@@ -1,0 +1,22 @@
+file = t017418
+date = 2022-08-30
+user = karlagamba
+conversation = 164771464
+URL = https://twitter.com/karlagamba/status/1564755544405155840
+
+word count = 42
+words loading = 4
+factor score = 4
+
+Que dia! ? ! ? ! face_with_spiral_eyes_e - Imóveis da família Bolsonaro pagos 
+em dinheiro **vivo** ; - Fábio Assunção **fake** ; - Interferência da Abin 
+em investigação sobre 04 ; - Marcos Uchôa em exposed do Molon; - 
+Ressuscitação do comercial da Pizza Hut ( e **morte** do Gorbatchev ) ; - 
+**Pastor** que não merece ibope 
+
+Lemmas in this text that loaded on the factor:
+
+fake
+morte
+pastor
+vivo

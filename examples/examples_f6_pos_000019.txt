@@ -1,0 +1,22 @@
+file = t018145
+date = 2022-10-30
+user = pauloganime
+conversation = 25537494
+URL = https://twitter.com/pauloganime/status/1586857325389926400
+
+word count = 50
+words loading = 5
+factor score = 3
+
+Lula presidente é o **maior** retrocesso no **combate** a **corrupção** nas 
+**últimas** décadas. Não esquecemos os **escândalos** de **corrupção** , 
+mas, pelo bem do Brasil, desejo que o presidente eleito faça um bom governo, 
+não roube o povo de novo, não acabe com a liberdade e não quebre o país. 
+
+Lemmas in this text that loaded on the factor:
+
+combate (secondary)
+corrupção
+escândalo (secondary)
+grande
+último

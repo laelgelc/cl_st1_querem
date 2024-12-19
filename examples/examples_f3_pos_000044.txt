@@ -1,0 +1,20 @@
+file = t005155
+date = 2019-11-29
+user = zeca_dirceu
+conversation = 47461491
+URL = https://twitter.com/zeca_dirceu/status/1200509546265010178
+
+word count = 48
+words loading = 3
+factor score = 2
+
+Diga **adeus** às **compras** parceladas no **cartão** de crédito sem juros! 
+Governo Bolsonaro quer acabar com este tipo de operação. E o juro real que 
+chega ao povo subindo sem parar. Só este ano, os juros do rotativo já 
+alcançaram 31 , 8 pontos em apenas 10 MESES. 
+
+Lemmas in this text that loaded on the factor:
+
+adeus
+cartão
+compra (secondary)
