@@ -1,0 +1,21 @@
+file = t009231
+date = 2020-11-29
+user = thales_rf
+conversation = 1581496531
+URL = https://twitter.com/thales_rf/status/1333178013299724288
+
+word count = 51
+words loading = 4
+factor score = -3
+
+Boa parte da esquerda cometeu o erro grave de culpar o pobre de direita votou 
+no Bolsonaro em 2018 , não façamos isso de novo. Não adianta dizer como o 
+outro deve votar e que é burro sem se inserir em processos políticos. Cuidado 
+pra não cairmos nessas armadilhas, é + complexo. 
+
+Lemmas in this text that loaded on the factor:
+
+bom_adj_fem_sing 
+direita_noun_fem_sing (secondary)
+esquerda_noun_fem_sing 
+votar_verb_inf 

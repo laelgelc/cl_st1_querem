@@ -1,0 +1,31 @@
+file = t013179
+date = 2021-10-30
+user = IlsaBernardo
+conversation = 1129495267127037952
+URL = https://twitter.com/IlsaBernardo/status/1454528884045754368
+
+word count = 26
+words loading = 6
+factor score = 7
+
+@jairbolsonaro **clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** beaming_face_with_smiling_eyes_e Amamos o nosso presidente 
+Bolsonaro! Iiihuuuuu **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **red_heart_e** **red_heart_e** **red_heart_e** Deus 
+abençoe ilumine e proteja sempre o nosso presidente e a nossa nação 
+**folded_hands_e** Venceremos em nome de Jesus **folded_hands_e** 
+**flag_brazil_e** **red_heart_e** 
+
+Lemmas in this text that loaded on the factor:
+
+clapping_hands_e 
+flag_brazil_e 
+folded_hands_e 
+iluminar_verb_fin_sing 
+proteger_verb_fin_sing 
+red_heart_e 

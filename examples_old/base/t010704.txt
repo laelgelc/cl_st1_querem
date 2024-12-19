@@ -1,0 +1,24 @@
+RT rt_PROPN_Masc_Sing
+@nelsonpaffi twitterhandle_VERB_Fin_Sing
+: :
+A o_DET_Fem_Sing
+esquerda esquerda_NOUN_Fem_Sing
+treme tremar_VERB_Fin_Sing
+: :
+ "  "
+UOL uol_NOUN_Masc_Sing
+Comandantes comandante_NOUN_Masc_Plur
+das de_o_ADP_DET_Fem_Plur
+Forças forças_PROPN_Fem_Plur
+Armadas armadas_PROPN_Sing
+pedem pedir_VERB_Fin_Plur
+demissão demissão_NOUN_Fem_Sing
+em em_ADP
+protesto protesto_NOUN_Masc_Sing
+contra contra_ADP
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+Inédita inédita_PROPN_Sing
+, ,
+crise crise_NOUN_Fem_Sing
+militar militar_ADJ_Fem_Sing
+… …

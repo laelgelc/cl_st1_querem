@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Reference code: group_3
+
 treetagging () {
 
 # speed: 150 lines = 14 sec
@@ -203,9 +205,6 @@ done < files
 
 examples () {
 
-# enter project name
-project=cl_st1_querem
-
 # enter how many examples to be picked for each pole:    
 pickexamples=50
 
@@ -215,28 +214,32 @@ rm -f examples/base/*
 
 sort -k2,2 var_index.txt | cut -f2 > kw_index.txt
 
-html2text -nobs sas/output_"$project"/loadtable.html > a
+# The programme 'extract_factors.py' replaces the set of commands that follows
+# Make sure you are executing the Bash shell script in a Python environment compliant with the programme's requirements
+python extract_factors.py --project $project
 
-# The following block results in errors when run on a Linux Ubuntu system. It has been refactored as follows
-#rm -f x??
-#split -p'=====' a
-#ls x?? > xfiles
-
-rm -f xx??
-csplit a '/=====/+1' '{*}'
-ls xx?? > xfiles
-
-while read xfile
-do
-  pole=$( grep '^Factor ' $xfile | cut -d' ' -f2,3 | sed -e 's/^/f/' -e 's/ //g' )
-#  grep '^[0-9]' $xfile | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2 | grep -v '^$' | sed "s/^/$pole /" 
-#  grep '^[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2,4 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
-  grep '^\s*[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f3,5 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
-done < xfiles > examples/factors
+#html2text -nobs sas/output_${project}/loadtable.html > a
+#
+## The following block results in errors when run on a Linux Ubuntu system. It has been refactored as follows
 ##rm -f x??
-rm -f xx??
+##split -p'=====' a
+##ls x?? > xfiles
+#
+#rm -f xx??
+#csplit a '/=====/+1' '{*}'
+#ls xx?? > xfiles
+#
+#while read xfile
+#do
+#  pole=$( grep '^Factor ' $xfile | cut -d' ' -f2,3 | sed -e 's/^/f/' -e 's/ //g' )
+##  grep '^[0-9]' $xfile | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2 | grep -v '^$' | sed "s/^/$pole /" 
+##  grep '^[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2,4 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
+#  grep '^\s*[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f3,5 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
+#done < xfiles > examples/factors
+###rm -f x??
+#rm -f xx??
 
-head -1  sas/output_"$project"/"$project"_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
+head -1  sas/output_${project}/${project}_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
 
 last=$( cut -d' ' -f1 examples/factors | tr -dc '[0-9\n]' | sort | uniq | sort -nr | head -1 )
 
@@ -244,7 +247,7 @@ for i in $(eval echo {1..$last});
 #for i in {1..6}
 do
   column=$( echo " $i + 1 " | bc ) 
-  cut -f1,"$column"  sas/output_"$project"/"$project"_scores_only.tsv | tail +2 > a
+  cut -f1,"$column"  sas/output_${project}/${project}_scores_only.tsv | tail +2 > a
 
   for pole in pos neg
   do
@@ -269,7 +272,7 @@ do
         url=$( rg $file file_index.txt | cut -d' ' -f4 | sed 's/url://' )
 
       # REGARDLESS OF FACTOR -- FACTOR FILTERING OCCURS FURTHER DOWN:
-      grep -m1 $file  sas/output_"$project"/"$project"_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
+      grep -m1 $file  sas/output_${project}/${project}_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
       paste vars scores | tr '\t' ' ' | grep '^v' | grep -v ' 0$' | cut -d' ' -f1 | sort  > vars_text # var labels for this text, ie not 0
       join vars_text var_index.txt | cut -d' ' -f2 | sort > vars_text_codes # words that occur in this text 
       
@@ -331,7 +334,7 @@ rm -f examples/latex/input/examples_*
 
 sort -k2,2 var_index.txt | cut -f2 > kw_index.txt
 
-head -1  sas/output_group3/group3_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
+head -1  sas/output_${project}/${project}_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
 
 last=$( cut -d' ' -f1 examples/factors | tr -dc '[0-9\n]' | sort | uniq | sort -nr | head -1 )
 
@@ -340,7 +343,7 @@ for i in $(eval echo {1..$last});
 #for i in 4
 do
   column=$( echo " $i + 1 " | bc ) 
-  cut -f1,"$column"  sas/output_group3/group3_scores_only.tsv | tail +2 > a
+  cut -f1,"$column"  sas/output_${project}/${project}_scores_only.tsv | tail +2 > a
 
   for pole in pos neg
   do
@@ -368,7 +371,7 @@ do
         
 
       # REGARDLESS OF FACTOR -- FACTOR FILTERING OCCURS FURTHER DOWN:
-      grep -m1 $file  sas/output_group3/group3_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
+      grep -m1 $file  sas/output_${project}/${project}_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
       paste vars scores | tr '\t' ' ' | grep '^v' | grep -v ' 0$' | cut -d' ' -f1 | sort  > vars_text # var labels for this text, ie not 0
       join vars_text var_index.txt | cut -d' ' -f2 | sort > vars_text_codes # words that occur in this text 
       
@@ -420,15 +423,34 @@ done
 
 }
 
-treetagging
-tokenstypes
-toplemmas
-sas
-datamatrix
-correlationmatrix
+stop_instance() {
+  # Do not forget to:
+  # - have 'aws-cli' installed on the EC2 instance
+  # - have the IAM role 'S3-Admin-Access' attached to the EC2 instance
 
-formats
+  instance_id=$(aws ec2 describe-instances --filters "Name=private-dns-name,Values=$(hostname --fqdn)" --query "Reservations[*].Instances[*].InstanceId" --output text)
+  aws ec2 stop-instances --instance-ids "$instance_id"
+  echo "Instance $instance_id stopped."
+}
+
+inputvariables () {
+  # enter project name - do not use names that contain spaces
+  project=cl_st1_querem
+}
+
+inputvariables
+#treetagging
+#tokenstypes
+#toplemmas
+#sas
+#datamatrix
+#correlationmatrix
+#formats
+
 #classify
+
 #examples
 
 #latexexamples
+
+#stop_instance

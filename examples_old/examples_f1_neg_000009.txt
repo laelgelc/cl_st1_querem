@@ -1,0 +1,18 @@
+file = t000036
+date = 2018-03-30
+user = JarosLucian
+conversation = 1315182469
+URL = https://twitter.com/JarosLucian/status/979571975545872384
+
+word count = 46
+words loading = 1
+factor score = -1
+
+@BlogdoNoblat Noblat, com todo respeito, fui em uma manifestação de 
+recepção ao Bolsonaro e o que vi na vida real é bem diferente: famílias 
+inteiras, homens, mulheres, jovens, crianças e idosos. Ele não fala só pra 
+homem, isso é uma mentira histérica. Foto de Ponta Grossa-PR: 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

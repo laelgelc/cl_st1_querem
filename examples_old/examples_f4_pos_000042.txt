@@ -1,0 +1,18 @@
+file = t002262
+date = 2018-12-30
+user = Paulotmjt
+conversation = 768265392003297280
+URL = https://twitter.com/Paulotmjt/status/1079525090616922112
+
+word count = 24
+words loading = 3
+factor score = 4
+
+RT @BlogdoNoblat: Por decreto, Bolsonaro garantirá a posse de arma de fogo 
+para o cidadão sem antecedentes criminais. O que você acha disso? 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+decreto_noun_masc_sing 
+posse_noun_fem_sing 

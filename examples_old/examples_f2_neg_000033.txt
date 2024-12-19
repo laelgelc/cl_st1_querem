@@ -1,0 +1,19 @@
+file = t011132
+date = 2021-04-29
+user = Rodrigo76830626
+conversation = 1370721281776230411
+URL = https://twitter.com/Rodrigo76830626/status/1387871334441570304
+
+word count = 39
+words loading = 1
+factor score = -3
+
+@GuilhermeBoulos Lula ladrão seu lugar é na cadeia seu lixo do inferno 
+canalia o maior corrupto ladrão da historia do Brasil filho da p. . 
+angry_face_e Bolsonaro está reeleito em2022 parabéns presidente Bolsonaro 
+sempre ao lado do povo brasileiro Patriota folded_hands_e folded_hands_e 
+folded_hands_e 
+
+Lemmas in this text that loaded on the factor:
+
+corrupto_adj_masc_sing 

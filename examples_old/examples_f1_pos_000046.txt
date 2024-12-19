@@ -1,0 +1,23 @@
+file = t018297
+date = 2022-11-29
+user = ComunismoNunca2
+conversation = 1587424290231697411
+URL = https://twitter.com/ComunismoNunca2/status/1597657183793328130
+
+word count = 41
+words loading = 5
+factor score = 4
+
+@Amaro_Coronel Boa tarde Coronel. O senhor está mais calmo? Nossa turma 
+precisa se acalmar. O movimento não é por causa do Bolsonaro e família e sim 
+pela: FRAUDE, Contra o comunismo a empreita, Pelo nossos jovens e pela a nossa 
+NAÇÃO. **oncoming_fist_e** **raising_hands_e** **green_heart_e** 
+**flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+bom_adj_fem_sing (secondary)
+flag_brazil_e 
+green_heart_e 
+oncoming_fist_e 
+raising_hands_e 

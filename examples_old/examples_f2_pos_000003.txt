@@ -1,0 +1,21 @@
+file = t013038
+date = 2021-10-30
+user = PsicoLeilaCosta
+conversation = 4849868859
+URL = https://twitter.com/PsicoLeilaCosta/status/1454448972119093249
+
+word count = 49
+words loading = 4
+factor score = 6
+
+Acabaram com o Bolsa Família, o maior e mais importante programa de 
+transferência direta de renda do mundo; programa que rompeu o ciclo de pobreza 
+de milhões de famílias brasileiras, que tirou o Brasil do Mapa Mundial da 
+Fome. Bolsonaro é genocida, e prova isso todos os dias. 
+
+Lemmas in this text that loaded on the factor:
+
+brasileiro_adj_fem_plur 
+pobreza_noun_fem_sing 
+programa_noun_masc_sing 
+renda_noun_fem_sing 

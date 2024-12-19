@@ -1,0 +1,16 @@
+file = t000937
+date = 2018-06-29
+user = lucianosemix
+conversation = 2210358929
+URL = https://twitter.com/lucianosemix/status/1012583052436963329
+
+word count = 26
+words loading = 1
+factor score = -2
+
+PSDB lança vídeo com críticas a Bolsonaro tudo bem maquiadinho para o povo 
+ser enganado e muitos vão cair nessa que os rivais esta armando. 
+
+Lemmas in this text that loaded on the factor:
+
+cair_verb_inf 

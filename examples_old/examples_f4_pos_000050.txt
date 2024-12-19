@@ -1,0 +1,19 @@
+file = t001417
+date = 2018-08-30
+user = CrisMenshova
+conversation = 2828823327
+URL = https://twitter.com/CrisMenshova/status/1035288294278549504
+
+word count = 48
+words loading = 2
+factor score = 4
+
+@CesarBHzz Usar criança dessa forma tão explícita é desonesto. 
+Principalmente querendo colar no Bolsonaro essa imagem. . . O que ele diz é 
+exatamente o contrário pois prega o porte de arma para o cidadão de bem se 
+proteger de bandidos que atentam contra a segurança dsa nossas famílias. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun 
+porte_noun_masc_sing 

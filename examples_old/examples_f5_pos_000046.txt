@@ -1,0 +1,20 @@
+file = t018281
+date = 2022-11-29
+user = Ale200k
+conversation = 1587563400753815554
+URL = https://twitter.com/Ale200k/status/1597741338153271301
+
+word count = 20
+words loading = 2
+factor score = 3
+
+**police_car_light_e** **police_car_light_e** **police_car_light_e** 
+**police_car_light_e** Urgente! ! Reunião agora do Bolsonaro com forças 
+armadas! ! **police_car_light_e** **police_car_light_e** **police_car_light_e** 
+**police_car_light_e** flag_brazil_e flag_brazil_e Curta, retweet e me siga pra 
+eu seguir de volta! flag_brazil_e flag_brazil_e @Ale200k 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+police_car_light_e 

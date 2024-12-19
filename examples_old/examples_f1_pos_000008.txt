@@ -1,0 +1,24 @@
+file = t020166
+date = 2023-03-30
+user = StellaFaria15
+conversation = 1059584094420586498
+URL = https://twitter.com/StellaFaria15/status/1641581253076893696
+
+word count = 31
+words loading = 5
+factor score = 6
+
+**green_heart_e** **flag_brazil_e** **yellow_heart_e** Bem-vindo de volta, 
+querido Presidente Bolsonaro! ! ! **red_heart_e** Aqui é o seu lugar! 
+**flag_brazil_e** Que Deus o abençoe, abençoe o Brasil e a todos nós, em 
+nome de Jesus! **folded_hands_e** HASHTAG #bolsonarovoltou_h HASHTAG 
+#bolsonaroorgulhodobrasil_h HASHTAG #bolsonarotinharazao_h HASHTAG 
+#bolsonarotemrazao_h HASHTAG #bolsonaropresidentelegitimodobrasil_h 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+folded_hands_e 
+green_heart_e 
+red_heart_e 
+yellow_heart_e 

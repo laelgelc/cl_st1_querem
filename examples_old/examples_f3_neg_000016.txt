@@ -1,0 +1,19 @@
+file = t002711
+date = 2019-01-30
+user = betabene
+conversation = 44633403
+URL = https://twitter.com/betabene/status/1090541785611411461
+
+word count = 46
+words loading = 1
+factor score = -2
+
+@paretto87 @MarcosVinPP @bigpiig @DionnathanW @Haddad_Fernando É um processo. 
+Quem sabe tu tenta também? O Bolsonaro merece todo Karma dele, 
+independentemente do que sinto pelos absurdos, pelo ódio e pelo atraso que ele 
+representa. O que posso querer é que ele encontre iluminação. Estou torcendo 
+por isso! crossed_fingers_e 
+
+Lemmas in this text that loaded on the factor:
+
+processo_noun_masc_sing 

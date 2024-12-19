@@ -1,0 +1,19 @@
+file = t016909
+date = 2022-08-30
+user = mae_tarjapreta
+conversation = 1422731103010500612
+URL = https://twitter.com/mae_tarjapreta/status/1564763863739924482
+
+word count = 21
+words loading = 4
+factor score = 6
+
+RT @revistaforum: Família Bolsonaro comprou metade do seu patrimônio com 
+dinheiro vivo Desde os anos 90 , quando o presidente ingressou na … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_fin_sing 
+dinheiro_noun_masc_sing 
+metade_noun_fem_sing 
+vivo_adj_masc_sing 

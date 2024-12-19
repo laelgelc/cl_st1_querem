@@ -1,0 +1,17 @@
+file = t002164
+date = 2018-11-29
+user = tizquadros
+conversation = 206396925
+URL = https://twitter.com/tizquadros/status/1068248788853301248
+
+word count = 22
+words loading = 2
+factor score = -2
+
+RT @mphistoria: Bolsonaro é claro: irá banir ou prender comunistas. Se você 
+ousar questionar seu governo, você se tornará um comunista. … 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_noun_masc_plur 
+comunista_noun_masc_sing 

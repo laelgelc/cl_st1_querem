@@ -1,0 +1,20 @@
+file = t010289
+date = 2021-03-30
+user = Bob_Fernandes
+conversation = 47739030
+URL = https://twitter.com/Bob_Fernandes/status/1377024146408931328
+
+word count = 34
+words loading = 3
+factor score = 4
+
+Desesperado, cercado pela crise sanitária, socioeconômica que produziu, por 
+investigações contra sua família, Bolsonaro força demissão dos Comandantes 
+do Exército, Marinha e Força Aérea. Bolsonaro quer o Golpe. Dizem os 
+ex-comandantes: não haverá Golpe 
+
+Lemmas in this text that loaded on the factor:
+
+comandante_noun_masc_plur 
+crise_noun_fem_sing 
+golpe_noun_masc_sing 

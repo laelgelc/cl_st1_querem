@@ -1,0 +1,19 @@
+file = t010748
+date = 2021-03-30
+user = MBLivre
+conversation = 1523823530
+URL = https://twitter.com/MBLivre/status/1376926544183111681
+
+word count = 33
+words loading = 3
+factor score = 4
+
+ATENÇÃO: os comandantes do Exército, da Marinha e da Aeronáutica pediram 
+renúncia coletica EM PROTESTO contra Bolsonaro. Eles são contra a ofensiva de 
+Bolsonaro de aparelhar as forças armadas para a política. 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+comandante_noun_masc_plur 
+pedir_verb_fin_plur 

@@ -1,0 +1,19 @@
+file = t019488
+date = 2023-01-30
+user = ElianaRezende10
+conversation = 4244489973
+URL = https://twitter.com/ElianaRezende10/status/1620181787849940992
+
+word count = 20
+words loading = 4
+factor score = 5
+
+RT @folha: Famílias pobres são enganadas e pagam para receber cisternas sob 
+Bolsonaro. Beneficiários não conseguem ser incluídos em program … 
+
+Lemmas in this text that loaded on the factor:
+
+cisterna_noun_fem_plur 
+pagar_verb_fin_plur 
+pobre_adj_fem_plur 
+receber_verb_inf 

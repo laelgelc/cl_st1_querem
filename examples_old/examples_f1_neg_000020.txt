@@ -1,0 +1,17 @@
+file = t000464
+date = 2018-04-28
+user = CarlosMoraes19
+conversation = 443887894
+URL = https://twitter.com/CarlosMoraes19/status/990209508881379328
+
+word count = 32
+words loading = 1
+factor score = -1
+
+SERVE DE ALERTA o ataque a tiros realizado por pessoas que saudavam o 
+Bolsonaro. Você ou sua família poderão ser os próximos se esta corja de 
+extrema direita governar o país. 
+
+Lemmas in this text that loaded on the factor:
+
+extremo_adj_fem_sing 

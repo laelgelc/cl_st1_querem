@@ -1,0 +1,20 @@
+file = t016827
+date = 2022-08-30
+user = blogdosakamoto
+conversation = 58668131
+URL = https://twitter.com/blogdosakamoto/status/1564594097037402112
+
+word count = 27
+words loading = 4
+factor score = 7
+
+Investigação aponta que família Bolsonaro é uma grande lavanderia de 
+dinheiro. O clã comprou quase metade de seu extenso patrimônio em imóveis 
+usando dinheiro vivo. HASHTAG #patrimoniobolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_fin_sing 
+dinheiro_noun_masc_sing 
+metade_noun_fem_sing 
+vivo_adj_masc_sing 

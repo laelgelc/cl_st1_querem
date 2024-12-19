@@ -1,0 +1,20 @@
+file = t006246
+date = 2020-02-28
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/1233487366356131842
+
+word count = 42
+words loading = 2
+factor score = -2
+
+@BolsonaroSP @pauloap. . . globalista, socialista / comunista, lacradora, 
+enfim, em qualquer espaço ou mídia mobile_phone_e laptop_e radio_e 
+television_e, sem isentismo. Pessoas que sejam ligadas com esse estilo de 
+comunicação direta de Jair Bolsonaro, filhos, e aliados, principalmente no 
+que tange às redes sociais. E pra completar, o. . . 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

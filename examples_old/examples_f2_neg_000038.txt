@@ -1,0 +1,17 @@
+file = t011582
+date = 2021-06-29
+user = VitaoPatriota
+conversation = 1404542840915509261
+URL = https://twitter.com/VitaoPatriota/status/1409857293307482113
+
+word count = 23
+words loading = 2
+factor score = -3
+
+@senadorcidgomes Um ladrão Canalha, corrupto igual você vir falar em apurar 
+fake de corrupção contra o Presidente Jair Bolsonaro! ? fala sério bandido. 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_noun_masc_sing 
+corrupto_adj_masc_sing 

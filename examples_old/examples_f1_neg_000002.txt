@@ -1,0 +1,18 @@
+file = t006976
+date = 2020-05-30
+user = CNNBrasil
+conversation = 809124436880322561
+URL = https://twitter.com/CNNBrasil/status/1266553719690129409
+
+word count = 29
+words loading = 2
+factor score = -2
+
+Ação acusava o ex-ministro pelo crime de corrupção passiva pelo que falou 
+em seu pronunciamento sobre ter pedido a Bolsonaro que sua família não 
+ficasse desamparada sem uma pensão 
+
+Lemmas in this text that loaded on the factor:
+
+acusar_verb_fin_sing 
+falar_verb_fin_sing 

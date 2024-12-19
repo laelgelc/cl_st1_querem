@@ -1,0 +1,23 @@
+file = t015431
+date = 2022-04-29
+user = Selma18518242
+conversation = 1082373508745830400
+URL = https://twitter.com/Selma18518242/status/1520041799775047682
+
+word count = 19
+words loading = 5
+factor score = 5
+
+@jairbolsonaro Jair Messias Bolsonaro melhor presidente que o Brasil já teve! 
+! ! **flag_brazil_e** **smiling_face_with_sunglasses_e** 
+**backhand_index_pointing_right_e** **backhand_index_pointing_right_e** 
+**red_heart_e** Brasil celeiro do mundo! ! ! Deus no comando! ! ! 
+**folded_hands_e** 
+
+Lemmas in this text that loaded on the factor:
+
+backhand_index_pointing_right_e 
+flag_brazil_e 
+folded_hands_e 
+red_heart_e 
+smiling_face_with_sunglasses_e 

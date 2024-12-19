@@ -1,0 +1,18 @@
+file = t000051
+date = 2018-03-30
+user = WenndellAguiar_
+conversation = 144138963
+URL = https://twitter.com/WenndellAguiar_/status/979391351157592067
+
+word count = 26
+words loading = 2
+factor score = -1
+
+@DanielN46244668 @erickfmoraes @AndreiNevesSil1 @jairbolsonaro @dimas_miranda 
+EU sou de extrema direita. E muito conservador! ! ! Então apoio quem seja da 
+mesma forma. E simbora que Outubro jaja chega. 
+
+Lemmas in this text that loaded on the factor:
+
+conservador_adj_masc_sing (secondary)
+extremo_adj_fem_sing 

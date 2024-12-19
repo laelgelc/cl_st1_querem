@@ -1,0 +1,19 @@
+file = t015875
+date = 2022-05-30
+user = LulaOficial
+conversation = 2670726740
+URL = https://twitter.com/LulaOficial/status/1531367054875435009
+
+word count = 49
+words loading = 2
+factor score = 4
+
+Uma pesquisa do Instituto Pólis mostra que o gasto com o botijão de gás 
+compromete até 11 % da renda das famílias mais pobres na cidade de São 
+Paulo. O gás deveria estar na cesta básica, e o povo não deveria arriscar 
+sua vida com álcool e lenha. HASHTAG #equipelula_h 
+
+Lemmas in this text that loaded on the factor:
+
+pobre_adj_fem_plur 
+renda_noun_fem_sing 

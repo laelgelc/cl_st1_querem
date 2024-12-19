@@ -1,0 +1,17 @@
+file = t002060
+date = 2018-11-29
+user = OLAVOFERR
+conversation = 1204834327
+URL = https://twitter.com/OLAVOFERR/status/1068291238032547840
+
+word count = 13
+words loading = 2
+factor score = -3
+
+RT @bacana_ef: HASHTAG #urgenteurgentissimo_h @camaradeputados @SenadoFederal 
+@STF_oficial Um por um! Ladrão, corrupto, bandido, não tem que … 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_adj_masc_sing 
+corrupto_adj_masc_sing 

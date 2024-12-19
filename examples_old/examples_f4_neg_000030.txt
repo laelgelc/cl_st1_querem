@@ -1,0 +1,20 @@
+file = t002487
+date = 2018-12-30
+user = Martatstgo
+conversation = 525263943
+URL = https://twitter.com/Martatstgo/status/1079339875151671296
+
+word count = 55
+words loading = 2
+factor score = -2
+
+@Nor85AF @LeilaneNeubarth @MiriamLeitaoCom Eu falei de comunista? Onde? Falei 
+do que eu vi nas entrelinhas do texto. Mas, comunistas estão ai, se vc não 
+consegue enxergar, ai é um problema seu. Eu só sei que meu presidente será 
+empossado depois de amanhã , eu vou assistir en Brasília e quem adora 
+corrupto vá pra Curitiba. 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+comunista_noun_masc_sing 

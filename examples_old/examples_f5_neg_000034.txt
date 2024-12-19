@@ -1,0 +1,18 @@
+file = t009081
+date = 2020-11-29
+user = RafaelB51999274
+conversation = 1277356373899128832
+URL = https://twitter.com/RafaelB51999274/status/1333181421867855872
+
+word count = 27
+words loading = 2
+factor score = -2
+
+@kimpaim @LuizaMilena1987 Culpa do Flávio e da base pois os conservadores 
+foram abandonados os movimentos conservadores do RJ ignorados. A maioria no RJ 
+votou por abstenção. 
+
+Lemmas in this text that loaded on the factor:
+
+culpa_noun_fem_sing 
+votar_verb_fin_sing 

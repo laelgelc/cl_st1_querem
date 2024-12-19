@@ -1,0 +1,19 @@
+file = t002247
+date = 2018-12-30
+user = camilamenezes31
+conversation = 2236078148
+URL = https://twitter.com/camilamenezes31/status/1079437385941876736
+
+word count = 23
+words loading = 4
+factor score = 4
+
+Bolsonaro quer liberar arma para todo mundo, mas está borrando de medo de 
+levar um tiro durante a cerimônia de posse. Ué ? man_shrugging_e 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+liberar_verb_inf 
+posse_noun_fem_sing 
+tiro_noun_masc_sing 

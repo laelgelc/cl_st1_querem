@@ -1,0 +1,20 @@
+file = t017159
+date = 2022-08-30
+user = andersonrosavaz
+conversation = 207582243
+URL = https://twitter.com/andersonrosavaz/status/1564727120340959233
+
+word count = 41
+words loading = 2
+factor score = 6
+
+FAMÍLIA BOLSONARO check_mark_button_e 107 imóveis ( oficialmente ) 
+check_mark_button_e 51 comprado em dinheiro vivo check_mark_button_e R$ 13 , 5 
+milhões check_mark_button_e R$ 25 , 6 milhões corrigido pela inflação Uma 
+família que vive da política nos últimos 35 anos. Nem se trabalhasse cem 
+anos investindo tudo em triplex. 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro_noun_masc_sing 
+vivo_adj_masc_sing 

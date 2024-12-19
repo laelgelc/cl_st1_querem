@@ -1,0 +1,17 @@
+file = t001165
+date = 2018-07-30
+user = querossaber
+conversation = 456827684
+URL = https://twitter.com/querossaber/status/1024023664306610177
+
+word count = 16
+words loading = 2
+factor score = -2
+
+BOLSONARO tem 100 % de rejeição dos presidiário, dos estrupadores, dos 
+comunistas, dos corruptos e corruptores 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+corrupto_noun_masc_plur 

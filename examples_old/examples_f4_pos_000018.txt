@@ -1,0 +1,20 @@
+file = t016369
+date = 2022-07-30
+user = joaofernandesf1
+conversation = 636311847
+URL = https://twitter.com/joaofernandesf1/status/1553525252306649090
+
+word count = 33
+words loading = 4
+factor score = 4
+
+Bolsonaro: Arma de fogo pode garantir a liberdade no futuro Arma de fogo não 
+garante liberdade de ninguém seu patife mentiroso e você com suas armas 
+representa a morte vigarista sem caráter. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+arma_noun_fem_sing 
+fogo_noun_masc_sing 
+garantir_verb_inf 

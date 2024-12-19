@@ -1,0 +1,19 @@
+file = t010434
+date = 2021-03-30
+user = Fredinhosolon
+conversation = 44992828
+URL = https://twitter.com/Fredinhosolon/status/1377044392557568000
+
+word count = 27
+words loading = 3
+factor score = 4
+
+Tudo indica que o GENERAL SARÃO vai se apresentar ao governo justamente no dia 
+que todos os chefes das forças armadas deixaram os seus cargos HASHTAG 
+#bbb21_h 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+cargo_noun_masc_plur 
+chefe_noun_masc_plur 

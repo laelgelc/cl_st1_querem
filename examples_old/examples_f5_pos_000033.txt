@@ -1,0 +1,20 @@
+file = t003447
+date = 2019-03-30
+user = resendeandrade1
+conversation = 859081595399131136
+URL = https://twitter.com/resendeandrade1/status/1111840141117657088
+
+word count = 38
+words loading = 3
+factor score = 4
+
+O presidente Jair Bolsonaro pediu esta semana para as forças armadas para 
+comemorar o 55º aniversário de um golpe que estabeleceu uma ditadura militar 
+brutal no Brasil Brazil ' s President Tells Armed Forces to Commemorate 
+Military Coup 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+golpe_noun_masc_sing 
+militar_adj_fem_sing 

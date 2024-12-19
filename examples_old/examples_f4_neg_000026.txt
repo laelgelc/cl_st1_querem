@@ -1,0 +1,18 @@
+file = t001852
+date = 2018-10-30
+user = claudiopeixoto
+conversation = 33443638
+URL = https://twitter.com/claudiopeixoto/status/1057417065055838208
+
+word count = 33
+words loading = 2
+factor score = -2
+
+Você que zoou o Haddad errando o hino nacional, saiba que ele mandou um recado 
+para todos os professores comunistas em rede nacional. Vários professores 
+aumentando a doutrinação esquerdista nas escolas brasileiras. 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+mandar_verb_fin_sing 

@@ -1,0 +1,20 @@
+file = t016849
+date = 2022-08-30
+user = julianopsol
+conversation = 937683426882326529
+URL = https://twitter.com/julianopsol/status/1564690525332148224
+
+word count = 45
+words loading = 3
+factor score = 6
+
+Lula ficou preso por 580 dias com a acusação de ter visitado um apartamento 
+que ele nunca comprou. A família Bolsonaro comprou 51 imóveis com dinheiro 
+vivo gastando mais de R$ 25 milhões nas últimas décadas. Quem parece o 
+corrupto dessa estória pra você ? 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_fin_sing 
+dinheiro_noun_masc_sing 
+vivo_adj_masc_sing 

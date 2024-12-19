@@ -1,0 +1,22 @@
+file = t012918
+date = 2021-10-29
+user = flaviaol
+conversation = 146591912
+URL = https://twitter.com/flaviaol/status/1454213486851014658
+
+word count = 44
+words loading = 4
+factor score = 4
+
+backhand_index_pointing_right_medium-dark_skin_tone_e A realidade do país de 
+19 milhões em situação de fome é que o governo Bolsonaro sepultou o 
+Bolsa-Família sem implementar o Auxílio Brasil. O futuro programa social não 
+tem orçamento, não foi debatido com sociedade, governadores e prefeitos, é 
+confuso. Inacreditável o desmonte. 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+governador_noun_masc_plur 
+programa_noun_masc_sing 
+social_adj_masc_sing (secondary)

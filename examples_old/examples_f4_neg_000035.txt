@@ -1,0 +1,18 @@
+file = t003441
+date = 2019-03-30
+user = rdsf00398812
+conversation = 831981065673793537
+URL = https://twitter.com/rdsf00398812/status/1112084003111256064
+
+word count = 26
+words loading = 2
+factor score = -2
+
+@BlogdoNoblat Os terroristas neo-nazistas apoiadores do Bolsonaro também eram 
+comunistas pela lógica brilhante do ministro. Será que o Bolsonaro é 
+comunista e agente não ta sabendo? 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+comunista_adj_masc_sing 

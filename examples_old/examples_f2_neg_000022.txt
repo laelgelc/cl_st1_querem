@@ -1,0 +1,18 @@
+file = t005228
+date = 2019-11-29
+user = SalgadoDarlan
+conversation = 976988690173095936
+URL = https://twitter.com/SalgadoDarlan/status/1199133422490402817
+
+word count = 26
+words loading = 2
+factor score = -3
+
+@Helena1Patr Chola mais Patricia, tá divetido essas ideias mirabolantes para 
+desmontar Bolsonaro, mas não dá pra chamá -lo de ladrão e corrupto. Vocês 
+da esquerda são patéticos. 
+
+Lemmas in this text that loaded on the factor:
+
+corrupto_adj_masc_sing 
+esquerda_noun_fem_sing 

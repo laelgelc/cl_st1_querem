@@ -1,0 +1,18 @@
+file = t000185
+date = 2018-04-29
+user = lindberghfarias
+conversation = 71310152
+URL = https://twitter.com/lindberghfarias/status/990727197223739393
+
+word count = 42
+words loading = 1
+factor score = -1
+
+O candidato fascista, porta-voz do ódio, que já simulou uma arma com os dedos 
+e atirou num boneco do Lula, resolveu abrir guerra contra mim. Repito o que eu 
+falei: Bolsonaro, vc é sim responsável pela escalada do fascismo e da 
+intolerância! 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

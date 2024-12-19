@@ -1,0 +1,18 @@
+file = t000873
+date = 2018-06-29
+user = FrancoABLinares
+conversation = 2171327925
+URL = https://twitter.com/FrancoABLinares/status/1012698332727144448
+
+word count = 37
+words loading = 1
+factor score = -2
+
+Bolsonaro Presidente, é para o bem da Família, da crença religiosa, do 
+crescimento econômico, educacional, amor a Pátria. . . . Chega de ideologia 
+burra, de bandidos e drogados tocando o terror numa população amedrontada, 
+desarmada, e sem dinheiro. 
+
+Lemmas in this text that loaded on the factor:
+
+amor_noun_masc_sing 

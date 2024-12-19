@@ -1,0 +1,19 @@
+file = t000343
+date = 2018-04-29
+user = LybiaAbaaoud
+conversation = 932241242766880769
+URL = https://twitter.com/LybiaAbaaoud/status/990409774524256257
+
+word count = 46
+words loading = 2
+factor score = -2
+
+Além disso ou de tudo isso, ela tem um canal no YouTube e lá aborda temas ( 
+descendo o pau, óbvio ) nós comunistas. Ela é contra o aborto e já abortou 
+Intolerante à outras crenças e ela era atéia E pró Bolsonaro, como se fosse 
+novidade 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+pau_noun_masc_sing 

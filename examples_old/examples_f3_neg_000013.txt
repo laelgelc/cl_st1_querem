@@ -1,0 +1,17 @@
+file = t002689
+date = 2019-01-30
+user = allkar
+conversation = 107148317
+URL = https://twitter.com/allkar/status/1090755054376767488
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @N_Carvalheira: A maior bronca dos comunistas foi Bolsonaro ter vencido as 
+eleições com o apoio das redes sociais. Provaram de ' cicuta … 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

@@ -1,0 +1,19 @@
+file = t008696
+date = 2020-10-30
+user = guimaraes13PT
+conversation = 49696756
+URL = https://twitter.com/guimaraes13PT/status/1322200520346488833
+
+word count = 46
+words loading = 2
+factor score = 4
+
+Oposição segue em obstrução política em defesa do pagamento do auxílio 
+emergencial de R$ 600 , 00 . Não vamos aceitar redução de valor, Bolsonaro 
+não pode cometer este crime com as famílias brasileiras. Faço um desafio ao 
+Bolsonaro, tente passar um mês com R$ 300 , 00 ! 
+
+Lemmas in this text that loaded on the factor:
+
+brasileiro_adj_fem_plur 
+emergencial_adj_masc_sing 

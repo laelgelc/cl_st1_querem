@@ -1,0 +1,18 @@
+file = t002690
+date = 2019-01-29
+user = N_Carvalheira
+conversation = 1089535657
+URL = https://twitter.com/N_Carvalheira/status/1090375235482865664
+
+word count = 34
+words loading = 2
+factor score = -2
+
+A maior bronca dos comunistas foi Bolsonaro ter vencido as eleições com o 
+apoio das redes sociais. Provaram de ' cicuta digital ' , veneno que não os 
+matou, mas os reduziu a pó de enxofre. 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

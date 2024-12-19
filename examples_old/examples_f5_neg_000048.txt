@@ -1,0 +1,19 @@
+file = t012793
+date = 2021-09-29
+user = ResistDemBrasil
+conversation = 982795891
+URL = https://twitter.com/ResistDemBrasil/status/1443329945174949895
+
+word count = 41
+words loading = 2
+factor score = -2
+
+Bolsonaro foge de todas as responsabilidades. Para ele, a economia não depende 
+de Paulo Guedes, mas de Deus. Já colocou a culpa nos estados pelo desemprego e 
+pelo preço da gasolina, se o gás não baixar, a culpa é dele 
+backhand_index_pointing_up_e folded_hands_e 
+
+Lemmas in this text that loaded on the factor:
+
+culpa_noun_fem_sing 
+economia_noun_fem_sing 

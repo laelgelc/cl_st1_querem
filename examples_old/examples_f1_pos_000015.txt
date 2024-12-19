@@ -1,0 +1,21 @@
+file = t014686
+date = 2022-03-30
+user = oliverfla81es2
+conversation = 1499350859389542407
+URL = https://twitter.com/oliverfla81es2/status/1509308707418611719
+
+word count = 19
+words loading = 4
+factor score = 6
+
+RT @AnglicaKurten: Que Deus te ilumine, te guarde e te abençoe grandemente 
+querido Presidente Jair Messias Bolsonaro! ! ! Amém **flag_brazil_e** 
+**flag_brazil_e** **folded_hands_e** **folded_hands_e** **red_heart_e** 
+**red_heart_e** https … 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+folded_hands_e 
+iluminar_verb_fin_sing 
+red_heart_e 

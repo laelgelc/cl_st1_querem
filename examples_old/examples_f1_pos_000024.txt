@@ -1,0 +1,22 @@
+file = t018847
+date = 2022-12-30
+user = marta84908125
+conversation = 1255546253493952514
+URL = https://twitter.com/marta84908125/status/1608910536510672897
+
+word count = 14
+words loading = 4
+factor score = 5
+
+@Jouberth19 Obrigada Presidente Bolsonaro por td, que Deus te abençoe e te 
+proteja **folded_hands_e** **folded_hands_e** **folded_hands_e** 
+**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+clapping_hands_e 
+flag_brazil_e 
+folded_hands_e 
+proteger_verb_fin_sing 

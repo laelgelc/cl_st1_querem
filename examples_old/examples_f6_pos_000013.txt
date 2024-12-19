@@ -1,0 +1,14 @@
+file = t020587
+date = 2023-04-29
+user = NielsendoBrasil
+conversation = 1442888463058145286
+URL = https://twitter.com/NielsendoBrasil/status/1652370382559608834
+
+word count = 7
+words loading = 0
+factor score = 
+
+@VanLiberdade Bolsonaro será preso de novo? 
+
+Lemmas in this text that loaded on the factor:
+

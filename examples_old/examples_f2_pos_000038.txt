@@ -1,0 +1,18 @@
+file = t015601
+date = 2022-05-30
+user = vixe_menino
+conversation = 1399549960748732416
+URL = https://twitter.com/vixe_menino/status/1531414035052302336
+
+word count = 22
+words loading = 2
+factor score = 4
+
+RT @ptbrasil: Fome no Brasil! loudspeaker_e 25 milhões de famílias que 
+recebiam o Bolsa Família ou o Auxílio Emergencial foram abandonadas por 
+Bolson … 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+receber_verb_fin_plur 

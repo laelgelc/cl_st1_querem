@@ -1,0 +1,20 @@
+file = t003942
+date = 2019-05-30
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/1134067162673504260
+
+word count = 42
+words loading = 2
+factor score = -2
+
+@jairbolsonaro @DaniloGentili A zueira não conhecerá limites, nessa 
+entrevista. Jair Bolsonaro, o político conservador e cristão, e militar, mais 
+politicamente o correto que o Brasil já viu! Audiência recorde ora combinar 
+com o engajamento recorde nas redes sociais! Brasil! @DaniloGentili 
+@jairbolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

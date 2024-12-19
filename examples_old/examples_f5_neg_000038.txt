@@ -1,0 +1,20 @@
+file = t009638
+date = 2020-12-30
+user = JuvenalJonneves
+conversation = 1112862029361102849
+URL = https://twitter.com/JuvenalJonneves/status/1344399543308312576
+
+word count = 55
+words loading = 2
+factor score = -2
+
+@YuhMartin @RuidiazDario @jairbolsonaro Já q tu acha que ele é um presidente 
+bom pra excelente, por favor, me responda essas indagações: qual o impacto 
+político dos posicionamentos diplomáticos que o Bolsonaro anda tendo nos 
+últimos 2 anos e como isso se reflete na economia do Brasil? Só não cita 
+NOM, pelo amor de Deus 
+
+Lemmas in this text that loaded on the factor:
+
+amor_noun_masc_sing 
+economia_noun_fem_sing 

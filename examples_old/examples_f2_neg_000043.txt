@@ -1,0 +1,18 @@
+file = t014720
+date = 2022-03-30
+user = RorizLenira
+conversation = 1034672192779440128
+URL = https://twitter.com/RorizLenira/status/1503759171442855936
+
+word count = 56
+words loading = 1
+factor score = -3
+
+@LulaOficial @kfr8d76wxx Ladrão cachaceiro, o povo não é bobo, sabemos bem 
+que vc pegou o país na melhor fase e roubou tudo que pôde. Sabemos tbm que no 
+início do governo Bolsonaro o país tava recuperando o que o ladrão levou, 
+mas ai veio a pandemia e a guerra. Mas com Bolsonaro recuperarmos em breve. 
+
+Lemmas in this text that loaded on the factor:
+
+bom_adj_fem_sing 

@@ -1,0 +1,7 @@
+@VanLiberdade twitterhandle_NOUN_Fem_Sing
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+será ser_AUX_Fin_Sing
+preso prender_VERB_Part_Masc_Sing
+de de_ADP
+novo novo_ADJ_Masc_Sing
+? ?

@@ -1,0 +1,21 @@
+file = t017221
+date = 2022-08-30
+user = PatriotaDeejay
+conversation = 1493227031068299264
+URL = https://twitter.com/PatriotaDeejay/status/1564759694719205378
+
+word count = 44
+words loading = 3
+factor score = 4
+
+@Bolsonaro_Q1 Gratidão, agradeço por me seguir e já estou te seguindo de 
+volta, se você puder avise aos seus seguidores que eu sigo todos de volta 
+afinal nós devemos nos unir contra esse comunismo sedento pra voltar na cena 
+do Crime. Deus te Abençoe. **folded_hands_e** **flag_brazil_e** 
+flexed_biceps_e 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+folded_hands_e 
+seguir_verb_fin_sing 

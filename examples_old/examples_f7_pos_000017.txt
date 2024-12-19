@@ -1,0 +1,17 @@
+file = t020583
+date = 2023-04-29
+user = sobotelha
+conversation = 877947497230028801
+URL = https://twitter.com/sobotelha/status/1652306876497887233
+
+word count = 42
+words loading = 0
+factor score = 
+
+@malugaspar: Anderson Torres e Silvinei Vasques agiram exatamente como 
+suspeitávamos: p / atrapalhar o resultado eleitoral de @LulaOficial A mando e 
+a serviço de quem, já sabemos. Família Biroleibe e generais tão juntos 
+nessa. Esses 2 otários vão pagar o pato sozinhos? + 
+
+Lemmas in this text that loaded on the factor:
+

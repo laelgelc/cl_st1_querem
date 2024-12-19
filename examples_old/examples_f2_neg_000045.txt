@@ -1,0 +1,20 @@
+file = t015593
+date = 2022-05-30
+user = guillmelov
+conversation = 1328552409765965825
+URL = https://twitter.com/guillmelov/status/1531361064117538818
+
+word count = 54
+words loading = 2
+factor score = -3
+
+@dennycrf1895 @JooOnofre14 @UOLNoticias Caralho você tem coragem de olhar pro 
+seu filho quando você fica na internet defendendo um ladrão que acha que ele 
+deve ser pesado em arrobas? Você não tem um pingo de vergonha na cara. Acorda 
+cara. O Bolsonaro já roubou muito, já roubava quando era deputado, e agora 
+extrapolou 
+
+Lemmas in this text that loaded on the factor:
+
+achar_verb_fin_sing 
+cara_noun_fem_sing 

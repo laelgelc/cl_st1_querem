@@ -1,0 +1,20 @@
+file = t017053
+date = 2022-08-30
+user = sulvinteum
+conversation = 140810916
+URL = https://twitter.com/sulvinteum/status/1564748198102573060
+
+word count = 31
+words loading = 4
+factor score = 6
+
+Metade dos imóveis da família Bolsonaro teriam sido comprados com dinheiro 
+vivo. Senado debate projeto que proíbe uso de dinheiro em espécie em 
+negócios imobiliários para evitar lavagem de dinheiro. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+metade_noun_fem_sing 
+vivo_adj_masc_sing 

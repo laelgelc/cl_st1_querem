@@ -1,0 +1,399 @@
+f1pos folded_hands_e 
+f1pos abenoar_verb_fin_sing 
+f1pos raising_hands_e 
+f1pos red_heart_e 
+f1pos proteger_verb_fin_sing 
+f1pos yellow_heart_e 
+f1pos amm_noun_masc_sing 
+f1pos iluminar_verb_fin_sing 
+f1pos green_heart_e 
+f1pos flag_brazil_e 
+f1pos smiling_face_with_sunglasses_e 
+f1pos backhand_index_pointing_right_e 
+f1pos clapping_hands_e 
+f1pos oncoming_fist_e 
+f1pos noite_noun_fem_sing 
+f1pos brasileiro_adj_masc_plur 
+f1pos n_noun_masc_plur 
+f1pos acimar_verb_fin_sing 
+f1pos misericrdia_noun_fem_sing 
+f1pos deus_noun (secondary)
+f1pos seguir_verb_fin_sing 
+f1pos bom_adj_fem_sing (secondary)
+f1pos ptria_noun_fem_sing 
+f1pos parabns_noun_masc_plur 
+f1pos livre_adj_masc_sing 
+f1pos entregar_verb_inf (secondary)
+f1pos reeleger_verb_part_masc_sing (secondary)
+f1pos esse_verb_fin_sing (secondary)
+f1pos gua_noun_fem_sing 
+f1neg conservador_adj_masc_sing (secondary)
+f1neg falar_verb_fin_sing 
+f1neg rede_noun_fem_plur (secondary)
+f1neg cara_noun_fem_sing (secondary)
+f1neg dinheiro_noun_masc_sing (secondary)
+f1neg expresso_noun_fem_sing (secondary)
+f1neg comprar_verb_inf (secondary)
+f1neg pblico_adj_masc_sing (secondary)
+f1neg extremo_adj_fem_sing 
+f1neg news_noun_masc_plur (secondary)
+f1neg bandido_adj_masc_sing (secondary)
+f1neg imvel_noun_masc_plur (secondary)
+f1neg imprensa_noun_fem_sing (secondary)
+f1neg oposio_noun_fem_sing (secondary)
+f1neg dio_noun_masc_sing (secondary)
+f1neg comunista_adj_masc_sing (secondary)
+f1neg fake_verb_fin_sing (secondary)
+f1neg acusar_verb_fin_sing 
+f1neg ligar_verb_fin_sing (secondary)
+f2pos emergencial_adj_masc_sing 
+f2pos auxlio_noun_masc_sing 
+f2pos renda_noun_fem_sing 
+f2pos receber_verb_fin_plur 
+f2pos famlia_noun_fem_plur 
+f2pos vtima_noun_fem_plur 
+f2pos brasileiro_adj_fem_plur 
+f2pos programa_noun_masc_sing 
+f2pos pobreza_noun_fem_sing 
+f2pos pagar_verb_fin_plur 
+f2pos pobre_adj_fem_plur 
+f2pos gs_noun_masc_sing 
+f2pos receber_verb_inf 
+f2pos bilho_noun_masc_plur (secondary)
+f2pos fome_noun_fem_sing 
+f2pos cisterna_noun_fem_plur 
+f2pos social_adj_masc_sing (secondary)
+f2pos governador_noun_masc_plur 
+f2pos me_noun_fem_plur 
+f2pos milho_noun_masc_plur 
+f2pos milhar_noun_masc_plur (secondary)
+f2pos solidariedade_noun_fem_sing 
+f2pos pobre_adj_masc_plur (secondary)
+f2pos eleitoral_adj_masc_sing 
+f2pos passar_verb_ger (secondary)
+f2pos real_noun_masc_plur (secondary)
+f2pos salrio_noun_masc_sing (secondary)
+f2neg bandido_noun_masc_sing 
+f2neg achar_verb_fin_sing 
+f2neg votar_verb_inf 
+f2neg imprensa_noun_fem_sing 
+f2neg bom_adj_fem_sing 
+f2neg bem_noun_masc_sing 
+f2neg cara_noun_fem_sing 
+f2neg querer_verb_part 
+f2neg golpe_noun_masc_sing (secondary)
+f2neg ladro_adj_masc_sing 
+f2neg ladro_noun_masc_sing 
+f2neg armar_verb_part_masc_plur (secondary)
+f2neg corrupto_adj_masc_sing 
+f2neg notcia_noun_fem_sing (secondary)
+f2neg direita_noun_fem_sing (secondary)
+f2neg bandido_adj_masc_sing 
+f2neg cabea_noun_fem_sing (secondary)
+f2neg cidado_noun_masc_sing (secondary)
+f2neg eleio_noun_fem_plur (secondary)
+f2neg esquerda_noun_fem_sing 
+f2neg facada_noun_fem_sing (secondary)
+f2neg comprar_verb_fin_sing (secondary)
+f2neg arma_noun_fem_plur (secondary)
+f2neg militar_adj_masc_plur (secondary)
+f3pos imvel_noun_masc_plur 
+f3pos vivo_adj_masc_sing 
+f3pos comprar_verb_fin_sing 
+f3pos patrimnio_noun_masc_sing 
+f3pos salrio_noun_masc_sing 
+f3pos dinheiro_noun_masc_sing 
+f3pos comprar_verb_part_masc_plur 
+f3pos compra_noun_fem_sing 
+f3pos metade_noun_fem_sing 
+f3pos bilho_noun_masc_plur 
+f3pos programa_noun_masc_sing (secondary)
+f3pos real_noun_masc_plur 
+f3pos pblico_adj_masc_sing 
+f3pos dcada_noun_fem_plur 
+f3pos pequeno_adj_masc_sing 
+f3pos comprar_verb_inf 
+f3pos ltimo_adj_masc_plur 
+f3pos notcia_noun_fem_sing 
+f3pos police_car_light_e (secondary)
+f3pos famlia_noun_fem_sing 
+f3pos pobre_adj_masc_plur 
+f3pos gs_noun_masc_sing (secondary)
+f3pos ladro_adj_masc_sing (secondary)
+f3pos renda_noun_fem_sing (secondary)
+f3pos milho_noun_masc_plur (secondary)
+f3pos joia_noun_fem_plur 
+f3pos poltica_noun_fem_sing 
+f3pos preo_noun_masc_sing 
+f3pos pobre_adj_fem_plur (secondary)
+f3neg social_adj_fem_plur 
+f3neg rede_noun_fem_plur 
+f3neg mostrar_verb_inf 
+f3neg dio_noun_masc_sing 
+f3neg ato_noun_masc_sing 
+f3neg morrer_verb_inf 
+f3neg armamento_noun_masc_sing (secondary)
+f3neg vida_noun_fem_plur (secondary)
+f3neg vdeo_noun_masc_sing (secondary)
+f3neg processo_noun_masc_sing 
+f3neg apoiador_adj_masc_plur (secondary)
+f3neg democracia_noun_fem_sing (secondary)
+f3neg armar_verb_part_masc_sing 
+f3neg mal_noun_masc_sing (secondary)
+f3neg paz_noun_fem_sing (secondary)
+f3neg vtima_noun_fem_plur (secondary)
+f3neg ditadura_noun_fem_sing (secondary)
+f3neg homem_noun_masc_plur (secondary)
+f4pos liberar_verb_inf 
+f4pos porte_noun_masc_sing 
+f4pos decreto_noun_masc_sing 
+f4pos armar_verb_inf 
+f4pos segurana_noun_fem_sing 
+f4pos arma_noun 
+f4pos garantir_verb_inf 
+f4pos cidado_noun_masc_sing 
+f4pos posse_noun_fem_sing 
+f4pos organizar_verb_part_masc_sing 
+f4pos arma_noun_fem_plur 
+f4pos armamento_noun_masc_sing 
+f4pos arma_noun_fem_sing 
+f4pos tiro_noun_masc_sing 
+f4pos desarmamento_noun_masc_sing 
+f4pos droga_noun_fem_plur 
+f4pos pblico_adj_fem_sing (secondary)
+f4pos fogo_noun_masc_sing 
+f4pos educao_noun_fem_sing (secondary)
+f4pos sade_noun_fem_sing 
+f4pos crime_noun_masc_sing 
+f4pos populao_noun_fem_sing (secondary)
+f4pos trfico_noun_masc_sing 
+f4pos empresa_noun_fem_sing 
+f4pos indstria_noun_fem_sing 
+f4neg comunista_noun_masc_plur 
+f4neg mandar_verb_fin_sing 
+f4neg comunista_adj_masc_sing 
+f4neg comunista_noun_plur 
+f4neg cu_noun_masc_sing (secondary)
+f4neg nordeste_noun_masc_sing 
+f4neg entregar_verb_inf 
+f4neg comunista_adj_masc_plur 
+f4neg deixar_verb_fin_plur (secondary)
+f4neg pau_noun_masc_sing 
+f4neg deus_noun_masc_sing 
+f4neg corrupto_noun_masc_plur 
+f4neg socialista_adj_masc_sing (secondary)
+f4neg comunista_noun_masc_sing 
+f4neg cargo_noun_masc_plur (secondary)
+f4neg receber_verb_inf (secondary)
+f4neg mostrar_verb_inf (secondary)
+f4neg pano_noun_masc_sing (secondary)
+f4neg conservador_noun_masc_plur (secondary)
+f5pos comandante_noun_masc_plur 
+f5pos demisso_noun_fem_sing 
+f5pos cargo_noun_masc_plur 
+f5pos pedir_verb_fin_plur 
+f5pos sada_noun_fem_sing 
+f5pos fora_noun_fem_plur 
+f5pos militar_adj_masc_plur 
+f5pos armar_verb_part_fem_plur 
+f5pos chefe_noun_masc_plur 
+f5pos armado_adj_fem_plur 
+f5pos crise_noun_fem_sing 
+f5pos militar_adj_fem_sing 
+f5pos militar_adj_masc_sing 
+f5pos golpe_noun_masc_sing 
+f5pos cometer_verb_fin_sing 
+f5pos police_car_light_e 
+f5pos presidente 
+f5pos solidariedade_noun_fem_sing (secondary)
+f5pos criticar_verb_fin_plur (secondary)
+f5pos brasileiro_adj_fem_sing 
+f5pos comprar_verb_part_masc_plur (secondary)
+f5neg populao_noun_fem_sing-0.54197
+f5neg amor_noun_masc_sing 
+f5neg economia_noun_fem_sing 
+f5neg votar_verb_fin_sing 
+f5neg vdeo_noun_masc_sing 
+f5neg brasileiro_adj_masc_sing (secondary)
+f5neg turno_noun_masc_sing (secondary)
+f5neg segurana_noun_fem_sing (secondary)
+f5neg social_adj_fem_plur (secondary)
+f5neg votar_verb_inf (secondary)
+f5neg deus_noun_masc_sing (secondary)
+f5neg nacional_adj_fem_sing 
+f5neg cair_verb_inf 
+f5neg preo_noun_masc_sing (secondary)
+f5neg cu_noun_masc_sing 
+f5neg filho_noun_masc_sing (secondary)
+f5neg mundo_noun_masc_sing (secondary)
+f5neg ajudar_verb_fin_sing (secondary)
+f5neg culpa_noun_fem_sing 
+f5neg honesto_adj_masc_sing (secondary)
+f6pos brasileiro_noun_masc_plur 
+f6pos vida_noun_fem_plur 
+f6pos famlia_noun_fem_plur (secondary)
+f6pos salvar_verb_inf 
+f6pos deus_noun 
+f6pos mulher_noun_fem_plur 
+f6pos cristo_noun_masc_sing (secondary)
+f6pos passar_verb_inf 
+f6pos primeiro_adj_fem_sing 
+f6pos direito_noun_masc_plur (secondary)
+f6pos valor_noun_masc_plur (secondary)
+f6pos me_noun_fem_sing 
+f6pos milhar_noun_masc_plur 
+f6pos auxlio_noun_masc_sing (secondary)
+f6pos cristo_adj_masc_sing (secondary)
+f6pos morto_adj_masc_plur 
+f6pos bom_adj_masc_plur (secondary)
+f6pos receber_verb_fin_plur (secondary)
+f6pos fome_noun_fem_sing (secondary)
+f6pos sade_noun_fem_sing (secondary)
+f6pos vez_noun_fem_sing 
+f6pos cabea_noun_fem_sing 
+f6pos mal_noun_masc_sing 
+f6pos honesto_adj_masc_sing 
+f6pos aborto_noun_masc_sing (secondary)
+f6pos homem_noun_masc_plur 
+f6pos mundo_noun_masc_sing 
+f6pos amor_noun_masc_sing (secondary)
+f6pos abenoar_verb_fin_sing (secondary)
+f6pos brasileiro_adj_masc_plur (secondary)
+f6pos genocida_adj_masc_sing 
+f6pos pai_noun_masc_plur (secondary)
+f6pos pai_noun_masc_sing 
+f6pos poltica_noun_fem_sing (secondary)
+f6neg news_adj_fem_sing 
+f6neg fake_noun_fem_sing 
+f6neg news_noun_masc_plur 
+f6neg fake_verb_fin_sing 
+f6neg milcia_noun_fem_plur 
+f6neg notcia_noun_fem_plur 
+f6neg relao_noun_fem_sing 
+f6neg rede_noun_fem_sing 
+f6neg cu_noun_masc_sing 
+f6neg esse_verb_fin_sing 
+f6neg acimar_verb_fin_sing (secondary)
+f6neg interveno_noun_fem_sin-0.47600
+f6neg armar_verb_part 
+f6neg atentado_noun_masc_sing 
+f6neg armadilha_noun_fem_sing 
+f6neg criticar_verb_fin_plur 
+f6neg armao_noun_fem_sing 
+f6neg volta_noun 
+f6neg dedo_noun_masc_plur 
+f6neg recado_noun_masc_sing 
+f6neg nacional_adj_fem_sing (secondary)
+f6neg social_adj_fem_sing (secondary)
+f7pos democracia_noun_fem_sing 
+f7pos educao_noun_fem_sing 
+f7pos reeleger_verb_part_masc_sing 
+f7pos pas_noun_masc_plur 
+f7pos pblico_adj_fem_sing 
+f7pos direito_noun_masc_plur 
+f7pos liberdade_noun_fem_plur 
+f7pos comunista_adj_fem_sing 
+f7pos armar_verb_part_fem_plur (secondary)
+f7pos eleio_noun_fem_plur 
+f7pos liberdade_noun_fem_sing 
+f7pos sistema_noun_masc_sing 
+f7pos oposio_noun_fem_sing 
+f7pos futuro_noun_masc_sing 
+f7pos fora_noun_fem_plur (secondary)
+f7pos expresso_noun_fem_sing 
+f7pos interveno_noun_fem_sing (secondary)
+f7pos seguir_verb_fin_sing (secondary)
+f7pos apoiador_adj_masc_plur 
+f7pos social_adj_fem_sing 
+f7pos ditadura_noun_fem_sing 
+f7pos garantir_verb_inf (secondary)
+f7pos tomar_verb_inf (secondary)
+f7pos socialista_adj_masc_sing 
+f7pos notcia_noun_fem_plur (secondary)
+f7pos militar_adj_fem_sing (secondary)
+f7pos livre_adj_masc_sing (secondary)
+f7pos vez_noun_fem_sing (secondary)
+f7pos comunista_adj_masc_plur (secondary)
+f7pos armar_verb_part_fem_sing (secondary)
+f7pos flag_brazil_e (secondary)
+f7pos eleio_noun_fem_sing 
+f7pos conservador_adj_fem_sing (secondary)
+f7pos crime_noun_masc_sing (secondary)
+f7pos claro_adj_masc_sing 
+f7neg reportagem_noun_fem_sing 
+f7neg tiro_noun_masc_sing (secondary)
+f7neg ligar_verb_fin_sing 
+f7neg facada_noun_fem_sing 
+f7neg hospital_noun_masc_sing 
+f7neg cristo_noun_masc_sing 
+f7neg entrada_noun_fem_sing 
+f7neg pai_noun_masc_plur 
+f7neg pano_noun_masc_sing 
+f7neg me_noun_fem_plur (secondary)
+f7neg judeu_noun_masc_plur 
+f7neg morrer_verb_inf (secondary)
+f7neg morto_adj_masc_plur (secondary)
+f7neg cristo_noun_masc_plur (secondary)
+f7neg bandido_noun_masc_sing (secondary)
+f7neg p_noun_masc_sing 
+f7neg morrer_verb_part_masc_sing 
+f7neg luladro_noun_masc_sing 
+f7neg me_noun_fem_sing (secondary)
+f7neg filho_noun_masc_sing 
+f7neg passar_verb_ger 
+f7neg misericrdia_noun_fem_sing-0.36053 
+f7neg mulher_noun_fem_plur (secondary)
+f7neg matar_verb_inf (secondary)
+f7neg publicar_verb_fin_sing 
+f7neg salvador_noun_masc_sing 
+f7neg indstria_noun_fem_sing (secondary)
+f8pos costume_noun_masc_plur 
+f8pos bom_adj_masc_plur 
+f8pos conservador_adj_fem_sing 
+f8pos cristo_adj_masc_plur 
+f8pos conservador_noun_masc_plur 
+f8pos cristo_adj_fem_sing 
+f8pos maioria_noun_fem_sing 
+f8pos conservador_adj_masc_plur 
+f8pos valor_noun_masc_plur 
+f8pos conservadorismo_noun_masc_sing 
+f8pos conservador_adj_masc_sing 
+f8pos conservador_noun_masc_sing 
+f8pos social_adj_masc_sing 
+f8pos aborto_noun_masc_sing 
+f8pos direita_noun_fem_sing 
+f8pos ltimo_adj_fem_plur 
+f8pos onda_noun_fem_sing 
+f8pos cristo_noun_masc_plur 
+f8pos patriota_adj_masc_sing 
+f8pos droga_noun_fem_plur (secondary)
+f8pos regime_noun_masc_sing 
+f8pos liberdade_noun_fem_plur (secondary)
+f8pos cristo_adj_masc_sing 
+f8pos brasileiro_adj_masc_sing 
+f8pos economia_noun_fem_sing (secondary)
+f8pos turno_noun_masc_sing 
+f8pos bem_noun_masc_sing (secondary)
+f8pos dcada_noun_fem_plur (secondary)
+f8pos segundo_adj_masc_sing 
+f8pos esquerda_noun_fem_sing (secondary)
+f8pos extremo_adj_fem_sing (secondary)
+f8pos eleger_verb_inf 
+f8pos sistema_noun_masc_sing (secondary)
+f8neg matar_verb_inf 
+f8neg crise_noun_fem_sing (secondary)
+f8neg milcia_noun_fem_plur (secondary)
+f8neg armar_verb_part_masc_plur 
+f8neg paz_noun_fem_sing 
+f8neg tomar_verb_inf 
+f8neg deixar_verb_fin_plur 
+f8neg ladro_noun_masc_sing (secondary)
+f8neg comunista_noun_plur (secondary)
+f8neg arma_noun_fem_sing (secondary)
+f8neg ajudar_verb_fin_sing 
+f8neg reportagem_noun_fem_sing (secondary)
+f8neg metade_noun_fem_sing (secondary)
+f8neg decreto_noun_masc_sing (secondary)
+f8neg armar_verb_part_fem_sing 
+f8neg compra_noun_fem_sing (secondary)
+f8neg vivo_adj_masc_sing (secondary)

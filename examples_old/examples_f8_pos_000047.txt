@@ -1,0 +1,16 @@
+file = t020553
+date = 2023-04-29
+user = Luighi15772406
+conversation = 1592882250663731200
+URL = https://twitter.com/Luighi15772406/status/1652377139608530945
+
+word count = 32
+words loading = 0
+factor score = 
+
+@TerraBrasilnot E FAKE NEWS DO BOLSONARO NAZISTA QUE A PL E PARA CENSURA DA 
+PALAVRA DE DEUS. BOLSONARO E SEUS CUMPLICES VAO PARA CADEIA, E OS SEUS 
+GARIMPEIROS DE RORAIMA TBM. 
+
+Lemmas in this text that loaded on the factor:
+

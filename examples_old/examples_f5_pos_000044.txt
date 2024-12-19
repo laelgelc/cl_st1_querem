@@ -1,0 +1,19 @@
+file = t018564
+date = 2022-11-29
+user = Danilo_srt
+conversation = 58055404
+URL = https://twitter.com/Danilo_srt/status/1597693390225018880
+
+word count = 45
+words loading = 2
+factor score = 3
+
+@Gen_VillasBoas As forças armadas devem continuar obedecendo o que foi 
+decidido pelo povo através das urnas. É assim desde a redemocratização e 
+vai continuar sendo. Não se deve exaltar desejo pessoal pra justificar uma 
+tentativa de golpe, por conta do seu favorito ter sido derrotado. 
+
+Lemmas in this text that loaded on the factor:
+
+armado_adj_fem_plur 
+golpe_noun_masc_sing 

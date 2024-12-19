@@ -1,0 +1,18 @@
+file = t000383
+date = 2018-04-20
+user = edsonreatoalves
+conversation = 782007457
+URL = https://twitter.com/edsonreatoalves/status/986957805696507904
+
+word count = 48
+words loading = 1
+factor score = -2
+
+@exame O deputado boçal, é muito fraco, arogante, demagogo o plano dele todo 
+conhece, quer arma toda população. Sinceramente eu não sei como é que 
+Bolsonaristas, pobres e classe média baixa vota nesse cara, e em seus 
+rebentos. Bolsonaro é o que a direita tem de pior! 
+
+Lemmas in this text that loaded on the factor:
+
+votar_verb_fin_sing 

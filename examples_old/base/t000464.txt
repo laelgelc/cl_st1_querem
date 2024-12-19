@@ -1,0 +1,35 @@
+SERVE servir_VERB_Fin_Sing
+DE de_ADP
+ALERTA alerta_PROPN_Fem_Sing
+o o_DET_Masc_Sing
+ataque ataque_NOUN_Masc_Sing
+a a_ADP
+tiros tiro_NOUN_Masc_Plur
+realizado realizar_VERB_Part_Masc_Sing
+por por_ADP
+ "  "
+pessoas pessoa_NOUN_Fem_Plur
+ "  "
+que que_PRON_Rel_Masc_Plur
+saudavam saudar_VERB_Fin_Plur
+o o_DET_Masc_Sing
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+. .
+Você você_PRON_Sing
+ou ou_CCONJ
+sua seu_DET_Fem_Sing
+família família_NOUN_Fem_Sing
+poderão poder_AUX_Fin_Plur
+ser ser_AUX_Inf
+os o_DET_Masc_Plur
+próximos próximo_ADJ_Masc_Plur
+se se_SCONJ
+esta este_DET_Fem_Sing
+corja corja_NOUN_Fem_Sing
+de de_ADP
+extrema extremo_ADJ_Fem_Sing
+direita direita_NOUN_Fem_Sing
+governar governar_VERB_Inf
+o o_DET_Masc_Sing
+país país_NOUN_Masc_Sing
+. .

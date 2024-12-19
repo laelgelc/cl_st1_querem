@@ -1,0 +1,19 @@
+file = t009136
+date = 2020-11-29
+user = veve__021
+conversation = 1322677517602443264
+URL = https://twitter.com/veve__021/status/1333187105313452032
+
+word count = 51
+words loading = 2
+factor score = -2
+
+@Guilher58755132 70 é o crl, homem fdp e desgraçado tem nada p favorecer a 
+população só matar mesmo igual canso de fazer, quem votou nele vai sentir o 
+próprio peso quando começar a enterrar o próprio filho ou seja lá da 
+família quem for, se já matava antes imagine agr! pouting_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+filho_noun_masc_sing (secondary)
+votar_verb_fin_sing 

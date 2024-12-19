@@ -1,0 +1,19 @@
+file = t016215
+date = 2022-06-29
+user = FlvioBarros9
+conversation = 1016391935198670848
+URL = https://twitter.com/FlvioBarros9/status/1542137168348553220
+
+word count = 33
+words loading = 3
+factor score = -3
+
+A luta é do bem contra o mal. Eu sou Bolsonaro por convicção de querer o 
+melhor para mim, a minha família e o meu país. HASHTAG 
+#bolsonaronoprimeiroturno_h Quem apóia bandido é bandido. 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_adj_masc_sing 
+bandido_noun_masc_sing 
+bem_noun_masc_sing 

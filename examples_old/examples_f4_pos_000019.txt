@@ -1,0 +1,19 @@
+file = t016118
+date = 2022-06-27
+user = tesoureiros
+conversation = 1071408436531904512
+URL = https://twitter.com/tesoureiros/status/1541548707853864962
+
+word count = 23
+words loading = 4
+factor score = 4
+
+MPF afirma que decreto das armas de Bolsonaro facilita desvio para crime 
+organizado e milícias ( O Globo, 2019 ) BOLSONARO ARMOU O TRÁFICO 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+crime_noun_masc_sing 
+decreto_noun_masc_sing 
+organizar_verb_part_masc_sing 

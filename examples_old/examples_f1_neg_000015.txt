@@ -1,0 +1,16 @@
+file = t000236
+date = 2018-04-29
+user = __tayna
+conversation = 2872580129
+URL = https://twitter.com/__tayna/status/990662482095230978
+
+word count = 28
+words loading = 1
+factor score = -1
+
+Não acredito que estão falando que Bolsonaro é o original. Bolsonaro só 
+fala eu quero que o pobre seja rico e vai acabar com o bolsa família. 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

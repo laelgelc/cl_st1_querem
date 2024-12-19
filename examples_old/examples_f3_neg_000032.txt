@@ -1,0 +1,19 @@
+file = t005686
+date = 2019-12-30
+user = AlesandroAlves
+conversation = 70551866
+URL = https://twitter.com/AlesandroAlves/status/1211649622310965249
+
+word count = 45
+words loading = 2
+factor score = -2
+
+De férias na Bahia para descansar durante o ano-novo, o presidente Jair 
+Bolsonaro não larga as redes sociais. Domingo ele foi ao Twitter comemorar o 
+aumento no número de registros de armas de fogo, assim como a queda no número 
+de mortes provocadas por elas 
+
+Lemmas in this text that loaded on the factor:
+
+rede_noun_fem_plur 
+social_adj_fem_plur 

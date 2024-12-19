@@ -1,0 +1,19 @@
+file = t017401
+date = 2022-08-30
+user = Magda633713862
+conversation = 1563681447495467011
+URL = https://twitter.com/Magda633713862/status/1564754765329960960
+
+word count = 34
+words loading = 3
+factor score = 6
+
+@GloboNews @IsabelaICamargo @cosmemarcelo A GloboNews tá silenciosa sobre os 
+51 imóveis da família Bolsonaro que foram comprados em dinheiro vivo. Isso 
+não é notícia, mas o triplex que não era do lula, sim. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+vivo_adj_masc_sing 

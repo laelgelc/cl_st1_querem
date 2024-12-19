@@ -1,0 +1,19 @@
+file = t008152
+date = 2020-08-30
+user = glaubermacario
+conversation = 25417481
+URL = https://twitter.com/glaubermacario/status/1300183029332299778
+
+word count = 42
+words loading = 2
+factor score = 6
+
+Confrontados com a suspeita de q a família do pres. desviou dinheiro público 
+p / pagar despesas pessoais e aumentar seu patrimônio, os ricos afirmam que o 
+' PT roubava bilhões ' . Os + pobres respondem que ' todo político rouba, mas 
+esse está me ajudando ' 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro_noun_masc_sing 
+pobre_adj_masc_plur 

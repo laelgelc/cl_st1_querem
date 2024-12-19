@@ -1,0 +1,18 @@
+file = t002213
+date = 2018-12-29
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1079006352503201792
+
+word count = 23
+words loading = 3
+factor score = 4
+
+Por decreto pretendemos garantir a POSSE de arma de fogo para o cidadão sem 
+antecedentes criminais, bem como tornar seu registo definitivo. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun 
+decreto_noun_masc_sing 
+garantir_verb_inf 

@@ -1,0 +1,21 @@
+file = t016902
+date = 2022-08-30
+user = joicehasselmann
+conversation = 116519514
+URL = https://twitter.com/joicehasselmann/status/1564756428253962241
+
+word count = 48
+words loading = 4
+factor score = 4
+
+TSE decidiu pela proibição da posse de armas em um perímetro de até 100 
+metros dos locais de votação. A restrição valerá p / período de 30 / 9 a 
+3 / 10 . E 28 a 31 / 10 . . Quem descumprir responderá por crime eleitoral E 
+posse ILEGAL de arma. . HASHTAG #eleicoes2022_h 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+arma_noun_fem_sing 
+crime_noun_masc_sing 
+posse_noun_fem_sing 

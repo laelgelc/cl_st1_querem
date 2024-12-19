@@ -1,0 +1,17 @@
+file = t000559
+date = 2018-05-30
+user = roxmo
+conversation = 17752026
+URL = https://twitter.com/roxmo/status/1001829896216293377
+
+word count = 37
+words loading = 1
+factor score = -1
+
+MBL, ' princesa do conservadorismo ' e comandante viram alvo da direita / / 
+Falar mal de Bolsonaro é fácil; difícil é apontar uma alternativa viável. 
+Pagar de isentão superior não leva a nada, só acusa a covardia do eleitor. 
+
+Lemmas in this text that loaded on the factor:
+
+acusar_verb_fin_sing 

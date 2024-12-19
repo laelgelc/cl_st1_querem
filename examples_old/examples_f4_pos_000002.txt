@@ -1,0 +1,19 @@
+file = t016258
+date = 2022-07-30
+user = TerraBrasilnot
+conversation = 1253183357711790080
+URL = https://twitter.com/TerraBrasilnot/status/1553364681858977792
+
+word count = 17
+words loading = 4
+factor score = 5
+
+Bolsonaro defende armamento do cidadão de bem: Arma de fogo pode garantir a 
+liberdade no futuro 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+armamento_noun_masc_sing 
+fogo_noun_masc_sing 
+garantir_verb_inf 

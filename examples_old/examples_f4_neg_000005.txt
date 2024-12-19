@@ -1,0 +1,21 @@
+file = t014412
+date = 2022-02-27
+user = SSibraz
+conversation = 1427319189795217408
+URL = https://twitter.com/SSibraz/status/1497644315400712197
+
+word count = 53
+words loading = 3
+factor score = -3
+
+@tricolor277 @Aquela_Diana @PatiTrabalhista Espero tb. Um debate saudável é 
+tudo o q esse país precisa. Ciro tá propondo isso. Espero tb q ele consiga 
+romper o preconceito q esse pessoal tem com a esquerda taxando todos seus 
+expoentes de corruptos e comunistas. Nem Ciro nem Lula são comunistas e Ciro 
+tem reputação ilibada 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+comunista_noun_masc_plur 
+corrupto_noun_masc_plur 

@@ -1,0 +1,20 @@
+file = t002567
+date = 2018-12-23
+user = RachelSherazade
+conversation = 168520768
+URL = https://twitter.com/RachelSherazade/status/1076844508132847616
+
+word count = 53
+words loading = 3
+factor score = 5
+
+@gilsonpleal governo quer se eximir da responsabilidade da segurança publica. 
+por isso quer cada cidadão com uma arma na mão. isso não vai resolver o 
+problema da criminalidade pois não somos treinados para o combate, nem para 
+reagir a um ataque. sou a favor da posse e contra o porte de arma. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+porte_noun_masc_sing 
+posse_noun_fem_sing 

@@ -1,0 +1,23 @@
+file = t017135
+date = 2022-08-30
+user = LulaReport
+conversation = 1560836587382095877
+URL = https://twitter.com/LulaReport/status/1564666573784244229
+
+word count = 36
+words loading = 6
+factor score = 7
+
+**police_car_light_e** BOMBA: Família Bolsonaro tem 51 imóveis comprados em 
+DINHEIRO VIVO, totalizando 25 MILHÕES de reais. Comprar dezenas de imóveis em 
+dinheiro vivo pode ser indício da prática de algum crime e deve ser 
+investigado. COMPARTILHE 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_inf 
+comprar_verb_part_masc_plur 
+dinheiro_noun_masc_sing 
+police_car_light_e (secondary)
+real_noun_masc_plur 
+vivo_adj_masc_sing 

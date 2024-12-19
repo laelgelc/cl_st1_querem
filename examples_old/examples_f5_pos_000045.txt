@@ -1,0 +1,17 @@
+file = t018446
+date = 2022-11-29
+user = ma_bolsonaro22
+conversation = 873524041067487233
+URL = https://twitter.com/ma_bolsonaro22/status/1597734558559936514
+
+word count = 26
+words loading = 2
+factor score = 3
+
+Forças armadas pediram acesso à Log e códigos fontes. TSE não deu. Forças 
+enfiam o rabo entre as pernas! ? É esse mesmo o braço forte? 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+pedir_verb_fin_plur 

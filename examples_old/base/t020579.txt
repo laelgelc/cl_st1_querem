@@ -1,0 +1,16 @@
+@DijaDasGalaxias twitterhandle_VERB_Fin_Sing
+@JanainaDoBrasil twitterhandle_ADJ_Masc_Sing
+Ahhhhh ahhhhh_PROPN_Masc_Sing
+kkkk kkkk_NOUN_Masc_Sing
+bolsonaro bolsonaro_ADJ_Masc_Sing
+alugou alugar_VERB_Fin_Sing
+o o_DET_Masc_Sing
+ "  "
+triprex triprex_NOUN_Masc_Sing
+ "  "
+do de_o_ADP_DET_Masc_Sing
+ladrão ladrão_NOUN_Masc_Sing
+na em_o_ADP_DET_Fem_Sing
+cabeça cabeça_NOUN_Fem_Sing
+dessa de_esse_ADP_DET_Fem_Sing
+gente gente_NOUN_Fem_Sing

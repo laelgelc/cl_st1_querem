@@ -1,0 +1,15 @@
+file = t020579
+date = 2023-04-28
+user = jmb22em2022
+conversation = 975898422237712385
+URL = https://twitter.com/jmb22em2022/status/1652014466773467143
+
+word count = 15
+words loading = 0
+factor score = 
+
+@DijaDasGalaxias @JanainaDoBrasil Ahhhhh kkkk bolsonaro alugou o triprex do 
+ladrão na cabeça dessa gente 
+
+Lemmas in this text that loaded on the factor:
+

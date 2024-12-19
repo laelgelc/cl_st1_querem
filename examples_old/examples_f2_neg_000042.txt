@@ -1,0 +1,20 @@
+file = t013911
+date = 2022-01-30
+user = ThaisOliveiraR
+conversation = 1121927085285683202
+URL = https://twitter.com/ThaisOliveiraR/status/1487591623424978947
+
+word count = 44
+words loading = 3
+factor score = -3
+
+@Marciofranca70 @Flifrds A abstenção tem que ser respeitada pois faz parte de 
+sua liberdade individual. Mas não acho que seja uma boa opção pra gente 
+considerando um conjunto de coisas. A minha opinião / posição é votar em 
+Jair Bolsonaro mesmo com todos problemas. 
+
+Lemmas in this text that loaded on the factor:
+
+achar_verb_fin_sing 
+bom_adj_fem_sing 
+votar_verb_inf 

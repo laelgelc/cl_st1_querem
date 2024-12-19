@@ -1,0 +1,21 @@
+file = t004352
+date = 2019-07-30
+user = SF_Moro
+conversation = 1113094855281008641
+URL = https://twitter.com/SF_Moro/status/1156183602994040833
+
+word count = 41
+words loading = 4
+factor score = 5
+
+Terrorismo, pedofilia, tráfico de armas, drogas e pessoas, crime organizado de 
+crimes muito específico, além de proibir o ingresso de torcedores violentos. 
+É basicamente esse o objetivo da Portaria 666 , regular exceções já 
+previstas na legislação e proteger a população 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_plur 
+crime_noun_masc_sing 
+droga_noun_fem_plur 
+organizar_verb_part_masc_sing 

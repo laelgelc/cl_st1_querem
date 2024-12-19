@@ -1,0 +1,20 @@
+file = t007047
+date = 2020-05-30
+user = edisonfelipe
+conversation = 53057230
+URL = https://twitter.com/edisonfelipe/status/1266858971144638469
+
+word count = 46
+words loading = 3
+factor score = -2
+
+@carteiroreaca A culpa toda nessas últimas eleições foi de Bolsonaro por 
+não ter apoiado nenhum candidato. Aqui Pernambuco / Paraíba onde minha 
+família vota estava perdido em quem votar. Votaria em qualquer pessoa indicada 
+por Bolsonaro. Qual foi a opção de segundo turno pelo Brasil? PSDBxPT. 
+
+Lemmas in this text that loaded on the factor:
+
+culpa_noun_fem_sing 
+turno_noun_masc_sing (secondary)
+votar_verb_fin_sing 

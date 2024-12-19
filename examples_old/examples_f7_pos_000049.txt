@@ -1,0 +1,14 @@
+file = t020551
+date = 2023-04-29
+user = jaumz1
+conversation = 1089602269396516865
+URL = https://twitter.com/jaumz1/status/1652402190365990918
+
+word count = 12
+words loading = 0
+factor score = 
+
+@correio Bolsonaro ladrão de joia caga de medo de ser preso. 
+
+Lemmas in this text that loaded on the factor:
+

@@ -1,0 +1,17 @@
+file = t001562
+date = 2018-09-29
+user = amandanogoli
+conversation = 2828793904
+URL = https://twitter.com/amandanogoli/status/1046155522691518464
+
+word count = 42
+words loading = 1
+factor score = -2
+
+@samukape E vc acha que com esse tanto de pessoas que foi na passeata contra 
+ele, vai apoiar! Quando a população que vota nele acordar e ver que o posse 
+de arma não é a melhor opção, eles não vão apoiar 
+
+Lemmas in this text that loaded on the factor:
+
+votar_verb_fin_sing 

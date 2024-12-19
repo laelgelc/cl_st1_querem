@@ -1,0 +1,17 @@
+file = t006516
+date = 2020-04-29
+user = ValdileneSilve3
+conversation = 1148341119178170369
+URL = https://twitter.com/ValdileneSilve3/status/1255611551362551810
+
+word count = 23
+words loading = 2
+factor score = -2
+
+@JonasJacob11 @rodrigodasilva Verdade como parlamentares FDP q ficaram contra o 
+Eduardo Bolsonaro quando caiu de pau no regime comunista Xi jiping chinês. . . 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_sing 
+pau_noun_masc_sing 

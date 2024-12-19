@@ -1,0 +1,19 @@
+file = t019255
+date = 2023-01-30
+user = ritamariabeze
+conversation = 1918410416
+URL = https://twitter.com/ritamariabeze/status/1620206698517639174
+
+word count = 18
+words loading = 3
+factor score = 4
+
+RT @ptbrasil: HASHTAG #radioagênciapt_h Enganadas por Bolsonaro, famílias 
+pobres do semiárido mineiro, tiveram que pagar para receber cisternas. 
+down_arrow_e … 
+
+Lemmas in this text that loaded on the factor:
+
+cisterna_noun_fem_plur 
+pobre_adj_fem_plur 
+receber_verb_inf 

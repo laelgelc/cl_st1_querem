@@ -1,0 +1,18 @@
+file = t020568
+date = 2023-04-29
+user = RNN58889280
+conversation = 1593406312007847937
+URL = https://twitter.com/RNN58889280/status/1652389320018280451
+
+word count = 47
+words loading = 0
+factor score = 
+
+@Alicee_NoPais @jairbolsonaro Jair Bolsonaro. Brincalhão, mas autêntico, 
+sincero, um puto dum cara humilde, verdadeiro e um homem e político honesto. 
+No Brasil aínda tem homens e políticos bons. Poucos, mas tem. Jair Bolsonaro 
+é dos ou o principal dos políticos e homens bons. Que Deus Todo-poderoso o 
+abençoe 
+
+Lemmas in this text that loaded on the factor:
+

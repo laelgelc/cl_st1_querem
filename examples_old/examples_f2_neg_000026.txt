@@ -1,0 +1,19 @@
+file = t009368
+date = 2020-11-29
+user = lindoigualcr7
+conversation = 1043514291285057537
+URL = https://twitter.com/lindoigualcr7/status/1333163968337235968
+
+word count = 38
+words loading = 3
+factor score = -3
+
+tu elegeu um BANDIDO que vai ficar beneficiando as empresas amigas nas 
+licitações igual fez das outras vezes porque você QUIS ninguém botou uma 
+arma na tua cabeça e te obrigou a votar em algum corrupto kkkkkkkkk 
+
+Lemmas in this text that loaded on the factor:
+
+bandido_noun_masc_sing 
+corrupto_adj_masc_sing 
+votar_verb_inf 

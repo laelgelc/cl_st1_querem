@@ -1,0 +1,18 @@
+file = t018510
+date = 2022-11-29
+user = __alvescristina
+conversation = 1508152096096407552
+URL = https://twitter.com/__alvescristina/status/1597733294325792768
+
+word count = 19
+words loading = 3
+factor score = -3
+
+RT @moraestchamaibi: @brom_elisa ALERTA Povo Brasileiro; Não vamos entregar o 
+Brasil pra bandidagem e comunistas Corruptos, Pra CIMA Povo B … 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+corrupto_noun_masc_plur 
+entregar_verb_inf 

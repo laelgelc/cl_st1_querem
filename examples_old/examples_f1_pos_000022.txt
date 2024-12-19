@@ -1,0 +1,22 @@
+file = t019719
+date = 2023-02-27
+user = AnaCampello1
+conversation = 491306528
+URL = https://twitter.com/AnaCampello1/status/1630339741978697729
+
+word count = 15
+words loading = 5
+factor score = 5
+
+Meu presidente. Deus conforte seu coração. És o melhor dos presidentes que 
+já tivemos. **green_heart_e** **yellow_heart_e** **flag_brazil_e** 
+**smiling_face_with_sunglasses_e** thumbs_up_e **clapping_hands_e** 
+**clapping_hands_e** **clapping_hands_e** 
+
+Lemmas in this text that loaded on the factor:
+
+clapping_hands_e 
+flag_brazil_e 
+green_heart_e 
+smiling_face_with_sunglasses_e 
+yellow_heart_e 

@@ -1,0 +1,21 @@
+file = t003279
+date = 2019-03-30
+user = BetoFontes
+conversation = 43994156
+URL = https://twitter.com/BetoFontes/status/1112135779323691009
+
+word count = 31
+words loading = 2
+factor score = -2
+
+@BolsonaroSP red_circle_e red_circle_e Você sabia? - Em 1968 o presidente 
+Costa e Silva cassou o STF por proteger e libertar corruptos comunistas. 
+high_voltage_e Repete a dose, HASHTAG #bolsonaro_h! HASHTAG #opovomanda_h 
+HASHTAG #faxinageral_h HASHTAG #artigo142já_h check_mark_e HASHTAG #forastf_h 
+check_mark_e HASHTAG #foramaia_h check_mark_e HASHTAG #foraalcolumbre_h 
+cross_mark_e COMPARTILHEM 
+
+Lemmas in this text that loaded on the factor:
+
+comunista_adj_masc_plur 
+corrupto_noun_masc_plur 

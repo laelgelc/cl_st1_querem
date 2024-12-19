@@ -1,0 +1,19 @@
+file = t002246
+date = 2018-12-30
+user = godberger
+conversation = 68548844
+URL = https://twitter.com/godberger/status/1079526299394338816
+
+word count = 24
+words loading = 4
+factor score = 4
+
+RT @rcamilacristina: Bolsonaro quer liberar arma para todo mundo, mas está 
+borrando de medo de levar um tiro durante a cerimônia de posse. … 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+liberar_verb_inf 
+posse_noun_fem_sing 
+tiro_noun_masc_sing 

@@ -1,0 +1,17 @@
+file = t020558
+date = 2023-04-29
+user = Rosrio8Samuel
+conversation = 1501715853611524107
+URL = https://twitter.com/Rosrio8Samuel/status/1652112963631820800
+
+word count = 40
+words loading = 0
+factor score = 
+
+@atalaia_20 @anterogreco Tirando a exaltação à tortura e a defesa da 
+ditadura ( leia sobre a visão direitista da coisa também ) , só citou 
+elogios. Patriotismo, militarismo, religião, conservadorismo. . . Procure 
+palavras antagônicas a isto e se pergunte em que mundo prefere viver 
+
+Lemmas in this text that loaded on the factor:
+

@@ -1,0 +1,18 @@
+file = t000672
+date = 2018-05-30
+user = sereifranco
+conversation = 931284463648231425
+URL = https://twitter.com/sereifranco/status/1001819152473034752
+
+word count = 51
+words loading = 1
+factor score = -1
+
+Depois da minha mãe dar rage quit no grupo da família depois do meu pai falar 
+bem de Bolsonaro e Hitler, minha irmã tbm deu depois da minha prima dizer os 
+direitos que as mulheres conquistaram não tiveram ajuda política. Não sei se 
+sinto orgulho ou vergonha. Tô dividido aqui 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

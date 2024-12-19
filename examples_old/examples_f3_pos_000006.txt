@@ -1,0 +1,22 @@
+file = t016868
+date = 2022-08-30
+user = JomarTBTW
+conversation = 510493398
+URL = https://twitter.com/JomarTBTW/status/1564680600832724992
+
+word count = 47
+words loading = 4
+factor score = 7
+
+@Gustavo18069735 @danieljtb80 @Estadao @EstadaoPolitica Agora vc sabe me 
+informar como a família Bolsonaro conseguiu 25 milhões de reais em dinheiro 
+vivo pra comprar 51 imóveis? Vc sabe me informar se o Bolsonaro abriu mão do 
+salário de capitão da reserva e de aposentadoria política por ser 
+ex-deputado? ? 
+
+Lemmas in this text that loaded on the factor:
+
+comprar_verb_inf 
+dinheiro_noun_masc_sing 
+real_noun_masc_plur 
+vivo_adj_masc_sing 

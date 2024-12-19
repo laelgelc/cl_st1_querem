@@ -1,0 +1,21 @@
+file = t019475
+date = 2023-01-30
+user = SantosThgo
+conversation = 1508269390147510280
+URL = https://twitter.com/SantosThgo/status/1620124360618156032
+
+word count = 47
+words loading = 4
+factor score = 5
+
+@GutoZacariasMBL Querem o caos, querem marinho para ele derrubar Alexandre de 
+Moraes, para fortalecer aqueles que pedem golpe militar, aqueles que invadiram 
+o congresso, aqueles que politzaram as forças armadas, quer caos, vcs são 
+piores que o Bolsonaro, bozó mostra o que é , vcs se maquiam! 
+
+Lemmas in this text that loaded on the factor:
+
+armar_verb_part_fem_plur 
+golpe_noun_masc_sing 
+militar_adj_masc_sing 
+pedir_verb_fin_plur 

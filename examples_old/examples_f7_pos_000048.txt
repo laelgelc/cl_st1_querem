@@ -1,0 +1,17 @@
+file = t020552
+date = 2023-04-28
+user = TheInterceptBr
+conversation = 751454653011951616
+URL = https://twitter.com/TheInterceptBr/status/1652028365564411905
+
+word count = 34
+words loading = 0
+factor score = 
+
+Todos os invasores de Brasília do 8 de janeiro estão comprovadamente ligados 
+ao bolsonarismo, seja ideologicamente ou em relações diretas com políticos 
+bolsonaristas. O próprio Bolsonaro defendeu os criminosos chamando -os de 
+chefes de família. 
+
+Lemmas in this text that loaded on the factor:
+

@@ -1,0 +1,19 @@
+file = t019277
+date = 2023-01-30
+user = kellymatos
+conversation = 27733656
+URL = https://twitter.com/kellymatos/status/1620011629609099264
+
+word count = 14
+words loading = 4
+factor score = 5
+
+HASHTAG #folha_h Famílias pobres são enganadas e pagam para receber 
+cisternas, durante governo Bolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+cisterna_noun_fem_plur 
+pagar_verb_fin_plur 
+pobre_adj_fem_plur 
+receber_verb_inf 

@@ -1,0 +1,52 @@
+FALA falar_VERB_Fin_Sing
+DE de_ADP
+PETISTA petista_PROPN_Fem_Sing
+QUE que_PROPN_Sing
+A o_DET_Fem_Sing
+IMPRENSA imprensa_NOUN_Fem_Sing
+DO de_o_ADP_DET_Masc_Sing
+PT pt_PROPN_Masc_Sing
+EXCLUIU excluir_VERB_Fin_Sing
+3:15 @card@
+ "  "
+PEGA pega_PROPN_Fem_Sing
+ELE ele_PROPN_Sing
+ "  "
+= =
+3:35 @card@
+ "  "
+NOSSA nossa_PROPN_Fem_Sing
+ARMA arma_PROPN_Sing
+CAIU cair_VERB_Fin_Sing
+NO em_o_ADP_DET_Masc_Sing
+CHAO chao_NOUN_Masc_Sing
+ "  "
+= =
+3:55 @card@
+ "  "
+CARA cara_PROPN_Fem_Sing
+TOMOU tomar_VERB_Fin_Sing
+UM um_DET_Masc_Sing
+TIRO tiro_NOUN_Masc_Sing
+NO em_o_ADP_DET_Masc_Sing
+PESCOCO pescoco_PROPN_Masc_Sing
+MANO mano_PROPN_Sing
+ "  "
+SEM sem_PROPN_Masc_Sing
+EDICAO edicao_PROPN_Sing
+- -
+VIDEO video_ADJ_Masc_Sing
+DO de_o_ADP_DET_Masc_Sing
+ACAMPAMENTO acampamento_PROPN_Masc_Sing
+DE de_PROPN_Sing
+LULA lula_VERB_Fin_Sing
+n n_NOUN_Masc_Sing
+1 1_NUM
+HASHTAG hashtag_PROPN_Masc_Sing
+#lulalivre_h #lulalivre_h
+HASHTAG hashtag_PROPN_Sing
+#lulanacadeia_h #lulanacadeia_h
+HASHTAG hashtag_PROPN_Sing
+#lula_h #lula_h
+HASHTAG hashtag_PROPN_Sing
+#gleisi_h #gleisi_h

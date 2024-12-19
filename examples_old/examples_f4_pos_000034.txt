@@ -1,0 +1,19 @@
+file = t002476
+date = 2018-12-30
+user = Suxbernardo
+conversation = 67155824
+URL = https://twitter.com/Suxbernardo/status/1079296159628308480
+
+word count = 24
+words loading = 4
+factor score = 4
+
+O JUIZ Moro pede para o Bolsonaro liberar o posse de arma por decreto mas isso 
+é inconstitucional. Belo juiz esse Moro, hein. 
+
+Lemmas in this text that loaded on the factor:
+
+arma_noun_fem_sing 
+decreto_noun_masc_sing 
+liberar_verb_inf 
+posse_noun_fem_sing 

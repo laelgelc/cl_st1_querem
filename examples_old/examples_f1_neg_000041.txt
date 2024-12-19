@@ -1,0 +1,17 @@
+file = t000930
+date = 2018-06-29
+user = larisunn
+conversation = 2247040656
+URL = https://twitter.com/larisunn/status/1012613000166084608
+
+word count = 34
+words loading = 1
+factor score = -1
+
+um jovenzinho hoje me falou que desistiu de votar no bolsonaro desde que eu 
+mandei pra ele o vídeo da entrevista com a ellen page. pronto, já cumpri 
+minha missão na terra, adeus 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 

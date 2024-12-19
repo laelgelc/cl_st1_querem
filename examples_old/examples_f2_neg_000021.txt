@@ -1,0 +1,19 @@
+file = t004586
+date = 2019-08-30
+user = JorgeDAmbrosio1
+conversation = 1032315488586616832
+URL = https://twitter.com/JorgeDAmbrosio1/status/1167559387189317632
+
+word count = 26
+words loading = 3
+factor score = -3
+
+Comunista, Bolsonaro não pe e nunca foi corrupto. Como Trump perseguido pela 
+imprensa e esquerda despeitada vai governar para o país. Enquanto isso no 
+PCdoB. . . 
+
+Lemmas in this text that loaded on the factor:
+
+corrupto_adj_masc_sing 
+esquerda_noun_fem_sing 
+imprensa_noun_fem_sing 

@@ -1,0 +1,19 @@
+file = t009169
+date = 2020-11-29
+user = _andrewsbryan
+conversation = 249348561
+URL = https://twitter.com/_andrewsbryan/status/1333184399513427968
+
+word count = 41
+words loading = 3
+factor score = -2
+
+Melo ganhou do mesmo jeito que o Bolsonaro, implantou fake news até o cu dizer 
+chega e ganhou a população por BIRRA pq Deus me livre votar em amigo do lula, 
+moro na vala mas não voto no partido Venezuela 
+
+Lemmas in this text that loaded on the factor:
+
+cu_noun_masc_sing 
+votar_verb_fin_sing 
+votar_verb_inf (secondary)

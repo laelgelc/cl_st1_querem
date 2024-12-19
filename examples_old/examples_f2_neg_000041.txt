@@ -1,0 +1,18 @@
+file = t013680
+date = 2021-12-30
+user = marluciano
+conversation = 283804798
+URL = https://twitter.com/marluciano/status/1476633082887352331
+
+word count = 27
+words loading = 2
+factor score = -3
+
+@prpaulomarcelo @ThiagoResiste Um evangélico querendo o ladrão. Vc nao tem 
+vergonha na cara nao? O ladrão foi la no terreiro de candomblé . Vai com ele 
+mané . 
+
+Lemmas in this text that loaded on the factor:
+
+cara_noun_fem_sing 
+querer_verb_part 

@@ -1,0 +1,56 @@
+A o_DET_Fem_Sing
+hora hora_NOUN_Fem_Sing
+q q_NOUN_Masc_Sing
+ela ela_PRON_Fem_Sing
+falou falar_VERB_Fin_Sing
+ "  "
+jamais jamais_ADV
+ "  "
+ja ja_VERB_Fin_Sing
+tava tava_NOUN_Fem_Sing
+a a_ADP
+5 5_NUM
+metros metro_NOUN_Masc_Plur
+de de_ADP
+distância distância_NOUN_Fem_Sing
+dele de_ele_ADP_PRON_Masc_Sing
+. .
+Ela ela_PRON_Fem_Sing
+achava achar_VERB_Fin_Sing
+que que_SCONJ
+o o_DET_Masc_Sing
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+ia ir_AUX_Fin_Sing
+sair sair_VERB_Inf
+correndo correr_VERB_Part
+atrás atrás_ADV
+dela de_ela_ADP_PRON_Fem_Sing
+igual igual_ADJ_Masc_Sing
+cachorro cachorro_NOUN_Masc_Sing
+? ?
+Kkkkkkkkkkk kkkkkkkkkkk_PROPN_Masc_Sing
+e e_CCONJ
+vcs vcs_NOUN_Masc_Plur
+ja ja_VERB_Fin_Sing
+ "  "
+nossa nosso_DET_Fem_Sing
+tragam trazer_VERB_Fin_Plur
+o o_DET_Masc_Sing
+troféu troféu_NOUN_Masc_Sing
+para para_ADP
+este este_DET_Masc_Sing
+ICONE icone_NOUN_Masc_Sing
+! !
+! !
+! !
+! !
+! !
+AFRONTOU afrontar_VERB_Fin_Sing
+A o_DET_Fem_Sing
+SOCIEDADE sociedade_NOUN_Fem_Sing
+ "  "
+ah ah_NOUN_Masc_Sing
+pelo por_o_ADP_DET_Masc_Sing
+amor amor_NOUN_Masc_Sing
+de de_ADP
+deus deus_NOUN_Masc_Sing

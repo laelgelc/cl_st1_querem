@@ -1,0 +1,17 @@
+file = t003820
+date = 2019-05-30
+user = AlencarBraga13
+conversation = 74243131
+URL = https://twitter.com/AlencarBraga13/status/1134084114527793157
+
+word count = 34
+words loading = 1
+factor score = -2
+
+O PIB despencando com o governo Bolsonaro e ele não fala em gerar empregos pra 
+melhorar a economia. Para ele, o negócio é cortar na educação, tirar as 
+aposentadorias e armar a população. 
+
+Lemmas in this text that loaded on the factor:
+
+economia_noun_fem_sing 

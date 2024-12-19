@@ -1,0 +1,18 @@
+file = t001042
+date = 2018-07-30
+user = Jordana100nada
+conversation = 853330261089677313
+URL = https://twitter.com/Jordana100nada/status/1023688291860787200
+
+word count = 52
+words loading = 1
+factor score = -1
+
+@TonArruda1 Cara só falou isso por q sabe q o Bolsonaro não terá mais tempo, 
+graças a opinião dele. Opinião de que Putin é trump são iguais. . . . 
+comparou a liberdade da direita com regimes totalitários de esquerda. . . 
+será q eu mando estudar? Acho q mesmo q ele estude não vai adiantar 
+
+Lemmas in this text that loaded on the factor:
+
+falar_verb_fin_sing 
