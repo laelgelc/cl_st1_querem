@@ -1,20 +1,20 @@
-file = t011027
-date = 2021-04-29
-user = girvanaz
-conversation = 1077765717305495552
-URL = https://twitter.com/girvanaz/status/1387821444713828354
+file = t019208
+date = 2023-01-30
+user = pesquisas_2022
+conversation = 1343340279718432769
+URL = https://twitter.com/pesquisas_2022/status/1620089429049372672
 
-word count = 42
+word count = 44
 words loading = 3
 factor score = 3
 
-@taitai_balao snoopy é hétero, de **direita** , meio **conservador** , mas 
-não completamente, só que votou no bozo no primeiro e segundo **turno** lola 
-eh claramente de esquerda, pansexual, morte ao bolsonaro, votou no ciro em 2018 
-thor centro-esquerda, hétero aliado, talvez bi, lula 2022 
+police_car_light_e IMPORTANTE: O Ministro da Justiça, Flávio Dino, **abriu** 
+um boletim de ocorrência após ser atacado por um vizinho **apoiador** de Jair 
+Bolsonaro. Entre as várias ofensas proferidas, ele dizia que Dino não tinha o 
+" direito " de morar naquele prédio, porque trata -se de um " **ladrão** " . 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-turno
+abrir
+apoiador
+ladrão

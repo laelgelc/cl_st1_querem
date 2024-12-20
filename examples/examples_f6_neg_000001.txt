@@ -1,19 +1,20 @@
-file = t001876
-date = 2018-10-30
-user = JoceyrR
-conversation = 2609357698
-URL = https://twitter.com/JoceyrR/status/1057417276633346050
+file = t003766
+date = 2019-04-29
+user = natalyvenarusso
+conversation = 329883021
+URL = https://twitter.com/natalyvenarusso/status/1122631139494178817
 
-word count = 20
-words loading = 4
-factor score = -4
+word count = 55
+words loading = 2
+factor score = -2
 
-RT @emanoelseabra: **Apoiador** de Bolsonaro **posta** **foto** com arma, é 
-flagrado em aplicativo **gay** e pede desculpas em vídeo 
+@Denis69207133 @DaniloGentili Vcs passam **pano** pro Lula até hoje, para os 
+filhos dele tbm. Eu não sei pq vcs querem comparar Lula com a família do 
+Bolsonaro. Querem achar defeitos, e não tem. Me poupem! olha quem foi Lula, o 
+estrago que ele e seus filhos e ministros fizeram. Sem lição de **moral** 
+vai. . 
 
 Lemmas in this text that loaded on the factor:
 
-apoiador
-foto
-gay
-pôr
+moral
+pano

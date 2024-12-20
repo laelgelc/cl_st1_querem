@@ -1,23 +1,22 @@
-file = t013286
-date = 2021-11-29
-user = Prof_leonelfer
-conversation = 1440822125766451211
-URL = https://twitter.com/Prof_leonelfer/status/1465392323093843973
+file = t020129
+date = 2023-03-30
+user = nubia222222222
+conversation = 1445172116572286979
+URL = https://twitter.com/nubia222222222/status/1641583178241691650
 
-word count = 47
-words loading = 5
+word count = 22
+words loading = 6
 factor score = 5
 
-@TerraBrasilnot @Izabelbelel1 Fechado com Bolsonaro! 2022 # 2026 . Estamos 
-juntos nesta grande missão presidente Bolsonaro! Com a ajuda de Deus vamos 
-conceguir um Brasil com mais justiça para todos nós brasileiros " e para 
-nossos filhos e nossos netos! Deus te **abençoe** e **ilumine** sempre seu 
-caminho **amém** **raising_hands_e** **folded_hands_e** 
+RT @Prof_leonelfer: A presença de Bolsonaro no Brasil dá a todos nós uma 
+GRANDE esperança! **DEUS** **abençoe** a TODOS nós **AMÉM** 
+**folded_hands_e** **red_heart_e** **raising_hands_e** ? https://t. … 
 
 Lemmas in this text that loaded on the factor:
 
 abençoar
 amém
+deus (secondary)
 folded_hands_e
-iluminar
 raising_hands_e
+red_heart_e

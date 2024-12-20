@@ -1,19 +1,19 @@
-file = t009838
-date = 2021-01-30
-user = CRochamonte
-conversation = 3039110637
-URL = https://twitter.com/CRochamonte/status/1355649460714561538
+file = t017921
+date = 2022-10-30
+user = _julia_rch
+conversation = 969003831098044416
+URL = https://twitter.com/_julia_rch/status/1586870379699748864
 
-word count = 32
+word count = 24
 words loading = 3
 factor score = 3
 
-Presidente do Instituto **Liberal** do Nordeste, Catarina Rochamonte defende 
-que **liberais** e **conservadores** rompam com o governo Jair Bolsonaro. A 
-**direita** precisa fazer um mea culpa sobre Bolsonaro, diz Catarina Rochamonte 
+RT @Poxa_marilaine: Eu não sei que valores que o bolsonaro defendia pra 
+**igreja** tá chorando agora, pelo **amor** de **Deus** gente olhem a postura 
+d … 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-liberal
+amor
+deus
+igreja

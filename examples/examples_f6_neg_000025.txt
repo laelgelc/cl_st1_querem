@@ -1,18 +1,19 @@
-file = t000809
-date = 2018-06-29
-user = jantoniocs29
-conversation = 3187358651
-URL = https://twitter.com/jantoniocs29/status/1012785187992817664
+file = t015020
+date = 2022-04-28
+user = TiagoLopes2022
+conversation = 1518709571057065984
+URL = https://twitter.com/TiagoLopes2022/status/1519740646898155521
 
-word count = 25
+word count = 33
 words loading = 2
 factor score = -2
 
-Ontem nó novo JC bolivariano, Ricardo sennes disse que Bolsonaro é 
-irresponsável **pôr** se lançar presid, **luladrão** e Dilma é que eram 
-bons né ? 
+Huhuuu. . . Falta pouco pra mim **bater** 1000 seguidores. Falta só 965 pra 
+**chegar** nos 1000 kkk. . . Ahhh um dia **chego** lá ! smiling_face_e 
+folded_hands_e flag_brazil_e Muito grato as meus 35 seguidores! Que Deus 
+abençoe TDS vcs. folded_hands_e flag_brazil_e 
 
 Lemmas in this text that loaded on the factor:
 
-luladrão
-pôr
+bater
+chegar

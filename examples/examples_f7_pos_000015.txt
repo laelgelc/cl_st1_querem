@@ -1,21 +1,21 @@
-file = t000316
-date = 2018-04-29
-user = ninguem_anyone
-conversation = 2700299806
-URL = https://twitter.com/ninguem_anyone/status/990546234157879297
+file = t015406
+date = 2022-04-29
+user = mariaherta123
+conversation = 2283724039
+URL = https://twitter.com/mariaherta123/status/1519863888388530179
 
-word count = 38
+word count = 48
 words loading = 4
 factor score = 4
 
-@Estadao Esses aí não tem histórico de defender bandeiras. **Conservador** 
-mesmo, dentre tantos progressistas declarados, ou isentões, só Jair 
-Bolsonaro. É o único que não relativiza **pautas** caras ao 
-**conservadorismo** , nos campos cultural, moral, dos **costumes** , e: / / 
+@debocheria @Alextrend_red @AnaSaturnina1 puts pra ser **ladrão** tem que ter 
+prova puts não conseguiram provar puts lula é inocente e não importa o que 
+tu diga ao menos que seja flagrante né , tipo bolsonaro que fez tudo ai a 
+**céu** **aberto** **gritando** no cercadinho, pelo menos o genocídio 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-conservadorismo
-costume
-pauta
+abrir
+céu
+gritar
+ladrão

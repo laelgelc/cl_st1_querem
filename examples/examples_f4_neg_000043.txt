@@ -1,20 +1,19 @@
-file = t010724
+file = t010462
 date = 2021-03-30
-user = caiovillela
-conversation = 51456412
-URL = https://twitter.com/caiovillela/status/1376984682831708160
+user = choquei
+conversation = 953378142198161409
+URL = https://twitter.com/choquei/status/1376932264207122437
 
-word count = 42
+word count = 19
 words loading = 3
-factor score = -3
+factor score = -2
 
-Quanto tempo vai demorar pra esses cornos do congresso pautarem o impeachment? 
-Como pode o minúsculo na presidência incitar o caos no meio de uma porra de 
-uma pandemia, fora todas as outras coisas, e não **cair** ? Pelo **amor** de 
-**deus** . 
+police_car_light_e URGENTE: Pela primeira vez na história, todos os 
+**Comandantes** das Forças Armadas se **demitem** em **protesto** contra 
+Bolsonaro! ! 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cair
-deus
+comandante
+demitir (secondary)
+protesto

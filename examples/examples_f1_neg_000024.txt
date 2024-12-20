@@ -1,20 +1,18 @@
-file = t019868
-date = 2023-02-27
-user = AndrSoa86544769
-conversation = 1508807145428594708
-URL = https://twitter.com/AndrSoa86544769/status/1630237059074994176
+file = t004214
+date = 2019-07-30
+user = claubrianese
+conversation = 630432364
+URL = https://twitter.com/claubrianese/status/1156352003318177792
 
-word count = 48
-words loading = 3
-factor score = -3
+word count = 23
+words loading = 2
+factor score = -2
 
-Olha o flagrante em andamento no nordeste, alguém **chame** a polícia o 
-**crime** esta em curso. Que maldade meu Deus, como isto é aceitável não dá 
-, negar água para o povo um **crime** contra a dignidade da **pessoa** humana, 
-estava tudo funcionando água fluindo no Gov. Bolsonaro. 
+RT @MarceloFreixo: Hoje estarei no **ato** na ABI em solidariedade a 
+@ggreenwald e em **defesa** da liberdade de imprensa e da Constituição brasil 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-crime
-pessoa
+ato
+defesa

@@ -1,19 +1,20 @@
-file = t005187
-date = 2019-11-29
-user = alberio_felipe
-conversation = 897215604075188224
-URL = https://twitter.com/alberio_felipe/status/1200560622179684355
+file = t010267
+date = 2021-03-30
+user = cristianominas
+conversation = 190798741
+URL = https://twitter.com/cristianominas/status/1376985463983112194
 
-word count = 22
+word count = 32
 words loading = 4
-factor score = -4
+factor score = -3
 
-RT @manipoetics: Pelo **amor** de **deus** meu auge foi **gastar** 50 reais em 
-doce na Black Friday bolsonaro me **mata** agora 
+**Comandantes** do Exército pedem **demissão** em **protesto** contra 
+Bolsonaro. É esse o nível do bolsonarismo: querer transformar as Forças 
+Armadas em um instrumento de **defesa** dos seus crimes contra o Brasil. 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-deus
-gastar
-matar
+comandante
+defesa (secondary)
+demissão
+protesto

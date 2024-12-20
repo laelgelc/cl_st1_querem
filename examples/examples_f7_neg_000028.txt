@@ -1,18 +1,18 @@
-file = t007668
-date = 2020-07-30
-user = 89nuncamais
-conversation = 170498695
-URL = https://twitter.com/89nuncamais/status/1288979874200387584
+file = t003247
+date = 2019-02-27
+user = Aisha_com_vida
+conversation = 977657373367074816
+URL = https://twitter.com/Aisha_com_vida/status/1100457088847876101
 
-word count = 21
-words loading = 2
-factor score = -2
+word count = 40
+words loading = 1
+factor score = -1
 
-RT @gleisi: Governo Bolsonaro estuda proibir famílias carentes de 
-**receberem** + de um benefício social. Se uma **mãe** solteira **recebe** , 
-por exemp … 
+@claudioedantas @magoosantista Enquanto a imprensa " imparcial " implica com a 
+frase enviada no final dos emails do Ministro da educação. . . Gilmar Mendes 
+apronta! Espertinho sabe que a mídia tá **ocupada** informando a cor da cueca 
+da família do Presidente Bolsonaro! 
 
 Lemmas in this text that loaded on the factor:
 
-mãe
-receber
+ocupar

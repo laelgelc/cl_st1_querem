@@ -1,22 +1,22 @@
-file = t016998
-date = 2022-08-30
-user = LuisFernOli
-conversation = 324384050
-URL = https://twitter.com/LuisFernOli/status/1564569213582381060
+file = t005568
+date = 2019-12-30
+user = CesarDancs
+conversation = 547732219
+URL = https://twitter.com/CesarDancs/status/1211749677940523010
 
-word count = 40
+word count = 42
 words loading = 5
-factor score = 3
+factor score = 4
 
-Nada menos que 51 **imóveis** do clã Bolsonaro foram **comprados** com 
-dinheiro, em negócios que somam R$ 26 **milhões** . Metade do **patrimônio** 
-da família foi paga assim. Pelo menos 25 operações de **compra** ou venda 
-foram alvo de investigação. 
+@JackPosobiec @getongab Aqui no Brasil estamos lutando para o **cidadão** de 
+bem pelo menos ter uma **arma** dentro de casa, teve **aumento** do 
+**registro** de **armas** por **civis** no Brasil em 48 % e os homicídios 
+diminuiram 22 % com o governo Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-comprar
-imóvel
-milhão (secondary)
-patrimônio (secondary)
+arma
+aumento (secondary)
+cidadão
+civil
+registro

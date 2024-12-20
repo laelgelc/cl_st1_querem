@@ -1,19 +1,20 @@
-file = t006630
-date = 2020-04-29
-user = marcelaa_vit
-conversation = 815404613977378816
-URL = https://twitter.com/marcelaa_vit/status/1255645006343307274
+file = t008224
+date = 2020-08-30
+user = 01129551000C
+conversation = 1257372135795892226
+URL = https://twitter.com/01129551000C/status/1299691847686729728
 
-word count = 41
-words loading = 3
-factor score = -3
+word count = 53
+words loading = 2
+factor score = -2
 
-MANO alguém deve ter feito lavagem cerebral no meu **pai** n é possível uma 
-pessoa babar tanto ovo do bolsonaro desse jeito meu **deus** do **céu** vei, 
-chego chorar com as coisas q tenho q escutar e nem é meme 
+@GracaBinas @JanainaDoBrasil Abre o olho, tia. Quem tá fazendo merda agora é 
+o atual Gov. Inclusive, dando **espaço** p / ladrão no Gov. A **esquerda** 
+fez merda, Bolsonaro foi eleito apontando a merda e está repetindo boa parte 
+delas. Se a tia não cobrar, eles vão completar o repertório de merda da 
+**esquerda** . 
 
 Lemmas in this text that loaded on the factor:
 
-céu
-deus
-pai
+espaço
+esquerda

@@ -1,17 +1,18 @@
-file = t000128
-date = 2018-03-29
-user = eliezerdealiga
-conversation = 215265750
-URL = https://twitter.com/eliezerdealiga/status/979481747032281089
+file = t002539
+date = 2018-12-30
+user = thayylmao
+conversation = 795341962043912192
+URL = https://twitter.com/thayylmao/status/1079480993411682304
 
 word count = 28
-words loading = 1
-factor score = -1
+words loading = 2
+factor score = -2
 
-@Georges1959 Pois é rapaz, é cada tipo esquisito de " cristãos " que nos 
-aparece. qual credencial Bolsonaro e seus adeptos possuem para se **acharem** 
-representantes de Cristo Jesus? 
+eu: " kkkk teoria da conspiração é foda men os cara acredita em qualquer 
+coisa " eu depois de ver o doc sobre a **facada** no bolsonaro ser 
+**armação** : 
 
 Lemmas in this text that loaded on the factor:
 
-achar
+armação
+facada

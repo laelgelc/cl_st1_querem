@@ -1,19 +1,19 @@
-file = t000307
-date = 2018-04-28
-user = MariluParreiras
-conversation = 541156738
-URL = https://twitter.com/MariluParreiras/status/990360750702120960
+file = t004338
+date = 2019-07-30
+user = outraspalavrass
+conversation = 163924021
+URL = https://twitter.com/outraspalavrass/status/1156296073067016193
 
-word count = 32
+word count = 34
 words loading = 2
 factor score = -2
 
-ATIRAR E GRITAR BOLSONARO 2018 , É MOLE … acertou **pessoas** indefesas, 
-desarmadas. Quero ver enfrentar HELICÓPTEROS E JATINHOS COM CARREGAMENTO DE 
-DROGAS pousando em fazendas de / ou relacionadas com **POLÍTICOS** e MINISTROS 
-… 
+Incensado pelas igrejas neopentecostais, Bolsonaro mescla o nome de Deus a um 
+nacionalismo torto e ultraliberal, enquanto destila seu **ódio** contra grupos 
+marginalizados. Combater essas iniquidades é grande **ato** de amor ao 
+próximo: 
 
 Lemmas in this text that loaded on the factor:
 
-pessoa
-político
+ato
+ódio

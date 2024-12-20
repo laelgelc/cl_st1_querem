@@ -1,18 +1,18 @@
-file = t000808
-date = 2018-06-29
-user = jantoniocs29
-conversation = 3187358651
-URL = https://twitter.com/jantoniocs29/status/1012792798880370688
+file = t013470
+date = 2021-11-29
+user = ruansuzarte
+conversation = 1253097934238953472
+URL = https://twitter.com/ruansuzarte/status/1465392868672118800
 
-word count = 22
+word count = 16
 words loading = 2
 factor score = -2
 
-RT @jantoniocs29 : Ontem nó novo JC bolivariano, Ricardo sennes disse que 
-Bolsonaro é irresponsável **pôr** se lançar presid, **luladrão** e Dilma 
-é … 
+@ferreira_rol Fica **triste** não. Esse teatro será quebrado, basta só 
+Bolsonaro se decidir. Deus. **Pátria** . Família. flag_brazil_e latin_cross_e 
+place_of_worship_e 
 
 Lemmas in this text that loaded on the factor:
 
-luladrão
-pôr
+pátria
+triste

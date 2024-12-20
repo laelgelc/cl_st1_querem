@@ -1,21 +1,22 @@
-file = t017445
-date = 2022-08-30
-user = guimaraes13PT
-conversation = 49696756
-URL = https://twitter.com/guimaraes13PT/status/1564614122184081410
+file = t002274
+date = 2018-12-30
+user = erikakokay
+conversation = 87021796
+URL = https://twitter.com/erikakokay/status/1079313248086904833
 
-word count = 35
+word count = 39
 words loading = 5
-factor score = 3
+factor score = 5
 
-ENCANDALOSO! Quantos **imóveis** você já **comprou** com dinheiro **vivo** ? 
-O clã Bolsonaro **comprou** 51 ! Mais um **escândalo** da família de bem que 
-desconhece a **corrupção** e só quer o bem do Brasil. Vai vendo! 
+Cogitar **decreto** para " **libera** geral " de **armas** de **fogo** é 
+simbólico do autoritarismo de Bolsonaro e de sua equipe. Querem atropelar o 
+Congresso em debate de tamanha relevância? Não vamos aceitar revisão do 
+Estatuto do **Desarmamento** por **decreto** ! 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-escândalo (secondary)
-imóvel
-vivo (secondary)
+arma
+decreto
+desarmamento
+fogo
+liberar

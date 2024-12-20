@@ -1,22 +1,23 @@
-file = t007250
-date = 2020-06-29
-user = ConversaAfiada
-conversation = 17229791
-URL = https://twitter.com/ConversaAfiada/status/1277571283979587585
+file = t006512
+date = 2020-03-30
+user = VICENTINHOPT
+conversation = 74762633
+URL = https://twitter.com/VICENTINHOPT/status/1244762854324084744
 
-word count = 47
+word count = 49
 words loading = 5
 factor score = 5
 
-Enquanto defende a redução do **auxílio** de R$ 600 a informais, Bolsonaro 
-não hesita em **aprovar** **aumento** de **benefícios** ao oficialato das 
-Forças Armadas. Um grupo de militares com **salários** brutos que podem 
-chegar a R$ 50 mil terá um **aumento** de até R$ 1 . 600 . 
+Bolsonaro queria **pagar** apenas 200 reais para o nosso povo. Mas, foi 
+**aprovado** a **renda** **básica** **emergencial** . Ele tem agora a 
+obrigação de sancionar e **pagar** o benefício de R$600 ou R$1 , 2mil às 
+famíÓRIA DO POVO BRASILEIRO! LUTA DO PT E DA OPOSIÇÃO. @PTnaCamara HASHTAG 
+#pagalogobolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
 aprovar
-aumento
-auxílio
-benefício
-salário
+básico
+emergencial
+pagar
+renda

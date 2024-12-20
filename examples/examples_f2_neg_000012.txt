@@ -1,18 +1,20 @@
-file = t006340
-date = 2020-03-30
-user = aguedescartoon
-conversation = 162453393
-URL = https://twitter.com/aguedescartoon/status/1244772834775351296
+file = t020520
+date = 2023-04-29
+user = Montmorencyfun
+conversation = 104141358
+URL = https://twitter.com/Montmorencyfun/status/1647278499718131712
 
-word count = 31
-words loading = 2
-factor score = -2
+word count = 39
+words loading = 3
+factor score = -3
 
-Arrotei na mesa na hora do jantar, cocei o saco na **frente** de uma senhora e 
-mandei o porteiro tomar no cu, **acho** que já posso ser chamado de 
-conservador 
+@CarlaMariaGagl1 @lula Métodos comunistas / socialistas implantados no Brasil, 
+isso só pode ser uma piada. Quanto a narcotráfico, foi num voo de Bolsonaro e 
+num caminhão de um político Bolsonarista que **drogas** foram achadas. Pare 
+de espalhar **fake** **news** . 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-frente
+droga
+fake
+news

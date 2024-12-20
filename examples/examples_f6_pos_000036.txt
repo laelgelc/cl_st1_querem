@@ -1,23 +1,21 @@
-file = t017159
-date = 2022-08-30
-user = andersonrosavaz
-conversation = 207582243
-URL = https://twitter.com/andersonrosavaz/status/1564727120340959233
+file = t012091
+date = 2021-08-30
+user = taliriapetrone
+conversation = 103704608
+URL = https://twitter.com/taliriapetrone/status/1432467736676995073
 
-word count = 41
-words loading = 5
-factor score = 3
+word count = 48
+words loading = 4
+factor score = 4
 
-FAMÍLIA BOLSONARO check_mark_button_e 107 **imóveis** ( oficialmente ) 
-check_mark_button_e 51 **comprado** em dinheiro **vivo** check_mark_button_e R$ 
-13 , 5 **milhões** check_mark_button_e R$ 25 , 6 **milhões** corrigido pela 
-inflação Uma família que vive da política nos **últimos** 35 anos. Nem se 
-trabalhasse cem anos investindo tudo em triplex. 
+O caso absurdo de Araçatuba acende o alerta para a política de **armamento** 
+da **população** em curso com Bolsonaro. Os desvios de munições e **armas** 
+agora são mais frequentes já que mais pessoas têm **acesso** a **armas** . 
+Não é um caso isolado. É resultado da política genocida! 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-imóvel
-milhão (secondary)
-vivo (secondary)
-último
+acesso
+arma
+armamento
+população

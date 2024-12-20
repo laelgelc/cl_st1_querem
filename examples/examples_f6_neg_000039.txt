@@ -1,18 +1,18 @@
-file = t001912
-date = 2018-10-24
-user = MarceloACoelho1
-conversation = 1151388890
-URL = https://twitter.com/MarceloACoelho1/status/1054900232704741376
+file = t000167
+date = 2018-03-29
+user = fer_silva1908
+conversation = 578652231
+URL = https://twitter.com/fer_silva1908/status/979401369286299649
 
-word count = 24
-words loading = 2
-factor score = -2
+word count = 42
+words loading = 1
+factor score = -1
 
-Mais armas? Vamos acabar com coitadismo de nordestino, de **gay** , de 
-**negro** e de mulher, diz Bolsonaro. HASHTAG #elenão_h HASHTAG #haddadsim_h 
-HASHTAG #viravoto_h Arcos da Lapa 
+@oliveira_irineu @thiagoacteodoro Nao voto no PSDB de Alkmin, mesma coisa de 
+votar no Aécio. Não voto em militar, Bolsonaro. Na verdade não temos 
+opção. É **triste** dizer isto mas o brasileiro tem que escolher o menos 
+ruim. Para não dizer menos ladrão. 
 
 Lemmas in this text that loaded on the factor:
 
-gay
-negro
+triste

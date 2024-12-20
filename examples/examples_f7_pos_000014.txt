@@ -1,21 +1,22 @@
-file = t001105
-date = 2018-07-30
-user = teresinhalopes
-conversation = 56526010
-URL = https://twitter.com/teresinhalopes/status/1023964556194971649
+file = t015745
+date = 2022-05-30
+user = Tarotebaralho
+conversation = 1498129304332521472
+URL = https://twitter.com/Tarotebaralho/status/1530582091884371969
 
-word count = 50
+word count = 53
 words loading = 4
 factor score = 4
 
-Analistas dizem que Bolsonaro é de **extrema** **direita** e não atentam para 
-o fato de que a maioria do eleitorado tem um perfil **CONSERVADOR** ! portanto, 
-não é só a **extrema** **direita** . O eleitor está indo para o lado da 
-única candidatura que tem **pauta** **conservadora** que é o Bolsonaro! 
+@alcibatista1 @arielebolsonaro Kkkkkkkkk Já fui **evangélica** e só 
+escrotidão, e vc acabou de comparar Bolsonaro com **Deus** . E que eu saiba, 
+nasua bíblia, Êxodo 20:3 Não terás outros **deuses** além de mim. Não 
+farás para ti nenhum ídolo, nenhuma imagem de qualquer coisa no **céu** , na 
+**terra** , ou nas águas debaixo da **terra** . 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-extremo
-pauta
+céu
+deus
+evangélico
+terra

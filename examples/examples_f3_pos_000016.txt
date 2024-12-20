@@ -1,19 +1,22 @@
-file = t018911
-date = 2022-12-30
-user = ismaelsousa
-conversation = 26104235
-URL = https://twitter.com/ismaelsousa/status/1608969768811499524
+file = t010858
+date = 2021-03-30
+user = DrRenan38
+conversation = 1233748733059387392
+URL = https://twitter.com/DrRenan38/status/1376742493585338372
 
-word count = 51
-words loading = 2
-factor score = 2
+word count = 30
+words loading = 5
+factor score = 5
 
-Eu não entendi o motivo dos petistas dizerem q Bolsonaro fugiu do Brasil, ao 
-viajar p / passar 30 dias de férias e descanso com a família nos EUA. Havia 
-mandado de prisão contra ele? Qual crime responde? Deve ser a única pessoa do 
-mundo a " fugir " em um **avião** **presidencial** . 
+Os verdadeiros **conservadores** , **cristãos** e patriotas não deixaram de 
+seguir o Bolsonaro. Somente os traíra abandonaram a batalha em plena 
+**guerra** . Bolsonaro reeleito no **primeiro** **turno** de 2022 HASHTAG 
+#opovoestacombolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-presidencial
+conservador
+cristão
+guerra
+primeiro
+turno

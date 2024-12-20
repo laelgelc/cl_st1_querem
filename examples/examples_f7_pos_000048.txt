@@ -1,20 +1,21 @@
-file = t010032
-date = 2021-02-21
-user = gerdwenzel
-conversation = 43442574
-URL = https://twitter.com/gerdwenzel/status/1363551623080005633
+file = t018156
+date = 2022-10-30
+user = WonderWanny
+conversation = 3524783957
+URL = https://twitter.com/WonderWanny/status/1586709976609062913
 
-word count = 38
+word count = 49
 words loading = 3
 factor score = 3
 
-Raízes: " Vínculo entre igrejas evangélicas e atuação política 
-**conservadora** vem desde o século 19 , por **americanos** brancos e racistas 
-que perderam a **Guerra** da Secessão, migraram ao Brasil em missão 
-evangelizadora e se aproximaram das elites locais " . 
+Engraçado meu **pai** defendendo Bolsonaro em " nome da família " . O 
+**cara** escondeu que eu tinha uma irmã por 4 anos. **Enganava** a coitada da 
+minha mãe, sumia, nunca ajudou com pensão até minha avó finalmente botar 
+pressão na minha mãe. E eu o admirava pela " inteligência " . Só 
+decepção. 
 
 Lemmas in this text that loaded on the factor:
 
-americano
-conservador
-guerra
+cara
+enganar
+pai

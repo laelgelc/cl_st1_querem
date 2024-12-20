@@ -1,20 +1,21 @@
-file = t014451
-date = 2022-02-26
-user = FernandoHortaOf
-conversation = 865302702821126144
-URL = https://twitter.com/FernandoHortaOf/status/1497721468150505474
+file = t000753
+date = 2018-05-30
+user = ACBraga2012
+conversation = 534588539
+URL = https://twitter.com/ACBraga2012/status/1001630885333041152
 
 word count = 47
-words loading = 3
-factor score = 3
+words loading = 4
+factor score = 4
 
-Putin é fascista / nazista? Não, não é . Nem toda **extrema** **direita** 
-é nazista e fascista. O conceito de fascismo tem discussões, mas ele já tem 
-um corpo de consenso suficiente para que se diga que putin, mesmo sendo um 
-**conservador** autocrata de **direita** , não é fascista. 
+No tempo de Jesus isso seria scarnio! Um Homem que fala em **matar** , julgar o 
+próximo e diz que errou em ter filha **mulher** ! **Evangélicos** , pelo Amor 
+de é Deus! De **olho** em voto **evangélico** , Bolsonaro participa de Marcha 
+para Jesus em SP via @UOLPolitica @UOL 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-extremo
+evangélico
+matar
+mulher
+olho

@@ -1,20 +1,20 @@
-file = t013049
-date = 2021-10-30
-user = Elaine77391067
-conversation = 1193194295429419015
-URL = https://twitter.com/Elaine77391067/status/1454578372617592838
+file = t011094
+date = 2021-04-29
+user = RomeuZema
+conversation = 1020798087449776128
+URL = https://twitter.com/RomeuZema/status/1387875246666141707
 
-word count = 22
+word count = 36
 words loading = 4
 factor score = 4
 
-RT @MarceloFreixo: 1 . Queremos o pagamento de uma RENDA PERMANENTE às 
-famílias mais **pobres** . Fomos nós que **aprovamos** o **auxílio** 
-**emergencial** d … 
+Apoiar as famílias que mais precisam é urgente. Por isso, vamos **pagar** um 
+**auxílio** de R$ 500 , em parcela única, para aqueles que estão em 
+situação de extrema **pobreza** ( **renda** per capita de R$ 89 ) . 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
 auxílio
-emergencial
-pobre
+pagar
+pobreza
+renda

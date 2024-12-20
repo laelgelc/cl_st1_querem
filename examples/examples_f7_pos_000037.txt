@@ -1,20 +1,18 @@
-file = t011550
-date = 2021-05-30
-user = CalSoares5
-conversation = 1091724183225159680
-URL = https://twitter.com/CalSoares5/status/1399046841883365383
+file = t020008
+date = 2023-03-30
+user = SigaGazetaBR
+conversation = 1090291692744466433
+URL = https://twitter.com/SigaGazetaBR/status/1641460781505183744
 
-word count = 39
+word count = 11
 words loading = 3
 factor score = 3
 
-@Alexo474 @8Mari741 Não existe dilema, Bolsonaro é mentiroso, qual a 
-dificuldade de entender isso? No entanto ele diz que é contra o **aborto** e 
-**conservador** , essa é minha **pauta** , nunca mudei, ele que continua 
-dizendo que é **conservador** . 
+**Apoiadores** de Bolsonaro **gritam** " Lula, **ladrão** " no aeroporto de 
+Brasília 
 
 Lemmas in this text that loaded on the factor:
 
-aborto
-conservador
-pauta
+apoiador
+gritar
+ladrão

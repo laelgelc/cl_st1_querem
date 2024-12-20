@@ -1,20 +1,17 @@
-file = t000544
-date = 2018-04-27
-user = Vilela1988
-conversation = 3128177601
-URL = https://twitter.com/Vilela1988/status/989527687025872901
+file = t001874
+date = 2018-10-30
+user = monicabergamo
+conversation = 58951368
+URL = https://twitter.com/monicabergamo/status/1057397491790946304
 
-word count = 55
+word count = 17
 words loading = 2
 factor score = -2
 
-@BenettiCassia @dgsouzallo @BolsonaroSP Se vc ta vendo campanha, blz. Mas fica 
-a vontade pra procurar saber mais sobre o Bolsonaro. Ele não é perfeito nem o 
-**salvador** da **pátria** , como ja dito. Não concordo com tudo que ele diz, 
-isso é fanatismo. Mas ele não é esse " bicho papão " que querem fazer 
-parecer ser! 
+STF se unirá por defesa de **negros** , **gays** , mulheres e liberdade de 
+expressão, diz ministro Barroso. 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+gay
+negro

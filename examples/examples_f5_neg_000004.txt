@@ -1,19 +1,18 @@
-file = t011233
-date = 2021-04-29
-user = lcc289
-conversation = 62704976
-URL = https://twitter.com/lcc289/status/1387876346555207682
+file = t000070
+date = 2018-03-30
+user = joseanjp
+conversation = 175383964
+URL = https://twitter.com/joseanjp/status/979533245263032321
 
-word count = 24
-words loading = 3
-factor score = -3
+word count = 27
+words loading = 2
+factor score = -2
 
-RT @serafinipsol: **Chegamos** a **triste** marca de 400 mil mortos por 
-**Covid** . São 400 mil famílias chorando seus entes queridos e um único 
-respons … 
+O único plano de governo de Bolsonaro é revogar o Estatuto do Desarmamento, 
+armar a população para **encher** os cofres da **indústria** de armas, só 
+isso! 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-covid
-triste
+encher
+indústria

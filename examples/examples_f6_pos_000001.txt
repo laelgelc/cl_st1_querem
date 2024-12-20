@@ -1,22 +1,24 @@
-file = t017402
-date = 2022-08-30
-user = FelipeBernarde
-conversation = 90737055
-URL = https://twitter.com/FelipeBernarde/status/1564714679661895680
+file = t012521
+date = 2021-08-30
+user = trombetta360
+conversation = 1107603364991459328
+URL = https://twitter.com/trombetta360/status/1432461860247330819
 
-word count = 39
-words loading = 5
-factor score = 4
+word count = 35
+words loading = 7
+factor score = 6
 
-@DanilloAmorim4 @felipeneto @CarlosBolsonaro lula visitar um apartamento sem 
-provas reais de **corrupção** : bandido bolsonaro e família **comprando** 
-vários **imóveis** em tempo **recorde** com dinheiro **vivo** , impondo 
-sigilo sobre ele e os seus e barrar todos que investigam: honesto 
+Bolsonaro trabalha para a **indústria** armamentista em duas frentes: 
+flexibilizando as leis de controle e **registros** ; e **facilitando** o 
+**acesso** de **civis** ao **armamento** . Quem tem **arma** ou é policial ou 
+é bandido. HASHTAG #forabolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-imóvel
-recorde
-vivo (secondary)
+acesso
+arma
+armamento
+civil
+facilitar
+indústria (secondary)
+registro

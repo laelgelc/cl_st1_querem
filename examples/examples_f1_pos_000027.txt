@@ -1,22 +1,24 @@
-file = t016025
-date = 2022-06-29
-user = AnglicaKurten
-conversation = 1418571713013506048
-URL = https://twitter.com/AnglicaKurten/status/1542224997854466053
+file = t013286
+date = 2021-11-29
+user = Prof_leonelfer
+conversation = 1440822125766451211
+URL = https://twitter.com/Prof_leonelfer/status/1465392323093843973
 
-word count = 17
-words loading = 5
-factor score = 5
+word count = 47
+words loading = 6
+factor score = 6
 
-@jairbolsonaro @govbr Boa **noite** querido Presidente Jair Messias Bolsonaro! 
-Que Deus te cubra de bênçãos! ! **Amém** ! ! ! **flag_brazil_e** 
-**flag_brazil_e** **red_heart_e** **red_heart_e** **folded_hands_e** 
-**folded_hands_e** 
+@TerraBrasilnot @Izabelbelel1 Fechado com Bolsonaro! 2022 # 2026 . Estamos 
+juntos nesta grande missão **presidente** Bolsonaro! Com a ajuda de Deus vamos 
+conceguir um Brasil com mais justiça para todos nós brasileiros " e para 
+nossos filhos e nossos netos! Deus te **abençoe** e **ilumine** sempre seu 
+caminho **amém** **raising_hands_e** **folded_hands_e** 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
 amém
-flag_brazil_e
 folded_hands_e
-noite
-red_heart_e
+iluminar
+presidente
+raising_hands_e

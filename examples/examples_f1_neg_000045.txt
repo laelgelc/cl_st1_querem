@@ -1,19 +1,17 @@
-file = t001281
-date = 2018-08-30
-user = limanthando
-conversation = 709987366111420416
-URL = https://twitter.com/limanthando/status/1035005426629259265
+file = t009809
+date = 2021-01-30
+user = _alineramos
+conversation = 2870187801
+URL = https://twitter.com/_alineramos/status/1355572367448297475
 
-word count = 51
+word count = 24
 words loading = 2
 factor score = -2
 
-não da pra liberar porte de arma pra uma população sem educação " é só 
-educar a população ué " ( disse o eleitor do Bolsonaro que não sabe que a 
-precariedade na educação é um dos **problemas** **sociais** do nosso país ) 
-" mas, por que teria que existir armas em uma sociedade educada? " 
+a **pessoa** pode pixar qualquer coisa no bbb com a atenção de todas as 
+câmeras e escreve OBRIGADA DEUS nossa que **ódio** HASHTAG #bbb21_h 
 
 Lemmas in this text that loaded on the factor:
 
-problema
-social
+pessoa
+ódio

@@ -1,18 +1,22 @@
-file = t007105
-date = 2020-05-30
-user = ednilsonglopes
-conversation = 3433444713
-URL = https://twitter.com/ednilsonglopes/status/1266470742633394188
+file = t014252
+date = 2022-02-26
+user = marcioadri78
+conversation = 160211286
+URL = https://twitter.com/marcioadri78/status/1497223619059007521
 
-word count = 33
-words loading = 2
-factor score = 2
+word count = 45
+words loading = 4
+factor score = 4
 
-@ArmandoContenda @UOLNoticias Você tem algum posicionamento quanto ao 
-**cartão** corporativo e os **gastos** em sigilo do presidente? Se não tem, 
-sinto muito, mas quem tá passando pano pra alguém aqui é você . 
+@Thiiaago19 @sbtrio Corrigindo, em ódio ao Presidente legitimamente **eleito** 
+e aos **Conservadores** , foi alimentado uma " caça as bruxas " , e 
+cerceamento de **liberdade** de **expressão** seletiva, com apoio, ou ao menos 
+conivência, de grande parte da Extrema Imprensa. Só que agora, a prática vai 
+crescendo. . . 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-gasto
+conservador
+eleger
+expressão
+liberdade

@@ -1,19 +1,21 @@
-file = t005188
-date = 2019-11-29
-user = manipoetics
-conversation = 4779552801
-URL = https://twitter.com/manipoetics/status/1200544652564320258
+file = t010502
+date = 2021-03-30
+user = perpetua_acre
+conversation = 44693900
+URL = https://twitter.com/perpetua_acre/status/1376928787158421507
 
-word count = 20
+word count = 48
 words loading = 4
-factor score = -4
+factor score = -3
 
-Pelo **amor** de **deus** meu auge foi **gastar** 50 reais em doce na Black 
-Friday bolsonaro me **mata** agora 
+Quando um min. da Defesa é **demitido** por cumprir seu dever ( artigo 142 da 
+Constituição ) , e os 3 **comandantes** das Forças Armadas decidem pedir 
+**demissão** em **solidariedade** é porque não admitem q as FA sejam 
+tratadas como parte da disputa política, tal qual pretende o presid Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-deus
-gastar
-matar
+comandante
+demissão
+demitir (secondary)
+solidariedade

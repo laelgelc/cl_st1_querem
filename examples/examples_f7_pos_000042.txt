@@ -1,21 +1,18 @@
-file = t010989
-date = 2021-04-29
-user = juformici2
-conversation = 1232796339391598592
-URL = https://twitter.com/juformici2/status/1387742214797803520
+file = t018894
+date = 2022-12-30
+user = AlosioCardoso2
+conversation = 1392700119506620416
+URL = https://twitter.com/AlosioCardoso2/status/1608879371431075840
 
-word count = 34
-words loading = 4
+word count = 20
+words loading = 3
 factor score = 3
 
-Sou **cristã** , de **direita** , carnívora, **conservadora** , sem mimimi, 
-contra **drogas** , pró vida e a favor do porte de armas. Como posso irritar 
-mais os esquerdistas hoje? ( adap. HG ) Bom dia aí meus bons sunflower_e 
-green_heart_e 
+@madalpi22 Bolsonarista raça do diabo nunca mais demônios encarnados em 
+**pastores** **evangélicos** da assembleia de **deus** ! Bolsonaro na cadeia 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-cristão (secondary)
-direita
-droga
+deus
+evangélico
+pastor

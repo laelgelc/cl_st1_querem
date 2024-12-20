@@ -1,21 +1,20 @@
-file = t000551
-date = 2018-04-27
-user = Netcina
-conversation = 147557691
-URL = https://twitter.com/Netcina/status/989933147537063936
+file = t000189
+date = 2018-04-29
+user = Florisrs
+conversation = 404225913
+URL = https://twitter.com/Florisrs/status/990546439091769344
 
-word count = 48
-words loading = 4
-factor score = -3
+word count = 52
+words loading = 3
+factor score = -2
 
-Ou seja. . . Vai **usar** o nome de Deus pra mentir e tentar levar vantagem na 
-política. Logo ele que não tem respeito pelas **mulheres** , negros e que 
-vive de **espalhar** ódio entre **pessoas** . Que apoia tortura e só falar em 
-matar **pessoas** e quer deixar os mais. . . 
+O fato é , que Bolsonaro além de nunca ter um projeto aprovado como deputado 
+e de empregar toda a família, ele, é a **expressão** do **ódio** e 
+sociedade armada que gera violência na os ataques a bala tem esta marca e 
+nunca ouvi dele qualquer repúdio a um **ato** de violência. 
 
 Lemmas in this text that loaded on the factor:
 
-espalhar (secondary)
-mulher
-pessoa
-usar
+ato
+expressão (secondary)
+ódio

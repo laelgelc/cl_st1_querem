@@ -1,20 +1,20 @@
-file = t001188
-date = 2018-07-30
-user = roddysta
-conversation = 323217328
-URL = https://twitter.com/roddysta/status/1024001018881867777
+file = t001506
+date = 2018-09-29
+user = DacioloCable
+conversation = 1044436079372382208
+URL = https://twitter.com/DacioloCable/status/1046153829824311302
 
-word count = 35
+word count = 46
 words loading = 3
-factor score = -3
+factor score = -2
 
-@asupernovaa Só um País q vive sem **ditadura** pode dar **liberdade** aos 
-seus habitantes ao ponto de alguém apoiar um Bolsonaro. Parece até fake news 
-ver notícia de **apoio** ao se lembrar de Bolsonaro grimacing_face_e 
-grimacing_face_e grimacing_face_e 
+@jairbolsonaro Deus te abençoe, Jair. Seja bem vindo de volta ao lar da sua 
+terceira **esposa** , **mãe** da sua **filha** , madrasta dos outros filhos 
+que você teve com outras **esposas** que envelheceram e foram trocadas. 
+Glória a Deus, viva a família tradicional brasileira. AMÉM, irmão. 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-ditadura
-liberdade
+esposo
+filha (secondary)
+mãe

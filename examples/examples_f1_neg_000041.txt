@@ -1,18 +1,17 @@
-file = t001136
-date = 2018-07-30
-user = luizcampagnollo
-conversation = 463080802
-URL = https://twitter.com/luizcampagnollo/status/1024036913055973376
+file = t009110
+date = 2020-11-29
+user = _MissEnigma
+conversation = 1046763893618544642
+URL = https://twitter.com/_MissEnigma/status/1333178294997544964
 
-word count = 33
+word count = 24
 words loading = 2
 factor score = -2
 
-@g1 Tem nada não, ano que vem Bolsonaro **abre** contra a Dilma, pimentel, 
-aluizio nunes, jose genuino, jose dirceu, jose serra entre outros tantos 
-guerrilheiros comunistas que nunca pagaram por seis **crimes** . 
+@ManaArca Pelo amor de Deus, vamos nos unir em uma corrente de oração para 
+que qualquer **pessoa** ganhe menos essa **bomba** desse Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-abrir
-crime
+bomba
+pessoa

@@ -1,22 +1,21 @@
-file = t000212
-date = 2018-04-23
-user = gabrieljacobsen
-conversation = 14216882
-URL = https://twitter.com/gabrieljacobsen/status/988468960982110208
+file = t014150
+date = 2022-01-30
+user = schmidtrodrigo
+conversation = 17006666
+URL = https://twitter.com/schmidtrodrigo/status/1487854974034124801
 
-word count = 38
-words loading = 4
+word count = 31
+words loading = 5
 factor score = 4
 
-Espalhar fake news ( notícias falsas ) é um atendado à democracia que não 
-poderia ser praticado, conscientemente, por um agente político. De forma 
-alguma. Esquerda, **direita** , centrão, **liberal** , **socialista** , 
-**conservador** , progressista. . . Tudo é válido, politicamente. Fake news, 
-NÃO. 
+@sergioestrela @queronovidade @armandopedra @antoniotabet Ah é ? Então 
+**tira** o **saco** do bolsonaro da tua **boca** cheia de pentelho e fala pra 
+ele me processar, pois estou o **chamando** de **ladrão** . 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-liberal
-socialista
+boca
+chamar
+ladrão
+saco (secondary)
+tirar

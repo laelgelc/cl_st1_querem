@@ -1,19 +1,16 @@
-file = t018301
-date = 2022-11-29
-user = Lereandrade
-conversation = 1576727779072163840
-URL = https://twitter.com/Lereandrade/status/1597699121447829504
+file = t002157
+date = 2018-11-29
+user = SamuraJack09
+conversation = 40002056
+URL = https://twitter.com/SamuraJack09/status/1068250937976897536
 
-word count = 44
+word count = 10
 words loading = 2
 factor score = -2
 
-@PaulaLi20746961 @erixkscript @Msvilarino @Jouberth19 Oxe, mas eu não tô nem 
-pra ele e nem pra onde ele vai flor, você são tão burros que **acham** mesmo 
-que o povo tá na **frente** dos quartéis por causa da família Bolsonaro. Mas 
-são asnos mesmo. 
+Freixo ataca família Bolsonaro com base em **fake** **news** - 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-frente
+fake
+news

@@ -1,23 +1,20 @@
-file = t013137
-date = 2021-10-30
-user = PauloFMBCF
-conversation = 419642915
-URL = https://twitter.com/PauloFMBCF/status/1454568586245181450
+file = t017013
+date = 2022-08-30
+user = myscreenbr
+conversation = 854275854020620288
+URL = https://twitter.com/myscreenbr/status/1564755366814142464
 
-word count = 43
-words loading = 5
-factor score = -4
+word count = 49
+words loading = 3
+factor score = -3
 
-Bolsonaro acertou: é fácil implantar **ditadura** . Após **golpe** de 2016 
-destruíram emprego, **direitos** trabalhistas, previdência, ambiente, 
-**educação** , **saúde** , C&T, cultura, diplomacia. Fome voltou, acabaram o 
-Bolsa Família e não há greve geral ou passeatas e sim feriadão. Que país 
-é este? ? 
+@UOLNoticias Então vamos ao resumo: Bolsonaro inseriu seus filhos na carreira 
+de **milicianos** na política; suas **esposas** e até sua idosa, **mãe** . 
+Compraram no total 107 imóveis, sendo 51 em dinheiro vivo. Lavagem de 
+dinheiro, peculato e muito mais. Isso não é uma família, isso é uma máfia. 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-ditadura
-educação
-golpe (secondary)
-saúde
+esposo
+miliciano
+mãe

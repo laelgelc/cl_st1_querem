@@ -1,21 +1,20 @@
-file = t007914
-date = 2020-08-30
-user = ricardope
-conversation = 36705462
-URL = https://twitter.com/ricardope/status/1300081801143169027
+file = t000000
+date = 2018-03-28
+user = pelegrini65
+conversation = 287765295
+URL = https://twitter.com/pelegrini65/status/979018234736373760
 
-word count = 41
-words loading = 4
-factor score = -4
+word count = 47
+words loading = 3
+factor score = -3
 
-O afastamento de Witzel mostra que bolsonaro **usa** o aparato 
-jurídico-policial para atacar adversários **políticos** enquanto blinda à 
-si e sua família. O " impeachment sem **crime** de responsabilidade " de Dilma 
-e a condenação injusta de Lula **abriram** a porteira pro arbitrário. 
+Após caluniar, ameaçar, incitar as **pessoas** contra Lula, Dilma, PT e STF, 
+Bolsonaro e Eduardo Bolsonaro terminam com ' Brasil acima de tudo, Deus acima 
+de todos ' . Que cristão é esse que **usa** o nome de Deus pra incitar 
+atentados, **ódio** e violência contra seus oponentes políticos? ? 
 
 Lemmas in this text that loaded on the factor:
 
-abrir
-crime
-político
+pessoa
 usar
+ódio

@@ -1,19 +1,17 @@
-file = t006123
-date = 2020-02-26
-user = joaodamoedo
-conversation = 256730310
-URL = https://twitter.com/joaodamoedo/status/1232676898821595137
+file = t011138
+date = 2021-04-29
+user = thaislin0
+conversation = 148868565
+URL = https://twitter.com/thaislin0/status/1387883623253151753
 
-word count = 46
+word count = 20
 words loading = 2
 factor score = -2
 
-O vídeo repassado pelo ex-deputado federal por 28 anos, e agora presidente, 
-prega o ataque às instituições e o fortalecimento de um " mito " . O 
-contrário do que defendo e acredito. O Brasil que queremos virá pelo 
-fortalecimento das instituições, e não por um **salvador** da **pátria** . 
+@vitordornelles É bizarro pq bolsonaro, bolsonaristas e os comunistas do 
+Twitter todos se juntam para **puxar** **saco** do Putin 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+puxar
+saco

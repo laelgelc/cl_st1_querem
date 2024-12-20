@@ -1,22 +1,19 @@
-file = t009914
-date = 2021-01-30
-user = otaldebochado
-conversation = 1050174967298629633
-URL = https://twitter.com/otaldebochado/status/1355513059754831874
+file = t002862
+date = 2019-01-30
+user = grfavoritos
+conversation = 1884183840
+URL = https://twitter.com/grfavoritos/status/1090723590356516864
 
-word count = 50
-words loading = 4
-factor score = 4
+word count = 11
+words loading = 5
+factor score = 5
 
-Vacina da Johnson & Johnson tem 66 % de eficácia e por ser dose única 
-agilizaria a vacinação no Brasil. Governo Bolsonaro já entrou em contato com 
-a farmacêutica? Já está negociando as **compras** ? Não. Não querem 
-**salvar** **vidas** e nem a **economia** , querem viver do caos pra vencer em 
-2022 . 
+Bolsonaro assina **decreto** que **facilita** **posse** de **arma** de **fogo** 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-economia
-salvar
-vida
+arma
+decreto
+facilitar
+fogo
+posse

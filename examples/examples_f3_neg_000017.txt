@@ -1,22 +1,18 @@
-file = t017600
-date = 2022-09-29
-user = kelvin_sep
-conversation = 1255905005963489282
-URL = https://twitter.com/kelvin_sep/status/1575620700760522752
+file = t001270
+date = 2018-08-30
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1035279864046211072
 
-word count = 54
-words loading = 4
-factor score = -4
+word count = 37
+words loading = 2
+factor score = -2
 
-@Fabrcio30271799 @goleada_info Kkkjkkk eu nem gosto do bozo. . vc só mostra oq 
-é a **esquerda** , vamos pregar o amor, a paz, o respeito, o **direito** a 
-**Liberdade** . . . Aí na **primeira** oportunidade xinga sem nem conhecer, 
-mas é isso. . o puro suco da **esquerda** , discurso de paz e amor, mas na 
-prática é diferente. . abraço 
+Sobre " não é na bala que se resolve " : Flores não garantem a paz. Que os " 
+santos " que repetem este bordão deixem de andar com **carro** **blindado** e 
+seguranças armados que passo a acreditar em suas propostas. 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-esquerda
-liberdade
-primeiro
+blindar
+carro

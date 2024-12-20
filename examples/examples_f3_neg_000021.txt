@@ -1,20 +1,18 @@
-file = t000378
-date = 2018-04-28
-user = mellocomdoisele
-conversation = 115546745
-URL = https://twitter.com/mellocomdoisele/status/990335304249806848
+file = t001488
+date = 2018-08-30
+user = LeonyLohan
+conversation = 147922502
+URL = https://twitter.com/LeonyLohan/status/1035275496978665474
 
-word count = 40
-words loading = 3
-factor score = -3
+word count = 32
+words loading = 2
+factor score = -2
 
-Enquanto isso, figuras deploráveis como o presidenciável Bolsonaro e o 
-**deputado** Wladimir Costa ( da tatuagem do Temer ) encenam a violência: o 
-**primeiro** posa para foto apontando uma arma para boneco do Lula; o 
-**segundo** soca um professor em público. 
+" Armas não geram violência e flores não garantem a paz. Ele que deixe de 
+andar com **carro** **blindado** e segurança que eu acredito na proposta dele 
+" - Jair Bolsonaro sobre Geraldo Alckmin 
 
 Lemmas in this text that loaded on the factor:
 
-deputado
-primeiro
-segundo
+blindar
+carro

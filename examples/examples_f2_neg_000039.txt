@@ -1,18 +1,18 @@
-file = t000078
-date = 2018-03-30
-user = neivacr
-conversation = 83058733
-URL = https://twitter.com/neivacr/status/979485777523601408
+file = t002373
+date = 2018-12-30
+user = ezequias123123
+conversation = 425824775
+URL = https://twitter.com/ezequias123123/status/1079512258437414914
 
-word count = 32
-words loading = 1
-factor score = -1
+word count = 25
+words loading = 2
+factor score = -2
 
-@hoffen_jeff @BolsonaroSP @alefrotabrasil @Francischini_ @FFrancischini_ 
-@jairbolsonaro @OdeCarvalho Amém! Oro por isso sempre, p que Deus abençoe a 
-família HASHTAG #bolsonaro_h e os proteja, e que Ele esteja à **frente** 
-dessa jornada e abençoe o Brasil! 
+RT @pnolasco2000 : Acabei de assistir um vídeo que mostra a como foi com 
+detalhes a **armação** da **facada** no Bolsonaro, se tinha alguma dúvida s 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-frente
+armação
+facada

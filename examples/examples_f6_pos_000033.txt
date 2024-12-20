@@ -1,22 +1,22 @@
-file = t017215
-date = 2022-08-30
-user = AGazetaES
-conversation = 14870978
-URL = https://twitter.com/AGazetaES/status/1564709555740737538
+file = t016118
+date = 2022-06-27
+user = tesoureiros
+conversation = 1071408436531904512
+URL = https://twitter.com/tesoureiros/status/1541548707853864962
 
-word count = 35
-words loading = 5
-factor score = 3
+word count = 23
+words loading = 6
+factor score = 4
 
-Metade dos **imóveis** da família Bolsonaro foi adquirida com dinheiro ' 
-**vivo** ' , diz site [ Ao menos 51 dos **imóveis** foram **comprados** com 
-dinheiro em espécie; **compras** somam R$ 13 , 5 **milhões** , afirma o 
-portal UOL 
+MPF afirma que **decreto** das **armas** de Bolsonaro **facilita** desvio para 
+crime **organizado** e **milícias** ( O Globo, 2019 ) BOLSONARO **ARMOU** O 
+TRÁFICO 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-comprar
-imóvel
-milhão (secondary)
-vivo (secondary)
+arma
+armar
+decreto
+facilitar
+milícia (secondary)
+organizar (secondary)

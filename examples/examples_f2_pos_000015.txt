@@ -1,22 +1,22 @@
-file = t012482
-date = 2021-08-30
-user = carmelonetobr
-conversation = 3662771592
-URL = https://twitter.com/carmelonetobr/status/1432408138213380096
+file = t007866
+date = 2020-07-29
+user = zecarlospt
+conversation = 1325494376
+URL = https://twitter.com/zecarlospt/status/1288596907724541954
 
-word count = 45
+word count = 44
 words loading = 5
 factor score = 5
 
-Somente o **auxílio** **emergencial** 2020 / 21 **pagou** o equivalente a 13 
-anos de Bolsa Família. O governo federal salvou **empregos** , matou a fome de 
-**milhões** de brasileiros e movimentou bilhões na economia durante o 
-lockdown dos governadores. Apesar das dificuldades, ninguém ficou para trás. 
+A maldade de Bolsonaro não tem limites. Vetou o **projeto** de Lei 
+**aprovado** por nós do Congresso Nacional, que prioriza mães chefes de 
+família a **receberem** o **auxílio** **emergencial** . Mostra o desprezo de 
+Bolsonaro às mães brasileiras. Com toda certeza, derrubaremos esse veto! 
 
 Lemmas in this text that loaded on the factor:
 
+aprovar
 auxílio
 emergencial
-emprego
-milhão
-pagar
+projeto
+receber

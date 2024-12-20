@@ -1,20 +1,25 @@
-file = t016552
-date = 2022-07-30
-user = tamir_rimat
-conversation = 123710511
-URL = https://twitter.com/tamir_rimat/status/1553513718167879681
+file = t017173
+date = 2022-08-30
+user = evertongimenis
+conversation = 119398121
+URL = https://twitter.com/evertongimenis/status/1564700278993162240
 
-word count = 34
-words loading = 3
-factor score = 3
+word count = 46
+words loading = 7
+factor score = 6
 
-Olha, acho que não. E se **participarem** será a maior queimação de filme 
-para a instituição em muitos anos. HASHTAG #forabolsonaro_h HASHTAG 
-#impeachmentdebolsonarourgente_h Bolsonaro diz que Forças Armadas 
-**participarão** de **ato** pró-governo de 7 de **setembro** 
+O Clã Bolsonaro não é uma **família** , é uma quadrilha de bandidos e 
+ladrões. Só hoje vieram a tona dois **escândalos** : a **compra** de 51 
+**imóveis** em **dinheiro** **vivo** e a PF revelando que a Abin atrapalhou as 
+investigações contra o **filho** mais novo! HASHTAG 
+#bolsonaropresidiárioem2023_h 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-participar
-setembro
+compra
+dinheiro
+escândalo
+família
+filho (secondary)
+imóvel
+vivo

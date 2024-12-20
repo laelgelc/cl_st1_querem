@@ -1,23 +1,24 @@
-file = t002245
-date = 2018-12-29
-user = joaooalvarenga
-conversation = 3903528703
-URL = https://twitter.com/joaooalvarenga/status/1079096892473180161
+file = t015196
+date = 2022-04-29
+user = AgdaMagda3
+conversation = 1442660937798934529
+URL = https://twitter.com/AgdaMagda3/status/1519767667363790848
 
-word count = 49
-words loading = 5
-factor score = 5
+word count = 35
+words loading = 4
+factor score = 4
 
-Bolsonaro não poderia **liberar** a **posse** de **arma** por **decreto** . 
-Teria que ser no máximo, por MP. Primeiro pq **decreto** é norma jurídica 
-inferior à **lei** ordinária. Portanto, n poderia mudar a **Lei** 10826 / 
-2003 por **decreto** . Segundo pq **decreto** é p / normatizar **lei** . Não 
-pode alterar direitos. 
+@LeoDiCaprio Bolsonaro, Presidente da Liberdade para Todos, Corajoso, Patriota, 
+que combate a **corrupção** e o **crime** **organizado** , com o propósito 
+de transformar e melhorar, pensando em um **grande** futuro para o Brasil. 
+HASHTAG #bolsonaroreeleito2022_h HASHTAG #bolsonarothebestpresidentofbrazil_h 
+flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e 
+flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e 
+flag_brazil_e 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-lei
-liberar
-posse
+corrupção
+crime
+grande
+organizar

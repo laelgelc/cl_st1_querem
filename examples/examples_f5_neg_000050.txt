@@ -1,17 +1,17 @@
-file = t007172
-date = 2020-05-30
-user = Joaocqf
-conversation = 963875620504600578
-URL = https://twitter.com/Joaocqf/status/1266840306189774849
+file = t016718
+date = 2022-07-30
+user = bozo_bot
+conversation = 1263561100748107776
+URL = https://twitter.com/bozo_bot/status/1553501138653220866
 
-word count = 18
+word count = 20
 words loading = 2
 factor score = -2
 
-@SimoneF67636054 Cuidado p não votar em Moro ou qlqr outro **salvador** da 
-**pátria** em 2022 . TMJ HASHTAG #somos70porcento_h 
+RT @tonidozane: Twitter me **enchendo** o **saco** com Lula ladrão. Sai fora! 
+Bolsonaro é o remédio pra esse câncer! 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+encher
+saco

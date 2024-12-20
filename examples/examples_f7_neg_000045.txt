@@ -1,19 +1,18 @@
-file = t010840
-date = 2021-03-29
-user = LeonelRadde
-conversation = 35268237
-URL = https://twitter.com/LeonelRadde/status/1376645571621097476
+file = t004929
+date = 2019-10-30
+user = Debora_D_Diniz
+conversation = 1028620936176656384
+URL = https://twitter.com/Debora_D_Diniz/status/1189358923318484992
 
-word count = 37
-words loading = 2
-factor score = -2
+word count = 42
+words loading = 1
+factor score = -1
 
-Bolsonaro derrete, perde o Ministro da Defesa, Relações Exteriores, Gerente 
-de Recursos Humanos da Petrobrás e Advogado-Geral da União. Cúpula das 
-Forças Armadas está descontente. Parece que só existem duas saídas para o 
-**miliciano** : golpe ou **impeachment** . 
+Não foi filme de terror nem pesadelo. Presidente Bolsonaro às 3 . 30 da 
+manhã em uma live: " Witzel quer destruir a família Bolsonaro " . Se um quer 
+mesmo destruir o outro, só nos resta esperar as cenas dos próximos 
+**combates** . Ao vivo. 
 
 Lemmas in this text that loaded on the factor:
 
-impeachment
-miliciano
+combate

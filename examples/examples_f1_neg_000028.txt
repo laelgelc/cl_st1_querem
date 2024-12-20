@@ -1,19 +1,19 @@
-file = t000318
-date = 2018-04-29
-user = dantasfatureto
-conversation = 52152588
-URL = https://twitter.com/dantasfatureto/status/990540540721729536
+file = t004344
+date = 2019-07-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1156337662334312448
 
-word count = 27
-words loading = 3
+word count = 43
+words loading = 2
 factor score = -2
 
-@joicehasselmann Como parlamentar. Quais são os **projetos** relevantes 
-aprovados pela família Bolsonaro? ? ? ? Relevantes. Chega de **político** de 
-profissão. 02 mandados públicos no máximo por **pessoa** já . 
+O auditório da ABI está lotado para o **ato** em apoio a @ggreenwald, 
+@TheInterceptBr e em **defesa** da liberdade de imprensa e da Constituição 
+brasileira. Uma reposta à escalada do autoritarismo e os ataques de Bolsonaro 
+e Moro ao Estado de Direito. 
 
 Lemmas in this text that loaded on the factor:
 
-pessoa
-político
-projeto (secondary)
+ato
+defesa

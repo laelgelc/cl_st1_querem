@@ -1,22 +1,22 @@
-file = t017857
-date = 2022-10-30
-user = MairaMRT
-conversation = 2807920131
-URL = https://twitter.com/MairaMRT/status/1586852426451132418
+file = t008224
+date = 2020-08-30
+user = 01129551000C
+conversation = 1257372135795892226
+URL = https://twitter.com/01129551000C/status/1299691847686729728
 
-word count = 44
+word count = 53
 words loading = 4
-factor score = 3
+factor score = 4
 
-Tarcísio foi eleito para governar São Paulo ao gosto de Bolsonaro e da 
-**extrema** **direita** . Apoiado no **conservadorismo** paulista, estará c / 
-patrões e **direita** p / impor mais ataques à classe trabalhadora. Estaremos 
-na **linha** de frente para derrotá -los c / a força nossa luta HASHTAG 
-#eleicoes2022_h 
+@GracaBinas @JanainaDoBrasil **Abre** o **olho** , tia. Quem tá fazendo 
+**merda** agora é o atual Gov. Inclusive, dando espaço p / **ladrão** no 
+Gov. A esquerda fez **merda** , Bolsonaro foi eleito apontando a **merda** e 
+está repetindo boa parte delas. Se a tia não cobrar, eles vão completar o 
+repertório de **merda** da esquerda. 
 
 Lemmas in this text that loaded on the factor:
 
-conservadorismo
-direita
-extremo
-linha (secondary)
+abrir
+ladrão
+merda
+olho

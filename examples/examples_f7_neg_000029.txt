@@ -1,19 +1,19 @@
-file = t007669
-date = 2020-07-28
-user = gleisi
-conversation = 31139434
-URL = https://twitter.com/gleisi/status/1288140481122177024
+file = t003302
+date = 2019-03-29
+user = mariadorosario
+conversation = 63118359
+URL = https://twitter.com/mariadorosario/status/1111647172418813952
 
-word count = 44
+word count = 42
 words loading = 2
-factor score = -2
+factor score = -1
 
-Governo Bolsonaro estuda proibir famílias carentes de **receberem** + de um 
-benefício social. Se uma **mãe** solteira **recebe** , por exemplo, abono 
-salarial e bolsa família, perderá 1 dos benefícios. É menos dinheiro p / 
-comida, remédio, luz. Esse governo não tem compromisso c / os + pobres! 
+Quase 100 dias de mandato e Bolsonaro não apresentou ao Brasil um único 
+**programa** de **combate** ao desemprego. Só fala em armas, Venezuela e 
+retirar a aposentadoria. Qnd vão abandonar a pauta ideológica e iniciar as 
+medidas para geração de emprego? 
 
 Lemmas in this text that loaded on the factor:
 
-mãe
-receber
+combate
+programa (secondary)

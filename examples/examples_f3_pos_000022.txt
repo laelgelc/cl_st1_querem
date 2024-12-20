@@ -1,19 +1,21 @@
-file = t017035
-date = 2022-08-30
-user = brsamba
-conversation = 167749392
-URL = https://twitter.com/brsamba/status/1564616433753100292
+file = t002219
+date = 2018-12-30
+user = elianaosonho
+conversation = 211991111
+URL = https://twitter.com/elianaosonho/status/1079527325530767360
 
-word count = 40
-words loading = 2
-factor score = 2
+word count = 24
+words loading = 5
+factor score = 5
 
-Se houvesse boa vontade da justiça, essa **reportagem** não só derrubaria 
-Bolsonaro como colocaria ele e toda a família na prisão. Prova cabal de 
-enriquecimento ilícito por meio de dinheiro sujo e de origem suspeita ( 
-**tráfico** ? milícia? roubo? ) . Podridão! 
+RT @LeiaRachor: Quero que essa " **Direita** **liberal** na **economia** e 
+**conservadora** nos **costumes** " FIQUE NO PODER NOS PRÓXIMOS 60 ANOS ou que 
+os Bras … 
 
 Lemmas in this text that loaded on the factor:
 
-reportagem
-tráfico
+conservador
+costume
+direita
+economia
+liberal

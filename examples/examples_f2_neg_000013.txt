@@ -1,19 +1,19 @@
-file = t006369
-date = 2020-03-30
-user = Cincuunn
-conversation = 1187499221387300864
-URL = https://twitter.com/Cincuunn/status/1244772233517699080
+file = t000212
+date = 2018-04-23
+user = gabrieljacobsen
+conversation = 14216882
+URL = https://twitter.com/gabrieljacobsen/status/988468960982110208
 
-word count = 41
+word count = 38
 words loading = 2
 factor score = -2
 
-Sou democrático e **acho** um absurdo a ditadura comunista chinesa censurar 
-entrevistas de órgãos e pessoas **ligadas** à saúde a respeito do Corona 
-vírus. Absurdo, né ? Mas foi o Bolsonaro que acabou de censurar as 
-entrevistas do Ministério da Saúde. 
+Espalhar **fake** **news** ( notícias falsas ) é um atendado à democracia 
+que não poderia ser praticado, conscientemente, por um agente político. De 
+forma alguma. Esquerda, direita, centrão, liberal, socialista, conservador, 
+progressista. . . Tudo é válido, politicamente. **Fake** **news** , NÃO. 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-ligar
+fake
+news

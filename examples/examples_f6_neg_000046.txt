@@ -1,19 +1,17 @@
-file = t003538
-date = 2019-04-29
-user = matheuslinardd
-conversation = 1013463109728653313
-URL = https://twitter.com/matheuslinardd/status/1122894287103037440
+file = t000318
+date = 2018-04-29
+user = dantasfatureto
+conversation = 52152588
+URL = https://twitter.com/dantasfatureto/status/990540540721729536
 
-word count = 49
-words loading = 2
-factor score = -2
+word count = 27
+words loading = 1
+factor score = -1
 
-Geral **postando** **foto** do Bolsonaro levando facada dizendo que é spoiler 
-de GOT. Lindo quando a esquerda descobre que o humor e a liberdade de 
-expressão não devem ter limites. Agora experimenta **postar** meme da 
-Marielle pra ver se a patrulha do politicamente correto não cai em cima? 
+@joicehasselmann Como parlamentar. Quais são os projetos relevantes aprovados 
+pela família Bolsonaro? ? ? ? Relevantes. **Chega** de político de 
+profissão. 02 mandados públicos no máximo por pessoa já . 
 
 Lemmas in this text that loaded on the factor:
 
-foto
-postar
+chegar

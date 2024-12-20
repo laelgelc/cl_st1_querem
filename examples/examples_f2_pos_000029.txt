@@ -1,21 +1,22 @@
-file = t016162
-date = 2022-06-28
-user = govbr
-conversation = 861707648584085504
-URL = https://twitter.com/govbr/status/1541782328040718338
+file = t015616
+date = 2022-05-30
+user = ptdeminas
+conversation = 88994803
+URL = https://twitter.com/ptdeminas/status/1531396282337488896
 
-word count = 44
+word count = 39
 words loading = 4
 factor score = 4
 
-Segundo dados do Ipea, em abril deste ano, atingimos a taxa de 9 , 4 % de 
-desempregados no país, o **menor** índice desde outubro de 2015 . Agora, são 
-97 , 8 **milhões** de trabalhadores empregados. Garantir **emprego** e 
-**renda** , por isso, somos a HASHTAG #pátriadaesperança_h. Acesse: 
+no_entry_e ️ Bolsonaro explode **renda** das famílias com sucessivos 
+**aumentos** do **gás** . cross_mark_e Em SP, mais **pobres** comprometem 11 % 
+da **renda** com **gás** de cozinha. No país, compras com supermercado 
+abocanham 60 % do dinheiro das classes D e E. mobile_phone_with_arrow_e Saiba 
+mais: 
 
 Lemmas in this text that loaded on the factor:
 
-emprego
-milhão
-pequeno
+aumento
+gás
+pobre
 renda

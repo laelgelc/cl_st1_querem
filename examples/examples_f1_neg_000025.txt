@@ -1,18 +1,20 @@
-file = t000171
-date = 2018-03-29
-user = hsonego
-conversation = 403809102
-URL = https://twitter.com/hsonego/status/979428589589315584
+file = t004215
+date = 2019-07-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1156285865854939136
 
-word count = 32
+word count = 41
 words loading = 2
 factor score = -2
 
-Diante do tom sempre pastel dos **políticos** , é necessário uma certa dose 
-de Bolsonaro, sim. Vivemos num país sem segurança e sem serviço **sociais** 
-. Temas duros como armamento e controle populacional. . . 
+Hoje estarei no **ato** na ABI em solidariedade a @ggreenwald e em **defesa** 
+da liberdade de imprensa e da Constituição brasileira. A criminalização, 
+ameaças e tentativas de intimidação de jornalistas pelo governo Bolsonaro é 
+um ataque à democracia. HASHTAG #imprensalivre_h HASHTAG 
+#liberdadedeimprensa_h 
 
 Lemmas in this text that loaded on the factor:
 
-político
-social
+ato
+defesa

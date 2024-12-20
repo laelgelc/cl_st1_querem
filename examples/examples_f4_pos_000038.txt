@@ -1,20 +1,21 @@
-file = t018586
-date = 2022-11-28
-user = alertatotal
-conversation = 21823273
-URL = https://twitter.com/alertatotal/status/1597286665571430400
+file = t017294
+date = 2022-08-30
+user = onze_maio
+conversation = 1412174217114796041
+URL = https://twitter.com/onze_maio/status/1564758223592333313
 
-word count = 41
-words loading = 3
-factor score = 3
+word count = 13
+words loading = 6
+factor score = 6
 
-Diante das novas diretrizes de redes sociais que somos obrigados a obedecer - 
-ou vamos perecer digitalmente - , fica a dúvida: estamos em uma ditadura 
-**democrática** ? Ou em uma **democracia** ditatorial? Liberdade de 
-**Expressão** ? Virou ficção? ! Resistir é possível? Ou é inútil? 
+**Família** Bolsonaro **comprou** 107 **imóveis** , dos quais **metade** ( 51 
+) em **dinheiro** **vivo** 
 
 Lemmas in this text that loaded on the factor:
 
-democracia
-democrático
-expressão
+comprar
+dinheiro
+família
+imóvel
+metade
+vivo

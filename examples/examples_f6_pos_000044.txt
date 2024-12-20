@@ -1,21 +1,24 @@
-file = t016974
-date = 2022-08-30
-user = lombarde_emilia
-conversation = 1425103579677929483
-URL = https://twitter.com/lombarde_emilia/status/1564763321689047040
+file = t005428
+date = 2019-12-30
+user = bibonunes1
+conversation = 3406756888
+URL = https://twitter.com/bibonunes1/status/1211466212938571781
 
-word count = 22
-words loading = 5
-factor score = 3
+word count = 47
+words loading = 6
+factor score = 4
 
-RT @taliriapetrone: O dia mal começou e temos dois **escândalos** 
-**envolvendo** a família Bolsonaro: - **Compra** de 51 **imóveis** com 
-dinheiro **VIVO** - A … 
+Com o **registro** de **armas** **aumentando** 50 % em relação ao ano 
+passado, o número de **mortes** caiu 22 % , diz Bolsonaro. Concordo 
+totalmente, com **armas** nas mãos de **cidadãos** de bem, a bandidagem sabe 
+que agora pode ter reação das antigas vítimas. Desarmado tem que **andar** 
+bandido! 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-envolver
-escândalo (secondary)
-imóvel
-vivo (secondary)
+andar (secondary)
+arma
+aumentar
+cidadão
+morte (secondary)
+registro

@@ -1,24 +1,21 @@
-file = t014904
-date = 2022-03-30
-user = johnny3l
-conversation = 1218632373283250177
-URL = https://twitter.com/johnny3l/status/1508952355378761739
+file = t013031
+date = 2021-10-29
+user = erikakokay
+conversation = 87021796
+URL = https://twitter.com/erikakokay/status/1454214833696559106
 
-word count = 45
-words loading = 6
+word count = 48
+words loading = 4
 factor score = 4
 
-@EricGarciaAmor1 @bez06252512 @oBarbudinho @buenofafa Em quase 4 anos de 
-governo Bolsonaro conseguiu cortar o **programa** de moradia para **pobre** , o 
-bolsa família, verbas para universidades públicas, **reduziu** **impostos** 
-específicos para **ricos** , **aumentou** a idade da aposentadoria, cortou 
-bolsas de ensino … cara a lista é imensa 
+Bolsonaro acabou hoje c / o Bolsa Família e vai criar o Bolsa Eleição, ops 
+Auxílio Brasil. Bolsonaro chamava o **programa** de eleitoreiro, mas era muito 
+mais que transferência de **renda** . Era mais **saúde** , **educação** e 
+cidadania. Eleitoreiro é o tal Auxílio Brasil que só vale para 2022 ! 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar (secondary)
-imposto
-pobre
+educação
 programa
-reduzir (secondary)
-rico
+renda
+saúde

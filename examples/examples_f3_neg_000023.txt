@@ -1,21 +1,19 @@
-file = t000739
-date = 2018-05-30
-user = brsemcomunas
-conversation = 153068983
-URL = https://twitter.com/brsemcomunas/status/1001607060335755264
+file = t001502
+date = 2018-08-30
+user = MorenoJose0809
+conversation = 992558884782034949
+URL = https://twitter.com/MorenoJose0809/status/1035271512952066049
 
-word count = 54
-words loading = 3
-factor score = -3
+word count = 32
+words loading = 2
+factor score = -2
 
-@reglw @lobaoeletrico D. Regina q mal Bolsonaro pode lhe fazer ou a sua 
-família? Homem simples, valores éticos e morais, Cristão, afeito a 
-**liberdade** de todos os tipos, repito q mal pode lhe fazer? Onde está o 
-candidato perfeito, quem é este santo e puro homem? Lembrem -se sempre:O 
-**inimigo** é a **esquerda** podre 
+HASHTAG #3em1_h Alckmin: " armas não resolvem o problema da violência e 
+segurança " Bolsonaro: " quando Alckmin deixar de andar de **carro** 
+**blindado** e seguranças armados, eu passo a acreditar nele " Talkei, @roxmo 
+@jairbolsonaro @benebarbosa_mvb? 
 
 Lemmas in this text that loaded on the factor:
 
-esquerda
-inimigo
-liberdade
+blindar
+carro

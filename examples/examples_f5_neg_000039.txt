@@ -1,19 +1,17 @@
-file = t006528
-date = 2020-04-29
-user = camiloschirmer
-conversation = 937278046943547392
-URL = https://twitter.com/camiloschirmer/status/1255605926846959620
+file = t012637
+date = 2021-09-29
+user = aecio141
+conversation = 4825993983
+URL = https://twitter.com/aecio141/status/1443263414877442054
 
-word count = 43
+word count = 18
 words loading = 2
 factor score = -2
 
-@rosaneoliveira Deixa de ser safada e posta aí no teu tt vídeos de famílias 
-indignadas com diagnósticos falsos de **Covid** . . . tu não tem coragem. . . 
-é militante do PT. . . teu lema: **volta** dinheiro pra RBS. . . aí vou 
-apoiar o Bolsonaro. . tu é canalha 
+@DCM_online Deve ser por isso que Bolsonaro e família **puxam** **saco** do 
+aparato de polícias. Pensam no futuro. 
 
 Lemmas in this text that loaded on the factor:
 
-covid
-volta
+puxar
+saco

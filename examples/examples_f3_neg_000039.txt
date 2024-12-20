@@ -1,20 +1,17 @@
-file = t002785
-date = 2019-01-30
-user = CarlosBolsonaro
-conversation = 68712576
-URL = https://twitter.com/CarlosBolsonaro/status/1090683513823739905
+file = t003782
+date = 2019-05-30
+user = BereniceAndreia
+conversation = 366954762
+URL = https://twitter.com/BereniceAndreia/status/1134247725564870658
 
-word count = 47
-words loading = 3
-factor score = -3
+word count = 18
+words loading = 2
+factor score = -2
 
-Junto com o sistema que se formou há décadas, estas pessoas têm a certeza de 
-que no futuro contarão a mesma história que 1964 . Perseguidos, **ditadura** 
-. . . jamais o subestimemos! Pior que a corrupção generalizada que 
-proporcionaram será o dia em que estes **tomarem** também sua **liberdade** ! 
+RT @nesimachado: Que família! **Miliciano** preso no DF por grilagem de terras 
+é **tio** de Michelle Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-ditadura
-liberdade
-tomar
+miliciano
+tio

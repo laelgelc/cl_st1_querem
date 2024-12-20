@@ -1,20 +1,18 @@
-file = t017681
-date = 2022-09-27
-user = medeiros1903_
-conversation = 1011280775885545472
-URL = https://twitter.com/medeiros1903_/status/1574596020906098689
+file = t010555
+date = 2021-03-30
+user = BretaMarco
+conversation = 3092743835
+URL = https://twitter.com/BretaMarco/status/1377041916525690883
 
-word count = 29
-words loading = 4
-factor score = -4
+word count = 13
+words loading = 3
+factor score = -3
 
-Eu não tenho nem palavras pra michele Bolsonaro chamando a Bruna Marquezine de 
-feia e vulgar **CARA** DO **CÉU** , tu mama o Voldemort mulher pelo **amor** 
-de **Deus** 
+RT @folha: **Comandantes** das Forças Armadas pedem **demissão** em 
+**protesto** contra Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-céu
-deus
+comandante
+demissão
+protesto

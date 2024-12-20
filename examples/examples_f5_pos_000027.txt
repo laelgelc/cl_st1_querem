@@ -1,22 +1,24 @@
-file = t002209
-date = 2018-12-29
-user = senadorhumberto
-conversation = 76049312
-URL = https://twitter.com/senadorhumberto/status/1079033005132390400
+file = t014939
+date = 2022-03-30
+user = WyLopes1
+conversation = 2850080603
+URL = https://twitter.com/WyLopes1/status/1509172165215727619
 
-word count = 43
-words loading = 5
-factor score = 5
+word count = 56
+words loading = 4
+factor score = 4
 
-NO LUGAR DE EMPREGOS, **ARMAS** Entre tantas mudanças que o país precisa 
-fazer, o futuro presidente quer **armar** a **população** . . . Bolsonaro, a 
-**arma** do trabalhador deve ser o emprego, decretar a **posse** de **armas** 
-NÃO vai diminuir a violência. **Tiro** no pé . 
+@MarcioM61326104 @Nuu0204 @nefertiti2022 @LEANDROCORR21 @mello65440 
+@alvesmimar3 @VanuzaRocha12 @leal11_vanda @Melkpsobrinho @FATIMAC75843178 
+@Marbenje @silveira50 @Eduardo57009171 @LNickele @RE_BOLSONARO @ZilaHelena Só 
+os incautos não percebem que STF, a maioria dos **Senadores** e dos 
+**Deputados** **Federais** e + alguns **Governadores** estão todos 
+mancomunados para acabar com as liberdades individuais e aos poucos instituir o 
+socialismo. Acordemos enquanto é tempo. . . NOSSA DEMOCRACIA ESTÁ AGONIZANDO. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armar
-população
-posse
-tiro
+deputado
+federal
+governador
+senador

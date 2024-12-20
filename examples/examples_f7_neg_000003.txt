@@ -1,23 +1,19 @@
-file = t014880
-date = 2022-03-29
-user = abdalafarah
-conversation = 336878973
-URL = https://twitter.com/abdalafarah/status/1508816273702064141
+file = t007968
+date = 2020-08-28
+user = Elainnefaria1
+conversation = 4925532509
+URL = https://twitter.com/Elainnefaria1/status/1299493124411097089
 
-word count = 53
-words loading = 5
-factor score = -4
+word count = 44
+words loading = 2
+factor score = -2
 
-Hoje é dia 29 / 03 / 2022 Lembremos: E o Queiroz, **esposa** e Rachadinhas? E 
-o Flávio Bolsonaro? E o cheque da Michele? E os **milicianos** ? Suas 
-famílias nos **gabinetes** ? E os celulares do Adriano? E o segredo do 
-Bebbiano? E o Adélio Bispo? Quem mandou matar Marielle? E a **CPI** da 
-**Covid** ? 
+Enquanto a polícia bate **recordes** de apreensão de drogas e **combate** ao 
+crime organizado durante o governo Bolsonaro, Rodrigo Maia quer votar a 
+legalização da maconha. Quem é cristão, conservador e contra o uso de 
+drogas como eu se apresente. Bora subir? ? ? HASHTAG #pl399não_h 
 
 Lemmas in this text that loaded on the factor:
 
-covid (secondary)
-cpi
-esposo
-gabinete
-miliciano
+combate
+recorde

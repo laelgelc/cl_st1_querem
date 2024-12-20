@@ -1,22 +1,24 @@
-file = t000982
-date = 2018-06-29
-user = JoaoHNeuhaus
-conversation = 1965751644
-URL = https://twitter.com/JoaoHNeuhaus/status/1002638961892823040
+file = t017324
+date = 2022-08-30
+user = robgordon_sp
+conversation = 17688361
+URL = https://twitter.com/robgordon_sp/status/1564757235523272705
 
-word count = 53
-words loading = 4
-factor score = 4
+word count = 38
+words loading = 7
+factor score = 6
 
-@palestra77 @SetteGilberto @Marcio_XMP @exercitooficial Sempre com essa 
-história. . . ninguém quer essa bola, pq acha q as forças **armadas** vão 
-querer? Amigo esquece isso e vai **militar** por algo mais importante como 
-pressionar a bandidágem do STF. Os **militares** já falaram, NÃO VAI haver 
-**intervenção** a não ser que haja um **golpe** muito grande. . . 
+A matéria do UOL saiu pela manhã . São 20:30 , então o **patrimônio** da 
+**família** Bolsonaro já deve ter subido de 107 pra uns 111 , 112 
+**imóveis** . Tudo **pago** com **dinheiro** **vivo** , afinal todo brasileiro 
+**compra** **imóveis** desse jeito. 
 
 Lemmas in this text that loaded on the factor:
 
-armado
-golpe
-intervenção
-militar
+comprar
+dinheiro
+família
+imóvel
+pagar (secondary)
+patrimônio
+vivo

@@ -1,22 +1,19 @@
-file = t013469
-date = 2021-11-29
-user = JeanCdeCarvalho
-conversation = 316090454
-URL = https://twitter.com/JeanCdeCarvalho/status/1465428450840387589
+file = t003506
+date = 2019-03-30
+user = ENIC_Oficial
+conversation = 3398789163
+URL = https://twitter.com/ENIC_Oficial/status/1112066393711759360
 
-word count = 41
-words loading = 5
-factor score = -3
+word count = 47
+words loading = 2
+factor score = -2
 
-@marcelvanhattem, @gilson__marques e @novonacamara, a **mulher** presa por 
-insinuar que Bolsonaro teria rolado no tatame com o instrutor de judô de AMAN, 
-**chamando** o Pr. de noivinha do Aristides, cometeu " **crime** de opinião " 
-ou exerceu o **direito** a liberdade de **expressão** ? 
+@BolsonaroSP + 50 milhões d3 Brasileiros q **usam** Deus p / salvar acabaram 
+mostrando q são os piores do mundo são os q + deixam claro isso. Povo votou 
+em Bolsonaro, pois ele não apresentou plano de governo. Votaram nele por 
+afinidade ao **ÓDIO** , VIOLÊNCIA, DESTRUIÇÃO, MORTE DE INOCENTES! 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-crime
-direito (secondary)
-expressão (secondary)
-mulher
+usar
+ódio

@@ -1,21 +1,19 @@
-file = t015486
-date = 2022-05-30
-user = EdRaposo_
-conversation = 1518965841261441024
-URL = https://twitter.com/EdRaposo_/status/1531297540297170949
+file = t019960
+date = 2023-03-30
+user = CarlosFiorelli2
+conversation = 1488398972947517443
+URL = https://twitter.com/CarlosFiorelli2/status/1641590485549748224
 
-word count = 49
-words loading = 4
-factor score = -4
+word count = 24
+words loading = 3
+factor score = -3
 
-Em 2019 Bolsonaro voltou de viagem aos EUA e disse que houve fraude nas 
-eleições e que tinha **vencido** no **primeiro** turno. Se cassarem a Kokay 
-pelo tweet dela vão cassar o PR também. Deixem eles falarem! Lutem por 
-**liberdade** , inclusive pelo **direito** de falar bobagem dos petistas! 
+RT @_Janoninho: O ladrão de **joias** caçando **carro** **blindado** , sendo 
+que foi ele que armou a população. Que se defenda sozinho com suas armas. F 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-liberdade
-primeiro
-vencer
+blindar
+carro
+joia

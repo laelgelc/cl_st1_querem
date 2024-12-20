@@ -1,19 +1,16 @@
-file = t004641
-date = 2019-09-29
-user = Emanoel1953
-conversation = 1438906560
-URL = https://twitter.com/Emanoel1953/status/1178343933132333056
+file = t002677
+date = 2019-01-30
+user = nilmarialima
+conversation = 112045740
+URL = https://twitter.com/nilmarialima/status/1090756768370696192
 
-word count = 49
-words loading = 2
-factor score = -2
+word count = 16
+words loading = 1
+factor score = -1
 
-O ladrão rouba o seu celular, a sua bicicleta, o seu carro. . . FHC, Temer, 
-Bolsonaro, Serra, Alckmin, Aécio, Moro, Dallagnol. . . Roubam o seu emprego, a 
-loja de sua **esposa** , a universidade de sua **filha** , o futuro de seu 
-neto. O ladrão escolhe você , mas você escolhe esta corja. 
+Presidente Jair Bolsonaro: Criminosos Adolescentes Sejam Enviados para as 
+Forças Armadas - **Assine** a petição! via @change_br 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-filha
+assinar

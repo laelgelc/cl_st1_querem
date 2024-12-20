@@ -1,20 +1,18 @@
-file = t007511
-date = 2020-06-29
-user = ThisIsThieriot
-conversation = 1271131716539875329
-URL = https://twitter.com/ThisIsThieriot/status/1277596539293184003
+file = t008671
+date = 2020-10-30
+user = pauloteixeira13
+conversation = 25562342
+URL = https://twitter.com/pauloteixeira13/status/1322216162034372608
 
-word count = 52
-words loading = 3
-factor score = -3
+word count = 34
+words loading = 2
+factor score = -2
 
-@deusacimadt @diego_lo2039 O Bolsonaro fica aí dizendo que **gay** tem que 
-levar surra, que tal mulher merecia ser estuprada ou não, e que o filho dele 
-não ficaria com uma **negra** porque ele tem educação. Então é obvio que 
-eu tô **puto** ! Você só não está porque essa violência não é contigo. 
+Desemprego no Brasil **bate** recorde e **chega** a 14 , 4 % . Isso não tira o 
+sono nem do Bolsonaro nem do Paulo Guedes. Porém, a mãe e o pai de família 
+ficam sem dormir. 
 
 Lemmas in this text that loaded on the factor:
 
-gay
-negro
-puto
+bater
+chegar

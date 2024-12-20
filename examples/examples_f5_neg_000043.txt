@@ -1,17 +1,19 @@
-file = t006738
-date = 2020-04-29
-user = anabellbar
-conversation = 219101621
-URL = https://twitter.com/anabellbar/status/1255633975080517635
+file = t013686
+date = 2021-12-30
+user = Rex_Racer_
+conversation = 1103747604867883008
+URL = https://twitter.com/Rex_Racer_/status/1476691077713338373
 
-word count = 24
+word count = 50
 words loading = 2
 factor score = -2
 
-@jcwmorsch @folha Igualar bolsonaro a LULA é tentar fazer a cabeça dos 
-idiotas que agora o Brasil tem um novo **salvador** da **pátria** . 
+Se vc não tomou vacina e se sente seguro com tratamento precoce, ótimo. Se vc 
+tomou vacina e se sente seguro, otimo. Minha pergunta é : pq estão 
+**enchendo** o **saco** uns dos outros se temos liberdade sobre nosso corpo? 
+Nossa meta é reeleger o Bolsonaro com ou sem vacina. 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+encher
+saco

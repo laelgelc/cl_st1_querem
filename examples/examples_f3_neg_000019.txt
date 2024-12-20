@@ -1,21 +1,19 @@
-file = t000169
-date = 2018-03-29
-user = Carlos_Kriok
-conversation = 755490719830192129
-URL = https://twitter.com/Carlos_Kriok/status/979297650825728000
+file = t001429
+date = 2018-08-30
+user = marcoaureliop
+conversation = 50153262
+URL = https://twitter.com/marcoaureliop/status/1035278486045253632
 
-word count = 44
-words loading = 4
-factor score = -3
+word count = 40
+words loading = 2
+factor score = -2
 
-@anamariabsb @delucca @Miltonneves Tá tudo errado nesse tweet dele. 
-**Primeiro** que chama os outros estados que receberam o Lula de burros e não 
-politizados e **segundo** se o pessoal fosse mesmo culto e politizado 
-entenderia que em uma **democracia** existe **liberdade** de expressão 
+@JovemPanNews Sobre " não é na bala que se resolve " : Flores não garantem a 
+paz. Que os " santos " que repetem este bordão deixem de andar com **carro** 
+**blindado** e seguranças armados que passo a acreditar em suas propostas. 
+Jair Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-democracia (secondary)
-liberdade
-primeiro
-segundo
+blindar
+carro

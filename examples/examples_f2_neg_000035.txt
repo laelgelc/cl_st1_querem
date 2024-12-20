@@ -1,19 +1,19 @@
-file = t020272
-date = 2023-03-30
-user = vozesspaces
-conversation = 1484659618349469700
-URL = https://twitter.com/vozesspaces/status/1641574205241131008
+file = t002304
+date = 2018-12-30
+user = ricardope
+conversation = 36705462
+URL = https://twitter.com/ricardope/status/1079469276107603968
 
-word count = 41
+word count = 52
 words loading = 2
 factor score = -2
 
-flag_brazil_e 🫣BEM FEITO HASHTAG #vozesprogressistas_h Donald Trump primeiro 
-ex presidente dos EUA indiciado c acusação formal em caso de suborno a atriz 
-pornô Stormy Daniels. FBI investigou e tem provas robustas. O **amigo** do 
-Bolsonaro ladrão disse ser vítima de perseguição. Cuidado bozo eyes_e 
+Pensava que a " **facada** " no bolsonaro seria um daqueles casos que demoram 
+anos para ser elucidado - como, por exemplo, a morte de JK, se num simples 
+acidente de carro ou obra dos milicos. Hoje sabemos que foram os milicos. O doc 
+" A **facada** no mito " não deixa dúvidas sobre a **armação** . 
 
 Lemmas in this text that loaded on the factor:
 
-amigo
-bem
+armação
+facada

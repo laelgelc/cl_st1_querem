@@ -1,19 +1,20 @@
-file = t003761
-date = 2019-04-29
-user = Henr1queFragoso
-conversation = 372357564
-URL = https://twitter.com/Henr1queFragoso/status/1122927987572248576
+file = t002567
+date = 2018-12-23
+user = RachelSherazade
+conversation = 168520768
+URL = https://twitter.com/RachelSherazade/status/1076844508132847616
 
-word count = 49
+word count = 53
 words loading = 2
-factor score = -2
+factor score = -1
 
-Lula acerta qdo aponta a diferença que haveria se fossem ele e sua família 
-que tivessem a proximidade que os Bolsonaro têm com **milicianos** Imaginem a 
-verborragia do @deltanmd se fosse com Lula que o **chefe** do " escritório do 
-crime " tivesse os vínculos que tem com Flávio Bolsonaro 
+@gilsonpleal governo quer se eximir da responsabilidade da segurança 
+**publica** . por isso quer cada cidadão com uma arma na mão. isso não vai 
+resolver o problema da criminalidade pois não somos treinados para o 
+**combate** , nem para reagir a um ataque. sou a favor da posse e contra o 
+porte de arma. 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-miliciano
+combate
+publicar (secondary)

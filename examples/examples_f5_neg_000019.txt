@@ -1,18 +1,18 @@
-file = t001318
-date = 2018-08-30
-user = veramagalhaes
-conversation = 19667016
-URL = https://twitter.com/veramagalhaes/status/1034972129513623553
+file = t005023
+date = 2019-10-30
+user = veronicaamord
+conversation = 217104726
+URL = https://twitter.com/veronicaamord/status/1189688590839812097
 
-word count = 28
+word count = 33
 words loading = 2
 factor score = -2
 
-25 anos de carreira, muita história já vista, barrada e escrita. Nenhuma 
-ilusão quanto a **salvadores** ( as ) da **pátria** . Uma vida empenhada ao 
-jornalismo, do regional ao nacional. Sempre com … 
+O dia que a família bolsonaro for presa e todos os bolsominions enfiarem a 
+cara dentro do próprio **cu** vai ser o dia mais **feliz** da minha vida ( 
+espero viver pra isso ) 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+cu
+feliz

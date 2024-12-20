@@ -1,20 +1,21 @@
-file = t019626
-date = 2023-02-27
-user = joaopedrofsz
-conversation = 851625971237171201
-URL = https://twitter.com/joaopedrofsz/status/1629350774911148033
+file = t011684
+date = 2021-06-29
+user = poetlsaIsa
+conversation = 37076870
+URL = https://twitter.com/poetlsaIsa/status/1410018932333940737
 
-word count = 45
-words loading = 3
-factor score = 3
+word count = 41
+words loading = 4
+factor score = 4
 
-@brutalouthere31 @_oxeicaro **direita** bolsonaro**** Isso porque, ser 
-**liberal** ou **conservador** de facto está bem longe de ser bolsonarista, 
-que é usado pelo oportunista Bolsonaro que deu golpe eleitoral nos eleitores 
-em 2018 e queria fazer igual em 2022 , e teve a proeza de perder pro squid_e. 
+vontade de marcar essa pirralha no meu post falando " EI VOCÊ AÍ , tentou se 
+esconder depois de falar **merda** mas estamos de **olho** kkkkk " daí eu 
+lembrei que eu sou desempregada pelo **amor** de **deus** bolsonaro FAÇA 
+ALGUMA COISAAAA loudly_crying_face_e p 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-liberal
+amor
+deus
+merda
+olho

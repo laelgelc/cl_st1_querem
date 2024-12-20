@@ -1,19 +1,22 @@
-file = t019536
-date = 2023-02-27
-user = redebrasilatual
-conversation = 34366699
-URL = https://twitter.com/redebrasilatual/status/1630276121064271872
+file = t014288
+date = 2022-02-27
+user = FerLineDoBe
+conversation = 382220373
+URL = https://twitter.com/FerLineDoBe/status/1498072090074923011
 
-word count = 39
-words loading = 2
-factor score = 2
+word count = 36
+words loading = 5
+factor score = 5
 
-MOMENTO DE DECISÃO: Ao invés de agradar a Faria Lima e penalizar a 
-população, Lula tem hoje uma chance rara. A de **desarmar** a bomba-relógio 
-que Bolsonaro deixou na empresa e prepará -la para jogar papel decisivo na 
-reconstrução nacional - @outraspalavrass 
+Bolsonarismos, profissionais e militantes, idolatram Vladimir Putin e lambem 
+suas botas, em nome do anti-globalismo boçal e do anti-progressismo extremado, 
+vêem Putin como " **conservador** " , na verdade é AUTOCRATA REACIONÁRIO 
+VAGABUNDO, **inimigo** **número** 1 da ordem **liberal** **democrática** . 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-desarmar
+conservador
+democrático
+inimigo
+liberal
+número

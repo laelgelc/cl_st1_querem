@@ -1,27 +1,34 @@
-file = t003485
-date = 2019-03-30
-user = mahenriq
-conversation = 135274770
-URL = https://twitter.com/mahenriq/status/1112075878069080070
+file = t013179
+date = 2021-10-30
+user = IlsaBernardo
+conversation = 1129495267127037952
+URL = https://twitter.com/IlsaBernardo/status/1454528884045754368
 
-word count = 34
-words loading = 7
-factor score = 7
+word count = 26
+words loading = 9
+factor score = 8
 
-Deus seja louvado e **proteja** nosso ministro da economia e nosso presidente! 
-! A próxima fase será reduzir os impostos sobre o consumo e sua incidência 
-em cascata. . . **Amém** ! ! **folded_hands_e** **red_heart_e** 
-flexed_biceps_e **flag_brazil_e** **backhand_index_pointing_right_e** 
-**backhand_index_pointing_right_e** HASHTAG #feliz1964_h HASHTAG #viva1964_h 
-HASHTAG #regimemilitar_h HASHTAG #livredocomunismo_h HASHTAG #brasil_h 
-**flag_brazil_e** **smiling_face_with_sunglasses_e** 
+@jairbolsonaro **clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** beaming_face_with_smiling_eyes_e Amamos o nosso 
+**presidente** Bolsonaro! Iiihuuuuu **clapping_hands_e** **clapping_hands_e** 
+**clapping_hands_e** **red_heart_e** **red_heart_e** **red_heart_e** Deus 
+**abençoe** **ilumine** e **proteja** sempre o nosso **presidente** e a nossa 
+nação **folded_hands_e** **Venceremos** em nome de Jesus **folded_hands_e** 
+**flag_brazil_e** **red_heart_e** 
 
 Lemmas in this text that loaded on the factor:
 
-amém
-backhand_index_pointing_right_e
+abençoar
+clapping_hands_e
 flag_brazil_e
 folded_hands_e
+iluminar
+presidente
 proteger
 red_heart_e
-smiling_face_with_sunglasses_e
+vencer (secondary)

@@ -1,18 +1,19 @@
-file = t000113
-date = 2018-03-29
-user = Hezlena
-conversation = 287928859
-URL = https://twitter.com/Hezlena/status/979503692364812288
+file = t010527
+date = 2021-03-30
+user = casadarei2
+conversation = 1156247628201545729
+URL = https://twitter.com/casadarei2/status/1377041212146876417
 
-word count = 32
+word count = 48
 words loading = 2
 factor score = -2
 
-Bolsonaro gosta tanto de arma que deviam dar um tiro logo nele pra parar de 
-**encher** o **saco** ahhhhh vc gosta de arma então segura esses tiro seu 
-cuzao do caralho 
+O ferimento é coberto com um **pano** branco ( ngm vê sangue ) Mas o 
+candidato Jair Bolsonaro se livra dos debates, vence as eleições pregando a 
+**moral** , os bons costumes, Deus e o Patriotismo. Assume, descobre se um 
+lunático no poder. . . Guedes ferra com o povo, desemprego dispara ( + ) 
 
 Lemmas in this text that loaded on the factor:
 
-encher
-saco
+moral
+pano

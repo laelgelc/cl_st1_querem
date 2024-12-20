@@ -1,22 +1,22 @@
-file = t019310
+file = t019269
 date = 2023-01-30
-user = cristianominas
-conversation = 190798741
-URL = https://twitter.com/cristianominas/status/1620167469905358849
+user = BlogdoNoblat
+conversation = 16794066
+URL = https://twitter.com/BlogdoNoblat/status/1619986084116545539
 
-word count = 41
+word count = 32
 words loading = 5
 factor score = 4
 
-Estou pedindo ao MP que apure mais esse absurdo do governo Bolsonaro: famílias 
-do semiárido mineiro tiveram que **pagar** para fazer parte do **programa** de 
-construção de **cisternas** federal. Famílias de **baixa** **renda** fizeram 
-empréstimos para arcar com as obras: 
+Famílias **pobres** são enganadas e **pagam** para **receber** **cisternas** 
+sob Bolsonaro. Beneficiários não conseguiram ser incluídos em **programa** 
+em Minas; entidade responsável fala que houve falta de recursos para obras ( 
+Folha ) 
 
 Lemmas in this text that loaded on the factor:
 
-baixo
 cisterna (secondary)
 pagar
+pobre
 programa
-renda
+receber

@@ -1,20 +1,18 @@
-file = t005780
-date = 2020-01-30
-user = euraibolt
-conversation = 1219348487445327874
-URL = https://twitter.com/euraibolt/status/1222991275651215362
+file = t020308
+date = 2023-04-29
+user = Pedrodomar162
+conversation = 1585422108519239683
+URL = https://twitter.com/Pedrodomar162/status/1652457279940182021
 
-word count = 61
-words loading = 2
-factor score = -2
+word count = 19
+words loading = 3
+factor score = -3
 
-@rafaelbragapmw @Kurameshi1 @mafinha_veron @Marliga @badgallore @lucigoncalvesa 
-@itau Tá , mas e aí quem falou de pt aqui? ? **Amigo** pt já foi, Lula foi 
-preso e continua investigado agora os filhos do presidente não. . . . algo de 
-errado não está certo não **acha** ? Vamos parar de ficar repetindo boot e 
-cair na real? Tanto PT quanto a família Bolsonaro são farinha do mesmo saco 
+RT @Boatosorg: Boletim de checagens de **fake** **news** 29 / 04 às 20h 
+*Novas* - Fotógrafo Reuters **armação** 08 / 01 - - Bolsona … 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-amigo
+armação
+fake
+news

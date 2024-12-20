@@ -1,17 +1,19 @@
-file = t000391
-date = 2018-04-28
-user = PedroH_san
-conversation = 2315837628
-URL = https://twitter.com/PedroH_san/status/989924922666307585
+file = t001198
+date = 2018-07-17
+user = calubarros13
+conversation = 115135583
+URL = https://twitter.com/calubarros13/status/1019249369814532098
 
-word count = 22
+word count = 40
 words loading = 2
 factor score = -2
 
-@kammuy @acabraquele @CdNLeon Sim, por isso não creio em **salvadores** da 
-**pátria** ( Bolsonaro ) , acho que a mudança no congresso é primordial. 
+Eu odeio **gay** , **negro** e acho as mulheres seres inferiores. Quero arma 
+pra compensar o tamanho do meu pinto e / ou a frustração de não saber usá 
+-lo Mas cara, vc não pode escrever isso! Tá , então escreve ai: " Bolsonaro 
+2018 " . 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+gay
+negro

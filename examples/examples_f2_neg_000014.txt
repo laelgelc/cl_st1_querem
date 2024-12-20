@@ -1,18 +1,19 @@
-file = t008282
-date = 2020-09-29
-user = Gabriel6828
-conversation = 3506114175
-URL = https://twitter.com/Gabriel6828/status/1311092939406311425
+file = t000302
+date = 2018-04-29
+user = marcoaureliop
+conversation = 50153262
+URL = https://twitter.com/marcoaureliop/status/990542098192568321
 
-word count = 21
-words loading = 2
+word count = 25
+words loading = 3
 factor score = -2
 
-RT @DeputadoFederal: **Amigo** dos **amigos** : Equipe de Aras arquiva 
-investigação sobre contas que **ligam** família Bolsonaro ao gabinete do 
-ódio - C … 
+@jairbolsonaro Passar provocando os comunistas **gritando** Bolsonaro, É bem 
+diferente de ir lá e atirar, isso é **fake** **news** do Lindbergh processo 
+nele Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-amigo
-ligar
+fake
+gritar (secondary)
+news

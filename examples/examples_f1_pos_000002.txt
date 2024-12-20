@@ -1,32 +1,26 @@
-file = t013179
-date = 2021-10-30
-user = IlsaBernardo
-conversation = 1129495267127037952
-URL = https://twitter.com/IlsaBernardo/status/1454528884045754368
+file = t019416
+date = 2023-01-30
+user = ViddaBR
+conversation = 912313034
+URL = https://twitter.com/ViddaBR/status/1620043129423544320
 
-word count = 26
-words loading = 7
-factor score = 7
+word count = 41
+words loading = 8
+factor score = 8
 
-@jairbolsonaro **clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
-**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
-**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
-**clapping_hands_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
-**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
-**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
-**flag_brazil_e** beaming_face_with_smiling_eyes_e Amamos o nosso presidente 
-Bolsonaro! Iiihuuuuu **clapping_hands_e** **clapping_hands_e** 
-**clapping_hands_e** **red_heart_e** **red_heart_e** **red_heart_e** Deus 
-**abençoe** **ilumine** e **proteja** sempre o nosso presidente e a nossa 
-nação **folded_hands_e** Venceremos em nome de Jesus **folded_hands_e** 
-**flag_brazil_e** **red_heart_e** 
+@jairbolsonaro **Boa** tarde, **presidente** Bolsonaro, Deus o **abençoe** e 
+**proteja** sempre. **folded_hands_e** Que saudades do seu governo, TODO em 
+prol do povo e do país. O seu, Jair Messias Bolsonaro, foi o **melhor** 
+governo que o Brasil teve. Obrigada por tudo! **green_heart_e** 
+**yellow_heart_e** blue_heart_e white_heart_e **flag_brazil_e** 
 
 Lemmas in this text that loaded on the factor:
 
 abençoar
-clapping_hands_e
+bom
 flag_brazil_e
 folded_hands_e
-iluminar
+green_heart_e
+presidente
 proteger
-red_heart_e
+yellow_heart_e

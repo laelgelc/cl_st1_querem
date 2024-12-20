@@ -1,24 +1,27 @@
-file = t004844
-date = 2019-09-29
-user = BiaDvila1
-conversation = 976266292536725511
-URL = https://twitter.com/BiaDvila1/status/1178130187042611202
+file = t003988
+date = 2019-06-29
+user = renato_paes
+conversation = 99792684
+URL = https://twitter.com/renato_paes/status/1144943709466890240
 
-word count = 24
-words loading = 6
-factor score = 6
+word count = 35
+words loading = 7
+factor score = 7
 
-@AltairBatistad3 @EduardoCorreaeC Com certeza, firme e eternamente agradecida, 
-a Deus, a Bolsonaro, e a cada um de vcs. Enquanto houver resistência, seremos 
-PERSISTÊNCIA. face_blowing_a_kiss_e **green_heart_e** **yellow_heart_e** 
-**smiling_face_with_sunglasses_e** **flag_brazil_e** 
-**backhand_index_pointing_right_e** flexed_biceps_e **oncoming_fist_e** 
+@jairbolsonaro Muda Brasil Muda Brasil Muda de verdade Bolsonaro **presidente** 
+do Brasil musical_notes_e musical_note_e trumpet_e guitar_e Deus **abençoe** , 
+fortaleça, frutifique e multiplique sua coragem e vigor na condução do 
+País. **Boa** **noite** meu **presidente** JB17 HASHTAG #bolsonaronog20_h 
+HASHTAG #bolsonaroorgulhodobrasil_h HASHTAG #bolsonaroate2026_h 
+**smiling_face_with_sunglasses_e** **backhand_index_pointing_right_e** 
+**backhand_index_pointing_right_e** **flag_brazil_e** flag_united_states_e 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
 backhand_index_pointing_right_e
+bom
 flag_brazil_e
-green_heart_e
-oncoming_fist_e
+noite
+presidente
 smiling_face_with_sunglasses_e
-yellow_heart_e

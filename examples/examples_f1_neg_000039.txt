@@ -1,18 +1,17 @@
-file = t000891
-date = 2018-06-29
-user = AnjokaBramax
-conversation = 633015465
-URL = https://twitter.com/AnjokaBramax/status/1012680952697540609
+file = t008649
+date = 2020-10-30
+user = macmachado57
+conversation = 3004649999
+URL = https://twitter.com/macmachado57/status/1322326996463030272
 
-word count = 36
+word count = 23
 words loading = 2
 factor score = -2
 
-**Problema** resolvido, então: LULA ASSUME O HASHTAG #stf_h em Setembro, na 
-**pessoa** de Dias Toffoli E tudo será como o chefe da OrCrim mandar. Não 
-direi adeus. Começarei a me preparar para um tsunami - Enfim, Brasizuela! 
+RT @BobjeffHD: Após o bárbaro assassinato de três **pessoas** na basílica 
+de Notre-Dame de Nice, por motivo de **ódio** a cristãos, a velha imprens … 
 
 Lemmas in this text that loaded on the factor:
 
 pessoa
-problema
+ódio

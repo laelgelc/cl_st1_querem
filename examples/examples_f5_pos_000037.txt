@@ -1,21 +1,22 @@
-file = t000070
-date = 2018-03-30
-user = joseanjp
-conversation = 175383964
-URL = https://twitter.com/joseanjp/status/979533245263032321
+file = t010764
+date = 2021-03-30
+user = AfonsoFlorence
+conversation = 599427558
+URL = https://twitter.com/AfonsoFlorence/status/1377034206077935620
 
-word count = 27
+word count = 29
 words loading = 5
-factor score = 5
+factor score = 4
 
-O único plano de governo de Bolsonaro é revogar o Estatuto do 
-**Desarmamento** , **armar** a **população** para encher os cofres da 
-**indústria** de **armas** , só isso! 
+**Chefes** das três **forças** **armadas** entregam seus **cargos** , 
+ineditamente de forma simultânea, numa nítida reprovação às insistentes 
+tentativas de Bolsonaro manipular as instituições contra a **democracia** 
+HASHTAG #impeachmentdebolsonarourgente_h HASHTAG #pldogolpenao_h 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armar
-desarmamento
-indústria
-população
+armar (secondary)
+cargo
+chefe
+democracia
+força

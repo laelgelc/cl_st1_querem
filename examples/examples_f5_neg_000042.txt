@@ -1,18 +1,17 @@
-file = t006718
-date = 2020-04-29
-user = hemanoferreira
-conversation = 804540945492541444
-URL = https://twitter.com/hemanoferreira/status/1255641130890395648
+file = t013395
+date = 2021-11-29
+user = seohyungy
+conversation = 1416766086410903559
+URL = https://twitter.com/seohyungy/status/1465444726337941518
 
-word count = 29
+word count = 25
 words loading = 2
 factor score = -2
 
-Brasil ontem **chegou** aos 5 . 017 mortos pelo covid-19 . Bolsonaro quando 
-questionado: " E daí ? Lamento. Quer que eu faça o quê ? Eu sou Messias, mas 
-não faço milagre " HASHTAG #conservadorquerimpeachemnt_h 
+meu tem um cara aqui obviamente um fracassado frustrado **enchendo** o **saco** 
+toda vez meu deus entendemos vc mama o **saco** murcho do bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-covid
+encher
+saco

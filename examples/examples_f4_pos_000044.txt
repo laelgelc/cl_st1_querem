@@ -1,20 +1,23 @@
-file = t016467
-date = 2022-07-30
-user = Metropoles
-conversation = 3331429624
-URL = https://twitter.com/Metropoles/status/1553519557855289345
+file = t017155
+date = 2022-08-30
+user = _jrzzz
+conversation = 769918511338717184
+URL = https://twitter.com/_jrzzz/status/1564760821128904704
 
-word count = 33
-words loading = 3
-factor score = 3
+word count = 30
+words loading = 7
+factor score = 6
 
-right_arrow_e Bolsonaro diz que fará desfile **militar** no Rio em 7 de 
-**Setembro** O presidente afirmou que irá " inovar " neste ano e 
-**participará** da comemoração em Copacabana, ao lado das Forças Armadas. 
-Leia: 
+nossa nenhum plantão sobre o bolsonaro e a **família** ter **comprado** 
+**metade** dos **imóveis** em **dinheiro** **vivo** ? nenhum urgente e nenhum 
+editorial? ai se fosse o lula e **filhos** dele … . 
 
 Lemmas in this text that loaded on the factor:
 
-militar
-participar
-setembro
+comprar
+dinheiro
+família
+filho (secondary)
+imóvel
+metade
+vivo

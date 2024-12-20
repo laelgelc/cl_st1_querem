@@ -1,24 +1,21 @@
-file = t006257
+file = t006318
 date = 2020-03-30
-user = davidmirandario
-conversation = 2479861125
-URL = https://twitter.com/davidmirandario/status/1244736771956658176
+user = zeca_dirceu
+conversation = 47461491
+URL = https://twitter.com/zeca_dirceu/status/1244747807526961158
 
-word count = 50
-words loading = 6
+word count = 25
+words loading = 5
 factor score = 5
 
-O Senado acaba de **aprovar** a **renda** **mínima** **emergencial** de até 
-1200 reais por família. Ao invés de incitar o povo a colocar a vida em risco 
-e ir às ruas, Bolsonaro deve acelerar a sanção e orientar o povo no 
-**acesso** ao **benefício** . O Brasil tem pressa! HASHTAG 
-#pagalogobolsonaro_h 
+**Aprovado** na Câmara, e agora no Senado o **auxílio** **emergencial** . As 
+famílias **receberão** até R$ 1 . 200 Bolsonaro precisa SANCIONAR e 
+**PAGAR** imediatamente. HASHTAG #pagalogobolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-acesso (secondary)
 aprovar
-benefício
+auxílio
 emergencial
-pequeno
-renda
+pagar
+receber

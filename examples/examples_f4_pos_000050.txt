@@ -1,21 +1,23 @@
-file = t014927
-date = 2022-03-26
-user = may_nunes2
-conversation = 2285261341
-URL = https://twitter.com/may_nunes2/status/1507666170052329479
+file = t017051
+date = 2022-08-30
+user = corrente_clara
+conversation = 756926175570751488
+URL = https://twitter.com/corrente_clara/status/1564762455376642049
 
-word count = 41
-words loading = 3
-factor score = 3
+word count = 32
+words loading = 6
+factor score = 6
 
-@bra89072834 @FariasDeus1 @Estadao -Crime contra o livre exercício dos 
-Poderes. **Ato** : ameaças ao Congresso e STF, e interferência na PF; 
--Incitar **militares** à desobediência à lei ou infração à disciplina. 
-**Ato** : ir a manifestação a favor da **intervenção** **militar** ; -Entre 
-muitas outras coisas. 
+Parem de implicância com a **Família** Bolsonaro, é só vc economizar 
+direitinho, abrindo mão de certos luxos, também conseguirá **comprar** 51 
+**imóveis** no valor de R$ 25 **MILHÕES** em **DINHEIRO** **VIVO** 
+clown_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-intervenção
-militar
+comprar
+dinheiro
+família
+imóvel
+milhão
+vivo

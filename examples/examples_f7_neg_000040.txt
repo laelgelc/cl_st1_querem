@@ -1,19 +1,18 @@
-file = t010168
-date = 2021-02-27
-user = Sonaira_sp
-conversation = 1285299871340167173
-URL = https://twitter.com/Sonaira_sp/status/1365776051218108427
+file = t004429
+date = 2019-08-30
+user = alessandromolon
+conversation = 45953391
+URL = https://twitter.com/alessandromolon/status/1167522512932147200
 
-word count = 39
-words loading = 2
-factor score = -2
+word count = 47
+words loading = 1
+factor score = -1
 
-**Recebemos** em nosso **gabinete** comerciantes da região do centro para 
-articular ações em defesa da liberdade e do trabalho. E ainda tivemos a 
-visita dos deputados federais Eduardo Bolsonaro, Roberto de Lucena e o deputado 
-estadual Gil Diniz. 
+A imprensa foi livre e, assim, acharam o Queiroz. Será que as autoridades 
+terão a mesma liberdade para investigar? Bolsonaro tem desarticulado 
+mecanismos de **combate** à corrupção, vide mudanças do Coaf e na Receita 
+Federal. Uma afronta a quem quer política limpa e **combate** ao crime! 
 
 Lemmas in this text that loaded on the factor:
 
-gabinete
-receber
+combate

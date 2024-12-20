@@ -1,20 +1,21 @@
-file = t011797
-date = 2021-07-30
-user = nilmoretto
-conversation = 52499387
-URL = https://twitter.com/nilmoretto/status/1420898402179506177
+file = t014862
+date = 2022-03-30
+user = EuRobo36
+conversation = 47281168
+URL = https://twitter.com/EuRobo36/status/1509282201007013893
 
-word count = 42
-words loading = 3
-factor score = 2
+word count = 37
+words loading = 4
+factor score = 4
 
-Parem de deixar Bolsonaro pautar o debate. Ignorem esse homem pelo amor de 
-Deus. A pauta é outra: **escândalos** envolvendo **compra** de vacina, 
-população empobrecida passando fome, nosso **patrimônio** queimando pela 
-omissão de quem não deveria estar na presidência do país 
+A tentativa de censurar manifestações políticas no Lollapalooza faz parte da 
+" **guerra** cultural promovida pelo desgoverno e visa manter a fidelidade e 
+prontidão do eleitorado **conservador** e religioso, usando a **pauta** de 
+**costumes** . Dica de @CCambara2 
 
 Lemmas in this text that loaded on the factor:
 
-compra (secondary)
-escândalo
-patrimônio
+conservador
+costume
+guerra
+pauta

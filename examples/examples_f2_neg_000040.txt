@@ -1,16 +1,19 @@
-file = t000101
-date = 2018-03-30
-user = daisemeira
-conversation = 29843181
-URL = https://twitter.com/daisemeira/status/979512232718557184
+file = t002374
+date = 2018-12-30
+user = pnolasco2000
+conversation = 924146456
+URL = https://twitter.com/pnolasco2000/status/1079510012521836544
 
-word count = 23
-words loading = 1
-factor score = -1
+word count = 52
+words loading = 2
+factor score = -2
 
-RT @ojotacamelo: Vocês realmente **acham** que o Bolsonaro quer o MST armado 
-até os dentes? Os sindicatos armados? A favela armada? As organiza … 
+Acabei de assistir um vídeo que mostra a como foi com detalhes a **armação** 
+da **facada** no Bolsonaro, se tinha alguma dúvida se tinha sido ou não 
+**armação** , já não tenho pois agora tenho certeza de que foi uma grossa e 
+deslavada **ARMAÇÃO** . Mais do nunca estou do lado da verdade. 
 
 Lemmas in this text that loaded on the factor:
 
-achar
+armação
+facada

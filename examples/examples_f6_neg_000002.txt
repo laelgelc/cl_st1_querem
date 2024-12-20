@@ -1,19 +1,19 @@
-file = t001877
-date = 2018-10-30
-user = emanoelseabra
-conversation = 972413358
-URL = https://twitter.com/emanoelseabra/status/1057088218724745216
+file = t004957
+date = 2019-10-30
+user = HenriqueFontana
+conversation = 62804559
+URL = https://twitter.com/HenriqueFontana/status/1189623001135890432
 
-word count = 18
-words loading = 4
-factor score = -4
+word count = 49
+words loading = 2
+factor score = -2
 
-**Apoiador** de Bolsonaro **posta** **foto** com arma, é flagrado em 
-aplicativo **gay** e pede desculpas em vídeo 
+Quando se trata de proteger a família Bolsonaro, Moro não fica **calado** . A 
+investigação do assassinato de Marielle deve seguir com a polícia e o MP do 
+Rio, pois está avançando e a cada dia **chega** mais perto de mostrar as 
+relações da família presidencial com as milícias. 
 
 Lemmas in this text that loaded on the factor:
 
-apoiador
-foto
-gay
-pôr
+calar
+chegar

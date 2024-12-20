@@ -1,18 +1,20 @@
-file = t004622
-date = 2019-08-30
-user = ClovisGato30150
-conversation = 890595766372315137
-URL = https://twitter.com/ClovisGato30150/status/1167447870871625728
+file = t017810
+date = 2022-09-29
+user = LucianoGiusepp4
+conversation = 1440656640399663113
+URL = https://twitter.com/LucianoGiusepp4/status/1575587079941070848
 
-word count = 27
-words loading = 2
-factor score = -2
+word count = 43
+words loading = 3
+factor score = -3
 
-@LuisCValois Mas o Ministério Público não quer **achar** , pois vai prender 
-o **amigo** pessoal da família Bolsonaro. Ai vai ter que contar qual era o 
-esquema. . . 
+**Amigos** , ouçam na íntegra a denuncia de Mara Gabrilli, contra o 
+muladrão. Quando todos esperavam uma grande **fake** **news** contra 
+Bolsonaro, acaba de vir de onde eu não achava que viria. Não precisa ouvir a 
+live inteira, procurem só a denuncia. Viral. 
 
 Lemmas in this text that loaded on the factor:
 
-achar
 amigo
+fake
+news

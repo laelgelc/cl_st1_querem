@@ -1,19 +1,19 @@
-file = t010146
-date = 2021-02-27
-user = OnesioJunior
-conversation = 1221893135044947969
-URL = https://twitter.com/OnesioJunior/status/1365660441695973377
+file = t010392
+date = 2021-03-30
+user = GabrielRBCO
+conversation = 1117520329
+URL = https://twitter.com/GabrielRBCO/status/1376978572355715082
 
-word count = 27
+word count = 24
 words loading = 3
-factor score = -3
+factor score = -2
 
-@UOLNoticias A cada dia que passa, os discursos da família Bolsonaro estão 
-**caindo** por **terra** , afinal, são mais de 1 / 4 de milhão de **mortos** 
-pelo COVID-19 . 
+Bolsonaro tentou dar **golpe** de Estado, por isso a **demissão** dos 
+**comandantes** das Forças Armadas. Até quando esse pilantra permanecerá no 
+Poder? HASHTAG #impeachmentbolsonarourgente_h 
 
 Lemmas in this text that loaded on the factor:
 
-cair
-matar
-terra
+comandante
+demissão
+golpe (secondary)

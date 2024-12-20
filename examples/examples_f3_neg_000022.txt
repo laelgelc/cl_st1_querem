@@ -1,21 +1,18 @@
-file = t000607
-date = 2018-05-30
-user = AlexVille1907
-conversation = 981135257679400960
-URL = https://twitter.com/AlexVille1907/status/1001890228418818049
+file = t001493
+date = 2018-08-30
+user = MorenoJose0809
+conversation = 992558884782034949
+URL = https://twitter.com/MorenoJose0809/status/1035274034873884672
 
-word count = 43
-words loading = 3
-factor score = -3
+word count = 29
+words loading = 2
+factor score = -2
 
-Creio que há desinformação aí ! Se assim for, então apenas candidatos de 
-**primeira** " viagem " poderão se candidatar. Réu é o q não falta. Além 
-disso, Lula está preso por corrupção. . . Bolsonaro teve o **direito** da 
-imunidade parlamentar e **liberdade** expressão desconsiderados. Armação. . 
-. 
+@Roberto_SP @andreazzaeditor Alckmin: " armas não resolvem o problema da 
+violência e segurança " Bolsonaro: " quando Alckmin deixar de andar de 
+**carro** **blindado** e seguranças armados, eu passo a acreditar nele " 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-liberdade
-primeiro
+blindar
+carro

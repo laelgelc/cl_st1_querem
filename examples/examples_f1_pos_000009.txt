@@ -1,24 +1,26 @@
-file = t019416
-date = 2023-01-30
-user = ViddaBR
-conversation = 912313034
-URL = https://twitter.com/ViddaBR/status/1620043129423544320
+file = t018995
+date = 2022-12-30
+user = vilcelina
+conversation = 1226535936328118272
+URL = https://twitter.com/vilcelina/status/1608438380865687553
 
-word count = 41
-words loading = 6
-factor score = 6
+word count = 37
+words loading = 7
+factor score = 7
 
-@jairbolsonaro Boa tarde, presidente Bolsonaro, Deus o **abençoe** e 
-**proteja** sempre. **folded_hands_e** Que saudades do seu governo, TODO em 
-prol do povo e do país. O seu, Jair Messias Bolsonaro, foi o melhor governo 
-que o Brasil teve. Obrigada por tudo! **green_heart_e** **yellow_heart_e** 
-blue_heart_e white_heart_e **flag_brazil_e** 
+@jairbolsonaro Presidente Bolsonaro te amamos ainda mais, é temos orgulho de 
+você e sua família, que Deus os **abençoem** sempre **raising_hands_e** 
+**folded_hands_e** É só podemos agradecer vc por esses quatro anos de 
+felicidade que nos brasileiros Pátriotas passamos victory_hand_e 
+**backhand_index_pointing_right_e** **flag_brazil_e** **green_heart_e** 
+blue_heart_e **yellow_heart_e** backhand_index_pointing_left_e 
 
 Lemmas in this text that loaded on the factor:
 
 abençoar
+backhand_index_pointing_right_e
 flag_brazil_e
 folded_hands_e
 green_heart_e
-proteger
+raising_hands_e
 yellow_heart_e

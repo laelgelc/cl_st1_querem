@@ -1,23 +1,26 @@
-file = t016712
-date = 2022-07-30
-user = lorenzobmb
-conversation = 593062050
-URL = https://twitter.com/lorenzobmb/status/1553501348041297927
+file = t016998
+date = 2022-08-30
+user = LuisFernOli
+conversation = 324384050
+URL = https://twitter.com/LuisFernOli/status/1564569213582381060
 
-word count = 39
-words loading = 5
-factor score = 5
+word count = 40
+words loading = 9
+factor score = 8
 
-Bolsonaro disse que as Forças Armadas e outras instituições fardadas irão 
-**participar** de **ato** eleitoral no 7 de **setembro** , algo vedado pela 
-**Constituição** . Pergunto ao @TSEjusbr: se esses **militares** efetivarem o 
-crime, qual força seria escolhida pra prendê -los? HASHTAG 
-#bolsonaronacadeia_h 
+Nada menos que 51 **imóveis** do clã Bolsonaro foram **comprados** com 
+**dinheiro** , em negócios que somam R$ 26 **milhões** . **Metade** do 
+**patrimônio** da **família** foi **paga** assim. Pelo menos 25 operações 
+de **compra** ou venda foram alvo de investigação. 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-constituição
-militar
-participar
-setembro
+compra
+comprar
+dinheiro
+família
+imóvel
+metade
+milhão
+pagar (secondary)
+patrimônio

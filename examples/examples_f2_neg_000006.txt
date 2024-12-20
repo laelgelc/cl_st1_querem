@@ -1,19 +1,20 @@
-file = t003478
-date = 2019-03-30
-user = SilCastelhano
-conversation = 634283058
-URL = https://twitter.com/SilCastelhano/status/1112079351359655937
+file = t014514
+date = 2022-02-27
+user = Abner20203
+conversation = 1332799877735190528
+URL = https://twitter.com/Abner20203/status/1498033966758178818
 
-word count = 39
-words loading = 2
-factor score = -2
+word count = 46
+words loading = 3
+factor score = -3
 
-Era Bolsonaro revela os segredos familiares de **bem** e do **bem** ! ? 
-Famílias, **amigos** , conhecidos p / não respeitarem dversidd brigam! ? Q 
-seres humanos aprendam c / inumanos e vice-versa Nocaute. Disputa entre irmãos 
-Frias, da Folha, chega à Justiça via @nocautefm 
+@marcostaxint Que vergonha para o Brasil ter um sujeito como esse barroso, 
+militante comunista da extrema esquerda disfarçado de juíz, agindo sempre 
+contra o país, sem nenhuma ética, divulgando **fake** **news** diariamente e 
+atacando o Presidente da República Jair Bolsonaro e os cidadãos de **bem** . 
 
 Lemmas in this text that loaded on the factor:
 
-amigo
 bem
+fake
+news

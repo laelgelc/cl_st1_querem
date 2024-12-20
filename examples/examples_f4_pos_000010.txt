@@ -1,23 +1,26 @@
-file = t004215
-date = 2019-07-30
-user = MarceloFreixo
-conversation = 45870897
-URL = https://twitter.com/MarceloFreixo/status/1156285865854939136
+file = t017159
+date = 2022-08-30
+user = andersonrosavaz
+conversation = 207582243
+URL = https://twitter.com/andersonrosavaz/status/1564727120340959233
 
 word count = 41
-words loading = 5
-factor score = 5
+words loading = 7
+factor score = 7
 
-Hoje estarei no **ato** na ABI em **solidariedade** a @ggreenwald e em 
-**defesa** da liberdade de imprensa e da **Constituição** brasileira. A 
-criminalização, ameaças e tentativas de intimidação de jornalistas pelo 
-governo Bolsonaro é um ataque à **democracia** . HASHTAG #imprensalivre_h 
-HASHTAG #liberdadedeimprensa_h 
+**FAMÍLIA** BOLSONARO check_mark_button_e 107 **imóveis** ( oficialmente ) 
+check_mark_button_e 51 **comprado** em **dinheiro** **vivo** 
+check_mark_button_e R$ 13 , 5 **milhões** check_mark_button_e R$ 25 , 6 
+**milhões** corrigido pela **inflação** Uma **família** que vive da 
+política nos últimos 35 anos. Nem se trabalhasse cem anos investindo tudo em 
+triplex. 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-constituição
-defesa
-democracia
-solidariedade
+comprar
+dinheiro
+família
+imóvel
+inflação
+milhão
+vivo

@@ -1,19 +1,20 @@
-file = t006488
-date = 2020-03-30
-user = Catite6800
-conversation = 4877869408
-URL = https://twitter.com/Catite6800/status/1244764870211448833
+file = t013407
+date = 2021-11-29
+user = o_rusivan
+conversation = 1375185194018291714
+URL = https://twitter.com/o_rusivan/status/1465130824181891079
 
-word count = 51
-words loading = 2
-factor score = 2
+word count = 23
+words loading = 4
+factor score = 4
 
-Esse Governador tá querendo imitar o Maduro e outros Ditadorezinhos de alguns 
-Países comunistas. Pensa que assusta a população com esse discurso, quando a 
-fome e sede chegar vão bater na sua **porta** Sr. Witzel, nem pense em jogar a 
-**bomba** no colo do Pr. Bolsonaro, vai cair na tua. 
+@poucohumillde @AugustoRizzi @JornalATK @CanceladoJJ @vlucasrocha @Dudu 
+Bolsonaro sempre se vendeu coml neo **liberal** que o **liberal** na 
+**economia** e **conservador** no **social** . 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-porta
+conservador
+economia
+liberal
+social

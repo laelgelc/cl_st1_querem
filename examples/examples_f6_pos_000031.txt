@@ -1,20 +1,20 @@
-file = t017242
-date = 2022-08-30
-user = leasilviasp
-conversation = 2885049471
-URL = https://twitter.com/leasilviasp/status/1564604755091013633
+file = t016374
+date = 2022-07-30
+user = Ed61897233
+conversation = 1103409426457915396
+URL = https://twitter.com/Ed61897233/status/1553525027965997056
 
-word count = 46
-words loading = 3
-factor score = 3
+word count = 24
+words loading = 4
+factor score = 4
 
-@randolfeap Você é patético, uma família inteira **compra** **imóveis** ao 
-longo de 32 anos, e você afirma que foi o presidente que pagou tudo com 
-dinheiro publico roubado, mas o Bolsonaro só é presidente há 3 anos e 8 
-**meses** , como você explica essa matemática? 
+RT @QuebrandoOTabu: Bolsonaro flexibilizou o **acesso** a **armas** sob o 
+argumento de que estaria **armando** o " **cidadão** de bem " contra o crime. 
+A rea … 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-imóvel
-mês
+acesso
+arma
+armar
+cidadão

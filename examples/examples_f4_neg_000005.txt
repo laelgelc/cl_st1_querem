@@ -1,21 +1,22 @@
-file = t008321
-date = 2020-09-29
-user = Junior56762186
-conversation = 1274203581802045441
-URL = https://twitter.com/Junior56762186/status/1311090695038472194
+file = t010539
+date = 2021-03-30
+user = AltinoMachado
+conversation = 14220634
+URL = https://twitter.com/AltinoMachado/status/1377040853890428929
 
-word count = 49
+word count = 48
 words loading = 4
-factor score = -4
+factor score = -3
 
-Vergonha pro nosso país esse Marcos Perreira também tá do lado do presidente 
-Jair Bolsonaro que **merda** de **pais** e esse com esse governo pelo **amor** 
-de **Deus** não vamos aceitar não tô cansado de ver o povo aqui passando 
-fome sem poder ajudar pelo **amor** de **Deus** 
+' O caos vem aí ' , anunciou Bolsonaro na sexta. Nesta terça, quando 
+**comandantes** das Forças Armadas pediram **demissão** em **protesto** 
+contra Bolsonaro e o Brasil quebra recorde com 3 . 668 mortes por covid em 24h, 
+o governo anuncia que o **golpe** militar de 1964 deve ser ' celebrado ' 
+amanhã . 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-deus
-merda
-pai
+comandante
+demissão
+golpe (secondary)
+protesto

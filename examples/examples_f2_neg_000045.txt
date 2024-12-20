@@ -1,18 +1,19 @@
-file = t000155
-date = 2018-03-29
-user = uadisluv
-conversation = 298162383
-URL = https://twitter.com/uadisluv/status/979442378309292033
+file = t002701
+date = 2019-01-30
+user = gugachacra
+conversation = 45409867
+URL = https://twitter.com/gugachacra/status/1090753105162047489
 
-word count = 50
-words loading = 1
-factor score = -1
+word count = 40
+words loading = 2
+factor score = -2
 
-@Umsalesrosa Eu notei q, ignorando parentes, 95 % dos meus **amigos** n gostam 
-do Bolsonaro Isso é bom, por um lado E ruim, pois tenho pouco contato com 
-prováveis eleitores dele q n gostam dele, mas caem no conto do " honesto, 
-cristão e patriota " Involuntariamente eu tb acabo numa bolha 
+Este Paulo Figueiredo, foragido e procurado pela Interpol por acusações de 
+crimes de corrupção, era ativo nas redes sociais, onde costumava atacar 
+imigrantes muçulmanos e jornalistas. Era um árduo defensor das armas. 
+Costumava chamar o nytimes de " **fake** **news** " 
 
 Lemmas in this text that loaded on the factor:
 
-amigo
+fake
+news

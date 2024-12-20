@@ -1,17 +1,18 @@
-file = t000040
-date = 2018-03-30
-user = Knopp_Igor
-conversation = 4903270191
-URL = https://twitter.com/Knopp_Igor/status/979395799879647233
+file = t002322
+date = 2018-12-30
+user = arte_prima
+conversation = 1645736942
+URL = https://twitter.com/arte_prima/status/1079449057347751939
 
-word count = 32
-words loading = 1
-factor score = -1
+word count = 30
+words loading = 2
+factor score = -2
 
-@Katuto_ Manoooo, crl viado. Você não entende, por que eles são diferentes? 
-Você **acha** que eles não querem o melhor pra humanidade? Eles são humanos 
-também mano, pelo amor de Deus! ! ! ! Pensa. 
+Le Monde Este e outro fato relevante! ! ! Não vi em momento nenhum, desespero 
+dos filhos e da familia do Bolsonaro, pela **facada** . . . Muita 
+tranquilidade, ou conhecimento de toda **armação** . 
 
 Lemmas in this text that loaded on the factor:
 
-achar
+armação
+facada

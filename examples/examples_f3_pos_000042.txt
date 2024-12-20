@@ -1,20 +1,23 @@
-file = t006014
-date = 2020-02-28
-user = Emanoel1953
-conversation = 1438906560
-URL = https://twitter.com/Emanoel1953/status/1233528391799840769
+file = t012171
+date = 2021-08-30
+user = cristin99832756
+conversation = 1051225988108115971
+URL = https://twitter.com/cristin99832756/status/1432478165683818498
 
-word count = 48
-words loading = 3
-factor score = 2
+word count = 44
+words loading = 5
+factor score = 4
 
-Moro ( @SF_Moro ) : " Entrega de equipamentos de segurança, 70 viaturas, 200 
-coletes e 250 armas, à PM ( do RN ) pelo Governo do PR @jairbolsonaro. " Mas. 
-. . E o Caso Marielle? E o Queiróz? E os cheques para Micheque? E os 
-**imóveis** do Flávio Bolsonaro? E as drogas no **avião** **presidencial** ? 
+@alesilva_38 @brasil_paralelo Olha sou Bolsonarista, lutei contra a 
+**esquerda** , nas **eleições** 2018 , parecia um pesadelo sem fim, graças a 
+Deus **vencemos** , nosso amado Presidente Bolsonaro ganhou, mas a luta ainda 
+continua. Conseguimos **eleger** dep. q diziam ser d **direita** , mas 
+infelizmente foram poucos os aprovados. 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-imóvel (secondary)
-presidencial
+direita
+eleger
+eleição
+esquerda (secondary)
+vencer

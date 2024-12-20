@@ -1,23 +1,21 @@
-file = t016760
-date = 2022-08-30
-user = natbonavides
-conversation = 203332874
-URL = https://twitter.com/natbonavides/status/1564652911996665856
+file = t005371
+date = 2019-12-29
+user = JornalBSM
+conversation = 1201864404855377922
+URL = https://twitter.com/JornalBSM/status/1211404514634477573
 
-word count = 46
-words loading = 6
-factor score = 4
+word count = 30
+words loading = 5
+factor score = 5
 
-GRAVÍSSIMO! Em um intervalo de 12 horas, dois **grandes** **escândalos** 
-**envolvendo** a família Bolsonaro. A **compra** de pelo menos 51 **imóveis** 
-em dinheiro **vivo** e a afirmação da Polícia Federal de que a ABIN interviu 
-para atrapalhar investigações contra o filho do presidente, Jair Renan. 
+**Registros** de **armas** **aumentaram** 23 % ; homicídios caíram 22 % . Com 
+base nesses números, presidente vai solicitar ao Congresso que amplie a 
+**posse** e o **porte** de **armas** para os brasileiros. 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-envolver
-escândalo (secondary)
-grande
-imóvel
-vivo (secondary)
+arma
+aumentar
+porte
+posse
+registro

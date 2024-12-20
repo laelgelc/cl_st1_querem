@@ -1,22 +1,19 @@
-file = t005936
-date = 2020-01-30
-user = ninguem_anyone
-conversation = 2700299806
-URL = https://twitter.com/ninguem_anyone/status/1222631202554896392
+file = t003953
+date = 2019-05-30
+user = Emanoel1953
+conversation = 1438906560
+URL = https://twitter.com/Emanoel1953/status/1134098129287090176
 
-word count = 48
-words loading = 4
-factor score = -3
+word count = 47
+words loading = 2
+factor score = -2
 
-@jrguzzofatos Ele foi demitido por ser desalinhado ideologicamente, por 
-desautorizar o Bolsonaro em público e nos bastidores, por destoar da agenda 
-**eleita** . Eu diria que Jair Bolsonaro é **conservador** e cristão como a 
-maioria do povo, **direita** raiz, e que o Sant0s Cruz é isentão ( nova 
-**esquerda** ) . 
+Se o ladrão Aécio construiu um aeroporto com a nossa bufunfa em um terreno do 
+seu **tio** , não é de se estranhar que a larápia Micheque trilha o caminho 
+do crime também. . . " **Miliciano** preso no Distrito Federal por grilagem de 
+terras é **tio** de Michelle Bolsonaro. " 
 
 Lemmas in this text that loaded on the factor:
 
-conservador (secondary)
-direito
-eleger
-esquerda
+miliciano
+tio

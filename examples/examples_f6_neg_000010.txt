@@ -1,19 +1,18 @@
-file = t007448
-date = 2020-06-29
-user = a_dcruz2009
-conversation = 4834227388
-URL = https://twitter.com/a_dcruz2009/status/1277733830028333057
+file = t008517
+date = 2020-09-29
+user = AnarcoFino
+conversation = 747620138631962624
+URL = https://twitter.com/AnarcoFino/status/1310985299317723137
 
-word count = 29
-words loading = 3
-factor score = -3
+word count = 36
+words loading = 2
+factor score = -2
 
-Eu sou ateu, adepto da filosofia existencialista fenomenológica. Estou com 
-Bolsonaro e não tenho nada contra cristãos ou **católicos** . Jamais serei 
-esquerda e nossa **bandeira** jamais será **vermelha** . 
+E aqui entra um detalhe: a luta de Bolsonaro contra as medidas sanitárias tem 
+sido comparado aos atos de um general - nunca será - que, **triste** , envia 
+suas tropas para a guerra para defender a **pátria** . 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-católico
-vermelho
+pátria
+triste

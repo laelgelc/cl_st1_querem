@@ -1,19 +1,24 @@
-file = t002862
-date = 2019-01-30
-user = grfavoritos
-conversation = 1884183840
-URL = https://twitter.com/grfavoritos/status/1090723590356516864
+file = t000820
+date = 2018-06-29
+user = vargas_oficial_
+conversation = 261211302
+URL = https://twitter.com/vargas_oficial_/status/1012679645228134400
 
-word count = 11
-words loading = 5
+word count = 49
+words loading = 6
 factor score = 5
 
-Bolsonaro assina **decreto** que **facilita** **posse** de **arma** de **fogo** 
+@DaviCVS @exame Liberalismo é liberalismo. O **problema** do Bolsonaro é a 
+pobreza intelectual. Ele se coloca como um não **político** mas é 
+**político** há 30 anos e arrumou um jeitinho de acomodar a família inteira 
+na política, cada **filho** **ocupa** um **cargo** seja de **deputado** ou de 
+vereador. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-facilitar
-fogo
-posse
+cargo
+deputado
+filho
+ocupar (secondary)
+político
+problema

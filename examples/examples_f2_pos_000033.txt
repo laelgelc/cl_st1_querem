@@ -1,20 +1,21 @@
-file = t015615
-date = 2022-05-30
-user = Jerryfacha
-conversation = 257439712
-URL = https://twitter.com/Jerryfacha/status/1531413153350926336
+file = t013639
+date = 2021-12-29
+user = MarcosR12402270
+conversation = 1270003622785490945
+URL = https://twitter.com/MarcosR12402270/status/1476315417194991620
 
-word count = 22
+word count = 41
 words loading = 4
 factor score = 4
 
-RT @ptdeminas: no_entry_e ️ Bolsonaro explode **renda** das famílias com 
-sucessivos **aumentos** do **gás** . cross_mark_e Em SP, mais **pobres** 
-comprometem 11 % da **renda** com g … 
+BOAS NOTÍCIA QUE VOCÊ VÊ AQUI, E NÃO VÊ NA REDE GLOBO - Caged: Brasil 
+registra 324 . 112 mil vagas com carteira assinada em Novembro; - Governo 
+Bolsonaro começa a **pagar** o vale **gás** nesta Segunda- Feira, para as 
+famílias de **baixa** **renda** . 
 
 Lemmas in this text that loaded on the factor:
 
-aumento
+baixo
 gás
-pobre
+pagar
 renda

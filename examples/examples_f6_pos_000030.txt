@@ -1,21 +1,22 @@
-file = t017263
-date = 2022-08-30
-user = tarlouze
-conversation = 1560797137
-URL = https://twitter.com/tarlouze/status/1564758857313914884
+file = t019782
+date = 2023-02-27
+user = Anderso75409634
+conversation = 1498120284431425537
+URL = https://twitter.com/Anderso75409634/status/1630110561638940673
 
-word count = 43
+word count = 51
 words loading = 4
-factor score = 3
+factor score = 4
 
-bobfernandes ] Metade dos seus 51 **imóveis** , Bolsonaro e família 
-**compraram** com dinheiro **vivo** . Cheques do Queiroz pra Michelle, 
-relações com acusados de matar, **corrupção** " secreta " no orçamento de 
-R$ 54 bilhões etc. Perguntas que o JN e candidatos não fizeram a Bolsonaro. 
+@alsartes @peterjordan100 Qualquer pode comprar uma **arma** , basta querer. O 
+governo do Bolsonaro defendia o **porte** , porém, com segurança e nunca foi 
+de **facilitar** o **acesso** . Você tem ideia de quantos jovens e pais de 
+família morreram vítimas de assalto? " Eu tô cansado de eyes_e jovens 
+morrendo, é só pra tomar beer_mug_e " 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-imóvel
-vivo (secondary)
+acesso
+arma
+facilitar
+porte

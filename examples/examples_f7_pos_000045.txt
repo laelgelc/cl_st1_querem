@@ -1,20 +1,21 @@
-file = t010315
-date = 2021-03-30
-user = FMouraBrasil
-conversation = 52849416
-URL = https://twitter.com/FMouraBrasil/status/1377044372626276353
+file = t018489
+date = 2022-11-29
+user = Josecar55134390
+conversation = 1451349336244334595
+URL = https://twitter.com/Josecar55134390/status/1597651872642650112
 
-word count = 43
+word count = 50
 words loading = 3
 factor score = 3
 
-Bolsonaro vocalizou o sentimento da parcela **conservadora** do povo em 2018 ao 
-defender **pautas** que não tinham representatividade política. Isso fez dele 
-um **conservador** ? Claro que não. Escrevi ainda em 2018 que ele não era a 
-encarnação do **conservadorismo** . Força, mentes binárias. 
+@ana_abrlima @22Mah_ Eu não esculachei. Se você membro da família Bolsonaro. 
+Iria lutar para nunca mais entramos nessa guerra. Onde difamaram a família de 
+todas as formas. Até a caçula de 12 anos. Foi **chamada** de **puta** por uma 
+jornalista esquerdista. E nada aconteceu. CADE A **MERDA** DA SOCIEDADE NAS 
+RUAS 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-conservadorismo
-pauta
+chamar
+merda
+puto

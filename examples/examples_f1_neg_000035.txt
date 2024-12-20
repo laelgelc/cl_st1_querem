@@ -1,19 +1,19 @@
-file = t000765
-date = 2018-05-29
-user = ultrvboy
-conversation = 898677986500718594
-URL = https://twitter.com/ultrvboy/status/1000902794075955201
+file = t007493
+date = 2020-06-29
+user = tininhasouzarj
+conversation = 822908649047785473
+URL = https://twitter.com/tininhasouzarj/status/1277728525802446848
 
-word count = 56
+word count = 45
 words loading = 2
 factor score = -2
 
-@tonybrawn @zaynpride mano caralho vcs sao muito chatos bix, ela nem falou de 
-esquerda. pq vcs bolsominions sempre acham que so pq algm q n vota no bolsonaro 
-e esquerdista socialista ou comunista? oq tem a ver? so pq a **pessoa** pensa e 
-ja **abriu** um livro de história ela e e esquerdista? ptm em 
+" Alexandre Campello, almoçou nesta terça-feira com Jair Bolsonaro " 
+@ascampello e @VascodaGama. A imagem que o clube **usa** em seu perfil no 
+Twitter e nem o **ato** de se ajoelhar não condizem com a reunião citada. 
+Capitalismo e liberdade não cabem na mesma frase com antifascismo. 
 
 Lemmas in this text that loaded on the factor:
 
-abrir
-pessoa
+ato
+usar

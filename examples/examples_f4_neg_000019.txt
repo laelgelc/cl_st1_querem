@@ -1,20 +1,20 @@
-file = t004944
-date = 2019-10-30
-user = 1984Jailton
-conversation = 1139509979373813760
-URL = https://twitter.com/1984Jailton/status/1189636282227531776
+file = t001989
+date = 2018-10-30
+user = Kakaido10
+conversation = 307289787
+URL = https://twitter.com/Kakaido10/status/1056878611406487554
 
-word count = 39
-words loading = 3
-factor score = -3
+word count = 46
+words loading = 2
+factor score = -2
 
-@jairbolsonaro Em nome do Senhor Jesus, todo mal que o inimigo do Presidente 
-Bolsonaro desejar em desfavor do mesmo, **caia** por **terra** nesse momento, 
-em nome do **pai** , do filho e do Espírito Santo de Deus. Amém ( JOÃO 
-14:12-13-14 ) . 
+@ReinaldoBadiali A **esquerda** será eliminada, sim, mas não no sentido 
+agressivo e violento que você pensa. O governo Bolsonaro será de reforma 
+moral e ideológica. A **esquerda** não mais terá **espaço** quando a 
+população brasileira se reconhecer como conservadora. Temos que despertar 
+essa consciência dela 
 
 Lemmas in this text that loaded on the factor:
 
-cair
-pai
-terra
+espaço
+esquerda

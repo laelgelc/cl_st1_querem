@@ -1,21 +1,24 @@
-file = t010441
-date = 2021-03-30
-user = taliriapetrone
-conversation = 103704608
-URL = https://twitter.com/taliriapetrone/status/1377028528944906240
+file = t019808
+date = 2023-02-27
+user = AllSalvad
+conversation = 954725843326132224
+URL = https://twitter.com/AllSalvad/status/1626588352857382913
 
-word count = 43
-words loading = 4
-factor score = 4
+word count = 44
+words loading = 6
+factor score = 6
 
-Braga Netto, novo ministro da Defesa, já mostrou a que veio e publicou uma 
-ordem do dia dizendo que o **golpe** empresarial-militar de 1964 deveria ser 
-comemorado. Isso é um ataque à nossa frágil **democracia** e a quem lutou 
-pelas liberdades **democráticas** ! HASHTAG #ditaduranuncamais_h 
+@Dino_fauro @Rafaelk_adv_ Clã Bolsonaro: **dinheiro** **vivo** em cada um dos 
+51 **imóveis** O UOL **publica** detalhes do levantamento em que se baseou a 
+**reportagem** que mostrou ter pagamento parcial ou total de **dinheiro** em 
+espécie em 51 das 107 transações imobiliárias realizadas por sua 
+**família** . 
 
 Lemmas in this text that loaded on the factor:
 
-democracia
-democrático
-golpe
-militar
+dinheiro
+família
+imóvel
+publicar
+reportagem
+vivo

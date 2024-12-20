@@ -1,21 +1,20 @@
-file = t002219
-date = 2018-12-30
-user = elianaosonho
-conversation = 211991111
-URL = https://twitter.com/elianaosonho/status/1079527325530767360
+file = t016806
+date = 2022-08-30
+user = rafaelfsant
+conversation = 3155920823
+URL = https://twitter.com/rafaelfsant/status/1564763018105421831
 
-word count = 24
-words loading = 5
+word count = 29
+words loading = 4
 factor score = 4
 
-RT @LeiaRachor: Quero que essa " **Direita** **liberal** na **economia** e 
-**conservadora** nos **costumes** " FIQUE NO PODER NOS PRÓXIMOS 60 ANOS ou que 
-os Bras … 
+@PastorMalafaia Não foi você que **enganou** falando da @veramagalhaes. O 
+**pai** da mentira é o diabo **pastor** . Você precisa se voltar pra **Deus** 
+e não para o Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-direita
-economia (secondary)
-liberal
+deus
+enganar
+pai
+pastor

@@ -1,19 +1,22 @@
-file = t016258
-date = 2022-07-30
-user = TerraBrasilnot
-conversation = 1253183357711790080
-URL = https://twitter.com/TerraBrasilnot/status/1553364681858977792
+file = t010240
+date = 2021-03-30
+user = KennedyAlencar
+conversation = 69650953
+URL = https://twitter.com/KennedyAlencar/status/1376978584389160969
 
-word count = 17
+word count = 49
 words loading = 4
 factor score = 4
 
-Bolsonaro defende **armamento** do **cidadão** de bem: " **Arma** de **fogo** 
-pode garantir a liberdade no futuro " 
+Bolsonaro não fica mais **forte** com saída dos **chefes** das Forças 
+Armadas. Ele se enfraqueceu. É um leão desdentado, cercado pela rachadinha, 
+genocídio na pandemia e fracasso econômico. Não tem **força** para 
+**golpe** . É um fiasco, o pior presidente da história do país. Genocida é 
+o que é . 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armamento
-cidadão
-fogo
+chefe
+forte
+força
+golpe

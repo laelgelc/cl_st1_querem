@@ -1,20 +1,24 @@
-file = t010558
-date = 2021-03-30
-user = DornellesSalete
-conversation = 3398017702
-URL = https://twitter.com/DornellesSalete/status/1377041891720634378
+file = t016827
+date = 2022-08-30
+user = blogdosakamoto
+conversation = 58668131
+URL = https://twitter.com/blogdosakamoto/status/1564594097037402112
 
-word count = 29
-words loading = 4
-factor score = 4
+word count = 27
+words loading = 7
+factor score = 7
 
-Atrito com Bolsonaro derruba **comandantes** das Forças Armadas, na maior 
-**crise** **militar** desde 1977 Braga Netto se irritou com renúncia coletiva 
-e anunciou **demissão** dos oficiais-generais; fardados buscam acomodação. 
+Investigação aponta que **família** Bolsonaro é uma grande lavanderia de 
+**dinheiro** . O clã **comprou** quase **metade** de seu extenso 
+**patrimônio** em **imóveis** usando **dinheiro** **vivo** . HASHTAG 
+#patrimoniobolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-crise
-demissão
-militar
+comprar
+dinheiro
+família
+imóvel
+metade
+patrimônio
+vivo

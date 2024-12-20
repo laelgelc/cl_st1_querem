@@ -1,19 +1,22 @@
-file = t016695
-date = 2022-07-29
-user = BlogdoNoblat
-conversation = 16794066
-URL = https://twitter.com/BlogdoNoblat/status/1553001343937396737
+file = t018887
+date = 2022-12-30
+user = EuMesmoTakeshi
+conversation = 1416069003584417792
+URL = https://twitter.com/EuMesmoTakeshi/status/1608886339868700674
 
-word count = 41
-words loading = 2
-factor score = 2
+word count = 54
+words loading = 4
+factor score = 4
 
-País se mobiliza para **desarmar** a **bomba** dos atos de Bolsonaro no 7 de 
-Setembro, que perigam entrar para a história com ataques ao sistema eleitoral 
-e confrontos. Uma vigorosa reação da sociedade, porém, começa a enfrentar a 
-ameaça ( Veja ) 
+Esse é , de longe, o pior momento do país, superando até mesmo 1964 . Os 
+comunistas não vão **tomar** poder, eles já **tomaram** o poder! E Bolsonaro 
+só escancarou isso. Ele foi um **erro** no sistema, e o implodiu quando 
+**venceu** as **eleições** de 2018 . O sistema está NU e não disfarça mais 
+nada. 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-desarmar
+eleição
+erro
+tomar
+vencer

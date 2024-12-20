@@ -1,20 +1,20 @@
-file = t012437
-date = 2021-08-30
-user = dem_o_cracia
-conversation = 334919059
-URL = https://twitter.com/dem_o_cracia/status/1432381764983574528
+file = t020358
+date = 2023-04-29
+user = dudabolche
+conversation = 273126597
+URL = https://twitter.com/dudabolche/status/1652440396314599426
 
-word count = 42
+word count = 53
 words loading = 3
 factor score = 3
 
-@RachelSherazade SE ENXERGA, MULHER! Você fazia discursob racista, 
-**conservador** , e protofascista em rede nacional muito antes de Bolsonaro. A 
-gênese do Bolsonarismo estava em você e sempre esteve na **direita** 
-**liberal** e **conservadora** brasileira, quem não te conhece que te compra. 
+Moro do lado de dois hotéis, chegando em casa com meu **pai** , uma família 
+brasileira tava chegando no hotel, e me viram com o boné do MST. Ouvi algum 
+comentário escroto e meu **pai** falou " aqui mora o Lula " . E o **cara** 
+respondeu " lula? ? tem que **matar** , lulista bom é lulista morto " . 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-liberal
+cara
+matar
+pai

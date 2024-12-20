@@ -1,21 +1,16 @@
-file = t011566
-date = 2021-05-30
-user = spinellirio
-conversation = 287296765
-URL = https://twitter.com/spinellirio/status/1399061276417040388
+file = t005734
+date = 2020-01-30
+user = CaruzoSergio
+conversation = 2356515141
+URL = https://twitter.com/CaruzoSergio/status/1223032171147022337
 
-word count = 43
-words loading = 4
-factor score = -2
+word count = 24
+words loading = 1
+factor score = -1
 
-É domingo. A mesa ao lado à minha no restaurante em que estou almoçando é 
-composta por uma família: **pai** , **mãe** e três filhos. Assunto da mesa: 
-a farsa da **CPI** do **Covid** e imunidade parlamentar. Esperanças renovadas 
-para mais uma semana. 
+RT @RogerioCorreia_ : Só pode ser rabo preso do Bolsonaro. **Demite** e 
+readmite por 369 reais a menos. O que este rapaz, amigo da família, amea … 
 
 Lemmas in this text that loaded on the factor:
 
-covid (secondary)
-cpi
-mãe
-pai (secondary)
+demitir

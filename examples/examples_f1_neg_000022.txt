@@ -1,20 +1,17 @@
-file = t018163
-date = 2022-10-30
-user = Jeffe_thirl
-conversation = 1090984452287881216
-URL = https://twitter.com/Jeffe_thirl/status/1586869454801190913
+file = t004183
+date = 2019-07-30
+user = mutens
+conversation = 87437169
+URL = https://twitter.com/mutens/status/1156353671531257856
 
-word count = 51
-words loading = 3
-factor score = -3
+word count = 23
+words loading = 2
+factor score = -2
 
-o **crime** no Brasil compensa diz os eleitores do Bolsonaro mas engraçado que 
-morte em massa no Brasil por conta de uma pandemia pode e ser **chamado** de 
-gripezinha e negar vacinas né , queria ver se alguma **pessoa** da sua 
-família tivesse morrido de covid por ele ter negado compra. . . 
+RT @MarceloFreixo: O auditório da ABI está lotado para o **ato** em apoio a 
+@ggreenwald, @TheInterceptBr e em **defesa** da liberdade de imprensa … 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-crime
-pessoa
+ato
+defesa

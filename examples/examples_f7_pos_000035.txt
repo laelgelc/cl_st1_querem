@@ -1,22 +1,20 @@
-file = t013282
-date = 2021-11-29
-user = tiberioalloggio
-conversation = 50077892
-URL = https://twitter.com/tiberioalloggio/status/1465466091954753539
+file = t020491
+date = 2023-04-29
+user = ConfieEmDeus
+conversation = 857714482478555137
+URL = https://twitter.com/ConfieEmDeus/status/1652416272120807425
 
-word count = 31
+word count = 51
 words loading = 3
 factor score = 3
 
-BOMBA! Enquanto a mídia do Brasil silencia sobre a suposta facada, site dos 
-EUA publica reportagem que liga clube de tiro, indústria de armas, Bolsonaro e 
-Adélio a **extrema** **direita** norte-americana 
-backhand_index_pointing_down_e backhand_index_pointing_down_e 
-backhand_index_pointing_down_e backhand_index_pointing_down_e 
-backhand_index_pointing_down_e 
+Quando **chamavam** o presidente Bolsonaro de ditador eu pensava com os meus 
+botões: Se o PT voltar pro executivo, esses filhos da pvt@ vão sentir na pele 
+o que realmente é uma ditadura. . . Sem picanha Sem cervejinha Sem gás Sem 
+bolsa família Sem emprego E logo, sem **abrir** a **boca** ! 
 
 Lemmas in this text that loaded on the factor:
 
-americano
-direita
-extremo
+abrir
+boca
+chamar

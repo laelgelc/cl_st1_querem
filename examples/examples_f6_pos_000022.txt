@@ -1,19 +1,22 @@
-file = t017458
-date = 2022-08-30
-user = franclei07
-conversation = 248355135
-URL = https://twitter.com/franclei07/status/1564741514273517568
+file = t002287
+date = 2018-12-30
+user = ivonepita
+conversation = 193151042
+URL = https://twitter.com/ivonepita/status/1079206294878339072
 
-word count = 16
-words loading = 4
-factor score = 3
+word count = 50
+words loading = 5
+factor score = 5
 
-@folha Enquanto isso na **vida** real, a família Bolsonaro **comprou** 51 
-**imóveis** com dinheiro **vivo** 
+por favor, presidente eleito Jair Bolsonaro garanta também por **decreto** o 
+**porte** , a fabricação em massa de **armas** populares de baixíssimo custo 
+com parcelamento em até 72 vezes e subsídio do governo para que toda a 
+**população** possa de fato se **armar** e não apenas ricos e classe média 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-imóvel
-vida
-vivo (secondary)
+arma
+armar
+decreto
+população
+porte

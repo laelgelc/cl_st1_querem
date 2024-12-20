@@ -1,20 +1,18 @@
-file = t004222
-date = 2019-07-30
-user = mirandajuliaf
-conversation = 1016811437338038273
-URL = https://twitter.com/mirandajuliaf/status/1156250178199969804
+file = t000370
+date = 2018-04-28
+user = andreiapaola
+conversation = 216049739
+URL = https://twitter.com/andreiapaola/status/989957974650220545
 
 word count = 48
-words loading = 3
-factor score = -2
+words loading = 1
+factor score = -1
 
-bolsominions, por que vocês me seguem em todas redes sociais? entendam logo: 
-YO SOY COMUNISTAAAAA, esquerdalha, petista, pão com mortadela ( vegana ) , de 
-volta pra cuba, filha de Stalin e afilhada de Che que inferno **ai** **posto** 
-um bolsonaro vai tomar no **cu** e acham ruim ne foda 
+@ManuelaDavila Só não é livre pensamento, liberdade de expressão qdo sai da 
+boca do Bolsonaro. Vc **bate** records de HIPOCRISIA. O que me deixa feliz é 
+saber que o mundo já acordou pra desbancar idéias da desgraçada classe 
+Comunista vide eleição de Trump. Vc nunca será presidente. 
 
 Lemmas in this text that loaded on the factor:
 
-ai (secondary)
-cu
-pôr
+bater

@@ -1,22 +1,20 @@
-file = t016917
-date = 2022-08-30
-user = FelippeRegazio
-conversation = 927028057763995648
-URL = https://twitter.com/FelippeRegazio/status/1564763329234718721
+file = t002577
+date = 2018-12-29
+user = DanielaLima_
+conversation = 67743025
+URL = https://twitter.com/DanielaLima_/status/1079010065049415681
 
-word count = 39
-words loading = 5
-factor score = 3
+word count = 31
+words loading = 4
+factor score = 4
 
-família bolsonaro **comprou** 51 **imóveis** em dinheiro **vivo** totalizando 
-25 **milhões** de reais. claro que não é dinheiro sujo de **corrupção** 
-né , a explicação é óbvia: o brasileiro está **comprando** muitos 
-chocolates na lojinha do flavio, só pode 
+A @thaisarbex contou no HASHTAG #painel_h de hj q Moro defendeu o uso de 
+**decreto** presidencial para **facilitar** a **posse** de **armas** . 
+Bolsonaro acaba de dizer no Twitter q vai fazer. 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-imóvel
-milhão (secondary)
-vivo (secondary)
+arma
+decreto
+facilitar
+posse

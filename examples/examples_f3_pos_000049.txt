@@ -1,19 +1,22 @@
-file = t004028
-date = 2019-06-28
-user = VillaMarcovilla
-conversation = 3021556996
-URL = https://twitter.com/VillaMarcovilla/status/1144589725086433280
+file = t009295
+date = 2020-11-29
+user = 19_Ocnarfnal_38
+conversation = 1250834130042060800
+URL = https://twitter.com/19_Ocnarfnal_38/status/1333172198182445065
 
-word count = 26
-words loading = 2
-factor score = 2
+word count = 39
+words loading = 4
+factor score = 4
 
-Bolsonaro denunciou mais uma armação no **avião** **presidencial** . Além 
-da cocaína teria sido encontrado um livro em seu nome. HASHTAG 
-#marcoantoniovilla_h HASHTAG #bolsonaro_h HASHTAG #g20_h HASHTAG 
-#aviaopresidencial_h HASHTAG #drogas_h HASHTAG #livros_h 
+Segundo a @bandnewstv China. . . O **Conservadorismo** saiu derrotado nessas 
+**eleições** . . . man_facepalming_medium-light_skin_tone_e 
+man_facepalming_medium-light_skin_tone_e Não existiu nenhum candidato de fato 
+de **Direita** , os poucos apoiados por Bolsonaro não ter **vencido** , não 
+significa que a **Direita** se retraiu ou saiu derrotada. Aguardem 2022 . 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-presidencial
+conservadorismo
+direita
+eleição
+vencer

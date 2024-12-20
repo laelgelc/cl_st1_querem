@@ -1,17 +1,20 @@
-file = t001172
-date = 2018-07-30
-user = exame
-conversation = 30070288
-URL = https://twitter.com/exame/status/1023964262937620480
+file = t018033
+date = 2022-10-30
+user = Belllyra
+conversation = 275010492
+URL = https://twitter.com/Belllyra/status/1586827130234626048
 
-word count = 13
+word count = 54
 words loading = 2
 factor score = -2
 
-O Boticário **põe** família **negra** em comercial – e os racistas não 
-gostaram 
+@artedanimattos @leandroruschel Pois é . Mas nós não fomos pras ruas pra 
+pedir. O povo **batia** no peito que somos Bolsonaro. Mas nem pra rua agora 
+nós vms pra sequer contestar essas eleições. E pq ñão fomos? Pq a gente 
+espera os youtubers mandarem e eles tb se **calaram** . Agora só Deus por 
+nós. 
 
 Lemmas in this text that loaded on the factor:
 
-negro
-pôr
+bater
+calar

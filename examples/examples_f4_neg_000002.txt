@@ -1,21 +1,22 @@
-file = t004358
-date = 2019-07-30
-user = montana171ad
-conversation = 343640333
-URL = https://twitter.com/montana171ad/status/1155957445627265025
+file = t010705
+date = 2021-03-30
+user = nelsonpaffi
+conversation = 1410119389
+URL = https://twitter.com/nelsonpaffi/status/1376987281089781764
 
-word count = 37
-words loading = 4
+word count = 39
+words loading = 5
 factor score = -4
 
-@Flavio_Quintela Parabéns ao Presidente. Meu **pai** não foi perseguido e nem 
-morto. Sabe pq? ? pq ele n carregava armar, n **matava** brasileiros, n 
-**roubava** bancos. Trabalhava para o crescimento do Brasil. PARABÉNS 
-PRESIDENTE BOLSONARO, É O **CARA** . 
+A **esquerda** treme: " UOL **Comandantes** das Forças Armadas pedem 
+**demissão** em **protesto** contra Bolsonaro Inédita, crise militar é a 
+maior desde 1977 , mas fardados trabalham para baixar a temperatura " Foram 
+**demitidos** , não cumpriram o dever como deveria ser. 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-matar
-pai
-roubar
+comandante
+demissão
+demitir (secondary)
+esquerda
+protesto

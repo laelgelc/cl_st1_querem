@@ -1,18 +1,17 @@
-file = t005761
-date = 2020-01-30
-user = muriloffagundes
-conversation = 112238865
-URL = https://twitter.com/muriloffagundes/status/1223030613407600640
+file = t009828
+date = 2021-01-30
+user = Leandro_Hound
+conversation = 18787349
+URL = https://twitter.com/Leandro_Hound/status/1355523663311736837
 
-word count = 38
+word count = 12
 words loading = 2
 factor score = -2
 
-Presidente Jair Bolsonaro deixou há pouco o Hospital das Forças Armadas ( HFA 
-) , em Brasília. Fora da agenda oficial, ele deu entrada no HFA por **volta** 
-das 18h30 , logo após **chegar** da viagem que fez a Minas Gerais. 
+@adriventurasp @camaradeputados @marcelvanhattem Virou **puxa** **saco** do 
+Bolsonaro ladrão e genocida. 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-volta
+puxar
+saco

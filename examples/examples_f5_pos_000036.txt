@@ -1,21 +1,23 @@
-file = t000366
-date = 2018-04-28
-user = Henriquerr34
-conversation = 80200717
-URL = https://twitter.com/Henriquerr34/status/990353773464875009
+file = t010827
+date = 2021-03-30
+user = patriotmalvadao
+conversation = 1290259240494432256
+URL = https://twitter.com/patriotmalvadao/status/1376948967234224131
 
-word count = 36
+word count = 47
 words loading = 5
-factor score = 5
+factor score = 4
 
-Eleitor do bolsonaro é engraçado, o " mito " quer **liberar** o **porte** de 
-**arma** colocando **arma** na mão de qualquer doido pra a por aí 
-**resolvendo** tudo na **bala** , mas quem promove ódio é o PT. . . . . 
+Os três **comandantes** **militares** jogaram para a galera. Usaram a 
+retórica da mídia **corrupta** e colocaram o **cargo** à disposição. Dizem 
+não fazer política. Fizeram o quê ! A pior política. Contra o **Chefe** do 
+Estado e **Comandante** Supremo das Forças Armadas, a quem eles devem 
+respeito. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-bala
-liberar
-porte
-resolver
+cargo
+chefe
+comandante (secondary)
+corrupto
+militar

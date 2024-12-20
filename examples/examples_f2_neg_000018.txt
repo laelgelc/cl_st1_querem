@@ -1,19 +1,18 @@
-file = t011105
-date = 2021-04-29
-user = 2511Thais
-conversation = 1229809199439339521
-URL = https://twitter.com/2511Thais/status/1387895905219657728
+file = t001660
+date = 2018-09-29
+user = sombriodark1
+conversation = 963248341760053248
+URL = https://twitter.com/sombriodark1/status/1046172662031101953
 
-word count = 51
+word count = 34
 words loading = 2
 factor score = -2
 
-Vejam o golpe Armando contra o PR Bolsonaro, esse sujeito e **amiguinho** do 
-safado bandido do Lula, vcs vão esperar pra vê o golpe contra o PR Bolsonaro? 
-Ou vao pra **frente** dos quartéis das FFAA pedindo INTERVENÇÃO MILITAR COM 
-PR BOLSONARO NO PODER PARA A PRISAO DE TODOS TRAIDORES? 
+@CarlosBolsonaro carlos, quando for ironizar, DEIXE CLARO QUE ESTÁ IRONIZANDO, 
+porque os esquerdistas vão adorar pegar seus tweets e deturpá -los e chamar a 
+família bolsonaro de " **fake** **news** " . não dê essa munição a eles. 
 
 Lemmas in this text that loaded on the factor:
 
-amigo
-frente
+fake
+news

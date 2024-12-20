@@ -1,20 +1,18 @@
-file = t003167
-date = 2019-02-27
-user = Prof_Ricardo_SP
-conversation = 806567693646233607
-URL = https://twitter.com/Prof_Ricardo_SP/status/1100879033150177280
+file = t001929
+date = 2018-10-30
+user = VanildOliveira
+conversation = 81819651
+URL = https://twitter.com/VanildOliveira/status/1057414098898612224
 
-word count = 43
-words loading = 3
-factor score = -2
+word count = 47
+words loading = 1
+factor score = -1
 
-Será que a genialidade dos generais brasileiros não percebeu que capitão 
-bandidão Bolsonaro **chefe** de **milicianos** iria trazer para o Alvorada seu 
-estilo mafioso. Desde quando um Presidente pode ser confundido com um bandidão 
-impunemente? Meu Deus oque esses generais **andaram** fizendo 
+Na boa, muito pequeno burguês fazer campanha de **assinaria** da Folha devido 
+às ameaças de Bolsonaro. Você comprará armas da Taurus tb? O valor das 
+ações estão despencando. A Folha, e qq outro negócio, que faça por 
+merecer, pois não se trata de uma ong humanitária. 
 
 Lemmas in this text that loaded on the factor:
 
-andar (secondary)
-chefe
-miliciano
+assinar

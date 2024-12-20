@@ -1,20 +1,22 @@
-file = t009529
-date = 2020-12-30
-user = oitempestade
-conversation = 945812185606959104
-URL = https://twitter.com/oitempestade/status/1344402625484255235
+file = t010360
+date = 2021-03-30
+user = bolivarescobar
+conversation = 38154205
+URL = https://twitter.com/bolivarescobar/status/1377012606167318533
 
-word count = 40
-words loading = 3
-factor score = -3
+word count = 45
+words loading = 5
+factor score = -2
 
-O **CARA** NAO QUER VACINAR A POPULAÇÃO QUE TA LITERALMENTE MORRENDOSALVA A 
-VIDA DE MULHERES MEU **DEUS** DO **CÉU** EU NUNCA PENSEI Q PUDESSE ODIAR TANTO 
-UM SER HUMANO Q NEM EU ODEIO ESSE VAGABUNDO MALDITO MORRAAAAAAAAAA MORRA 
-BOLSONARO 
+Não caiu a ficha ainda que o Bolsonaro pediu **golpe** , os **comandantes** 
+das **forças** **armadas** foram **demitidos** por não acatarem e esse FILHO 
+DA PUTA continua na presidência Pode tirar o impeachment da constituição, se 
+não rolou ainda então não serve pra nada mesmo 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-céu
-deus
+armado
+comandante
+demitir (secondary)
+força (secondary)
+golpe (secondary)

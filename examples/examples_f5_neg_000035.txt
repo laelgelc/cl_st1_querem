@@ -1,19 +1,17 @@
-file = t005975
-date = 2020-01-30
-user = GkGilson
-conversation = 513616462
-URL = https://twitter.com/GkGilson/status/1222978842786254848
+file = t009830
+date = 2021-01-30
+user = Leandro_Hound
+conversation = 18787349
+URL = https://twitter.com/Leandro_Hound/status/1355509924063752192
 
-word count = 38
+word count = 11
 words loading = 2
 factor score = -2
 
-Atestado: Rodrigo Maia ( Nhonho ) desmoraliza, ostensivamente, o Gov Bolsonaro 
-e inviabiliza investimentos de empresários no Br! Traidor da **pátria** que 
-merece, já , o ódio de todos e a sua punição contra segurança e interesses 
-nacionais: pústula **corrupta** ! 
+@julialucydf @marcelvanhattem Virou **puxa** **saco** do ladrão e genocida 
+Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-corrupto
-pátria
+puxar
+saco

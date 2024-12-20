@@ -1,20 +1,20 @@
-file = t006332
-date = 2020-03-30
-user = jumoraeees
-conversation = 766881241
-URL = https://twitter.com/jumoraeees/status/1244690207632437253
+file = t007312
+date = 2020-06-28
+user = camposmello
+conversation = 36714704
+URL = https://twitter.com/camposmello/status/1277296684960305154
 
-word count = 38
+word count = 39
 words loading = 3
-factor score = -3
+factor score = -2
 
-@Celicealvespa @viniciussexto @Ezelimafoz73 Meu **Deus** , tinha que ser 
-bolsominion pra acreditar em fake News. Amada, tá na **cara** q isso é falso? 
-Pelo **amor** de **deus** , inteligencia passou longe né KKKKKKKKKKKK explica 
--se porque é eleitora do Bolsonaro 
+Nós exigimos **intervenção** militar já , com Bolsonaro no poder - essa é 
+uma das faixas de apoiadores de Bolsonaro em **protesto** em Brasília hoje. 
+Há muitas faixas semelhantes. Para lembrar, qdo disserem que são 
+**protestos** pela liberdade e **democracia** 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-deus
+democracia (secondary)
+intervenção
+protesto

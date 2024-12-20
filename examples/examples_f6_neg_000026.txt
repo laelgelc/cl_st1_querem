@@ -1,18 +1,19 @@
-file = t001162
-date = 2018-07-30
-user = tininhasouzarj
-conversation = 822908649047785473
-URL = https://twitter.com/tininhasouzarj/status/1024025201682640898
+file = t016579
+date = 2022-07-30
+user = silvaniaapare16
+conversation = 1731937286
+URL = https://twitter.com/silvaniaapare16/status/1553367855248412683
 
-word count = 25
+word count = 44
 words loading = 2
 factor score = -2
 
-Essa é a esquerda, se vc concorda não vote em Bolsonaro, nossa **bandeira** 
-nunca será **vermelha** flag_brazil_e flag_brazil_e flag_brazil_e Comunistas 
-queimando a **bandeira** do Brasil. . . via @YouTube 
+Mexeu no Bolso do Sistema! Hipócritas falam tanto de ' Democracia, são os 
+mesmos que querem nos **calar** ! eles não vão nos **calar** , como tem eu de 
+louca, tem muitos outros tbm. estamos nessa luta em defesa da nossa liberdade! 
+**chega** de corrupção! . HASHTAG #bolsonaroreeleitoem2022_h flag_brazil_e 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-vermelho
+calar
+chegar

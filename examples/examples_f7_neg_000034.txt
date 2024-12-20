@@ -1,17 +1,17 @@
-file = t008814
-date = 2020-10-30
-user = BolsonarosFatos
-conversation = 1310544008377229318
-URL = https://twitter.com/BolsonarosFatos/status/1322297313826623490
+file = t003826
+date = 2019-05-30
+user = CarlosZarattini
+conversation = 45473463
+URL = https://twitter.com/CarlosZarattini/status/1134151704977575942
 
-word count = 17
-words loading = 2
-factor score = -2
+word count = 29
+words loading = 1
+factor score = -1
 
-Vc sabia? A atual **esposa** do Bolsonaro, Micheque, **recebeu** 86 mil do 
-assessor da família bozo 
+1-Sistema penitenciário está falido e hj é escola do crime 2- Bolsonaro não 
+tem política de **combate** à violência, só pensa em armar população, 
+aumentar encarceramento e perseguir povo das favelas 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-receber
+combate

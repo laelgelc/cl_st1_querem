@@ -1,19 +1,19 @@
-file = t006916
-date = 2020-05-30
-user = Boscardin
-conversation = 159995198
-URL = https://twitter.com/Boscardin/status/1266746148510928898
+file = t014341
+date = 2022-02-26
+user = Anitta
+conversation = 141817380
+URL = https://twitter.com/Anitta/status/1497404807857852416
 
-word count = 40
+word count = 50
 words loading = 2
 factor score = -2
 
-Considerando que em 2022 precisaríamos de um candidato que una o Centro e a 
-Esquerda para reunificar e reconstruir o país, em um mandato de transição, 
-sem reeleição, sem mitos e **salvadores** da **pátria** , os senhores 
-escolheriam quem destes: 
+@MathSaccomam Amor. . . até poucos meses atrás eu não sabia nem que que 
+significava comunista. . . não **enche** o **saco** não. . eu não sou nem 
+comunista nem direita nem esquerda nem central nem de quadro nem de lado nem de 
+frente. Eu sou anti palhaçada, babaquice e coisa ruim. Boa noite 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+encher
+saco

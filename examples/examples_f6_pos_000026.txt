@@ -1,23 +1,23 @@
-file = t017416
-date = 2022-08-30
-user = AbsintheSpirit
-conversation = 2743521
-URL = https://twitter.com/AbsintheSpirit/status/1564703896056078338
+file = t002229
+date = 2018-12-29
+user = Florisrs
+conversation = 404225913
+URL = https://twitter.com/Florisrs/status/1079083699059286016
 
-word count = 44
-words loading = 5
-factor score = 3
+word count = 49
+words loading = 6
+factor score = 5
 
-@CaioBellandi @DanielBeck_91 Ao ser questionado sobre as **compras** , 
-Bolsonaro não soube nem precisar o **número** de **imóveis** **comprados** 
-pela família. Fácil assim! É só ser eleito deputado que perde a conta do 
-**patrimônio** - imagine agora depois da presidência - Não dá mesmo pra 
-contar direito 
+Lula quando ia tomar **posse** anunciou como grande desafio acabar com a fome e 
+combater a miséria. Isto é se preocupar com a vida Já Bolsonaro anuncia que 
+vai **facilitar** **porte** de **armas** por **decreto** . Isto para levar as 
+pessoas a **morte** ! Que diferença de postura. Lula livre! ! 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-comprar
-imóvel
-número (secondary)
-patrimônio (secondary)
+arma
+decreto
+facilitar
+morte (secondary)
+porte
+posse

@@ -1,20 +1,18 @@
-file = t008133
-date = 2020-08-30
-user = felipelanhi
-conversation = 2520622946
-URL = https://twitter.com/felipelanhi/status/1300193468149575681
+file = t003581
+date = 2019-04-29
+user = Verazattar
+conversation = 189549639
+URL = https://twitter.com/Verazattar/status/1123010890373246982
 
-word count = 44
-words loading = 3
-factor score = -2
+word count = 40
+words loading = 1
+factor score = -1
 
-É fato: o único dinheiro público que o clã bolsonaro tinha controle, como 
-parlamentares, era a verba de **gabinete** e o **salário** dos assessores. 
-Coincidência que esse seja justamente o foco das investigações contra a 
-família de **milicianos** . A ocasião faz o ladrão. 
+provoca bolsonaristas? Bem antes de Bolsonaro a @RedeGlobo perde audiência 
+pelo " conjunto da obra " . Perde tanto q está reduzindo despesas 
+**demitindo** direto. O controle remoto é a melhor arma para quem não se 
+interessa por sacanagem travestida de " arte " . 
 
 Lemmas in this text that loaded on the factor:
 
-gabinete
-miliciano
-salário (secondary)
+demitir

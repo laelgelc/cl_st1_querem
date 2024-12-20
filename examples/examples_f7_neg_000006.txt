@@ -1,20 +1,16 @@
-file = t003113
-date = 2019-02-27
-user = MarceloFreixo
-conversation = 45870897
-URL = https://twitter.com/MarceloFreixo/status/1100800457499443202
+file = t000323
+date = 2018-04-29
+user = LCampagnollo
+conversation = 963974865702309888
+URL = https://twitter.com/LCampagnollo/status/990509044178804736
 
-word count = 36
-words loading = 3
-factor score = -3
+word count = 14
+words loading = 1
+factor score = -1
 
-@soares_ud Faço, sim. Olha só , enquanto a família estava homenageando 
-**milicianos** , eu estava presidindo a **CPI** das Milícias e viabilizando a 
-prisão dos principais **chefes** das milícias. Quem não fez muito como dep. 
-federal foi Bolsonaro. 
+Leia este comentário e **assine** o abaixo-assinado. Liberdade de expressão e 
+imunidade parlamentar. via @change_br 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-cpi
-miliciano
+assinar

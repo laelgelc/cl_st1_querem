@@ -1,22 +1,23 @@
-file = t019986
-date = 2023-03-30
-user = g_vgouvea
-conversation = 1350165514413338628
-URL = https://twitter.com/g_vgouvea/status/1641479440826859520
+file = t010673
+date = 2021-03-30
+user = DPaulodavi
+conversation = 1092378916650659840
+URL = https://twitter.com/DPaulodavi/status/1377037982671245314
 
-word count = 37
+word count = 46
 words loading = 5
 factor score = 4
 
-Após reclamação, governo Lula diz que Bolsonaro não tem direito a **carro** 
-**blindado** . Mas não foi ele quem **liberou** **armas** pra **população** 
-? Está com medo de quê ? **Carro** **blindado** só o camburão que vai levá 
--lo pra cadeia. 
+Os **comandantes** das FFAA entregaram seus **cargos** um dia após Bolsonaro 
+demitir o ministro da Defesa, Fernando Azevedo e Silva. A saída da cúpula das 
+F. Armadas não tem precedentes. Há insatisfação entre os comandos 
+**militares** com o desejo de Bolsonaro por **maior** alinhamento **político** 
+. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-blindar (secondary)
-carro
-liberar
-população
+cargo
+comandante (secondary)
+grande
+militar
+político

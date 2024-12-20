@@ -1,19 +1,17 @@
-file = t006487
-date = 2020-03-30
-user = Nessonisrael
-conversation = 77523729
-URL = https://twitter.com/Nessonisrael/status/1244764925223940099
+file = t012089
+date = 2021-08-30
+user = BLOGdoPEPE
+conversation = 305774527
+URL = https://twitter.com/BLOGdoPEPE/status/1432293566492069890
 
-word count = 48
+word count = 19
 words loading = 2
 factor score = -2
 
-Vamos pregar a luta a favor do Bolsonaro neste país tem um exército polícia 
-imprensa políticos advogados todos ladrões e **corruptos** e comunista se for 
-para continuar a viver assim é melhor morrermos pela **pátria** vamos unir 
-nossas forças e lutar, vamos seus covardes defender a nação 
+Bandidos fortemente armados fazem arrastão em Araçatuba SP. e a PM 
+interessada em **puxar** o **saco** do Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-corrupto
-pátria
+puxar
+saco

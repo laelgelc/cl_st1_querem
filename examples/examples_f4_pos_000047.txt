@@ -1,19 +1,22 @@
-file = t016242
-date = 2022-07-30
-user = SamPancher
-conversation = 56457949
-URL = https://twitter.com/SamPancher/status/1553408604090388480
+file = t017120
+date = 2022-08-30
+user = LilliunAzules
+conversation = 1501694653913079808
+URL = https://twitter.com/LilliunAzules/status/1564759633822195712
 
-word count = 34
-words loading = 3
-factor score = 3
+word count = 35
+words loading = 6
+factor score = 6
 
-" Vamos mostrar que o nosso povo, mais do que querer, tem o direito e exige 
-paz, **democracia** , transparência e liberdade " , diz Bolsonaro sobre 
-**ato** em 7 de **Setembro** durante desfile das Forças Armadas. 
+@LulaOficial pergunta ao Bolsonaro de onde veio o **dinheiro** da **família** 
+para a **compra** de 107 **imóveis** , sendo 51 em **dinheiro** **vivo** , 
+montante de 22 , 6 **milhões** ? ? ? Ele se gaba de ser tão honesto. 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-democracia
-setembro
+compra
+dinheiro
+família
+imóvel
+milhão
+vivo

@@ -1,19 +1,20 @@
-file = t001402
-date = 2018-08-30
-user = domlancellotti
-conversation = 41396580
-URL = https://twitter.com/domlancellotti/status/1035292823069880321
+file = t009904
+date = 2021-01-30
+user = KaioGossip
+conversation = 79202957
+URL = https://twitter.com/KaioGossip/status/1355629484284776452
 
-word count = 45
+word count = 58
 words loading = 2
 factor score = -2
 
-HASHTAG #votobolsonaro17_h " E ainda há quem diga que Bolsonaro nada fez em 30 
-anos de vida **política** . Só isso de ter sido voz sozinha na defesa das 
-crianças e da família, enquanto é **chamado** de louco e de homofóbico, já 
-valeria pela vida inteira. " - @Teodorico1967 
+@cxabelloz @bchartsnet A campanha eleitoral do Bolsonaro foi toda pautada no 
+**ódio** e no preconceito a minorias. Se seu irmão votou nele estando ciente 
+de tudo o q o Bolsonaro pregava, talvez seu irmão não seja esse docinho q vc 
+acha q ele é só pq ele trava você e as **pessoas** do seu círculo família 
+bem. 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-político
+pessoa
+ódio

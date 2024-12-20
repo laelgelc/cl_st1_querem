@@ -1,22 +1,20 @@
-file = t017442
-date = 2022-08-30
-user = OficialAdeodato
-conversation = 847504136295677952
-URL = https://twitter.com/OficialAdeodato/status/1564717533688733697
+file = t002263
+date = 2018-12-30
+user = BlogdoNoblat
+conversation = 16794066
+URL = https://twitter.com/BlogdoNoblat/status/1079218232798658560
 
-word count = 52
-words loading = 4
-factor score = 3
+word count = 22
+words loading = 5
+factor score = 5
 
-@flferronato @LnnAlencarMRam1 Eu vi uma postagem de uma jornalista sobre a 
-**compra** desses **imóveis** com " clima de **escândalo** " , entrei no 
-perfil e vi que a menina se especializou em apurar a **vida** da família do 
-Bolsonaro. 04 anos e a jornalista falhou miseravelmente na tarefa de buscar 
-algum **escândalo** de verdade face_with_hand_over_mouth_e 
+Por **decreto** , Bolsonaro garantirá a **posse** de **arma** de **fogo** para 
+o **cidadão** sem antecedentes criminais. O que você acha disso? 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-escândalo (secondary)
-imóvel
-vida
+arma
+cidadão
+decreto
+fogo
+posse

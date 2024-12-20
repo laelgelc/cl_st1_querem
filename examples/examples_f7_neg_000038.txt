@@ -1,18 +1,18 @@
-file = t009475
-date = 2020-12-30
-user = MmipexRenata
-conversation = 372563666
-URL = https://twitter.com/MmipexRenata/status/1344428099186864129
+file = t004161
+date = 2019-06-29
+user = cleide_ita
+conversation = 880125075911057411
+URL = https://twitter.com/cleide_ita/status/1145059487700717569
 
-word count = 23
-words loading = 3
-factor score = -2
+word count = 44
+words loading = 1
+factor score = -1
 
-@brotherjp21 Vai se instruir! Bolsonaro é ladrão, marido de mulher que 
-**recebe** dinheiro de **miliciano** e é **pai** de bandido! É corrupto! 
+BRAVA GENTE BRASILEIRA! ! . PATRIOAS DO BEM! ! ! Todos de verde amarelo, 
+cartazes, caminhoneiros, VEM PARA RUA, POIAR, LAVA JATO, MORO, BOLSONARO, PAULO 
+GUEDES, ANTICRIME, PREVIDENCIA, Deus é tão bondoso, com nosso Brasil, que no 
+G20 , até acordo MERCOSUL UE, foi **assinado** , apos 20 anos 
 
 Lemmas in this text that loaded on the factor:
 
-miliciano
-pai (secondary)
-receber
+assinar

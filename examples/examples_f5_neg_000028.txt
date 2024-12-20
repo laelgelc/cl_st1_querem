@@ -1,19 +1,18 @@
-file = t003198
-date = 2019-02-27
-user = 4lph4D4rk
-conversation = 432098929
-URL = https://twitter.com/4lph4D4rk/status/1100871561945538561
+file = t008311
+date = 2020-09-29
+user = cappellarianton
+conversation = 137545998
+URL = https://twitter.com/cappellarianton/status/1311090893655597058
 
-word count = 44
+word count = 37
 words loading = 2
 factor score = -2
 
-Aí @jairbolsonaro vc irá fazer o que AGORA. Por isso falando com meus amigos 
-antes de vc escolhe o Sérgio DESARMAMENTISTA Moro para Ministro, meus amigos e 
-eu estava pensando em um Ministro 100 % para **calar** o @STF_oficial 
-**CORRUPTO** e NÃO, um ATIVISTA 50 % . 
+bolsonaro é contra **negros** , **gays** , pobres, e muitas outras classes mas 
+hoje latiu para mostrar que ama animais quando sancionou leis que protegem 
+cachorros e gatos, miar não miou não porque quem mia é gato, ladrão 
 
 Lemmas in this text that loaded on the factor:
 
-calar
-corrupto
+gay
+negro

@@ -1,22 +1,23 @@
-file = t015616
-date = 2022-05-30
-user = ptdeminas
-conversation = 88994803
-URL = https://twitter.com/ptdeminas/status/1531396282337488896
+file = t015479
+date = 2022-04-29
+user = WaldemirodaSil4
+conversation = 1276205209874767873
+URL = https://twitter.com/WaldemirodaSil4/status/1520151624840355840
 
-word count = 39
+word count = 48
 words loading = 4
 factor score = 4
 
-no_entry_e ️ Bolsonaro explode **renda** das famílias com sucessivos 
-**aumentos** do **gás** . cross_mark_e Em SP, mais **pobres** comprometem 11 % 
-da **renda** com **gás** de cozinha. No país, compras com supermercado 
-abocanham 60 % do dinheiro das classes D e E. mobile_phone_with_arrow_e Saiba 
-mais: 
+smiling_face_with_sunglasses_e thumbs_up_e backhand_index_pointing_right_e 
+flag_brazil_e Ação Gov. BOLSONARO flag_brazil_e Aprovada a MP nº 1 . 076 / 
+21 , do Governo Federal, que garante valor **mínimo** de R$ 400 do Auxílio 
+Brasil de forma permanente às famílias. Quem conseguir um **emprego** formal 
+não perderá o benefício e **receberá** R$ 200 do Auxílio — metade do 
+valor **pago** . . . 
 
 Lemmas in this text that loaded on the factor:
 
-aumento
-gás
-pobre
-renda
+emprego
+pagar
+pequeno
+receber

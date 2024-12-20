@@ -1,20 +1,18 @@
-file = t000672
-date = 2018-05-30
-user = sereifranco
-conversation = 931284463648231425
-URL = https://twitter.com/sereifranco/status/1001819152473034752
+file = t007399
+date = 2020-06-29
+user = brunomaracci
+conversation = 62291119
+URL = https://twitter.com/brunomaracci/status/1276783270471110656
 
-word count = 51
-words loading = 3
+word count = 31
+words loading = 2
 factor score = -2
 
-Depois da minha mãe dar rage quit no grupo da família depois do meu pai falar 
-bem de Bolsonaro e Hitler, minha irmã tbm deu depois da minha prima dizer os 
-**direitos** que as **mulheres** conquistaram não tiveram ajuda **política** 
-. Não sei se sinto orgulho ou vergonha. Tô dividido aqui 
+@sltf1989 @Ana_Suiak @LoroRosee Não quis fazer igual, só **usei** seu 
+argumento de família. No caso a Bolsonaro é criminosa. Rachadinha, milícia, 
+gabinete do **ódio** e por aí vai. Conviva com isso. 
 
 Lemmas in this text that loaded on the factor:
 
-direito (secondary)
-mulher
-político
+usar
+ódio

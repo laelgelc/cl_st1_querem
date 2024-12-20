@@ -1,19 +1,15 @@
-file = t001768
-date = 2018-10-30
-user = CrisBonoro
-conversation = 775461208447152128
-URL = https://twitter.com/CrisBonoro/status/1056760805847392256
+file = t000061
+date = 2018-03-30
+user = aleex_73
+conversation = 1163222954
+URL = https://twitter.com/aleex_73/status/979427809956315136
 
-word count = 45
-words loading = 2
-factor score = -2
+word count = 8
+words loading = 1
+factor score = -1
 
-@Lureizel @kbooz @_JonathanBastos @DG_Barcellos Eu pesquisei o Face dele, os 
-familiares dele! Ele sendo elogiado pelos familiares em **fotos** ( antes do 
-ocorrido ) ! Depois do ocorrido não se falou mais nada! Se ele tivesse sido 
-espancado só por ser **negro** e eleitor do Bolsonaro, a família apoiaria! 
+@MarceloTas Babaca comunista! Bolsonaro está **chegando** . . . hehehe 
 
 Lemmas in this text that loaded on the factor:
 
-foto
-negro
+chegar

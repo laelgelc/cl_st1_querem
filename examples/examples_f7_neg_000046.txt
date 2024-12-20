@@ -1,20 +1,15 @@
-file = t011198
-date = 2021-04-29
-user = aniellefranco
-conversation = 80582734
-URL = https://twitter.com/aniellefranco/status/1387812303001825281
+file = t005195
+date = 2019-11-29
+user = folha
+conversation = 14594813
+URL = https://twitter.com/folha/status/1200511258199494657
 
-word count = 24
-words loading = 4
-factor score = -2
+word count = 11
+words loading = 1
+factor score = -1
 
-400 mil mortes. São 400 mil famílias que perderam sua **mãe** , seu **pai** 
-, filhos, avós e avôs, **tios** . O que falta pro **impeachment** do 
-Bolsonaro? 
+Não há democracia sem liberdade de imprensa. **Assine** a @folha 
 
 Lemmas in this text that loaded on the factor:
 
-impeachment
-mãe
-pai (secondary)
-tio (secondary)
+assinar

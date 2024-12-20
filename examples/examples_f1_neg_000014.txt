@@ -1,20 +1,19 @@
-file = t012393
-date = 2021-08-30
-user = RosaSoa88533536
-conversation = 1140406832718069760
-URL = https://twitter.com/RosaSoa88533536/status/1432473088973844480
+file = t003099
+date = 2019-02-27
+user = nossasenhora123
+conversation = 4865918908
+URL = https://twitter.com/nossasenhora123/status/1100845386883911680
 
-word count = 43
-words loading = 3
-factor score = -3
+word count = 38
+words loading = 2
+factor score = -2
 
-Eu não entendo, vi a cabeça de Bolsonaro na mão de uma **mulher** , 
-**chamaram** de arte, servindo de bola, vi um assassino sem poder ser 
-investigado. . . O que está acontecendo meu Deus? pensive_face_e PGR denuncia 
-Roberto Jefferson ao STF por incitação ao **crime** 
+@monicabergamo Bolsonaro admira torturador, apoia tudo de desumano, um cara 
+sádico, falso moralista que alimenta **ódio** ! **Usa** Deus pra se promover 
+Identifica -se com monstros da história. E seus seguidores identificam -se com 
+essa alma colérica, ( observe nas entrelinhas dessa gente ) 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-crime
-mulher
+usar
+ódio

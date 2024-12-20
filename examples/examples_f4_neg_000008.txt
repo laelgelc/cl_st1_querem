@@ -1,20 +1,18 @@
-file = t000140
-date = 2018-03-29
-user = carlosgvieira_
-conversation = 328871649
-URL = https://twitter.com/carlosgvieira_/status/979417484725051393
+file = t010556
+date = 2021-03-30
+user = folha
+conversation = 14594813
+URL = https://twitter.com/folha/status/1376922178118160391
 
-word count = 40
+word count = 11
 words loading = 3
 factor score = -3
 
-hj teve almoço no madalosso para receber o bolsonaro. . . . . . . se vc foi me 
-exclui pelo **amor** de **deus** . . . . . . . O alexandre frota estava la 
-apoiando o **cara** e vc pagando pau pra ele. . . . vai se fode seus burro do 
-caraio 
+**Comandantes** das Forças Armadas pedem **demissão** em **protesto** contra 
+Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-deus
+comandante
+demissão
+protesto

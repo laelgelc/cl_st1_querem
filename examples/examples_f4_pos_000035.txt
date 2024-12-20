@@ -1,20 +1,23 @@
-file = t018949
-date = 2022-12-30
-user = PatriotaLucelia
-conversation = 64926882
-URL = https://twitter.com/PatriotaLucelia/status/1608936355547209729
+file = t017317
+date = 2022-08-30
+user = Leloeller
+conversation = 710443299669155840
+URL = https://twitter.com/Leloeller/status/1564757589946163200
 
-word count = 40
-words loading = 3
-factor score = 3
+word count = 22
+words loading = 7
+factor score = 6
 
-@LuizCamargoVlog A " **democracia** " q os POLÍTICOS da " direita " 
-defenderam! As Forças Armadas só agirão qdo a maioria esquecer de político 
-e pedir apenas **Intervenção** **militar** ! O que eu vi muitos carros de 
-sons gritando " **Intervenção** federal " , **Intervenção** com Bolsonaro " 
+RT @cappellarianton: Sabendo que mais de 100 **imóveis** **comprados** pela 
+**família** Bolsonaro foram **pagos** com pelo menos a **metade** em 
+**dinheiro** **vivo** … 
 
 Lemmas in this text that loaded on the factor:
 
-democracia
-intervenção
-militar
+comprar
+dinheiro
+família
+imóvel
+metade
+pagar (secondary)
+vivo

@@ -1,20 +1,18 @@
-file = t001163
-date = 2018-07-30
-user = estadoir8nico
-conversation = 970896946427826177
-URL = https://twitter.com/estadoir8nico/status/1024010484855529475
+file = t016903
+date = 2022-08-30
+user = monique_adm
+conversation = 1339327973254713350
+URL = https://twitter.com/monique_adm/status/1564764019420024833
 
-word count = 42
+word count = 25
 words loading = 2
 factor score = -2
 
-@fnmarinho @CamilaPed2 @BlogOlhoNaMira @claudioedantas @joaoamoedonovo 
-@partidonovo30 @jairbolsonaro @JanainaDoBrasil O lance do novo30 é **encher** 
-o **saco** de conservadores com proselitismo de pirâmide e a sanha 
-anti-Bolsonaro. Em vez de lutarem por um segundo turno Bolsonaro X Amoedo, 
-preferem se aliar a esquerdistas: 
+RT @Vivianeluz2019 : Lema de Bolsonaro: Deus: Mamom neh. **Pátria** : Só se 
+for a Americana a quem já **bateu** até continência. Família: A dele. 
+HASHTAG #b_h … 
 
 Lemmas in this text that loaded on the factor:
 
-encher
-saco
+bater
+pátria

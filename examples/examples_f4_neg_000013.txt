@@ -1,20 +1,19 @@
-file = t001549
-date = 2018-09-29
-user = TonyStarkMeta
-conversation = 96004495
-URL = https://twitter.com/TonyStarkMeta/status/1046150354302377986
+file = t000836
+date = 2018-06-29
+user = luciane0776
+conversation = 2845203399
+URL = https://twitter.com/luciane0776/status/1012424090181885952
 
-word count = 42
-words loading = 3
-factor score = -3
+word count = 39
+words loading = 2
+factor score = -2
 
-Mais um **pai** de família que morre tentando defender seu filho. Assaltante o 
-**mata** na frente da criança. Logo na sequência a apresentadora da Globonews 
-com **cara** de esfinge mostra a manifestação contra Bolsonaro. Dia 07 isso 
-vai começar a mudar. 
+@BuzzFeedNewsBR Sou eleitora do Bolsonaro mas acho exagerado essas 
+reclamações, a empresa tem liberdade de expressão e não é obrigada a 
+**retirar** ou fazer sátira com outros candidatos. Reclamam da **esquerda** 
+mimimi mas acabam usando os mesmos meios. 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-matar
-pai
+esquerda
+retirar

@@ -1,18 +1,22 @@
-file = t019539
-date = 2023-02-27
-user = Paulapucca1
-conversation = 1207376427135492099
-URL = https://twitter.com/Paulapucca1/status/1630355826798911491
+file = t011364
+date = 2021-05-30
+user = mlet_brasil
+conversation = 824432233
+URL = https://twitter.com/mlet_brasil/status/1398838912395759617
 
-word count = 22
-words loading = 3
-factor score = 3
+word count = 51
+words loading = 4
+factor score = 4
 
-RT @Oliveira13_L: Viram pessoal da **direita** **conservadora** da moral e bons 
-**costumes** falar sobre os casos de trabalho escravo no Sul? Só lembra … 
+@Eduardo86451313 @euamedusa @felipeneto Que **merda** eu falei do cristianismo? 
+Eu falei que vocês **apoiadores** do Bolsonaro são falsos cristãos. Não 
+cumprem verdadeiramente a palavra de **Deus** . Se deixam influenciar por 
+**pastores** midiáticos falsos profetas. Se deixam levar por frases de efeito 
+q usam com o nome de **Deus** em vão. 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-direita
+apoiador
+deus
+merda
+pastor

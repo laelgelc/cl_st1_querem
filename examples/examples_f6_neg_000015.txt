@@ -1,20 +1,19 @@
-file = t013011
-date = 2021-10-30
-user = teoandre
-conversation = 67903415
-URL = https://twitter.com/teoandre/status/1454584795615350785
+file = t010320
+date = 2021-03-30
+user = Lalo1959
+conversation = 73132381
+URL = https://twitter.com/Lalo1959/status/1377047119396229122
 
-word count = 47
+word count = 24
 words loading = 3
-factor score = -3
+factor score = -2
 
-**Ponham** uma coisa nas suas cabeças: Não é por: causa **gay** , causa 
-**negra** , pelos pobres, pelo trabalhador, pela educação, pela arte, pela 
-democracia, pela liberdade de expressão, etc. . . É só pelo poder e pelo 
-dinheiro. E o Bolsonaro cortou a fonte! Só através do trabalho agora! 
+RT @mariadorosario: Brasil **bate** recorde e **chega** a 3 . 780 pessoas 
+mortas em um dia. O **Covid** avança tragicamente sobre as famílias, enquanto 
+o … 
 
 Lemmas in this text that loaded on the factor:
 
-gay
-negro
-pôr
+bater
+chegar
+covid (secondary)

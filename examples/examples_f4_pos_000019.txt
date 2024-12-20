@@ -1,21 +1,23 @@
-file = t010506
-date = 2021-03-29
-user = amandafaudi
-conversation = 971415379103842304
-URL = https://twitter.com/amandafaudi/status/1376612853101297667
+file = t016800
+date = 2022-08-30
+user = lombarde_emilia
+conversation = 1425103579677929483
+URL = https://twitter.com/lombarde_emilia/status/1564764702915399681
 
-word count = 44
-words loading = 4
-factor score = 4
+word count = 26
+words loading = 7
+factor score = 7
 
-Ministro da **Defesa** pedindo **demissão** a poucos dias das " comemorações 
-" do **golpe** de 64 , em meio a um baita clima de motim **militar** , e 
-falando que em seu exercício " preservou as Forças Armadas como instituição 
-de Estado " . É isso mesmo que tá acontecendo. 
+RT @psol50 : É um **ESCÂNDALO** ! A **família** Bolsonaro **comprou** pelo 
+menos 51 **imóveis** com R$ 25 , 6 **MILHÕES** EM **DINHEIRO** **VIVO** . 
+Prática é comum para la … 
 
 Lemmas in this text that loaded on the factor:
 
-defesa
-demissão
-golpe
-militar
+comprar
+dinheiro
+escândalo
+família
+imóvel
+milhão
+vivo

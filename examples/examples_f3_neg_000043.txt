@@ -1,22 +1,18 @@
-file = t003796
+file = t003873
 date = 2019-05-30
-user = PH2017sp
-conversation = 901987627330654208
-URL = https://twitter.com/PH2017sp/status/1134200798639001617
+user = frcabreira
+conversation = 38012248
+URL = https://twitter.com/frcabreira/status/1133938541996781568
 
-word count = 39
-words loading = 5
-factor score = -3
+word count = 26
+words loading = 2
+factor score = -2
 
-@jdoriajr Em 2002 , Bolsonaro votou em Lula no **segundo** turno. No 
-**primeiro** , **escolheu** Ciro Gomes. Santo Deus! Não tem o **menor** 
-cabimento. Que **direita** é essa que você criou, capitão? Só pode ser a 
-**direita** pra enganar trouxa! 
+Que família essa que veio para assolar o país! ! ! **Miliciano** preso no 
+Distrito Federal por grilagem de terras é **tio** de Michelle Bolsonaro via 
+@iG 
 
 Lemmas in this text that loaded on the factor:
 
-direita (secondary)
-escolher
-pequeno (secondary)
-primeiro
-segundo
+miliciano
+tio

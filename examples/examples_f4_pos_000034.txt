@@ -1,21 +1,26 @@
-file = t000609
-date = 2018-05-30
-user = clovisilha
-conversation = 243294632
-URL = https://twitter.com/clovisilha/status/1001820208267497473
+file = t017320
+date = 2022-08-30
+user = nadanovonofront
+conversation = 3317555339
+URL = https://twitter.com/nadanovonofront/status/1564589015722065920
 
-word count = 41
-words loading = 4
-factor score = 4
+word count = 45
+words loading = 8
+factor score = 6
 
-Amigos e amigas Não contem com **intervenção** **militar** . Nossas Forças 
-Armadas prezam a **democracia** e cumprem a **constituição** . Vamos mudar o 
-Brasil pelo voto, que é o caminho certo. Falta pouco para as eleições. 
-Paciência. " As Forças Armadas estão vacinadas " 
+Entenda aqui por que **corrupção** e lavagem de **dinheiro** em **compra** de 
+**imóveis** é um negócio sério, especialmente se eles são **comprados** em 
+**dinheiro** **vivo** . O **número** de **imóveis** ( 107 ) , bem como a 
+**compra** em **dinheiro** **vivo** , levanta enormes suspeitas sobre a 
+**família** Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-constituição
-democracia
-intervenção
-militar
+compra
+comprar
+corrupção (secondary)
+dinheiro
+família
+imóvel
+número (secondary)
+vivo

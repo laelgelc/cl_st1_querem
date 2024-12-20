@@ -1,20 +1,18 @@
-file = t003256
-date = 2019-03-30
-user = inesdlx
-conversation = 134946979
-URL = https://twitter.com/inesdlx/status/1112083716472492032
+file = t002548
+date = 2018-12-30
+user = ANEPF_BR
+conversation = 1581976626
+URL = https://twitter.com/ANEPF_BR/status/1079434479859630080
 
-word count = 45
-words loading = 3
-factor score = -2
+word count = 50
+words loading = 1
+factor score = -1
 
-@BolsonaroSP Um dos assassinos de Marielle Franco ser vizinho da família 
-Bolsonaro e manter um arsenal de 117 fuzis em casa, além de ser amigo de seu 
-**pai** , outros dois **milicianos** condenados e presos, **receberem** 
-homenagens e honrarias do seu irmão, é coincidência mesmo? 
+O mote do governo @jairbolsonaro e do Moro como MJ é o **combate** à 
+corrupção. Mas corrupção não se combate com viatura e arma nova, e sim com 
+aproveitamento dos recursos humanos que já temos na PF! Pela carreira policial 
+com entrada única pela base + policial de ciclo completo! 
 
 Lemmas in this text that loaded on the factor:
 
-miliciano
-pai (secondary)
-receber
+combate

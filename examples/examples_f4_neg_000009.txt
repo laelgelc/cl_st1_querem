@@ -1,20 +1,22 @@
-file = t000481
-date = 2018-04-28
-user = nathalia_qga
-conversation = 141045868
-URL = https://twitter.com/nathalia_qga/status/990078937710678016
+file = t010762
+date = 2021-03-30
+user = southaferreira
+conversation = 995054095542177792
+URL = https://twitter.com/southaferreira/status/1376940515204214793
 
-word count = 45
-words loading = 3
+word count = 42
+words loading = 5
 factor score = -3
 
-Bolsonaro vai colocar ordem no Brasil! Vai como? **Matando** e torturando. Os 
-primeiros serão os favelados, depois os gays, negros, índios. As mulheres 
-serão colocadas num papel " ainda mais " de submissão. Cdadãos de bem 
-enrolados na bandeira nacional falando sobre seu **deus** " de **amor** " 
+BOLSONARO É UM RISCO PARA **DEMOCRACIA** ! Pela primeira vez na história, os 
+três **comandantes** das Forças Armadas, Aeronáutica, Exército e Marinha, 
+entregaram o **cargo** em **protesto** contra o presidente. Os **comandantes** 
+afirmaram que não vão **participar** de aventuras golpistas com Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-deus
-matar
+cargo (secondary)
+comandante
+democracia (secondary)
+participar
+protesto

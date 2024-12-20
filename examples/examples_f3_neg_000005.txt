@@ -1,25 +1,21 @@
-file = t003268
-date = 2019-03-30
-user = Nayenne78
-conversation = 1080233102604148738
-URL = https://twitter.com/Nayenne78/status/1112062239442386945
+file = t003435
+date = 2019-03-28
+user = abdalafarah
+conversation = 336878973
+URL = https://twitter.com/abdalafarah/status/1111194893999841280
 
-word count = 45
-words loading = 6
-factor score = -4
+word count = 48
+words loading = 4
+factor score = -3
 
-@RGConservador @BelinhaPoodlle Deus escreve certo por linhas tortas. Deus 
-**escolheu** Bolsonaro, junto com ele, deu **força** , coragem e 
-determinação. **Tirou** o véu q encobria nossa face, mostrando à nós o que 
-estava escondido. Bolsonaro trocou a **liberdade** dele e família para 
-reconstruir o Brasil smiling_face_with_sunglasses_e **flag_brazil_e** 
-**folded_hands_e** 
+Hoje é dia 28 / 03 / 2019 ! Quando será o depoimento do Flávio Bolsonaro? E 
+as investigações sobre o Queiroz, **esposa** e **filhas** ? E o cheque da 
+Michele Bolsonaro? E o Jair? Esquemas? E os **milicianos** ? E suas famílias 
+nos **gabinetes** ? Quem mandou matar Marielle? Cadê as respostas? ! ? ! 
 
 Lemmas in this text that loaded on the factor:
 
-escolher
-flag_brazil_e (secondary)
-folded_hands_e (secondary)
-força
-liberdade
-tirar
+esposo
+filha (secondary)
+gabinete
+miliciano

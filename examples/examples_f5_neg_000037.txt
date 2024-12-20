@@ -1,19 +1,17 @@
-file = t006206
-date = 2020-02-28
-user = luizhenriquevas
-conversation = 26799550
-URL = https://twitter.com/luizhenriquevas/status/1233508613605462017
+file = t012088
+date = 2021-08-30
+user = Lopes_JorgeLuiz
+conversation = 2752331528
+URL = https://twitter.com/Lopes_JorgeLuiz/status/1432491755329499137
 
-word count = 42
+word count = 21
 words loading = 2
 factor score = -2
 
-@CarlosBolsonaro A facada existiu, apesar de eu achar que foi um ato 
-deplorável, um crime político, mas que não transforma o Bolsonaro em 
-**salvador** da **pátria** , é só o mais fraco e pior dos 38 que ali 
-sentaram. Cadê o Queiroz? 
+RT @BLOGdoPEPE: Bandidos fortemente armados fazem arrastão em Araçatuba SP. e 
+a PM interessada em **puxar** o **saco** do Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+puxar
+saco

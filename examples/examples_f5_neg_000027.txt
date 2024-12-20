@@ -1,18 +1,18 @@
-file = t002533
-date = 2018-12-30
-user = generosomarcelo
-conversation = 152484640
-URL = https://twitter.com/generosomarcelo/status/1079367741658853376
+file = t008109
+date = 2020-08-30
+user = Pablogapaisa
+conversation = 1240646162740322312
+URL = https://twitter.com/Pablogapaisa/status/1300057755072573440
 
-word count = 35
+word count = 29
 words loading = 2
 factor score = -2
 
-Eu tenho esperanças em dias melhores sim mas, não crio muitas expectativas. 
-Vejo muita gente colocando o Bolsonaro como **salvador** da **pátria** , 
-endeusando e idolatrando, Calma que o santo é de barro. Tem gente. . . 
+É domingão em família, churrascão, cerveja gelada, quando de repente chega 
+aquele parente esquerdista que **enche** o **saco** no grupo da familia no 
+watss, e aí ? ? Como agir? ? 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+encher
+saco

@@ -1,22 +1,21 @@
-file = t018095
-date = 2022-10-30
-user = Fabi_Camargo22
-conversation = 1539556307048488961
-URL = https://twitter.com/Fabi_Camargo22/status/1586553183584780289
+file = t015958
+date = 2022-06-29
+user = DivergenteMan
+conversation = 4769258249
+URL = https://twitter.com/DivergenteMan/status/1542291802044219393
 
-word count = 46
-words loading = 4
-factor score = 4
+word count = 22
+words loading = 5
+factor score = 5
 
-@jairbolsonaro Não consigo aceitar esse resultado, esse bandido não me 
-representa, não representa minha família, que Deus cuide do sr. e da sua 
-família, que cuide do nosso Brasil! Obrigada Bolsonaro por tudo que fez pelo 
-nosso país, continuaremos lutando pelo bem do nosso país! **flag_brazil_e** 
-**green_heart_e** **yellow_heart_e** **folded_hands_e** 
+@TheBeto55 Deus no céu e nós na Terra Uma festa já montaram **Pra** 
+**reeleger** o mito Em Outubro é Bolsonaro! **Amém** ! **folded_hands_e** 
+**flag_brazil_e** 
 
 Lemmas in this text that loaded on the factor:
 
+amém
 flag_brazil_e
 folded_hands_e
-green_heart_e
-yellow_heart_e
+pra
+reeleger

@@ -1,22 +1,23 @@
-file = t013973
-date = 2022-01-30
-user = DutraSargento
-conversation = 1329556568791265283
-URL = https://twitter.com/DutraSargento/status/1487912791814160396
+file = t017568
+date = 2022-09-29
+user = jairbolsonaro
+conversation = 128372940
+URL = https://twitter.com/jairbolsonaro/status/1575325362304737281
 
-word count = 21
-words loading = 3
-factor score = 2
+word count = 52
+words loading = 5
+factor score = 4
 
-@VlogdoLisboa Apenas em dezembro, os **cartões** exclusivos da família 
-**presidencial** foram usados em **compras** que somaram R$ 1 , 5 milhão cow_e 
-cow_e cow_e cow_e cow_e backhand_index_pointing_right_e 
-backhand_index_pointing_right_e backhand_index_pointing_right_e 
-backhand_index_pointing_right_e clown_face_e clown_face_e clown_face_e 
-clown_face_e 
+- E é um **erro** pensar que o alvo principal é Jair Bolsonaro. O sistema se 
+uniu contra cada brasileiro que defende a familia, a **liberdade** de 
+**expressão** , o **combate** ao **aborto** e às drogas, a propriedade 
+privada, o livre mercado e tudo aquilo que por em xeque a ilusão do 
+socialismo. 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-compra (secondary)
-presidencial
+aborto
+combate (secondary)
+erro
+expressão
+liberdade

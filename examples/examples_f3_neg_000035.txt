@@ -1,20 +1,17 @@
-file = t001990
-date = 2018-10-29
-user = Marcostenm4
-conversation = 3247093370
-URL = https://twitter.com/Marcostenm4/status/1057034860378968064
+file = t003756
+date = 2019-04-29
+user = jorgegonzaga02
+conversation = 4150772416
+URL = https://twitter.com/jorgegonzaga02/status/1122980182804115457
 
-word count = 35
-words loading = 3
-factor score = -3
+word count = 12
+words loading = 2
+factor score = -2
 
-Bolsonaro dizendo agora na Tv Record que não haverá **ditadura** , e que 
-haverá **liberdade** total de expressão em seu governo. Daqui a pouco a 
-**esquerda** não vai ter mais como sustentar seus discursos! HASHTAG 
-#bolsonaronarecord_h 
+Família Bolsonaro é expertr em **cobrar** pedágio dos servidores de 
+**gabinete** . 
 
 Lemmas in this text that loaded on the factor:
 
-ditadura
-esquerda
-liberdade
+cobrar
+gabinete

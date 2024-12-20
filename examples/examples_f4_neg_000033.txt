@@ -1,19 +1,17 @@
-file = t009245
-date = 2020-11-29
-user = sereifranco
-conversation = 931284463648231425
-URL = https://twitter.com/sereifranco/status/1333158595714756609
+file = t010344
+date = 2021-03-30
+user = RitaLongo61
+conversation = 3806879902
+URL = https://twitter.com/RitaLongo61/status/1377046809349136384
 
-word count = 19
-words loading = 3
-factor score = -3
+word count = 17
+words loading = 2
+factor score = -2
 
-@PessoaNumero895 @haterdofyro @buggiesgalaxy @kaique_scusz @shibsz 
-@imlevitating_ @hery_guedes @andreariell Meu **deus** do **céu** , os 
-**caras** acham que o Bolsonaro é de esquerda. 
+RT @brasil247 : Com **demissão** de **comandantes** , Bolsonaro desrespeita e 
+ofende as Forças Armadas, diz Santos Cruz 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-céu
-deus
+comandante
+demissão

@@ -1,18 +1,17 @@
-file = t005599
-date = 2019-12-30
-user = BlogdoNoblat
-conversation = 16794066
-URL = https://twitter.com/BlogdoNoblat/status/1211526533950693377
+file = t009783
+date = 2021-01-30
+user = Leandro_Hound
+conversation = 18787349
+URL = https://twitter.com/Leandro_Hound/status/1355242775671939077
 
-word count = 33
+word count = 11
 words loading = 2
 factor score = -2
 
-Cultura, sob Bolsonaro, vive **volta** da censura, perda de ministério e viés 
-**evangélico** Primeiro ano da pasta no governo teve caça a temas sensíveis, 
-conservadores em postos importantes e mudanças na Rouanet 
+@marcelvanhattem @humbor Virou **puxa** **saco** do Bolsonaro ladrão e 
+genocida 
 
 Lemmas in this text that loaded on the factor:
 
-evangélico
-volta
+puxar
+saco

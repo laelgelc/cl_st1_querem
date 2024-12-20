@@ -1,19 +1,18 @@
-file = t004957
-date = 2019-10-30
-user = HenriqueFontana
-conversation = 62804559
-URL = https://twitter.com/HenriqueFontana/status/1189623001135890432
+file = t009299
+date = 2020-11-29
+user = jey7v
+conversation = 2209413703
+URL = https://twitter.com/jey7v/status/1333171411289038861
 
-word count = 49
+word count = 33
 words loading = 2
 factor score = -2
 
-Quando se trata de proteger a família Bolsonaro, Moro não fica **calado** . A 
-investigação do assassinato de Marielle deve seguir com a polícia e o MP do 
-Rio, pois está avançando e a cada dia **chega** mais perto de mostrar as 
-relações da família presidencial com as milícias. 
+Tô muito **feliz** com essa porra, porque o que eu ouvi dessas pessoas que iam 
+votar no Saliba não é brincadeira, o conservadorismo tem que morrer engasgado 
+com o **saco** do bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-calar
-chegar
+feliz
+saco

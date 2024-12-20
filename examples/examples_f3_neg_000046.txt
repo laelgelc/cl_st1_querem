@@ -1,20 +1,17 @@
-file = t004865
-date = 2019-09-29
-user = asinhorinha
-conversation = 1084537674466316289
-URL = https://twitter.com/asinhorinha/status/1178407165004075014
+file = t003920
+date = 2019-05-30
+user = LulaMarques
+conversation = 66808135
+URL = https://twitter.com/LulaMarques/status/1134216878203768833
 
-word count = 41
-words loading = 3
-factor score = -3
+word count = 17
+words loading = 2
+factor score = -2
 
-ESTRATÉGIA MAXISTA: desacreditar o **inimigo** para **vencer** ! Não caiam 
-nessa armadilha! Querem **tirar** o único triunfo de Bolsonaro: o povo! Alguns 
-perfis estão sendo IMPLANTADOS dizendo que estão desistindo do presidente 
-para TE LEVAR JUNTO! SEJA ESPERTO! Estou com Bolsonaro! 
+Bolsonaro é vizinho de **milicianos** . Michelque tem **tio** **miliciano** . 
+Flávio Bolsonaro contrata **milicianos** . Família de **milicianos** . 
 
 Lemmas in this text that loaded on the factor:
 
-inimigo
-tirar
-vencer
+miliciano
+tio

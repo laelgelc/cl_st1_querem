@@ -1,18 +1,17 @@
-file = t005604
-date = 2019-12-26
-user = OlavoOpressor
-conversation = 751471278968758272
-URL = https://twitter.com/OlavoOpressor/status/1210292730288623618
+file = t002993
+date = 2019-01-30
+user = Criscatu
+conversation = 21756977
+URL = https://twitter.com/Criscatu/status/1090688805512851457
 
-word count = 25
-words loading = 2
-factor score = -2
+word count = 24
+words loading = 1
+factor score = -1
 
-Esses comunistas são capazes de matar suas próprias **mães** só para dar a 
-impressão de que os eleitores do Bolsonaro são perigosos **milicianos** 
-fascistas. 
+**Assine** caso concorde e ajude a espalhar! Ao atacar a Revista Fórum, 
+Bolsonaro escancara intolerância à liberdade de expressão. HASHTAG 
+#peticaopublica_h HASHTAG #peticao_h via @peticaopublicab 
 
 Lemmas in this text that loaded on the factor:
 
-miliciano
-mãe
+assinar

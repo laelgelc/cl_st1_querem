@@ -1,21 +1,22 @@
-file = t019547
-date = 2023-02-27
-user = betok43
-conversation = 4726375156
-URL = https://twitter.com/betok43/status/1630300024507707394
+file = t002465
+date = 2018-12-30
+user = rosemarywarde
+conversation = 121257965
+URL = https://twitter.com/rosemarywarde/status/1079194351400570881
 
-word count = 38
-words loading = 4
-factor score = 3
+word count = 45
+words loading = 5
+factor score = 5
 
-Enquanto @LulaOficial lança **programa** para vacinar a população, age para 
-**salvar** **vidas** indígenas e o meio ambiente, a família Bolsonaro lança 
-um calendário, atrasado dois **meses** , a 50 reais. A história vai dando 
-seus freios de arrumação! 
+Por falta de **arma** de **fogo** , os ex maridos, namorados estão matando as 
+mulheres a facada, ateando **fogo** , jogando de janelas, estrangulando, 
+Bolsonaro e Moro vão **facilitar** , as mulheres vão morrer com **tiro** ! ! 
+O BRASIL É UM PAÍS MACHISTA E IGNORANTE! NÃO AO **ARMAMENTO** ! ! 
 
 Lemmas in this text that loaded on the factor:
 
-mês
-programa (secondary)
-salvar
-vida
+arma
+armamento
+facilitar
+fogo
+tiro

@@ -1,21 +1,21 @@
-file = t002262
-date = 2018-12-30
-user = Paulotmjt
-conversation = 768265392003297280
-URL = https://twitter.com/Paulotmjt/status/1079525090616922112
+file = t015316
+date = 2022-04-29
+user = GiohOliveira784
+conversation = 1143952067926659077
+URL = https://twitter.com/GiohOliveira784/status/1520166784434905090
 
-word count = 24
-words loading = 5
-factor score = 5
+word count = 35
+words loading = 4
+factor score = 4
 
-RT @BlogdoNoblat: Por **decreto** , Bolsonaro garantirá a **posse** de 
-**arma** de **fogo** para o **cidadão** sem antecedentes criminais. O que 
-você acha disso? 
+Nós patriotas reelegeremos Bolsonaro, mas se votarmos errado em 
+**Governadores** , **Senadores** e **Deputados** **Federais** , manteremos 
+Bolsonaro sem liberdade para governar e perderemos o Brasil. Então, vamos 
+votar nos candidatos q o PR apoia, pufavô ! 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-cidadão
-decreto
-fogo
-posse
+deputado
+federal
+governador
+senador

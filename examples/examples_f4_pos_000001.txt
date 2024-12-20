@@ -1,23 +1,28 @@
-file = t010705
-date = 2021-03-30
-user = nelsonpaffi
-conversation = 1410119389
-URL = https://twitter.com/nelsonpaffi/status/1376987281089781764
+file = t017321
+date = 2022-08-30
+user = AllSalvad
+conversation = 954725843326132224
+URL = https://twitter.com/AllSalvad/status/1564756891288436736
 
-word count = 39
-words loading = 6
-factor score = 6
+word count = 32
+words loading = 11
+factor score = 9
 
-A esquerda treme: " UOL **Comandantes** das Forças Armadas pedem **demissão** 
-em **protesto** contra Bolsonaro Inédita, **crise** **militar** é a maior 
-desde 1977 , mas fardados trabalham para baixar a temperatura " Foram 
-**demitidos** , não cumpriram o dever como deveria ser. 
+Bolsonaro e **filhos** **compraram** 107 **imóveis** , 51 **pagos** em 
+**dinheiro** ; Haddad pede prisão **Reportagem** **publicada** nesta 
+terça-feira revela que **metade** do **patrimônio** em **imóveis** da 
+**família** Bolsonaro foi adquirida com **dinheiro** **vivo** 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-crise
-demissão
-demitir
-militar
-protesto
+comprar
+dinheiro
+família
+filho (secondary)
+imóvel
+metade
+pagar (secondary)
+patrimônio
+publicar
+reportagem
+vivo

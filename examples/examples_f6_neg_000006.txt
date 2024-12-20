@@ -1,18 +1,18 @@
-file = t003877
-date = 2019-05-30
-user = taniaeginaramos
-conversation = 3038197395
-URL = https://twitter.com/taniaeginaramos/status/1134232721486700544
+file = t007150
+date = 2020-05-30
+user = SimoneF67636054
+conversation = 1146240541652393984
+URL = https://twitter.com/SimoneF67636054/status/1266840306189774849
 
-word count = 28
-words loading = 3
-factor score = -3
+word count = 33
+words loading = 2
+factor score = -2
 
-RT @blasphmmy: e o povo de fortaleza com a **bandeira** comunista gigante e 
-**gritando** ei bolsonaro vai tomar no **cu** no meio do VT da globo eu amo … 
+@Joaocqf Não tem salvador da **pátria** ! Votei no Lula e me arrependo, votei 
+em Bolsonaro e aconteceu o mesmo! Infelizmente o que **chega** nas urnas é o 
+que eles querem. Difícil escolha. 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-cu
-gritar
+chegar
+pátria

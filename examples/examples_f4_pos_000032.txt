@@ -1,20 +1,23 @@
-file = t004214
-date = 2019-07-30
-user = claubrianese
-conversation = 630432364
-URL = https://twitter.com/claubrianese/status/1156352003318177792
+file = t017368
+date = 2022-08-30
+user = Leloeller
+conversation = 710443299669155840
+URL = https://twitter.com/Leloeller/status/1564756392149491714
 
-word count = 23
-words loading = 4
-factor score = 4
+word count = 30
+words loading = 7
+factor score = 6
 
-RT @MarceloFreixo: Hoje estarei no **ato** na ABI em **solidariedade** a 
-@ggreenwald e em **defesa** da liberdade de imprensa e da **Constituição** 
-brasil … 
+Bolsonaro com 101 **imóveis** , **comprados** na **família** , **metade** 
+**pago** em " **dinheiro** **vivo** , é Mito! Lula com 3 imóveis-classe 
+média- era chamado de ladrão. Pior cego é o que não quer ver. 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-constituição
-defesa
-solidariedade
+comprar
+dinheiro
+família
+imóvel
+metade
+pagar (secondary)
+vivo

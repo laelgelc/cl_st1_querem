@@ -1,21 +1,23 @@
-file = t019961
-date = 2023-03-30
-user = _Janoninho
-conversation = 1563897907446747136
-URL = https://twitter.com/_Janoninho/status/1641528637160562708
+file = t010654
+date = 2021-03-30
+user = jrbozzella
+conversation = 165267775
+URL = https://twitter.com/jrbozzella/status/1376942561818988545
 
-word count = 30
+word count = 54
 words loading = 5
 factor score = 4
 
-O ladrão de joias caçando **carro** **blindado** , sendo que foi ele que 
-**armou** a **população** . Que se defenda sozinho com suas **armas** . Faz 
-arminha com a mão BOLSONARO PRESO 
+Pela 1ª vez na história os 3 **comandantes** das Forças Armadas pedem pra 
+sair de um governo! Sem saída diante do caos q a sua incompetência causou ao 
+país, e ciente dos **crimes** q **cometeu** , o Bolsonaro apela pra uma 
+última tentativa de se manter, nem que seja a **força** , no poder: **GOLPE** 
+! 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armar
-blindar (secondary)
-carro
-população
+comandante (secondary)
+cometer
+crime
+força
+golpe

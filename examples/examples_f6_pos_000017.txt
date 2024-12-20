@@ -1,18 +1,21 @@
-file = t019417
-date = 2023-01-30
-user = SuelyLopesDeOl2
-conversation = 1526307905561051136
-URL = https://twitter.com/SuelyLopesDeOl2/status/1620191365761236993
+file = t002454
+date = 2018-12-30
+user = TitoGremistazo
+conversation = 2850568264
+URL = https://twitter.com/TitoGremistazo/status/1079497694115254272
 
-word count = 24
-words loading = 3
-factor score = 3
+word count = 17
+words loading = 5
+factor score = 5
 
-RT @ThiagoResiste: Pra **salvar** **vidas** a família Bolsonaro SE RECUSAVAM a 
-usar máscaras. Mas pra fugir da **imprensa** eles usam, com boné e tudo … 
+RT @OSul_noticias: O **registro** de **armas** subiu 280 % ; HASHTAG 
+#bolsonaro_h prometeu **decreto** para **facilitar** a **posse** HASHTAG 
+#armamento_h HASHTAG #p_h … 
 
 Lemmas in this text that loaded on the factor:
 
-imprensa
-salvar
-vida
+arma
+decreto
+facilitar
+posse
+registro

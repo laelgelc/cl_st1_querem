@@ -1,22 +1,20 @@
-file = t015405
-date = 2022-04-29
-user = rosikasanostra
-conversation = 343675805
-URL = https://twitter.com/rosikasanostra/status/1520103977517527041
+file = t006207
+date = 2020-02-28
+user = RollaFernando
+conversation = 1107050387310284800
+URL = https://twitter.com/RollaFernando/status/1233395818905899008
 
-word count = 37
+word count = 36
 words loading = 4
-factor score = 3
+factor score = 4
 
-@FernandoSorgi Além disso, fico feliz ao ver " Professor de **Economia** da 
-UENP. **Conservador** . De **direita** e **liberal** . Fechado com BOLSONARO. 
-Deus e Família em 1o lugar. Cristão. Amor na construção da vida plena. Pelo 
-Brasil! clapping_hands_e clapping_hands_e clapping_hands_e flag_brazil_e 
-HASHTAG #bolsonaroreeleitonoprimeiroturno_h 
+@JoaoPaulo1206 @cynaramenezes @Estadao Olha **cara** se tu achas que eu sou 
+**ladrão** e filho da **puta** tu estas muito **enganado** pois não participo 
+da quadrilha da famíglia Bolsonaro e não sou filho da tua mãe. 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-economia (secondary)
-liberal
+cara
+enganar
+ladrão
+puto

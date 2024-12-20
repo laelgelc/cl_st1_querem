@@ -1,20 +1,19 @@
-file = t010128
-date = 2021-02-27
-user = MarxDaGoiabeira
-conversation = 332925914
-URL = https://twitter.com/MarxDaGoiabeira/status/1365740598557368328
+file = t018175
+date = 2022-10-30
+user = y4sm1xzw
+conversation = 1575279123257335817
+URL = https://twitter.com/y4sm1xzw/status/1586860727578632195
 
-word count = 35
+word count = 38
 words loading = 3
 factor score = 3
 
-eu sabia que os militares eram **conservadores** nos **costumes** , incultos e 
-politicamente de **direita** . só não imaginava que fossem ladrões, 
-corruptos, entreguistas, canalhas cruéis e estúpidos. Bolsonaro fez o favor 
-de nos revelar isso. 
+@_rafxwz_ e tá tudo bem eu super respeito vc soq n tem a porra do motivo de 
+vcs q apoiam o Bolsonaro só saber falar do lula, aí lula **ladrão** aí lula 
+isso aquilo pelo **amor** Deus **cara** 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-direita
+amor
+cara
+ladrão

@@ -1,22 +1,20 @@
-file = t002229
-date = 2018-12-29
-user = Florisrs
-conversation = 404225913
-URL = https://twitter.com/Florisrs/status/1079083699059286016
+file = t015019
+date = 2022-04-28
+user = NETINHOOFICIAL3
+conversation = 1103822725095833600
+URL = https://twitter.com/NETINHOOFICIAL3/status/1519818691617206273
 
-word count = 49
-words loading = 5
-factor score = 5
+word count = 25
+words loading = 4
+factor score = 4
 
-Lula quando ia tomar **posse** anunciou como grande desafio acabar com a fome e 
-combater a miséria. Isto é se preocupar com a vida Já Bolsonaro anuncia que 
-vai **facilitar** **porte** de **armas** por **decreto** . Isto para levar as 
-pessoas a morte! Que diferença de postura. Lula livre! ! 
+Nós patriotas reelegeremos Bolsonaro, mas se votarmos errado em 
+**Governadores** , **Senadores** e **Deputados** **Federais** , manteremos 
+Bolsonaro sem liberdade para governar e perderemos o Brasil. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-facilitar
-porte
-posse
+deputado
+federal
+governador
+senador

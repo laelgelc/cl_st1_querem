@@ -1,20 +1,17 @@
-file = t004866
-date = 2019-09-29
-user = asinhorinha
-conversation = 1084537674466316289
-URL = https://twitter.com/asinhorinha/status/1178318174099521538
+file = t003921
+date = 2019-05-30
+user = LombardeEmilia
+conversation = 1013899568889638921
+URL = https://twitter.com/LombardeEmilia/status/1134222719401299974
 
-word count = 39
-words loading = 3
-factor score = -3
+word count = 17
+words loading = 2
+factor score = -2
 
-@LiloVLOG ESTRATÉGIA MAXISTA: desacreditar o **inimigo** para **vencer** ! 
-Não caiam nessa armadilha! Querem **tirar** o único triunfo de Bolsonaro: o 
-povo! Alguns perfis estão sendo IMPLANTADOS dizendo que estão desistindo do 
-presidente para TE LEVAR JUNTO! SEJA ESPERTO! 
+**Miliciano** preso por grilagem de terras no DF é **tio** de Michelle 
+Bolsonaro Eita família hein! 
 
 Lemmas in this text that loaded on the factor:
 
-inimigo
-tirar
-vencer
+miliciano
+tio

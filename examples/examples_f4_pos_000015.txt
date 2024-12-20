@@ -1,19 +1,23 @@
-file = t010855
-date = 2021-03-30
-user = SergioAJBarrett
-conversation = 1094038644770385920
-URL = https://twitter.com/SergioAJBarrett/status/1377031389497950219
+file = t016841
+date = 2022-08-30
+user = sacha_faria
+conversation = 1278684038333685760
+URL = https://twitter.com/sacha_faria/status/1564692187010433024
 
-word count = 24
-words loading = 4
-factor score = 4
+word count = 32
+words loading = 7
+factor score = 7
 
-Saiu no New York Times! ! ! A **saída** dos 3 **Comandantes** das Forças 
-Armadas e a **crise** gerada pelo Bolsonaro com a área **militar** 
+Já pensou Lula **gastar** R$ 26 **milhões** em **dinheiro** **vivo** na 
+**compra** de 51 **imóveis** ? O Brasil estaria pegando fogo. Ah, como foi a 
+**família** Bolsonaro, vamos em frente como se nada … 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-crise
-militar
-saída
+compra
+dinheiro
+família
+gastar
+imóvel
+milhão
+vivo

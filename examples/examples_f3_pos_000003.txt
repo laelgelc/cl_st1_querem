@@ -1,21 +1,24 @@
-file = t017067
-date = 2022-08-30
-user = ReginaldoLopes
-conversation = 50088692
-URL = https://twitter.com/ReginaldoLopes/status/1564667604362485766
+file = t002220
+date = 2018-12-30
+user = LeiaRachor
+conversation = 361836159
+URL = https://twitter.com/LeiaRachor/status/1079430994954997765
 
-word count = 44
-words loading = 3
-factor score = 3
+word count = 45
+words loading = 7
+factor score = 6
 
-Duas **bombas** no mesmo dia. A sociedade descobre que metade do 
-**patrimônio** da família Bolsonaro foi comprado com dinheiro vivo. 51 
-milhões em dinheiro vivo. . Além disso, a PF afirma que Abin atrapalhou 
-investigações contra o filho do presidente. **Escândalo** atrás de 
-**escândalo** . 
+Quero que essa " **Direita** **liberal** na **economia** e **conservadora** nos 
+**costumes** " FIQUE NO PODER NOS PRÓXIMOS 60 ANOS ou que os Brasileiros NUNCA 
+MAIS **ELEJAM** um representante de **esquerda** por que o exemplo nós já 
+tivemos e estamos vendo pelo mundo a fora. HASHTAG #direita_h 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-escândalo
-patrimônio
+conservador
+costume
+direita
+economia
+eleger
+esquerda (secondary)
+liberal

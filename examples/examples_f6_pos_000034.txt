@@ -1,19 +1,20 @@
-file = t017188
-date = 2022-08-30
-user = Socorrofpb
-conversation = 2730557166
-URL = https://twitter.com/Socorrofpb/status/1564760071657111555
+file = t014755
+date = 2022-03-30
+user = cynaramenezes
+conversation = 74763991
+URL = https://twitter.com/cynaramenezes/status/1508994831607078917
 
-word count = 19
+word count = 24
 words loading = 4
-factor score = 3
+factor score = 4
 
-Esperando o tuite do jornalista sobre a **corrupção** da Família Bolsonaro 
-que **compra** **imóveis** com dinheiro **vivo** . @GloboNews 
+no brasil de bolsonaro toda hora alguém inocente leva um **tiro** de uma 
+pessoa **armada** , porque, segundo eles, as **armas** " protegem " a 
+**população** 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-imóvel
-vivo (secondary)
+arma
+armar
+população
+tiro

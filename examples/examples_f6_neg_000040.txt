@@ -1,20 +1,18 @@
-file = t001977
-date = 2018-10-24
-user = MarceloACoelho1
-conversation = 1151388890
-URL = https://twitter.com/MarceloACoelho1/status/1055170180484079618
+file = t000192
+date = 2018-01-07
+user = Vidaaaaal
+conversation = 86756408
+URL = https://twitter.com/Vidaaaaal/status/949986145248645120
 
-word count = 47
-words loading = 2
-factor score = -2
+word count = 48
+words loading = 1
+factor score = -1
 
-HASHTAG #elenão_h HASHTAG #seuvotomepoeemrisco_h HASHTAG 
-#bolsonaroèocaralho_h Mais armas? Bolsonaro disse que perserguir todos os 
-opositores, que vai acabar com os mi mi mi de mulheres, **gays** e **negros** . 
-Não e é só acabar com as cotas, é acabar com ensino fundamental, disse que 
-só brancos tem direito a estudar 
+20 anos que Bolsonaro e sua família vivem nas tetas do governo sem terem 
+aprovado nada de relevante para o País, hoje acumulam um patrimônio 
+estrondoso vindo do dinheiro público. E ainda se apresentam como honestos e 
+paladinos da **moral** , tem que ser mt trouxa pra apoiar esse cara. 
 
 Lemmas in this text that loaded on the factor:
 
-gay
-negro
+moral

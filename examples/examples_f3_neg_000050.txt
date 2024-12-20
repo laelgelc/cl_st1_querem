@@ -1,21 +1,20 @@
-file = t007308
-date = 2020-06-29
-user = claudinha_jp
-conversation = 280071298
-URL = https://twitter.com/claudinha_jp/status/1277434522771034112
+file = t004028
+date = 2019-06-28
+user = VillaMarcovilla
+conversation = 3021556996
+URL = https://twitter.com/VillaMarcovilla/status/1144589725086433280
 
-word count = 51
+word count = 26
 words loading = 3
-factor score = -3
+factor score = -2
 
-@Biakicis @LRobertoBarroso @RevistaISTOE @kimpkat @jairbolsonaro @Biakicis Eu 
-Não entendo porque o Presidente nao **toma** uma atitude em relação a esses 
-**deputados** e essas pessoas que ficam queimar a imagem dele, isso não é 
-**liberdade** de expressão é falta de respeito, kd os advogados? ? ele têm 
-que dar um basta nisso. 
+Bolsonaro denunciou mais uma **armação** no **avião** **presidencial** . 
+Além da cocaína teria sido encontrado um livro em seu nome. HASHTAG 
+#marcoantoniovilla_h HASHTAG #bolsonaro_h HASHTAG #g20_h HASHTAG 
+#aviaopresidencial_h HASHTAG #drogas_h HASHTAG #livros_h 
 
 Lemmas in this text that loaded on the factor:
 
-deputado
-liberdade
-tomar
+armação (secondary)
+avião
+presidencial

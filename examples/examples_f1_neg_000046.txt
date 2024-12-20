@@ -1,19 +1,20 @@
-file = t001356
-date = 2018-08-30
-user = leandro82999587
-conversation = 810450190868054016
-URL = https://twitter.com/leandro82999587/status/1035185954917679104
+file = t009819
+date = 2021-01-30
+user = ANTICORRUPO4
+conversation = 1345059292701990912
+URL = https://twitter.com/ANTICORRUPO4/status/1355649901917392901
 
-word count = 42
-words loading = 2
+word count = 45
+words loading = 3
 factor score = -2
 
-@JairoNicolau1 Bolsonaro desfila ignorância. **Chama** golpe militar de 
-revolução. Não sabe nada de economia. Quer liberar o porte de arma como 
-alguém que quer apagar incêndio jogando gasolina. Enfim, as **pessoas** que 
-se identificam com ele demonstram o apreço pela ignorância. 
+@eduguim Bolsominion Kkkkkkk cara quem defende bandido ladrão de **dinheiro** 
+público é tu! Eu quero bolsonaro e Lula dividindo cela! E essa de a juíza 
+**usar** a sentenca do moro e mais uma mentira da **defesa** do ladrão Lula e 
+que não foi aceita! 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-pessoa
+defesa
+dinheiro (secondary)
+usar

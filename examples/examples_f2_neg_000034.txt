@@ -1,19 +1,19 @@
-file = t019151
-date = 2022-12-30
-user = Putaque69744283
-conversation = 1326868876488024064
-URL = https://twitter.com/Putaque69744283/status/1608824286118301698
+file = t002303
+date = 2018-12-30
+user = lolaescreva
+conversation = 182573469
+URL = https://twitter.com/lolaescreva/status/1079394635901034498
 
-word count = 53
+word count = 49
 words loading = 2
 factor score = -2
 
-@taoquei1 Patriotário, Não teve apoio pra acabar com a democracia? A tah, por 
-acaso **acharam** q as forças armadas são um bando de idiotas iguais aos a 
-ficaram e ainda estão na **frente** dos QGs? Acorda minha filha! Acabou porra 
-e Bolsonaro tbem está acabado, pois vão lembrar da canalhice q fez 
+Minhas reações sobre a **facada** a Bolso foram essas: 1o, achei q era 
+**armação** . Dps, o Jornal Nacional me convenceu q não foi. Mas algumas 
+semanas dps, com a falta de respostas, voltei a crer na **armação** . Hj 
+tenho certeza. Este doc leva 4 min pra te convencer 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-frente
+armação
+facada

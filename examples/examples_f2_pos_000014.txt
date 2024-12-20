@@ -1,22 +1,23 @@
-file = t012545
-date = 2021-09-29
-user = HenriqueFontana
-conversation = 62804559
-URL = https://twitter.com/HenriqueFontana/status/1443361593182588933
+file = t008417
+date = 2020-09-29
+user = BohnGass
+conversation = 63127680
+URL = https://twitter.com/BohnGass/status/1310996346602770433
 
-word count = 43
+word count = 51
 words loading = 5
 factor score = 5
 
-Acabamos de **aprovar** na Câmara **projeto** da nossa bancada @PTnaCamara, do 
-qual sou coautor, que institui o vale-gás para ajudar as famílias de 
-**baixa** **renda** na compra do **gás** de cozinha, que hoje, no Brasil de 
-Bolsonaro, está custando mais de R$ 100 ! 
+Chegaram a anunciar o tal **Renda** Brasil, mas queriam tirar verba do Bolsa 
+Família e do **salário** **mínimo** . Tantas críticas, que Bolsonaro 
+recuou. Agora, quer roubar do Fundeb e fazer um tal **Renda** Cidadã . O certo 
+é que eles não gostam e não sabem como fazer **programas** de **renda** 
+**básica** . 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-baixo
-gás
-projeto
+básico
+pequeno
+programa
 renda
+salário

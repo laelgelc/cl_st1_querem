@@ -1,25 +1,21 @@
-file = t015479
-date = 2022-04-29
-user = WaldemirodaSil4
-conversation = 1276205209874767873
-URL = https://twitter.com/WaldemirodaSil4/status/1520151624840355840
+file = t013050
+date = 2021-10-28
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1453515352835514369
 
-word count = 48
-words loading = 6
+word count = 32
+words loading = 5
 factor score = 5
 
-smiling_face_with_sunglasses_e thumbs_up_e backhand_index_pointing_right_e 
-flag_brazil_e Ação Gov. BOLSONARO flag_brazil_e Aprovada a MP nº 1 . 076 / 
-21 , do Governo Federal, que garante valor **mínimo** de R$ 400 do Auxílio 
-Brasil de forma permanente às famílias. Quem conseguir um **emprego** formal 
-não perderá o **benefício** e **receberá** R$ 200 do Auxílio — 
-**metade** do valor **pago** . . . 
+1 . Queremos o pagamento de uma RENDA PERMANENTE às famílias mais **pobres** 
+. Fomos nós que **aprovamos** o **auxílio** **emergencial** de R$ 600 em 2020 
+, enquanto Bolsonaro e Guedes queriam **pagar** apenas R$ 200 . 
 
 Lemmas in this text that loaded on the factor:
 
-benefício
-emprego
-metade
+aprovar
+auxílio
+emergencial
 pagar
-pequeno
-receber (secondary)
+pobre

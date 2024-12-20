@@ -1,20 +1,22 @@
-file = t017379
-date = 2022-08-30
-user = MargaridaSolar
-conversation = 1550142302789816324
-URL = https://twitter.com/MargaridaSolar/status/1564756155573964800
+file = t002209
+date = 2018-12-29
+user = senadorhumberto
+conversation = 76049312
+URL = https://twitter.com/senadorhumberto/status/1079033005132390400
 
-word count = 22
-words loading = 4
-factor score = 3
+word count = 43
+words loading = 5
+factor score = 5
 
-RT @SergioAJBarrett: A família Bolsonaro privatizou a Minha Casa Minha Vida? 
-Quem é que **compra** 51 **imóveis** com dinheiro **vivo** ? **Milícias** ? 
-h … 
+NO LUGAR DE EMPREGOS, **ARMAS** Entre tantas mudanças que o país precisa 
+fazer, o futuro presidente quer **armar** a **população** . . . Bolsonaro, a 
+**arma** do trabalhador deve ser o emprego, decretar a **posse** de **armas** 
+NÃO vai diminuir a violência. **Tiro** no pé . 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-imóvel
-milícia
-vivo (secondary)
+arma
+armar
+população
+posse
+tiro

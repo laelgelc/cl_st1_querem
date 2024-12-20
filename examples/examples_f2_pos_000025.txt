@@ -1,22 +1,23 @@
-file = t020449
-date = 2023-04-29
-user = Juju89100152
-conversation = 1522258846475034626
-URL = https://twitter.com/Juju89100152/status/1651022795814449156
+file = t020098
+date = 2023-03-30
+user = Ederson46073648
+conversation = 1425493373994024964
+URL = https://twitter.com/Ederson46073648/status/1641250178647707652
 
-word count = 58
-words loading = 4
+word count = 43
+words loading = 5
 factor score = 4
 
-@augustobort @miquerinus @peterjordan100 @helio_rn2011 Mas pra gado igual a vc, 
-está bom, o importante é q o amor venceu, mesmo ele saindo muito caro. . Já 
-aproveita pra fazer seu **imposto** de **renda** pq seu ladrão mentiu q ia 
-isentar o **pobre** , nem money_bag_e da picanha vai ter, o negócio é picanha 
-de jack-o-lantern_e comprado com os 18 conto de **aumento** smirking_face_e 
+@Alice_inland13 Vamos por partes, vacina não faltou no governo Bolsonaro, na 
+**educação** foram perdoados 90 % das dividas dos formados, bolsa família 
+foi ampliado, inclusive na pandemia, **aumento** de **salário** **mínimo** é 
+uma piada, combustíveis **aumentaram** , tô esperando picanha até hoje. . 
+Só pra começar. . 
 
 Lemmas in this text that loaded on the factor:
 
+aumentar (secondary)
 aumento
-imposto
-pobre
-renda
+educação
+pequeno
+salário

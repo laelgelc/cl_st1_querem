@@ -1,19 +1,20 @@
-file = t007150
-date = 2020-05-30
-user = SimoneF67636054
-conversation = 1146240541652393984
-URL = https://twitter.com/SimoneF67636054/status/1266840306189774849
+file = t001465
+date = 2018-08-30
+user = mosellinott
+conversation = 872506369064173572
+URL = https://twitter.com/mosellinott/status/1035238746608812033
 
-word count = 33
+word count = 42
 words loading = 3
 factor score = -3
 
-@Joaocqf Não tem **salvador** da **pátria** ! Votei no Lula e me arrependo, 
-votei em Bolsonaro e aconteceu o mesmo! Infelizmente o que **chega** nas urnas 
-é o que eles querem. Difícil escolha. 
+@avozdojusto @jairbolsonaro As ideologias dele são podres, já se colocou 
+contra mulheres, **gays** , **indígenas** , **negros** , favelados. . . A 
+única coisa diferente e muito burra que ele propõe é armamento. Isso pra mim 
+não é pensar diferente, é apelação porque não sabe governar 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-pátria
-salvador
+gay
+indígena
+negro

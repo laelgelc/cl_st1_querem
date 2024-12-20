@@ -1,18 +1,17 @@
-file = t003585
-date = 2019-04-29
-user = Jacck13
-conversation = 58500178
-URL = https://twitter.com/Jacck13/status/1123010625481867264
+file = t000358
+date = 2018-04-28
+user = Valdirene8975
+conversation = 1611556308
+URL = https://twitter.com/Valdirene8975/status/990372159242559488
 
-word count = 17
-words loading = 3
-factor score = -2
+word count = 35
+words loading = 1
+factor score = -1
 
-Alguém **põem** uma fita na **boca** do Bolsonaro, esse Bozo caga pela 
-**boca** , Deus do **céu** 
+Jair Bolsonaro se mostra um desequilibrado e afirma: " Como eu tava solteiro, 
+esse dinheiro do auxílio moradia eu usava para comer gente! " É esse o 
+candidato da **moral** , incorruptível e que defende a família? 
 
 Lemmas in this text that loaded on the factor:
 
-boca
-céu (secondary)
-pôr
+moral

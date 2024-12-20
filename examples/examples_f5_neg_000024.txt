@@ -1,19 +1,18 @@
-file = t001855
-date = 2018-02-26
-user = MarceloACoelho1
-conversation = 1151388890
-URL = https://twitter.com/MarceloACoelho1/status/968104645670440960
+file = t006353
+date = 2020-03-30
+user = FlaviaVittis
+conversation = 1053351808884707328
+URL = https://twitter.com/FlaviaVittis/status/1244749073757941765
 
-word count = 51
+word count = 28
 words loading = 2
 factor score = -2
 
-@dilmabr postam uma caricatura de Bolsonaro com orelha de asno. E vêm um monte 
-de filhos das putas que vestiram a **corrupta** camisa da CBF dizer que é ' 
-fotoshop ' ou que é ' fake news ' . Idiotas com 2 neurônios que não vê o 
-entreguismo lesa **pátria** . Bolsonaro = FHC = Aécio = Alckmin = Temer 
+@Biakicis @jairbolsonaro @escolasempartid Bia acompanhe Jair Bolsonaro nesses 
+passeios, leve sua família, vcs não são invencíveis, vá lá dê a testa 
+com o corona vírus. **Puxa** **saco** 
 
 Lemmas in this text that loaded on the factor:
 
-corrupto
-pátria
+puxar
+saco

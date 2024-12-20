@@ -1,21 +1,22 @@
-file = t010348
-date = 2021-03-30
-user = jdoriajr
-conversation = 64706049
-URL = https://twitter.com/jdoriajr/status/1376958263967768583
+file = t017534
+date = 2022-08-30
+user = elikatakimoto
+conversation = 3316550554
+URL = https://twitter.com/elikatakimoto/status/1564628095826632708
 
-word count = 38
-words loading = 4
-factor score = 4
+word count = 26
+words loading = 6
+factor score = 6
 
-Minha **solidariedade** aos ex-comandantes das Forças Armadas e ao ex-Ministro 
-da **Defesa** , Fernando Azevedo e Silva. Eles demonstraram grandeza ao 
-**recusar** qualquer subserviência a inclinações autoritárias. O País 
-resistirá a qualquer **ato** que comprometa o Estado Democrático de Direito. 
+Se fosse a **família** do Lula **comprando** 51 **imóveis** no valor de 25 
+**milhões** de reais em **dinheiro** **vivo** , o Jornal Nacional já teria 
+começado. 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-defesa
-recusar
-solidariedade
+comprar
+dinheiro
+família
+imóvel
+milhão
+vivo

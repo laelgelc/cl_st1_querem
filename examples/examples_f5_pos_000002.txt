@@ -1,24 +1,25 @@
-file = t019305
-date = 2023-01-30
-user = renatoroseno
-conversation = 14492205
-URL = https://twitter.com/renatoroseno/status/1620153438976999424
+file = t007062
+date = 2020-05-30
+user = PBizeste
+conversation = 1129497526720245764
+URL = https://twitter.com/PBizeste/status/1266755344870649856
 
-word count = 41
-words loading = 6
+word count = 44
+words loading = 7
 factor score = 6
 
-4 . Governo Lula também estancou a sangria armamentista patrocinada por 
-Bolsonaro, **reduzindo** o **acesso** a **armas** de **fogo** , suspendendo o 
-**registro** de novas **armas** de uso restrito por CACs ( Colecionadores, 
-Atiradores Desportivos e Caçadores ) e a abertura de novos clubes de **tiro** 
-. 
+@leandroruschel A **imprensa** sempre noticiou **crimes** **cometidos** por 
+**políticos** , tem que ser muito ignorante pra não perceber isso. Quem quer 
+acabar com investigação de **crime** de **político** é Bolsonaro, que quer 
+**proteger** os **filhos** **corruptos** . E não foi chegada dos 
+conservadores, mas da extrema-direita. 
 
 Lemmas in this text that loaded on the factor:
 
-acesso
-arma
-fogo
-reduzir
-registro
-tiro
+cometer
+corrupto
+crime
+filho
+imprensa
+político
+proteger (secondary)

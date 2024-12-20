@@ -1,21 +1,17 @@
-file = t003424
-date = 2019-03-30
-user = pcdob_saopaulo
-conversation = 62880141
-URL = https://twitter.com/pcdob_saopaulo/status/1112099652617334791
+file = t003833
+date = 2019-05-30
+user = veronsilva
+conversation = 150071900
+URL = https://twitter.com/veronsilva/status/1134229649280700417
 
-word count = 41
-words loading = 4
-factor score = -3
+word count = 14
+words loading = 2
+factor score = -2
 
-HASHTAG #ditaduranuncamais_h - Em nota, PCdoB, PDT, PT, PSB, PSOL e PCB 
-condenam a louvação de Jair Bolsonaro ao **golpe** e à **ditadura** militar 
-de 1964 . Os partidos não aceitam a tentativa de negar a supressão das 
-**liberdades** e **direitos** , bem como. . . 
+@CarlosBolsonaro Tudo pelo laranjal! Como tah o **tio** **miliciano** da tua 
+madrasta? HASHTAG #quemmandoumatarmarielle_h 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-ditadura
-golpe (secondary)
-liberdade
+miliciano
+tio

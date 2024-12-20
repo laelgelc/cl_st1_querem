@@ -1,23 +1,24 @@
-file = t008010
-date = 2020-08-30
-user = HeraldoCesarPol
-conversation = 2573690509
-URL = https://twitter.com/HeraldoCesarPol/status/1300211339240124416
+file = t000481
+date = 2018-04-28
+user = nathalia_qga
+conversation = 141045868
+URL = https://twitter.com/nathalia_qga/status/990078937710678016
 
-word count = 54
-words loading = 5
-factor score = 4
+word count = 45
+words loading = 6
+factor score = 5
 
-Eu não tenho nenhum remorso em também ter votado no Amoedo no 1º **turno** , 
-ele se declarava um **liberal** na **economia** e **conservador** nos 
-**costumes** , por isso votei nele, mas hoje vejo que não é nada disso, 
-conseguiu me enganar. Já no 2º **turno** fui de Bolsonaro e não me arrependo 
-em nada. 
+Bolsonaro vai colocar ordem no Brasil! Vai como? **Matando** e torturando. Os 
+primeiros serão os favelados, depois os **gays** , negros, índios. As 
+**mulheres** serão colocadas num papel " ainda mais " de submissão. Cdadãos 
+de bem enrolados na **bandeira** nacional falando sobre seu **deus** " de 
+**amor** " 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-economia (secondary)
-liberal
-turno
+amor
+bandeira
+deus
+gay (secondary)
+matar
+mulher

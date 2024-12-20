@@ -1,23 +1,26 @@
-file = t010673
-date = 2021-03-30
-user = DPaulodavi
-conversation = 1092378916650659840
-URL = https://twitter.com/DPaulodavi/status/1377037982671245314
+file = t017266
+date = 2022-08-30
+user = Snia62579054
+conversation = 1093339292578050048
+URL = https://twitter.com/Snia62579054/status/1564637799214682117
 
-word count = 46
-words loading = 5
-factor score = 5
+word count = 50
+words loading = 8
+factor score = 7
 
-Os **comandantes** das FFAA entregaram seus cargos um dia após Bolsonaro 
-**demitir** o ministro da **Defesa** , Fernando Azevedo e Silva. A **saída** 
-da cúpula das F. Armadas não tem precedentes. Há insatisfação entre os 
-comandos **militares** com o desejo de Bolsonaro por maior alinhamento 
-político. 
+@AndreJanonesAdv @vanielvertmundi @CarlosBolsonaro @STF_oficial Em um intervalo 
+de 12 horas, dois grandes **escândalos** **envolvendo** a **família** 
+Bolsonaro. A **compra** de pelo menos 51 **imóveis** em **dinheiro** **vivo** 
+e a afirmação da Polícia Federal de que a ABIN interviu para atrapalhar 
+investigações contra o **filho** do presidente, Jair Renan. N. Bonavides 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-defesa
-demitir
-militar
-saída
+compra
+dinheiro
+envolver
+escândalo
+família
+filho (secondary)
+imóvel
+vivo

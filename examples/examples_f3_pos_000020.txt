@@ -1,19 +1,23 @@
-file = t017305
-date = 2022-08-30
-user = amika_nakamura
-conversation = 1328499937231900672
-URL = https://twitter.com/amika_nakamura/status/1564757996797837312
+file = t005595
+date = 2019-12-30
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/1211594837356621825
 
-word count = 22
-words loading = 3
-factor score = 2
+word count = 49
+words loading = 5
+factor score = 5
 
-RT @julianopsol: **Bomba** ! **Reportagem** mostra que Bolsonaro e sua família 
-compraram 51 **imóveis** em dinheiro vivo! Essa prática é comum na lavage 
-… 
+@UOLNoticias Não só isso. É um dos acertos, pois Jair Bolsonaro não é um 
+liberalóide, ele é **conservador** , **eleito** pela maioria **conservadora** 
+e **cristã** . Essa é a base dele, do programa dele. A convergência com as 
+ideias econômicas capitalistas ( **liberais** só na **economia** ) é uma 
+consequência da base. 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-imóvel (secondary)
-reportagem
+conservador
+cristão
+economia
+eleger
+liberal

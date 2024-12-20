@@ -1,20 +1,20 @@
-file = t014048
-date = 2022-01-30
-user = Helenasth
-conversation = 75105340
-URL = https://twitter.com/Helenasth/status/1487863715298959373
+file = t017856
+date = 2022-10-30
+user = Tati__Lima
+conversation = 2809556135
+URL = https://twitter.com/Tati__Lima/status/1586870554069504003
 
-word count = 48
-words loading = 3
-factor score = 2
+word count = 22
+words loading = 4
+factor score = 4
 
-No mês passado, os **cartões** exclusivos da família Bolsonaro, — pago 
-pelo povo, — foram usados em **compras** que somaram R$ 1 , 5 milhão ( isso 
-o que ele deixa a imprensa saber. A outra parte de **gasto** está em sigilo ) 
-. Bolsonaro passou os últimos 30dias de dezembro em férias 
+RT @MairaMRT: Tarcísio foi **eleito** para governar São Paulo ao gosto de 
+Bolsonaro e da **extrema** **direita** . Apoiado no **conservadorismo** 
+paulista, … 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-compra (secondary)
-gasto
+conservadorismo
+direita
+eleger
+extremo

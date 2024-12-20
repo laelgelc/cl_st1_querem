@@ -1,22 +1,21 @@
-file = t000562
-date = 2018-05-30
-user = Derick30675412
-conversation = 967660279160066048
-URL = https://twitter.com/Derick30675412/status/1001925810025127938
+file = t017676
+date = 2022-09-28
+user = LeonelRadde
+conversation = 35268237
+URL = https://twitter.com/LeonelRadde/status/1574945197632339969
 
-word count = 43
-words loading = 5
+word count = 50
+words loading = 4
 factor score = -4
 
-@Gen_VillasBoas @exercitooficial Não somos mais reféns de caminhoneiros. 
-Somos reféns dos 3 poderes e **forças** **armadas** . Ainda por cima 
-**tiraram** nosso **direito** a armas p nos impedir de lutar contra td esse 
-sistema q massacra o povo. Isso sim é uma **ditadura** . Nojo. 
+A jornalista da Jovem Klan que chamou a Janja de maconheira só esqueceu de 
+dizer que a Michelle Bolsonaro teve a avó presa por **tráfico** de drogas, a 
+**mãe** acusada de falsificação, o **tio** preso por ser **miliciano** e o 
+outro **tio** foragido por pedofilia. A tradicional família brasileira. 
 
 Lemmas in this text that loaded on the factor:
 
-armar (secondary)
-direito
-ditadura
-força
-tirar
+miliciano
+mãe
+tio
+tráfico

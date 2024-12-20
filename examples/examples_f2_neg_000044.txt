@@ -1,17 +1,19 @@
-file = t000130
-date = 2018-03-29
-user = LuP0c
-conversation = 2317826054
-URL = https://twitter.com/LuP0c/status/979483538369253382
+file = t002543
+date = 2018-12-30
+user = MariluParreiras
+conversation = 541156738
+URL = https://twitter.com/MariluParreiras/status/1079388420277977088
 
-word count = 42
-words loading = 1
-factor score = -1
+word count = 40
+words loading = 2
+factor score = -2
 
-@LastZFighter SEM FALAR NO DESGRAÇADO que na fila do pedágio, parado, o cara 
-fica com farol alto **ligado** , só pra me fuder. Quase desci do carro pra 
-falar com o cara. Bolsonaro não pode ganhar, pq se eu tiver uma arma. . . 
+DOCUMENTÁRIO DERRUBA QUALQUER IDEIA DE VERDADE SOBRE A **FACADA** … Ao 
+terminar de assistir A **FACADA** NO MITO quero dizer que ficou abalada a minha 
+convicção inicial de que era impossível o atentado a Bolsonaro ter sido uma 
+**armação** … via @revistaforum 
 
 Lemmas in this text that loaded on the factor:
 
-ligar
+armação
+facada

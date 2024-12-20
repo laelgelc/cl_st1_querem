@@ -1,22 +1,20 @@
-file = t015108
-date = 2022-04-29
-user = jjunior19715870
-conversation = 1258884840725925888
-URL = https://twitter.com/jjunior19715870/status/1519970629075800064
+file = t018500
+date = 2022-11-29
+user = Laerte84612880
+conversation = 1592923592227954689
+URL = https://twitter.com/Laerte84612880/status/1597733695469019136
 
-word count = 31
-words loading = 5
-factor score = -4
+word count = 50
+words loading = 3
+factor score = -3
 
-@BlogdoNoblat Bolsonaro **reeleito** 1 turno. Nunca foi tão fácil 
-**escolher** entre **liberdade** , **democracia** , família e Pátria versos 
-corrupção, **ditadura** , mentirosos e oportunistas. Comunismo não cabe mais 
-no Brasil " povo amadureceu " . 
+@AnaPaulaVolei Ana Paula, Já passou da hora de **cobrar** alguma ação do 
+Bolsonaro e das FAs. Estamos a quase 1 nes nas **portas** dos **quartéis** e 
+os covardes nada fazem. Não podemos entregar o Brasil p os comunistas defecar 
+em nossa bandeira e em nosso crucifixo. Eles são COVARDES. 
 
 Lemmas in this text that loaded on the factor:
 
-democracia (secondary)
-ditadura
-escolher
-liberdade
-reeleger
+cobrar
+porta
+quartel

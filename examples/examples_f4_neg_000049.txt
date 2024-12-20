@@ -1,21 +1,21 @@
-file = t011397
-date = 2021-05-30
-user = GildoVigor16
-conversation = 1387412245496442882
-URL = https://twitter.com/GildoVigor16/status/1399002463638786056
+file = t010560
+date = 2021-03-30
+user = mikeawful
+conversation = 132363289
+URL = https://twitter.com/mikeawful/status/1376942502058602497
 
-word count = 55
+word count = 43
 words loading = 3
-factor score = -3
+factor score = -2
 
-@MuadDibaiano @GitGogoia @rogalvs @caiucsr pelo **amor** de **deus** **cara** , 
-eu curto stuart mill mas que visão fechada, sair recomendando teórico p uma 
-crítica pontual sobre uma mina q vai pra manifestação pra fazer stories bobo 
-num momento q tanta gente ta morrendo e sem ter oq comer, parece mt elitismo, 
-parece a própria tina 
+@MatheusKlzr @FunkeiroSim @Omardeideais Recorrer a instrumentos internacionais 
+para denunciar o **golpe** não é problema. Quando a hora chegou. . . ela 
+saiu. . . bolsonaro já chora eleição de 2022 , diz que só deus tira ele de 
+lá , **participa** de manifestação por **intervenção** . E querem 
+comparar. . . 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-deus
+golpe (secondary)
+intervenção
+participar

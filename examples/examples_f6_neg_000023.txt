@@ -1,17 +1,17 @@
-file = t000423
-date = 2018-04-28
-user = voceissaolegais
-conversation = 242000161
-URL = https://twitter.com/voceissaolegais/status/928765212907524096
+file = t012297
+date = 2021-08-30
+user = tereza_al
+conversation = 1368263220
+URL = https://twitter.com/tereza_al/status/1432330261019037706
 
-word count = 21
+word count = 13
 words loading = 2
 factor score = -2
 
-@ViniciusNikolod Vai tomar no c # seu **puxa** **saco** de comunista fabiano. 
-É Bolsonaro e pronto! Fora PT, PMDB E PSDB! 
+@cartamaior @marinamellob Muito **triste** a nossa **pátria** está morta 
+Bolsonaro o matou 
 
 Lemmas in this text that loaded on the factor:
 
-puxar
-saco
+pátria
+triste

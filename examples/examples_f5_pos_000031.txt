@@ -1,22 +1,21 @@
-file = t001443
-date = 2018-08-30
-user = MorenoJose0809
-conversation = 992558884782034949
-URL = https://twitter.com/MorenoJose0809/status/1035284424143843328
+file = t012968
+date = 2021-10-30
+user = Josecar55134390
+conversation = 1451349336244334595
+URL = https://twitter.com/Josecar55134390/status/1454063818552721408
 
-word count = 29
-words loading = 6
-factor score = 5
+word count = 44
+words loading = 4
+factor score = 4
 
-Alckmin: " **armas** não **resolvem** o problema da violência e segurança " 
-Bolsonaro: " quando Alckmin deixar de **andar** de **carro** **blindado** e 
-seguranças **armados** , eu passo a acreditar nele " HASHTAG #ospingosnosis_h 
+@rennanrpc @kimpaim Você acha que se os **filhos** e o pai tivessem os 
+processos que, 98 dos **deputados** e **senadores** têm. Primeiramente os da 
+esquerda **corrupta** comunista assassina brasileira que você apoia. Eles 
+estariam fora da da cadeia com esquerdistas comunistas no STF? 
 
 Lemmas in this text that loaded on the factor:
 
-andar
-arma
-armar
-blindar (secondary)
-carro
-resolver
+corrupto
+deputado
+filho
+senador

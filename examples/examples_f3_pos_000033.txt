@@ -1,23 +1,21 @@
-file = t013282
-date = 2021-11-29
-user = tiberioalloggio
-conversation = 50077892
-URL = https://twitter.com/tiberioalloggio/status/1465466091954753539
+file = t016113
+date = 2022-06-28
+user = DrRibeiro_MD
+conversation = 3448623023
+URL = https://twitter.com/DrRibeiro_MD/status/1541783042020331520
 
-word count = 31
+word count = 51
 words loading = 4
-factor score = 2
+factor score = 4
 
-**BOMBA** ! Enquanto a mídia do Brasil silencia sobre a suposta facada, site 
-dos EUA **publica** **reportagem** que liga clube de tiro, **indústria** de 
-armas, Bolsonaro e Adélio a extrema direita norte-americana 
-backhand_index_pointing_down_e backhand_index_pointing_down_e 
-backhand_index_pointing_down_e backhand_index_pointing_down_e 
-backhand_index_pointing_down_e 
+O lobby do **aborto** vem forte no Brasil ano que vem. Lula e o Bolsonaro têm 
+visões opostas. O resultado final depende totalmente de quem será o 
+presidente. O **cristão** que ficar em casa no **segundo** **turno** e não 
+votar no Bolsonaro vai ter que responder isso perante a Deus. 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-indústria (secondary)
-publicar (secondary)
-reportagem
+aborto
+cristão
+segundo
+turno

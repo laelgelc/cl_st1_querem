@@ -1,23 +1,19 @@
-file = t016454
-date = 2022-07-30
-user = Joaogabrielsr22
-conversation = 1366934532763619330
-URL = https://twitter.com/Joaogabrielsr22/status/1553358540001140736
+file = t006498
+date = 2020-03-30
+user = facadabot
+conversation = 1193675541519519744
+URL = https://twitter.com/facadabot/status/1244764217967861765
 
-word count = 43
-words loading = 5
-factor score = 3
+word count = 17
+words loading = 4
+factor score = 4
 
-@PedroRonchi2 País com menos homicídios, **economia** crescendo, apoio ao 
-agro, não passou **pautas** de **costumes** da esquerda, não liga pros 
-ambientalistas histéricos, defendeu a soberania na Amazônia e fez o orgulho 
-de ser brasileiro voltar. Sou **cristão** , **conservador** e estou com 
-Bolsonaro. 
+RT @bbeatpereira: Bolsonaro mais uma vez **abriu** a **boca** pra falar 
+**merda** , meu Deus do **céu** 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-cristão (secondary)
-economia (secondary)
-pauta
+abrir
+boca
+céu
+merda

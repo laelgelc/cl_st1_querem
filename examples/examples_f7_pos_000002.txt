@@ -1,24 +1,22 @@
-file = t003642
-date = 2019-04-29
-user = freelario
-conversation = 144914084
-URL = https://twitter.com/freelario/status/1122880649357135873
+file = t018444
+date = 2022-11-29
+user = JosCast56439501
+conversation = 1244342975993466881
+URL = https://twitter.com/JosCast56439501/status/1597671654427021312
 
-word count = 40
-words loading = 6
+word count = 42
+words loading = 5
 factor score = 5
 
-@SoniaJoventino @luciano_hang quem sabe, a HASHTAG #fakenews_h foi fato imoral 
-nas últimas eleições; aturamos um desgoverno que vive da divulgação de 
-mentiras; investimento de alguns empresários. É o tal neoliberalismo: 
-**conservador** nos **costumes** , **extrema** **direita** nas urnas e " 
-**liberal** " na **economia** 
+@fabia68471656 Pra mim so presta se for por **amor** o Brasil! **abre** mao do 
+seu salário e aceita 1200 . Reais passor disso sso todos ganancioso e 
+**ladrão** ! Todos ate meu **pai** se um dia for políticos eu mesmo **chamo** 
+de ladrao 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-direita
-economia (secondary)
-extremo
-liberal
+abrir
+amor
+chamar
+ladrão
+pai

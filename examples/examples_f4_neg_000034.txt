@@ -1,19 +1,17 @@
-file = t009401
-date = 2020-11-29
-user = swanooy
-conversation = 558781783
-URL = https://twitter.com/swanooy/status/1333160299353018369
+file = t010345
+date = 2021-03-30
+user = brasil247
+conversation = 248890506
+URL = https://twitter.com/brasil247/status/1376999714974003204
 
-word count = 44
-words loading = 3
-factor score = -3
+word count = 15
+words loading = 2
+factor score = -2
 
-ES é um estado filha da puta como que o pessoal deixa um **merda** que nem o 
-pazolini vencer? o **cara** tentou impedir o aborto de uma menina de 10 anos 
-invadiu hospital a mando do bolsonaro meu **deus** eu odeio esse lugar 
+Com **demissão** de **comandantes** , Bolsonaro desrespeita e ofende as 
+Forças Armadas, diz Santos Cruz 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-deus
-merda
+comandante
+demissão

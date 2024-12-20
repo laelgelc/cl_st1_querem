@@ -1,17 +1,23 @@
-file = t017066
-date = 2022-08-30
-user = AdrianaEleuter6
-conversation = 1186715764805505025
-URL = https://twitter.com/AdrianaEleuter6/status/1564762143999811585
+file = t002946
+date = 2019-01-30
+user = TiagoSullevan
+conversation = 922559163124862977
+URL = https://twitter.com/TiagoSullevan/status/1090636815428657153
 
-word count = 21
-words loading = 2
-factor score = 2
+word count = 49
+words loading = 5
+factor score = 5
 
-RT @ReginaldoLopes: Duas **bombas** no mesmo dia. A sociedade descobre que 
-metade do **patrimônio** da família Bolsonaro foi comprado com dinheiro … 
+@SousaDarezzo @partidonovo30 @CanalDoOtario " **conservadores** nos 
+**costumes** " , isso era uma opinião pessoal do Amoêdo, não reflete todo um 
+partido. . . O Bolsonaro é **conservador** nos **costumes** FERRENHO e o 
+partido dele é dito como **liberal** . . . E aí ? Shaushah Ele representa 
+TODO o partido? Aliás, o Amoêdo defende a **liberdade** **individual** 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-patrimônio
+conservador
+costume
+individual
+liberal
+liberdade

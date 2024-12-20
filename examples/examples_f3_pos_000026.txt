@@ -1,17 +1,22 @@
-file = t016694
-date = 2022-07-30
-user = Hudsonrpd
-conversation = 237078766
-URL = https://twitter.com/Hudsonrpd/status/1553502710036664324
+file = t018714
+date = 2022-12-30
+user = anomia_strong
+conversation = 995716581375258624
+URL = https://twitter.com/anomia_strong/status/1608932191949447169
 
-word count = 25
-words loading = 2
-factor score = 2
+word count = 52
+words loading = 4
+factor score = 4
 
-RT @BlogdoNoblat: País se mobiliza para **desarmar** a **bomba** dos atos de 
-Bolsonaro no 7 de Setembro, que perigam entrar para a história com ata … 
+@Marcelogarcez01 @exercitooficial Bom, a lista é longa. O Bolsonaro já 
+afirmou: " O **erro** da **ditadura** foi t0rturar e não mat@r " , que " O 
+país só iria pra ' frente ' com uma **guerra** civil q matasse 30 " ; que o " 
+Estado n é laico, o estado é **cristão** ' ; que " n contrataria mulher pq 
+engravida " . 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-desarmar
+cristão
+ditadura
+erro
+guerra

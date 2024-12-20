@@ -1,20 +1,18 @@
-file = t000820
-date = 2018-06-29
-user = vargas_oficial_
-conversation = 261211302
-URL = https://twitter.com/vargas_oficial_/status/1012679645228134400
+file = t007947
+date = 2020-08-30
+user = PTnaCamara
+conversation = 75031882
+URL = https://twitter.com/PTnaCamara/status/1300131419151200256
 
-word count = 49
-words loading = 3
+word count = 20
+words loading = 2
 factor score = -2
 
-@DaviCVS @exame Liberalismo é liberalismo. O **problema** do Bolsonaro é a 
-pobreza intelectual. Ele se coloca como um não **político** mas é 
-**político** há 30 anos e arrumou um jeitinho de acomodar a família inteira 
-na política, cada filho ocupa um cargo seja de **deputado** ou de vereador. 
+**Ato** de Bolsonaro que comemora ' vitória ' sobre a Covid-19 é deboche e 
+desrespeito com as famílias **vítimas** da doença HASHTAG 
+#asmaislidasdasemana_h 
 
 Lemmas in this text that loaded on the factor:
 
-deputado (secondary)
-político
-problema
+ato
+vítima

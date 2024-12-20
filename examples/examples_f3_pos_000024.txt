@@ -1,18 +1,22 @@
-file = t016747
-date = 2022-08-30
-user = GuilhermeBoulos
-conversation = 762402774260875265
-URL = https://twitter.com/GuilhermeBoulos/status/1564561312948097028
+file = t019347
+date = 2023-01-30
+user = AVerne2
+conversation = 1404507618736054286
+URL = https://twitter.com/AVerne2/status/1614816669414875136
 
-word count = 29
-words loading = 2
-factor score = 2
+word count = 52
+words loading = 4
+factor score = 4
 
-**BOMBA** ! Levantamento inédito mostra que metade do **patrimônio** da 
-família Bolsonaro foi comprada em DINHEIRO VIVO. É a República da 
-rachadinha, da lavagem de dinheiro e da mílicia! 
+@FlyingShiro @fsaesilva @jaimecoh00 Sabe os **conservadores** do Reino Unido e 
+os democratas **cristãos** da Alemanha? Por que vocês não se inspiram neles? 
+Esqueçam Bolsonaro, Trump e os lavajatistas ignorantes. Não sei se vc já 
+percebeu, mas tão intensa e breve quanto a ascensão da **extrema** 
+**direita** ao poder, é sua QUEDA. 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-patrimônio
+conservador
+cristão
+direita
+extremo

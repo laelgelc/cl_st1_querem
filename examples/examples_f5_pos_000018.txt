@@ -1,20 +1,23 @@
-file = t002407
-date = 2018-12-30
-user = luizliberato237
-conversation = 2354637618
-URL = https://twitter.com/luizliberato237/status/1079508304093577216
+file = t018453
+date = 2022-11-29
+user = Emily47147144
+conversation = 1259828518445371392
+URL = https://twitter.com/Emily47147144/status/1597708556203352064
 
-word count = 14
+word count = 49
 words loading = 5
-factor score = 5
+factor score = 4
 
-**Registro** de **arma** sobe 280 % ; Bolsonaro promete **decreto** para 
-**facilitar** **posse** - Brasil - Estadão 
+@BolsonaroSP @TamimBinHamad @FIFANTINO Confiem folded_hands_e **Parem** de 
+acreditar nesses jornalistas que dizem estar ao lado do Bolsonaro ( mas já 
+ficaram contra em várias ocasiões ) . Não negocie com **políticos** . 
+Aguarde as **forças** **armadas** . Não estamos nas ruas pelos **filhos** do 
+MITO, mas sim pelos nossos! Ladrão não sobe a rampa flag_brazil_e 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-facilitar
-posse
-registro
+armar (secondary)
+filho
+força
+parar
+político

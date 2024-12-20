@@ -1,21 +1,22 @@
-file = t013038
-date = 2021-10-30
-user = PsicoLeilaCosta
-conversation = 4849868859
-URL = https://twitter.com/PsicoLeilaCosta/status/1454448972119093249
+file = t010226
+date = 2021-02-27
+user = marcio_avila7
+conversation = 49340369
+URL = https://twitter.com/marcio_avila7/status/1365766025812340739
 
-word count = 49
-words loading = 4
+word count = 43
+words loading = 5
 factor score = 4
 
-Acabaram com o Bolsa Família, o maior e mais importante **programa** de 
-transferência direta de **renda** do mundo; **programa** que rompeu o ciclo de 
-**pobreza** de **milhões** de famílias brasileiras, que tirou o Brasil do 
-Mapa Mundial da Fome. Bolsonaro é genocida, e prova isso todos os dias. 
+Um ou alguns governadores deveriam processar o Bolsonaro. Bolsonaro mente que 
+enviou muito mais dinheiro do que, de fato, enviou aos estados. Publicou nas 
+redes sociais valores que englobam verbas **federais** carimbadas da **saúde** 
+e **educação** , bolsa família, **auxílio** **emergencial** e afins 
 
 Lemmas in this text that loaded on the factor:
 
-milhão
-pobreza
-programa
-renda
+auxílio
+educação
+emergencial
+federal (secondary)
+saúde

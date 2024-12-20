@@ -1,25 +1,24 @@
-file = t012521
-date = 2021-08-30
-user = trombetta360
-conversation = 1107603364991459328
-URL = https://twitter.com/trombetta360/status/1432461860247330819
+file = t009441
+date = 2020-12-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1344324933019721730
 
-word count = 35
-words loading = 8
-factor score = 8
+word count = 43
+words loading = 7
+factor score = 7
 
-Bolsonaro trabalha para a **indústria** armamentista em duas frentes: 
-flexibilizando as **leis** de controle e **registros** ; e **facilitando** o 
-**acesso** de **civis** ao **armamento** . Quem tem **arma** ou é policial ou 
-é bandido. HASHTAG #forabolsonaro_h 
+Prêmio merecido. Bolsonaro foi escolhido **Corrupto** do Ano pela @OCCRP, uma 
+plataforma de jornalismo investigativo que reúne repórteres do mundo todo. O 
+presidente usa **cargo** para encobrir os **crimes** da família, **tentar** 
+**salvar** os **filhos** da cadeia e favorecer o **crime** **organizado** . 
 
 Lemmas in this text that loaded on the factor:
 
-acesso
-arma
-armamento
-civil
-facilitar
-indústria
-lei
-registro
+cargo
+corrupto
+crime
+filho
+organizar
+salvar
+tentar

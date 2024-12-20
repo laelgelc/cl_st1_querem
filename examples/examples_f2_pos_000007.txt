@@ -1,24 +1,26 @@
-file = t008423
-date = 2020-09-29
-user = renatasouzario
-conversation = 44195955
-URL = https://twitter.com/renatasouzario/status/1310934796617560068
+file = t007791
+date = 2020-07-30
+user = AlexandreFortu9
+conversation = 3362922377
+URL = https://twitter.com/AlexandreFortu9/status/1288961004735430658
 
-word count = 49
-words loading = 6
+word count = 45
+words loading = 8
 factor score = 6
 
-Bolsonaro disse que **auxílio** **emergencial** é para " demagogo e comunista 
-" . Não, Bolsonaro. A **renda** **básica** é p / as famílias botarem comida 
-na mesa e viveram com dignidade. É por isso que o meu primeiro ato como 
-prefeita vai ser **pagar** a **Renda** Básica Carioca aos cariocas mais 
-**pobres** . 
+Brasil afundará na miséria, se depender de Guedes e Bolsonaro. O do fim do 
+**auxílio** **emergencial** em **setembro** vai fragilizar as camadas mais 
+**pobres** da **população** brasileira. Para evitar o desastre, PT propõe 
+Mais Bolsa Família, um novo **programa** de **renda** **básica** para o 
+pós-pandemia. 
 
 Lemmas in this text that loaded on the factor:
 
 auxílio
 básico
 emergencial
-pagar
 pobre
+população (secondary)
+programa
 renda
+setembro (secondary)

@@ -1,22 +1,20 @@
-file = t006010
-date = 2020-02-28
-user = Iracema818385
-conversation = 301819770
-URL = https://twitter.com/Iracema818385/status/1233425062159638535
+file = t003980
+date = 2019-06-29
+user = JefinhoMenes
+conversation = 357200663
+URL = https://twitter.com/JefinhoMenes/status/1145106891439312897
 
-word count = 49
-words loading = 4
-factor score = -3
+word count = 48
+words loading = 3
+factor score = -2
 
-@sil_alle @rochlilia @Sanges_gsgp @BolsonaroSP @monicabergamo Insensatez pura. 
-Quem tem **apoio** das **forças** **armadas** não precisa de miliciano. Estes 
-foram incentivados pela **esquerda** que necessita deles para prática de seus 
-atos ilícitos. Freixo do PSOL é o comandante deles no RJ, segundo Cidinha 
-Campos, que o acusou e ele não negou. 
+Deixa eu contar um segredo pra vocês: Bolsonaro bate tanto no auxílio 
+reclusão, mas sabe o traficante do **avião** **presidencial** ? Essa reforma 
+da previdência é tão boa para os militares que, após ele ser expulso, a 
+família dele vai **receber** pensão com salário integral até ele morrer. 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-armar (secondary)
-esquerda
-força
+avião
+presidencial
+receber (secondary)

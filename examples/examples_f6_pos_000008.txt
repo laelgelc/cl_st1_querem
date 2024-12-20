@@ -1,22 +1,24 @@
-file = t016927
-date = 2022-08-30
-user = AArgolo2
-conversation = 1349109785547988993
-URL = https://twitter.com/AArgolo2/status/1564583665610510336
+file = t005666
+date = 2019-12-30
+user = PedroMottaB
+conversation = 978030180584316929
+URL = https://twitter.com/PedroMottaB/status/1211737176452608000
 
-word count = 49
-words loading = 4
-factor score = 4
+word count = 37
+words loading = 7
+factor score = 5
 
-@hirenkoi @FAngelico Mas existe uma **grande** diferença no exemplo da 
-Família Bolsonaro e usar isso para dizer que **comprar** **imóveis** em 
-espécie é indício de lavagem de dinheiro. A afirmação é absurdamente 
-falsa. A mera **compra** de um **imóvel** em espécie não configura indício 
-de lavagem de dinheiro. 
+Não nos aro e seus asseclas estão empenhados em expandir no Estado 
+**milícias** **armadas** como suporte do golpe nazista. O Presidente 
+Belicista: Bolsonaro **comemora** o **aumento** do **registro** de **armas** de 
+**fogo** e quer ampliação via @a_postagem 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-comprar
-grande
-imóvel
+arma
+armar
+aumento (secondary)
+comemorar
+fogo
+milícia (secondary)
+registro

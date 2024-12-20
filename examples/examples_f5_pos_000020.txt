@@ -1,23 +1,21 @@
-file = t002392
-date = 2018-12-30
-user = erikakokay
-conversation = 87021796
-URL = https://twitter.com/erikakokay/status/1079311106882056193
+file = t017635
+date = 2022-09-29
+user = ines_maurici
+conversation = 3734252837
+URL = https://twitter.com/ines_maurici/status/1575076584146751489
 
-word count = 45
-words loading = 5
-factor score = 5
+word count = 36
+words loading = 4
+factor score = 4
 
-**Liberar** **armas** de **fogo** para **aumentar** a segurança é um 
-equívoco. O Brasil já tem uma das maiores taxas de homicídio do mundo. Mais 
-**armas** em circulação significa mais violência. Se Bolsonaro decretar " 
-**libera** geral " vamos propor **decreto** legislativo p / derrubar essa 
-medida absurda! 
+@Jeferso15139278 @muriloal11 @Antibolsonaro22 Bobinho esse menino. Acha que o 
+sigilo de 100 anos serve para quê ? Tá ganhando para defender **políticos** 
+sujos e **corruptos** . **Problema** do Brasil é vocês aceitarem a 
+**corrupção** da família Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-aumentar
-decreto
-fogo
-liberar
+corrupto
+corrupção
+político
+problema

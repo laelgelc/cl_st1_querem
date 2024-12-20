@@ -1,20 +1,24 @@
-file = t019056
-date = 2022-12-30
-user = Re_VireADireita
-conversation = 722247425935740930
-URL = https://twitter.com/Re_VireADireita/status/1608793098666278912
+file = t018354
+date = 2022-11-29
+user = Li_Bolsonaro
+conversation = 1512889266136883207
+URL = https://twitter.com/Li_Bolsonaro/status/1597724117993926656
 
-word count = 40
-words loading = 4
-factor score = 4
+word count = 45
+words loading = 5
+factor score = 5
 
-@jairbolsonaro Te amo meu Presida! **green_heart_e** **yellow_heart_e** 
-**flag_brazil_e** Grata por tudo q o Sr. Já fez por nós, aconteça o que 
-acontecer eu tô c vc e sei que vc tentou de TUDO por nós! Que Deus 
-**proteja** vc e sua família folded_hands_light_skin_tone_e 
+Meu maior respeito, admiração e confiança total ao sr @Gen_VillasBoas ao 
+Presidente Bolsonaro e às Forças Armadas! Agradeço suas palavras que 
+esclarecem a todos e calam os que tem más intenções. Que Deus **abençoe** e 
+**proteja** o povo, o PR, os militares, e esta nação! 
+folded_hands_light_skin_tone_e raising_hands_light_skin_tone_e 
+folded_hands_light_skin_tone_e **flag_brazil_e** **green_heart_e** 
+**yellow_heart_e** **green_heart_e** **flag_brazil_e** 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
 flag_brazil_e
 green_heart_e
 proteger

@@ -1,20 +1,18 @@
-file = t002968
-date = 2019-01-30
-user = seekerRt
-conversation = 97975427
-URL = https://twitter.com/seekerRt/status/1090047423265890304
+file = t000293
+date = 2018-04-29
+user = mariofortes
+conversation = 66048848
+URL = https://twitter.com/mariofortes/status/990567357327298560
 
-word count = 40
-words loading = 3
-factor score = -2
+word count = 43
+words loading = 1
+factor score = -1
 
-@conservadores vai tomar no **cu** seu canalha. Ninguem votou em vc não, alias 
-vc foi o lixo que quase afundou o Bolsonaro durante a campanha eleitoral 
-abrindo essa **boca** de esgoto pra falar **merda** a torto e direito HASHTAG 
-#bolsonaro2022_h 
+Tem muita " gazela " falando em eleitor fake de BOLSONARO e até de robô . 
+Bolsonaro é o candidato com menos grana nessa corrida eleitoral. Mas 
+**chegará** lá , se Deus quiser, com o apoio dos seus eleitores que são 
+reais e agem com espontaneidade. 
 
 Lemmas in this text that loaded on the factor:
 
-boca
-cu
-merda (secondary)
+chegar

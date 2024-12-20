@@ -1,19 +1,23 @@
-file = t003980
-date = 2019-06-29
-user = JefinhoMenes
-conversation = 357200663
-URL = https://twitter.com/JefinhoMenes/status/1145106891439312897
+file = t009282
+date = 2020-11-29
+user = joebantim
+conversation = 47774971
+URL = https://twitter.com/joebantim/status/1333174252535738370
 
-word count = 48
-words loading = 2
-factor score = 2
+word count = 49
+words loading = 5
+factor score = 4
 
-Deixa eu contar um segredo pra vocês: Bolsonaro bate tanto no auxílio 
-reclusão, mas sabe o traficante do **avião** **presidencial** ? Essa reforma 
-da previdência é tão boa para os militares que, após ele ser expulso, a 
-família dele vai receber pensão com salário integral até ele morrer. 
+Votei a contragosto, mas votei. Graças a Deus a ameaça maior ñ foi 
+**eleita** , mas olhe, saiu vencedor. Não adianta dizer chupa etc. A 
+**direita** bolsonarista e legista **venceu** centro e **esquerda** aqui em 
+Fortaleza mesmo não levando. E eu saio dessas **eleições** em geral ainda 
+mais pessimista 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-presidencial
+direita
+eleger
+eleição
+esquerda (secondary)
+vencer

@@ -1,17 +1,18 @@
-file = t018468
-date = 2022-11-29
-user = Bianca84792462
-conversation = 1036708068728483841
-URL = https://twitter.com/Bianca84792462/status/1597735450336452609
+file = t002203
+date = 2018-12-30
+user = renato_rovai
+conversation = 57771039
+URL = https://twitter.com/renato_rovai/status/1079375245394489344
 
-word count = 18
+word count = 28
 words loading = 2
 factor score = -2
 
-RT @Conservadora191 : @LucianoGiusepp4 Eu não. Deixa o presidente Bolsonaro 
-agir como ele **achar** melhor. Vamos em **frente** . 
+Até assistir o documentário A **Facada** no Mito eu refutava todas as teses 
+de que o atentado a Bolsonaro poderia ser uma **armação** . Achava -as 
+bizarras. Não acho mais. . . . 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-frente
+armação
+facada

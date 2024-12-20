@@ -1,19 +1,22 @@
-file = t017110
-date = 2022-08-30
-user = Baiantifascista
-conversation = 1346159006700752896
-URL = https://twitter.com/Baiantifascista/status/1564651237529817089
+file = t009924
+date = 2021-02-27
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1365690051544383490
 
-word count = 36
-words loading = 3
-factor score = 3
+word count = 44
+words loading = 4
+factor score = 4
 
-Sem justificar a renda e como comprovar a **compra** de tantos **imóveis** por 
-ele e pela família, Bolsonaro interfere na receita, coaf e polícia 
-**federal** . Um absurdo que já deveria ter sido investigado e processado. 
+ATENÇÃO! Apesar de ser uma das instituições responsáveis pelo controle e 
+rastreamento de **armas** no país, a Polícia Federal admitiu que não foi 
+previamente consultada por Bolsonaro p / avaliar os impactos dos 4 novos 
+**decretos** que **liberaram** mais **armas** e munições p / **civis** . 
+backhand_index_pointing_down_medium-light_skin_tone_e 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-federal
-imóvel
+arma
+civil
+decreto
+liberar

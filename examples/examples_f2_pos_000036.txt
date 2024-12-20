@@ -1,22 +1,20 @@
-file = t013639
-date = 2021-12-29
-user = MarcosR12402270
-conversation = 1270003622785490945
-URL = https://twitter.com/MarcosR12402270/status/1476315417194991620
+file = t012632
+date = 2021-09-29
+user = heldersalomao
+conversation = 80575628
+URL = https://twitter.com/heldersalomao/status/1443355899943342087
 
-word count = 41
-words loading = 5
+word count = 33
+words loading = 4
 factor score = 4
 
-BOAS NOTÍCIA QUE VOCÊ VÊ AQUI, E NÃO VÊ NA REDE GLOBO - Caged: Brasil 
-registra 324 . 112 mil vagas com carteira **assinada** em Novembro; - Governo 
-Bolsonaro começa a **pagar** o vale **gás** nesta Segunda- Feira, para as 
-famílias de **baixa** **renda** . 
+ATENÇÃO! Bancada do PT garante vale-gás para famílias de **baixa** 
+**renda** ! Sou coautor do **projeto** 1374 / 21 de autoria do deputado 
+@CarlosZarattini assinado pela bancada do partido. Quem DEFENDE você é o PT 
 
 Lemmas in this text that loaded on the factor:
 
-assinar (secondary)
 baixo
 gás
-pagar
+projeto
 renda

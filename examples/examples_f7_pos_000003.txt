@@ -1,21 +1,23 @@
-file = t017568
-date = 2022-09-29
-user = jairbolsonaro
-conversation = 128372940
-URL = https://twitter.com/jairbolsonaro/status/1575325362304737281
+file = t015620
+date = 2022-05-30
+user = LizAnnergh
+conversation = 718711718
+URL = https://twitter.com/LizAnnergh/status/1531180216445542401
 
 word count = 52
-words loading = 4
-factor score = 4
+words loading = 5
+factor score = 5
 
-- E é um **erro** pensar que o alvo principal é Jair Bolsonaro. O sistema se 
-uniu contra cada brasileiro que defende a familia, a liberdade de expressão, o 
-**combate** ao **aborto** e às **drogas** , a propriedade privada, o livre 
-mercado e tudo aquilo que por em xeque a ilusão do socialismo. 
+@Macau54208858 @CarlosBolsonaro @mendesluizpaulo Kkkkkkkkkkkkkkk Isso é fake, 
+**cara** . Editaram a **foto** da torcida do Liverpool da Inglaterra. Petista 
+TEM q ser **enganado** mesmo engole qualquer mentira q contam ora ele. Não tá 
+vendo q o mula não tem nem saído às ruas, com medo de ser vaiado e 
+**chamado** de **ladrão** ? 
 
 Lemmas in this text that loaded on the factor:
 
-aborto
-combate
-droga
-erro
+cara
+chamar
+enganar
+foto
+ladrão

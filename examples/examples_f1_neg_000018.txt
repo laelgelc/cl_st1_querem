@@ -1,20 +1,19 @@
-file = t015071
-date = 2022-04-29
-user = Junio_Seranto
-conversation = 116297990
-URL = https://twitter.com/Junio_Seranto/status/1520083867549511680
+file = t003809
+date = 2019-05-30
+user = DiarioDCO
+conversation = 55645620
+URL = https://twitter.com/DiarioDCO/status/1134172285185732610
 
-word count = 49
-words loading = 3
-factor score = -3
+word count = 29
+words loading = 2
+factor score = -2
 
-@g1 As brechas criadas pelos **políticos** para não serem ou ficarem presos, 
-são as mesmas que os marginais comuns **usam** para ficarem livres e 
-continuarem cometendo **crimes** . Pensem nisso antes de dizer que o Lula é 
-vítima de um golpe e que a família Bolsonaro não é corrupta. 
+Os manifestantes levaram um grande faixa escrita " Fora Bolsonaro " , em um 
+**ato** que reuniu um grande número de **pessoas** , em relação ao tamanho 
+da cidade HASHTAG #forabolsonaro_h HASHTAG #liberdadeparalula_h HASHTAG 
+#eleiçõesgerais_h 
 
 Lemmas in this text that loaded on the factor:
 
-crime
-político
-usar
+ato
+pessoa

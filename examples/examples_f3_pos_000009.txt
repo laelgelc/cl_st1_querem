@@ -1,17 +1,23 @@
-file = t020027
-date = 2023-03-30
-user = brasil247
-conversation = 248890506
-URL = https://twitter.com/brasil247/status/1641432285072457729
+file = t015927
+date = 2022-06-29
+user = jsscadcam
+conversation = 2872197861
+URL = https://twitter.com/jsscadcam/status/1542185838301351938
 
-word count = 17
-words loading = 2
-factor score = 2
+word count = 54
+words loading = 5
+factor score = 5
 
-**Bomba** a ser **desarmada** , diz Dino sobre risco de tumultos pela volta de 
-Bolsonaro ao Brasil 
+Está na hora de nós apoiadores do @SF_Moro **tomarmos** uma decisão pois se 
+o bolsonaro e o lula forem para o **segundo** **turno** o ladrão **vence** 
+fácil. Temos que eliminar os dois, e o jeito é votando em alguém que possa 
+tirar o assassino no **primeiro** e **vencer** o ladrão no **segundo** . É 
+urgente. 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-desarmar
+primeiro
+segundo
+tomar
+turno
+vencer

@@ -1,19 +1,16 @@
-file = t009138
-date = 2020-11-29
-user = jperezpt13
-conversation = 162745775
-URL = https://twitter.com/jperezpt13/status/1333188296214777858
+file = t004131
+date = 2019-06-29
+user = drvittalover
+conversation = 1040657814736257025
+URL = https://twitter.com/drvittalover/status/1145072631592476673
 
-word count = 47
-words loading = 2
-factor score = -2
+word count = 20
+words loading = 1
+factor score = -1
 
-No RJ, apesar do candidato eleito ser do DEM de @RodrigoMaia, que se recusa 
-encaminhar o **impeachment** , foi a maior derrota de Bolsonaro e sua família 
-onde estão s / base político / eleitoral / **miliciana** . É complexo e 
-contraditório, mas é das contradições que se constroem novos caminhos. 
+RT @samiabomfim: É muito significativo que em meio ao governo Bolsonaro, 
+abertamente lgbtfobico e conservador, tenhamos LGBTs **ocupando** os e … 
 
 Lemmas in this text that loaded on the factor:
 
-impeachment
-miliciano
+ocupar

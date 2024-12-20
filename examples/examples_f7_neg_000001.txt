@@ -1,21 +1,17 @@
-file = t003435
-date = 2019-03-28
-user = abdalafarah
-conversation = 336878973
-URL = https://twitter.com/abdalafarah/status/1111194893999841280
+file = t004674
+date = 2019-09-29
+user = AlanSavio_03
+conversation = 941144531440893952
+URL = https://twitter.com/AlanSavio_03/status/1178455517762670593
 
-word count = 48
-words loading = 4
-factor score = -4
+word count = 20
+words loading = 2
+factor score = -2
 
-Hoje é dia 28 / 03 / 2019 ! Quando será o depoimento do Flávio Bolsonaro? E 
-as investigações sobre o Queiroz, **esposa** e **filhas** ? E o cheque da 
-Michele Bolsonaro? E o Jair? Esquemas? E os **milicianos** ? E suas famílias 
-nos **gabinetes** ? Quem mandou matar Marielle? Cadê as respostas? ! ? ! 
+RT @Eliasde_Deus: Batemos o **recorde** de trabalhadores na informalidade: são 
+38 , 8 milhões trabalhando sem carteira **assinada** e sem direitos tr … 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-filha
-gabinete
-miliciano
+assinar
+recorde

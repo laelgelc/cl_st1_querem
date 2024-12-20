@@ -1,21 +1,19 @@
-file = t015820
-date = 2022-05-30
-user = wagner_rt
-conversation = 927016932360048640
-URL = https://twitter.com/wagner_rt/status/1531391949198041091
+file = t019961
+date = 2023-03-30
+user = _Janoninho
+conversation = 1563897907446747136
+URL = https://twitter.com/_Janoninho/status/1641528637160562708
 
-word count = 49
-words loading = 4
-factor score = -4
+word count = 30
+words loading = 3
+factor score = -3
 
-Em 2019 Bolsonaro voltou de viagem aos EUA e disse que houve fraude nas 
-eleições e que tinha **vencido** no **primeiro** turno. Se cassarem a Kokay 
-pelo tweet dela vão cassar o PR também. Deixem eles falarem! Lutem por 
-**liberdade** , inclusive pelo **direito** de falar bobagem dos petista. 
+O ladrão de **joias** caçando **carro** **blindado** , sendo que foi ele que 
+armou a população. Que se defenda sozinho com suas armas. Faz arminha com a 
+mão BOLSONARO PRESO 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-liberdade
-primeiro
-vencer
+blindar
+carro
+joia

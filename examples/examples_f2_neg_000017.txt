@@ -1,19 +1,19 @@
-file = t009984
-date = 2021-02-27
-user = Emerson93983042
-conversation = 1261764531996549124
-URL = https://twitter.com/Emerson93983042/status/1365804843244355586
+file = t001276
+date = 2018-08-29
+user = cinefilo_K
+conversation = 3301120439
+URL = https://twitter.com/cinefilo_K/status/1034807224718241792
 
-word count = 38
+word count = 49
 words loading = 2
 factor score = -2
 
-O mal não dorme! ! ! O dia inteiro solicitando impeachmant e CPI para 
-Bolsonaro! Se o mal não dorme, nós que somos do **bem** temos que ficar 
-sempre **ligados** contra estes crápulas! ! Lembre -se: " A sua liberdade 
-está em jogo " ! 
+o discurso de Bolsonaro não é só perigoso. . é mentiroso, é criminoso ( 
+réu por incitar ESTUPRO e será réu por RACISMO ) e é altamente retrógrado, 
+reinventando uma luta contra um comunismo que nunca existiu aqui. o discurso 
+dele é só um monte de **fake** **news** pra conservador aplaudir. 
 
 Lemmas in this text that loaded on the factor:
 
-bem
-ligar
+fake
+news

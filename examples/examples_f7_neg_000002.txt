@@ -1,21 +1,19 @@
-file = t005490
-date = 2019-12-28
-user = abdalafarah
-conversation = 336878973
-URL = https://twitter.com/abdalafarah/status/1210889853199638528
+file = t007683
+date = 2020-07-04
+user = SagazRubia
+conversation = 1266523115372281856
+URL = https://twitter.com/SagazRubia/status/1279404373903323137
 
-word count = 50
-words loading = 4
-factor score = -4
+word count = 49
+words loading = 2
+factor score = -2
 
-Hoje é dia 28 / 12 / 2019 ! E as investigações sobre Flávio Bolsonaro? E o 
-Queiroz, **esposa** e **filhas** ? E o cheque da Michele? E os **milicianos** ? 
-Suas famílias nos **gabinetes** ? Quem mandou matar Marielle? E o 3° elemento 
-no carro dos assassinos? E o porteiro? O Carluxo? Cadê as respostas? 
+Bolsonaro que tava muito **ocupado** blindando a familícia dos processos, veio 
+sobrevoar SC pra ver os estragos provocados pelo ciclone. Decerto pra ele atuar 
+em políticas de proteção ao povo e **combate** a covid 19 vai ter que 
+visitar as famílias dos mais de 60 mil mortos. . . Sei! 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-filha
-gabinete
-miliciano
+combate
+ocupar

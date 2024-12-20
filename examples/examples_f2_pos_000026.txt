@@ -1,23 +1,23 @@
-file = t019801
-date = 2023-02-27
-user = NidiaMartinsCa1
-conversation = 1171937259085586434
-URL = https://twitter.com/NidiaMartinsCa1/status/1630330744483504128
+file = t019310
+date = 2023-01-30
+user = cristianominas
+conversation = 190798741
+URL = https://twitter.com/cristianominas/status/1620167469905358849
 
-word count = 39
-words loading = 4
+word count = 41
+words loading = 6
 factor score = 4
 
-Os brasileiros já sentem saudades de Bolsonaro! ! Em março volta o ICMS? ? 
-**Pobre** passa a **pagar** **imposto** de Renda. Muitos **benefícios** do 
-Bolsa família serão cortados? ? O que mais? ? O pior que o L vai fazer todos 
-**pagarem** . downcast_face_with_sweat_e downcast_face_with_sweat_e 
-tired_face_e weary_face_e tired_face_e loudly_crying_face_e 
-loudly_crying_face_e 
+Estou pedindo ao MP que apure mais esse absurdo do governo Bolsonaro: famílias 
+do semiárido mineiro tiveram que **pagar** para fazer parte do **programa** de 
+construção de **cisternas** **federal** . Famílias de **baixa** **renda** 
+fizeram empréstimos para arcar com as obras: 
 
 Lemmas in this text that loaded on the factor:
 
-benefício
-imposto
+baixo
+cisterna (secondary)
+federal (secondary)
 pagar
-pobre
+programa
+renda

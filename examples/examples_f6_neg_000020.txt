@@ -1,19 +1,18 @@
-file = t000239
-date = 2018-04-29
-user = AnaXavier98
-conversation = 1281766129
-URL = https://twitter.com/AnaXavier98/status/990616068916989952
+file = t011199
+date = 2021-04-29
+user = Pacoca_cedilha
+conversation = 1012485979360452609
+URL = https://twitter.com/Pacoca_cedilha/status/1387865071494307844
 
-word count = 48
+word count = 25
 words loading = 2
 factor score = -2
 
-@CarlosBolsonaro Bolsonaro quando abre a **boca** humilha até sua família vc 
-acha que povo brasileiro irá deixar Bolsonaro humilhar a família Brasileira? 
-" só não te estupro pq vc não merece " bandido bom, bandido morto " um cara 
-que humilhou a raça **negra** que **negro** internacional vai tolerar isso? 
+@Marcia_mrp @joaoamoedonovo Há uma terceira possibilidade: recusar -se a votar 
+em qualquer populista que se apresente como salvador da **pátria** . Getúlio, 
+Jânio, Collor, Lula, Dilma, Bolsonaro. . . **Chega** ! 
 
 Lemmas in this text that loaded on the factor:
 
-boca
-negro
+chegar
+pátria

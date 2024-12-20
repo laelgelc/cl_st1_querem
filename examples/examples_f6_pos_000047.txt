@@ -1,20 +1,22 @@
-file = t016922
-date = 2022-08-30
-user = abocadelobo
-conversation = 1379165573398073345
-URL = https://twitter.com/abocadelobo/status/1564597986969227264
+file = t002619
+date = 2018-12-30
+user = deiatricolor
+conversation = 69375594
+URL = https://twitter.com/deiatricolor/status/1079170250816524290
 
-word count = 30
+word count = 54
 words loading = 4
-factor score = 3
+factor score = 4
 
-Olha, pra mim quem tem muito dinheiro **vivo** ta escondendo alguma coisa, 
-sonegando. . . pra **comprar** 51 **imóveis** então. . . Bolsonaro, por que 
-sua família só **compra** **imóvel** em dinheiro **vivo** ? thinking_face_e 
+@RitaLisauskas Qual a diferença entre **posse** e **porte** de **arma** de 
+**fogo** ? A **POSSE** consiste em manter no interior de residência ou no 
+local de trabalho a **arma** de **fogo** . O **PORTE** por sua vez, pressupõe 
+que a **arma** de **fogo** esteja fora da residência ou local de trabalho. 
+Bolsonaro disse POSSE entendeu? ? ? 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-comprar
-imóvel
-vivo (secondary)
+arma
+fogo
+porte
+posse

@@ -1,23 +1,22 @@
-file = t008417
-date = 2020-09-29
-user = BohnGass
-conversation = 63127680
-URL = https://twitter.com/BohnGass/status/1310996346602770433
+file = t007599
+date = 2020-07-29
+user = LuizianneLinsPT
+conversation = 2666819714
+URL = https://twitter.com/LuizianneLinsPT/status/1288492721737469953
 
-word count = 51
+word count = 38
 words loading = 5
 factor score = 5
 
-Chegaram a anunciar o tal **Renda** Brasil, mas queriam tirar verba do Bolsa 
-Família e do **salário** **mínimo** . Tantas críticas, que Bolsonaro 
-recuou. Agora, quer roubar do Fundeb e fazer um tal **Renda** Cidadã . O certo 
-é que eles não gostam e não sabem como fazer **programas** de **renda** 
-**básica** . 
+ESPALHEM: Mais um ataque contra o povo que sofre com a pandemia, sem 
+**emprego** e **renda** . Antimessias Bolsonaro veta PL que permitiria pessoa 
+**receber** 2 cotas do **auxílio** **emergencial** se for provedora única da 
+família. HASHTAG #forabolsonarogenocida_h HASHTAG #auxilioemergencial_h 
 
 Lemmas in this text that loaded on the factor:
 
-básico
-pequeno
-programa
+auxílio
+emergencial
+emprego
+receber
 renda
-salário

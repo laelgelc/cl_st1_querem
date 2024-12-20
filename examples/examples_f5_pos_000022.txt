@@ -1,22 +1,21 @@
-file = t002274
-date = 2018-12-30
-user = erikakokay
-conversation = 87021796
-URL = https://twitter.com/erikakokay/status/1079313248086904833
+file = t016617
+date = 2022-07-30
+user = jos_jdivinoze
+conversation = 1449770743122829314
+URL = https://twitter.com/jos_jdivinoze/status/1553421633443995648
 
-word count = 39
-words loading = 5
-factor score = 5
+word count = 50
+words loading = 4
+factor score = 4
 
-Cogitar **decreto** para " **libera** geral " de **armas** de **fogo** é 
-simbólico do autoritarismo de Bolsonaro e de sua equipe. Querem atropelar o 
-Congresso em debate de tamanha relevância? Não vamos aceitar revisão do 
-Estatuto do **Desarmamento** por **decreto** ! 
+LULA + d 40 anos perseguido, investigado, condenado e preso; sem nenhuma prova 
+d **crime** dele. Bolsonaro quer **cargo** vitalício d **senador** e sigilos 
+de 100 anos, em tudo, para blindar ele e a família. Você tem dificuldade em 
+saber qual é o honesto e o **corrupto** ? Procure 1 psicanálista 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-desarmamento
-fogo
-liberar
+cargo
+corrupto
+crime
+senador

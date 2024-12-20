@@ -1,20 +1,23 @@
-file = t005155
-date = 2019-11-29
-user = zeca_dirceu
-conversation = 47461491
-URL = https://twitter.com/zeca_dirceu/status/1200509546265010178
+file = t011523
+date = 2021-05-30
+user = fiadabionce
+conversation = 60044342
+URL = https://twitter.com/fiadabionce/status/1399017662685093891
 
-word count = 48
-words loading = 3
-factor score = 2
+word count = 52
+words loading = 5
+factor score = 4
 
-Diga **adeus** às **compras** parceladas no **cartão** de crédito sem juros! 
-Governo Bolsonaro quer acabar com este tipo de operação. E o juro real que 
-chega ao povo subindo sem parar. Só este ano, os juros do rotativo já 
-alcançaram 31 , 8 pontos em apenas 10 MESES. 
+alimentos. Jesus è o **extremo** oposto sim de Bolsonaro, mas infelizmente 
+colocando um corpo nu na frente de uma cruz católica a gente não vai 
+conseguir se aproximar dos **cristãos** não. E só quem ganha é o 
+**conservadorismo** de **direita** que reforça uma imagem que não é a real 
+da **esquerda** 
 
 Lemmas in this text that loaded on the factor:
 
-adeus
-cartão
-compra (secondary)
+conservadorismo
+cristão
+direita
+esquerda (secondary)
+extremo

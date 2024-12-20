@@ -1,18 +1,19 @@
-file = t006392
-date = 2020-03-30
-user = facadabot
-conversation = 1193675541519519744
-URL = https://twitter.com/facadabot/status/1244771200435445760
+file = t008057
+date = 2020-08-30
+user = AcioNeves6
+conversation = 1254403718663090177
+URL = https://twitter.com/AcioNeves6/status/1300106265054588934
 
-word count = 20
-words loading = 3
-factor score = -3
+word count = 48
+words loading = 2
+factor score = -2
 
-RT @lcnutella: nunca vi um **cara** puxar tanto o saco de bolsonaro igual meu 
-**pai** doido, **deus** me livre 
+@jornchristianl @conservadoratha Jandira Silva sei que o Bolsonaro não vai 
+ficar a vida toda como presidente! Por isso! Precisamos ocupar **espaço** que 
+é nosso! Se deixar nas mãos só da **esquerda** eles toca o terror com até 
+Ditaduras do proletariado e várias aberração! Esta raça do satanás 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-deus
-pai
+espaço
+esquerda

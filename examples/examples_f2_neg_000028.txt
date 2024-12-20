@@ -1,18 +1,16 @@
-file = t018058
-date = 2022-10-30
-user = derflecha
-conversation = 1190211566680993792
-URL = https://twitter.com/derflecha/status/1586865389362970628
+file = t002074
+date = 2018-11-29
+user = o_antagonista
+conversation = 2880932962
+URL = https://twitter.com/o_antagonista/status/1068198053868384256
 
-word count = 49
+word count = 10
 words loading = 2
 factor score = -2
 
-e pra vc que é crente e **achava** que essa era uma luta entre o **bem** e o 
-mal: - ou não era - ou deus não gosta de vcs - ou o mal venceu e seu deus é 
-meio fuen espero ter enfiado varias minhocas na sua cabecinha, forte abraço 
+Freixo ataca família Bolsonaro com base em **fake** **news** . 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-bem
+fake
+news

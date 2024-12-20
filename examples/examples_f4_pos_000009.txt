@@ -1,23 +1,26 @@
-file = t010539
-date = 2021-03-30
-user = AltinoMachado
-conversation = 14220634
-URL = https://twitter.com/AltinoMachado/status/1377040853890428929
+file = t017179
+date = 2022-08-30
+user = mariafbastos
+conversation = 71055163
+URL = https://twitter.com/mariafbastos/status/1562178879367909376
 
-word count = 48
-words loading = 5
-factor score = 5
+word count = 50
+words loading = 8
+factor score = 7
 
-' O caos vem aí ' , anunciou Bolsonaro na sexta. Nesta terça, quando 
-**comandantes** das Forças Armadas pediram **demissão** em **protesto** 
-contra Bolsonaro e o Brasil quebra recorde com 3 . 668 mortes por covid em 24h, 
-o governo anuncia que o **golpe** **militar** de 1964 deve ser ' celebrado ' 
-amanhã . 
+@Edson97994283 @Andrasta3s @GeneralMourao Atenção, gados: Em um intervalo de 
+12 horas, dois grandes **escândalos** **envolvendo** a **família** Bolsonaro. 
+A **compra** de pelo menos 51 **imóveis** em **dinheiro** **vivo** e a 
+afirmação da Polícia Federal de que a ABIN interviu para atrapalhar 
+investigações contra o **filho** do presidente, Jair Renan. 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-demissão
-golpe
-militar
-protesto
+compra
+dinheiro
+envolver
+escândalo
+família
+filho (secondary)
+imóvel
+vivo

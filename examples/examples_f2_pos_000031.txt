@@ -1,22 +1,22 @@
-file = t015875
+file = t015516
 date = 2022-05-30
-user = LulaOficial
-conversation = 2670726740
-URL = https://twitter.com/LulaOficial/status/1531367054875435009
+user = heldersalomao
+conversation = 80575628
+URL = https://twitter.com/heldersalomao/status/1531269349306138627
 
-word count = 49
+word count = 43
 words loading = 5
 factor score = 4
 
-Uma pesquisa do Instituto Pólis mostra que o **gasto** com o botijão de 
-**gás** compromete até 11 % da **renda** das famílias mais **pobres** na 
-cidade de São Paulo. O **gás** deveria estar na cesta **básica** , e o povo 
-não deveria arriscar sua vida com álcool e lenha. HASHTAG #equipelula_h 
+ESPALHE A VERDADE Bolsonaro acabou com o Bolsa Família e abandonou os 
+brasileiros mais **pobres** passando fome. 3 , 2 **milhões** de famílias em 
+situação de **pobreza** ou extrema **pobreza** estão inscritas no Cadastro 
+Único sem **receber** nenhum **auxílio** , mostra reportagem do UOL. 
 
 Lemmas in this text that loaded on the factor:
 
-básico
-gasto (secondary)
-gás
+auxílio
+milhão (secondary)
 pobre
-renda
+pobreza
+receber

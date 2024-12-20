@@ -1,20 +1,21 @@
-file = t015254
-date = 2022-04-29
-user = ffernandes165
-conversation = 950318934024171521
-URL = https://twitter.com/ffernandes165/status/1520173144279027712
+file = t014031
+date = 2022-01-30
+user = alexruizmarques
+conversation = 73513427
+URL = https://twitter.com/alexruizmarques/status/1487910525505843203
 
-word count = 18
-words loading = 4
-factor score = 4
+word count = 19
+words loading = 5
+factor score = 5
 
-RT @portela333 : 01 . 05 . 2022 Bolsonaro, a liberdade do Brasil. OEscolhido 
-pelo Pai. blue_heart_e **yellow_heart_e** **green_heart_e** **flag_brazil_e** 
-dove_e family_man, _woman, _boy, _boy_e **folded_hands_e** em Copacabana, Posto 
-5 … 
+RT @ciancaglini_15 : Esse meu presida é realmente genial! **Abençoado** por 
+Deus! Rezo todos os dias por ele! **folded_hands_e** **flag_brazil_e** 
+**green_heart_e** **yellow_heart_e** @jairbolsonaro HASHTAG #bolsonaroreel_h 
+… 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
 flag_brazil_e
 folded_hands_e
 green_heart_e

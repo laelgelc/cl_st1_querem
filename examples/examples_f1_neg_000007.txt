@@ -1,20 +1,18 @@
-file = t004867
-date = 2019-09-29
-user = brandao_xanxere
-conversation = 956983401025802240
-URL = https://twitter.com/brandao_xanxere/status/1178406814624423937
+file = t001552
+date = 2018-09-29
+user = TiaoImoveisIII
+conversation = 810647326297624580
+URL = https://twitter.com/TiaoImoveisIII/status/1046185074306273282
 
-word count = 35
-words loading = 3
-factor score = -3
+word count = 23
+words loading = 2
+factor score = -2
 
-Isso não é **crime** ? Inconstitucional? E a liberdade **política** ? De 
-manifestação do pensamento? Quem irá processar esse calhorda? General de 
-Bolsonaro vasculha até rede **social** da família de servidores para ver se 
-tem petista 
+RT @MST_Oficial: triangular_flag_e woman_gesturing_no_medium_skin_tone_e 
+MULHERES CONTRA O FASCISMO Em Brasília, mais de 30 mil **pessoas** estão na 
+rua para barrar o conservadorismo. O **Ato** HASHTAG #e_h … 
 
 Lemmas in this text that loaded on the factor:
 
-crime
-político
-social
+ato
+pessoa

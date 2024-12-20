@@ -1,19 +1,23 @@
-file = t012113
-date = 2021-08-27
-user = _AlessandroSE
-conversation = 4250596815
-URL = https://twitter.com/_AlessandroSE/status/1431287091888103425
+file = t015405
+date = 2022-04-29
+user = rosikasanostra
+conversation = 343675805
+URL = https://twitter.com/rosikasanostra/status/1520103977517527041
 
-word count = 50
-words loading = 2
-factor score = 2
+word count = 37
+words loading = 5
+factor score = 4
 
-Não deixe Bolsonaro desviar sua atenção falando besteira no cercadinho. É 
-método para fugir da crise e das notícias inexplicáveis. A de hoje é mais 
-uma mansão para a família **presidencial** , agora do filho 04 . Já a crise 
-se agrava, com a volta da **inflação** , juros altos e fome. 
+@FernandoSorgi Além disso, fico feliz ao ver " Professor de **Economia** da 
+UENP. **Conservador** . De **direita** e **liberal** . Fechado com BOLSONARO. 
+Deus e Família em 1o lugar. Cristão. **Amor** na construção da vida plena. 
+Pelo Brasil! clapping_hands_e clapping_hands_e clapping_hands_e flag_brazil_e 
+HASHTAG #bolsonaroreeleitonoprimeiroturno_h 
 
 Lemmas in this text that loaded on the factor:
 
-inflação
-presidencial
+amor (secondary)
+conservador
+direita
+economia
+liberal

@@ -1,21 +1,21 @@
-file = t007439
-date = 2020-06-29
-user = Sergio30304503
-conversation = 1276297154072645634
-URL = https://twitter.com/Sergio30304503/status/1277732973476032513
+file = t020276
+date = 2023-03-30
+user = OsniTvbox
+conversation = 1589753537617076226
+URL = https://twitter.com/OsniTvbox/status/1641574126145130496
 
-word count = 35
-words loading = 5
+word count = 46
+words loading = 4
 factor score = 4
 
-@arthurmoledoval nada disso, fique com seu **conservador** nos **costumes** e 
-**liberal** na **economia** , aqui na esquerda já tem a desgraça do Lula, 
-bolsonaro não teve nenhum voto da esquerda, a **direita** assuma sua desgraça 
+Kkkkk Recepcionar Regime Bolsonaro CNN desde ontem fazendo **chamada** para 
+volta do **Ladrão** iria retornar, não fala o **ladrão** 10 dedos ligado à 
+milícias no Rio? Audiência da CNN? Flopou Veja **foto** tinha mais polícia 
+de que **apoiadores** , oq acontece acabou dinheiro? 100zinho tanke cheio? 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-direita
-economia (secondary)
-liberal
+apoiador
+chamar
+foto
+ladrão

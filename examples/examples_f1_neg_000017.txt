@@ -1,21 +1,20 @@
-file = t014442
-date = 2022-02-27
-user = Insurgente1977
-conversation = 138568006
-URL = https://twitter.com/Insurgente1977/status/1498059291307225090
+file = t003732
+date = 2019-04-29
+user = monemor
+conversation = 70244386
+URL = https://twitter.com/monemor/status/1122977465222221824
 
-word count = 40
-words loading = 4
-factor score = -3
+word count = 48
+words loading = 3
+factor score = -2
 
-@caleromarcelo @crisrenovada27 O retardo **social** promovido por Bolsonaro, 
-seu entorno **político** e familiar conduziram 25 % dos brasileiros num estado 
-de mediocridade severa e a prática de **crimes** sob a ótica de bons costumes 
-e liberdade de **expressão** . Levará décadas! 
+@Rkrahenbuhl @GloboNews Bolsonaro e Trump são provas contundentes de quão 
+falha pode ser a democracia. Eles a **usam** pra espalhar **ódio** e medo, e 
+para promover o autoritarismo. O mesmo vale pra liberdade de **expressão** . 
+Eu ainda que acredito que, se ruim com elas pior sem elas. 
 
 Lemmas in this text that loaded on the factor:
 
-crime
 expressão (secondary)
-político
-social
+usar
+ódio

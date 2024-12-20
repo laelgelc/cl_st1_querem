@@ -1,21 +1,20 @@
-file = t013727
-date = 2021-12-30
-user = LevialfeuLevita
-conversation = 1434568397459791876
-URL = https://twitter.com/LevialfeuLevita/status/1476595777904562179
+file = t020526
+date = 2023-04-29
+user = joanadarc_am
+conversation = 1057864881024700417
+URL = https://twitter.com/joanadarc_am/status/1652361409357918208
 
-word count = 41
-words loading = 4
+word count = 48
+words loading = 3
 factor score = 3
 
-@leandromcfc @NadaOpinador @augustodeAB Bolsonaro tinha bem mais carisma, se 
-quiser que Moro vá ao segundo **turno** manda ele falar de outras **pautas** 
-econômicas e **sociais** , e que ele age como alguém de **pauta** 
-**conservadora** , será que o @SF_Moro conseguirá dessa vez? 
+Confiamos no @ibamagov e NOS **ENGANARAM** SÓ PRA ENTREGAR A FILÓ ! ! ! ! 
+Agora não estão deixando a gente ver ela desde então … a gente tá com 
+medo dela já ter sido solta e o combinado era a gente acompanhar tudo! ! ! ! 
+Pelo **amor** de **deus** @LulaOficial AJUDA A FILÓ ! 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-pauta
-social (secondary)
-turno
+amor
+deus
+enganar

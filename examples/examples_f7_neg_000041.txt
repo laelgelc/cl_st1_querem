@@ -1,19 +1,17 @@
-file = t010355
-date = 2021-03-30
-user = vivireispsol
-conversation = 246985981
-URL = https://twitter.com/vivireispsol/status/1377026208966262785
+file = t004527
+date = 2019-08-30
+user = Zildeu10
+conversation = 1452093553
+URL = https://twitter.com/Zildeu10/status/1167572955343261696
 
-word count = 45
-words loading = 2
-factor score = -2
+word count = 41
+words loading = 1
+factor score = -1
 
-3 . 780 mil vidas perdidas no país onde a prioridade do **chefe** da nação 
-são os acordos que ainda sustentam o seu governo da morte. Quando Bolsonaro 
-dizia defender a família, falava exclusivamente da sua própria. O único 
-remédio p / acabar essa tragédia é o **impeachment** ! 
+Pronto pra conversar, ou pra impor condições? Agora, dizer que USA, Chile e 
+Israel irá ajudar no **combate** aos incêndios florestais é mais claro que o 
+caráter dele e de sua família. Qual foi a ajuda de Israel em Brumadinho? 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-impeachment
+combate

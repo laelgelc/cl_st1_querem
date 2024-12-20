@@ -1,20 +1,16 @@
-file = t017013
-date = 2022-08-30
-user = myscreenbr
-conversation = 854275854020620288
-URL = https://twitter.com/myscreenbr/status/1564755366814142464
+file = t001036
+date = 2018-07-30
+user = l_urbano
+conversation = 133794436
+URL = https://twitter.com/l_urbano/status/1024038627435835392
 
-word count = 49
-words loading = 3
-factor score = -3
+word count = 22
+words loading = 1
+factor score = -1
 
-@UOLNoticias Então vamos ao resumo: Bolsonaro inseriu seus filhos na carreira 
-de **milicianos** na política; suas **esposas** e até sua idosa, **mãe** . 
-Compraram no total 107 imóveis, sendo 51 em dinheiro vivo. Lavagem de 
-dinheiro, peculato e muito mais. Isso não é uma família, isso é uma máfia. 
+@CarlosBolsonaro Tô sentido cheiro de Fake News. A família Bolsonaro passou a 
+**ocupar** o lugar do MBL como campeã de fakenews. 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-miliciano
-mãe
+ocupar

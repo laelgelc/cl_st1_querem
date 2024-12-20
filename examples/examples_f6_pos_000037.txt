@@ -1,22 +1,22 @@
-file = t017128
-date = 2022-08-28
-user = julianadalpiva
-conversation = 28217833
-URL = https://twitter.com/julianadalpiva/status/1564038256810987520
+file = t010154
+date = 2021-02-27
+user = jomirofi
+conversation = 315263503
+URL = https://twitter.com/jomirofi/status/1365780085182238722
 
-word count = 43
-words loading = 4
-factor score = 3
+word count = 39
+words loading = 5
+factor score = 4
 
-Quero ver se algum candidato vai ter coragem de perguntar sobre os casos de 
-**corrupção** da família Bolsonaro? Vão perguntar dos **imóveis** 
-**comprados** em dinheiro **vivo** ? Dos cheques que Queiroz depositou para 
-Michelle? O assunto sempre tirou Bolsonaro do sério. HASHTAG #debatenaband_h 
-HASHTAG #debatenouol_h 
+Discordo completamente da difusão de **armas** na **população** que pode 
+pagar acima de R$4000 por uma **arma** básica! ! ! ! Lira diz que Bolsonaro 
+errou ao ​permitir **porte** de duas **armas** , mas defende que **decretos** 
+não **invadem** competência do Legislativo 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-imóvel
-vivo (secondary)
+arma
+decreto
+invadir (secondary)
+população
+porte

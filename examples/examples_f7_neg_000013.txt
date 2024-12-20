@@ -1,19 +1,17 @@
-file = t002353
-date = 2018-12-30
-user = FrenteDemocrat
-conversation = 1051938406555668480
-URL = https://twitter.com/FrenteDemocrat/status/1079479180105039872
+file = t001774
+date = 2018-10-30
+user = lauraabcarvalho
+conversation = 4400597716
+URL = https://twitter.com/lauraabcarvalho/status/1057259010758529024
 
 word count = 39
-words loading = 2
-factor score = -2
+words loading = 1
+factor score = -1
 
-A lógica do " liberalismo " do governo Bolsonaro é estranha. Libera arma pra 
-todo mundo. Maconha não ( vamos manter o tráfico ilegal lucrando a rodo ) . 
-Privatiza tudo. Mas mantém os privilégios dos militares, vai. . . E as 
-**filhas** , **esposas** , famílias. . . 
+Enquanto a gente fica **ocupado** com as graves ameaças de Bolsonaro à Folha, 
+ao PT e ao PSOL, ele move suas peças para aprovar mudanças no estatuto do 
+desarmamento, na previdência e nos impostos. Muita calma nessa hora. 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-filha
+ocupar

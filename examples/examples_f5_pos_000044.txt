@@ -1,21 +1,22 @@
-file = t018589
-date = 2022-11-28
-user = AndreJanonesAdv
-conversation = 1198004545
-URL = https://twitter.com/AndreJanonesAdv/status/1597198488772964354
+file = t010313
+date = 2021-03-30
+user = FernandoHortaOf
+conversation = 865302702821126144
+URL = https://twitter.com/FernandoHortaOf/status/1377000560700878856
 
-word count = 49
-words loading = 4
+word count = 45
+words loading = 5
 factor score = 4
 
-Pode investigar que, se bobear, o pai bolsonarista do assassino que entrou 
-**atirando** nas escolas está por trás do crime! Muito suspeito a maneira 
-como o moleque teve **acesso** às **armas** , ao colete e ao **carro** dos 
-pais. Lembrando que o vagabundo é policial e adorador de Hittler! thumbs_up_e 
+Agora já dá para saber o que Bolsonaro **tentou** . O plano do **golpe** era 
+audacioso. Por um lado queria o **apoio** das **forças** **armadas** para 
+pressionar o STF e o parlamento criando a falsa ideia de que eram as FFAA que 
+mantinham Bolsonaro. ( segue ) 
 
 Lemmas in this text that loaded on the factor:
 
-acesso
-arma
-atirar
-carro
+apoio
+armar (secondary)
+força
+golpe
+tentar

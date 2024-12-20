@@ -1,19 +1,17 @@
-file = t007157
-date = 2020-05-30
-user = JuballMoyses
-conversation = 955229600715624450
-URL = https://twitter.com/JuballMoyses/status/1266867999107174401
+file = t015788
+date = 2022-05-30
+user = Andredeienno
+conversation = 432043543
+URL = https://twitter.com/Andredeienno/status/1531394011012947972
 
-word count = 39
+word count = 25
 words loading = 2
 factor score = -2
 
-Essa mulher não é **evangélica** . Não é de Deus. Isso é uma das 
-assistentes do Demônio de Brasília. Cadeia para esses bandidos. Damares se 
-diz estarrecida com índices do **covid** em estados com governadores que 
-Bolsonaro não gosta 
+RT @Augusto150584 : **Feliz** e a nação cujo Deus eo senhor. a nossa bandeira 
+jamais será **vermelha** satanás você não vai sentar nunca mais na cade … 
 
 Lemmas in this text that loaded on the factor:
 
-covid
-evangélico
+feliz
+vermelho

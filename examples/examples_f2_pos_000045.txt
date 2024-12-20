@@ -1,23 +1,21 @@
-file = t012566
-date = 2021-09-29
-user = AlencarBraga13
-conversation = 74243131
-URL = https://twitter.com/AlencarBraga13/status/1443362390653952002
+file = t008378
+date = 2020-09-29
+user = padilhando
+conversation = 58065771
+URL = https://twitter.com/padilhando/status/1311060871850930176
 
-word count = 47
-words loading = 5
+word count = 39
+words loading = 4
 factor score = 4
 
-Bancada do @PTnaCamara **assinou** inteira o HASHTAG #pl1374_h para garantir 
-desconto no **gás** para famílias de **baixa** **renda** , que acabou de ser 
-**APROVADO** na Câmara! Se depender de Bolsonaro e Paulo Guedes as pessoas 
-vão continuar se queimando e morrendo com álcool porque não podem comprar 
-**gás** . 
+Bolsonaro sempre foi contra Bolsa-família / Transferência de **renda** . A 
+oposição conseguiu **aprovar** o aro teme perder apoio de quem **recebe** . 
+Aí quer $ de onde? Dos muito ricos? Não! Da **educação** , dos aposentados 
+e de quem foi caloteado do governo 
 
 Lemmas in this text that loaded on the factor:
 
 aprovar
-assinar (secondary)
-baixo
-gás
+educação
+receber
 renda

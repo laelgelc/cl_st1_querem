@@ -1,26 +1,25 @@
-file = t020582
-date = 2022-09-09
-user = LSilva67684514
-conversation = 1524141632798576650
-URL = https://twitter.com/LSilva67684514/status/1568242175032414208
+file = t020540
+date = 2023-04-29
+user = regianeepseg
+conversation = 1581039386426281986
+URL = https://twitter.com/regianeepseg/status/1652388732228476929
 
-word count = 43
-words loading = 5
-factor score = 5
+word count = 29
+words loading = 6
+factor score = 6
 
-FOI ESTA BANDEIRA SOFRIDA, RASGADA, PISOTEADA, QUEIMADA. QUE BOLSONARO 
-PRESIDENTE DO BRASIL, PEGOU DO CHÃO E COLOCOU NO SEU LUGAR DE DIREITO. NAS 
-MÃOS DO POVO BRASILEIRO DE BEM **flag_brazil_e** **flag_brazil_e** 
-**flag_brazil_e** **green_heart_e** **yellow_heart_e** . DEUS, PÁTRIA E 
-FAMÍLIA **raising_hands_e** **flag_brazil_e** **green_heart_e** 
-**yellow_heart_e** . NUNCA FOI TÃO FÁCIL SABER DE QUE LADO ESTAR 
-**smiling_face_with_sunglasses_e** victory_hand_e keycap_2_e keycap_2_e 
-**flag_brazil_e** 
+@Francis66034645 @maravalle2019 @AgenteDEL1984 @CaboLucena @drika1164 
+@SolangeCatani @Nadja63025642 @LindaLua7 @cacildajuris @Bacana_EF 
+@AnaPaulaGarci2 @ParanhaRaissa @papinipops @marcoaurelio_mq @Claudia73921354 
+@bellamulherr @belpris_f @ricardosoares72 @AnaOliv17558279 É verdade só com 
+fé vamos ganhar esta batalha, Deus nos **abençoe** **folded_hands_e** 
+**raising_hands_e** **green_heart_e** **yellow_heart_e** **flag_brazil_e** 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
 flag_brazil_e
+folded_hands_e
 green_heart_e
 raising_hands_e
-smiling_face_with_sunglasses_e
 yellow_heart_e

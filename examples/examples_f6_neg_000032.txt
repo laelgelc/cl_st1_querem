@@ -1,17 +1,19 @@
-file = t001484
-date = 2018-08-30
-user = AnitaEscAltF4
-conversation = 18786201
-URL = https://twitter.com/AnitaEscAltF4/status/1035276083690651648
+file = t020488
+date = 2023-04-29
+user = MariaMartaCard9
+conversation = 1591902565796642823
+URL = https://twitter.com/MariaMartaCard9/status/1652268970672529408
 
-word count = 19
+word count = 40
 words loading = 2
 factor score = -2
 
-RT @psol50 : URGENTE - **apoiador** de Bolsonaro **puxa** arma contra 
-colaboradora da campanha do PSOL em SP. Leia: https: / / … 
+@TaniaRa03388715 @Pimenta13Br @DCM_online Tão minúsculo como Bolsonaro que o 
+ladrão disse que não era preocupação em 2017 porque nem nas prévias 
+passaria. **Moral** da história, hoje o ladrão **bate** cabeça, inventa 
+todas as narrativas e NADA atinge um homem honesto. 
 
 Lemmas in this text that loaded on the factor:
 
-apoiador
-puxar
+bater
+moral

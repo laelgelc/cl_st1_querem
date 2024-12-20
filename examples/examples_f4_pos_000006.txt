@@ -1,21 +1,24 @@
-file = t010704
-date = 2021-03-30
-user = rosiasimoes
-conversation = 4623692057
-URL = https://twitter.com/rosiasimoes/status/1377037184029634560
+file = t017672
+date = 2022-09-23
+user = zerotoledo
+conversation = 41660842
+URL = https://twitter.com/zerotoledo/status/1573315952627924994
 
-word count = 19
-words loading = 5
-factor score = 5
+word count = 39
+words loading = 7
+factor score = 7
 
-RT @nelsonpaffi: A esquerda treme: " UOL **Comandantes** das Forças Armadas 
-pedem **demissão** em **protesto** contra Bolsonaro Inédita, **crise** 
-**militar** … 
+O clã Bolsonaro não quer que você leia as **reportagens** do UOL sobre como 
+a **família** usou **dinheiro** **vivo** para **comprar** **imóveis** . A 
+censura veio diretamente de Brasília. Será que é por serem muitos 
+**imóveis** **envolvendo** muito **dinheiro** ? 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-crise
-demissão
-militar
-protesto
+comprar
+dinheiro
+envolver
+família
+imóvel
+reportagem
+vivo

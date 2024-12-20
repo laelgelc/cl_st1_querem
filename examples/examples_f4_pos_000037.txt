@@ -1,20 +1,22 @@
-file = t018825
-date = 2022-12-30
-user = lucianolrk
-conversation = 136869185
-URL = https://twitter.com/lucianolrk/status/1608867992619864064
+file = t017305
+date = 2022-08-30
+user = amika_nakamura
+conversation = 1328499937231900672
+URL = https://twitter.com/amika_nakamura/status/1564757996797837312
 
-word count = 44
-words loading = 3
-factor score = 3
+word count = 22
+words loading = 6
+factor score = 6
 
-@lcfontes84 @LeoMaranhao22 Caro Luís FFAA são Institução de Estado Não de 
-Gov Nunca houve motivo p **golpe** / **intervenção** ( não houve fraude nas 
-urnas ) Exatamente o oposto: se Bolso tivesse ouvido os **militares** e menos 
-seus filhos bitolados teria sido reeleito Povo escolheu Luladrão + 
+RT @julianopsol: Bomba! **Reportagem** mostra que Bolsonaro e sua **família** 
+**compraram** 51 **imóveis** em **dinheiro** **vivo** ! Essa prática é comum 
+na lavage … 
 
 Lemmas in this text that loaded on the factor:
 
-golpe
-intervenção
-militar
+comprar
+dinheiro
+família
+imóvel
+reportagem
+vivo

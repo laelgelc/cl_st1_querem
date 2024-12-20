@@ -1,19 +1,22 @@
-file = t000857
-date = 2018-06-29
-user = a__esquerda
-conversation = 3264595035
-URL = https://twitter.com/a__esquerda/status/1012717196106260480
+file = t008625
+date = 2020-09-29
+user = Lidiane04121537
+conversation = 1196440465442299905
+URL = https://twitter.com/Lidiane04121537/status/1310695324206403585
 
-word count = 37
-words loading = 3
+word count = 48
+words loading = 4
 factor score = -2
 
-O cara quer aumentar o efetivo judiciário e corta os custos como bolsa 
-família alegando dispensas, em um vídeo diz não **abrir** mão das suas 
-regalias **políticas** . Se isso é a mudança o **pobre** está fodido. . 
+@AndreJanonesAdv @camaradeputados @marcospereira04 Por favor, paute a MP 1000 
+hoje para q o **auxílio** **emergencial** volte a ser 600 reais e as 
+**pessoas** possam ter um pouco de dignidade. Tem famílias passando 
+necessidade! Não podemos ser **vítimas** da insensibilidade de um só homem: 
+Jair Messias Bolsonaro. HASHTAG #pauta600já_h 
 
 Lemmas in this text that loaded on the factor:
 
-abrir
-pobre (secondary)
-político
+auxílio (secondary)
+emergencial (secondary)
+pessoa
+vítima

@@ -1,19 +1,17 @@
-file = t001855
-date = 2018-02-26
-user = MarceloACoelho1
-conversation = 1151388890
-URL = https://twitter.com/MarceloACoelho1/status/968104645670440960
+file = t000099
+date = 2018-03-30
+user = Nelifaria
+conversation = 57531053
+URL = https://twitter.com/Nelifaria/status/979490289160159232
 
-word count = 51
-words loading = 2
-factor score = -2
+word count = 35
+words loading = 1
+factor score = -1
 
-@dilmabr **postam** uma caricatura de Bolsonaro com orelha de asno. E vêm um 
-monte de filhos das **putas** que vestiram a corrupta camisa da CBF dizer que 
-é ' fotoshop ' ou que é ' fake news ' . Idiotas com 2 neurônios que não vê 
-o entreguismo lesa pátria. Bolsonaro = FHC = Aécio = Alckmin = Temer 
+@BlogdoNoblat Eles são fanáticos e creem em salvador da **pátria** ! 
+Bolsonaro é lula são iguais! Os dois detestam ler e seus seguidores são 
+fanatizados. Dê um menoscabo abissal a essa gente que não pensa! ! 
 
 Lemmas in this text that loaded on the factor:
 
-postar
-puto
+pátria

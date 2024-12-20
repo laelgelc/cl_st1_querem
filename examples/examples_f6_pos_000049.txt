@@ -1,21 +1,20 @@
-file = t016914
-date = 2022-08-30
-user = cappellarianton
-conversation = 137545998
-URL = https://twitter.com/cappellarianton/status/1564658706738040834
+file = t002576
+date = 2018-12-30
+user = pataqua_
+conversation = 3236760801
+URL = https://twitter.com/pataqua_/status/1079474496787177475
 
-word count = 51
+word count = 23
 words loading = 4
-factor score = 3
+factor score = 4
 
-Lula foi preso por insinuarem que um triplex e um sítio fosse dele, a bomba da 
-semana é que a família Bolsonaro **comprou** pelo menos 104 **imóveis** nos 
-**últimos** anos pagando a metade com dinheiro **vivo** para não precisar 
-notificar o valor total aos registros de **imóveis** , terão teu voto? 
+RT @DanielaLima_ : A @thaisarbex contou no HASHTAG #painel_h de hj q Moro 
+defendeu o uso de **decreto** presidencial para **facilitar** a **posse** de 
+**armas** . Bol … 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-imóvel
-vivo (secondary)
-último
+arma
+decreto
+facilitar
+posse

@@ -1,18 +1,20 @@
-file = t005308
-date = 2019-11-29
-user = chmpgneprblmsks
-conversation = 191436371
-URL = https://twitter.com/chmpgneprblmsks/status/1200531905059467264
+file = t004377
+date = 2019-07-30
+user = Clauwild1
+conversation = 894281995689349120
+URL = https://twitter.com/Clauwild1/status/1156191541263785984
 
-word count = 16
+word count = 48
 words loading = 3
-factor score = -3
+factor score = -2
 
-meu **deus** do ceu. . . . . . . . . . esse raio que **caiu** aqui agora meu 
-**pai** , vamos todos morrer 
+O ministro do STF, Marco Aurélio de Mello, sugeriu a criação de um aparelho 
+de ' mordaça ' para calar a **voz** do presidente da República. Haverá 
+indignação da imprensa, da **esquerda** , dos defensores da ' **democracia** 
+' e sua liberdade de expressão, ou farão de conta que nada foi dito? 
 
 Lemmas in this text that loaded on the factor:
 
-cair
-deus
-pai
+democracia (secondary)
+esquerda
+voz

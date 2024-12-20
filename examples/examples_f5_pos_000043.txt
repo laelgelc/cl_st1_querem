@@ -1,20 +1,23 @@
-file = t019304
-date = 2023-01-30
-user = maria_auxi18
-conversation = 1575197185909604352
-URL = https://twitter.com/maria_auxi18/status/1620202911874834432
+file = t010412
+date = 2021-03-30
+user = nopontodofato
+conversation = 868436048333950978
+URL = https://twitter.com/nopontodofato/status/1377041356170915842
 
-word count = 21
-words loading = 4
+word count = 44
+words loading = 6
 factor score = 4
 
-RT @renatoroseno: 4 . Governo Lula também estancou a sangria armamentista 
-patrocinada por Bolsonaro, **reduzindo** o **acesso** a **armas** de **fogo** , 
-sus … 
+**Senador** meia foda aliado a outra meia dúzia de **filhos** das putas vão 
+apresentar pedido de impeachment de Bolsonaro amanhã . A base do pedido é que 
+Bolsonaro estaria querendo usar as **forças** **armadas** para dar uma 
+**golpe** e implantar uma **ditadura** no Brasil. 
 
 Lemmas in this text that loaded on the factor:
 
-acesso
-arma
-fogo
-reduzir
+armar (secondary)
+ditadura (secondary)
+filho
+força
+golpe
+senador

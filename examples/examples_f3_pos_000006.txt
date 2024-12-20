@@ -1,19 +1,22 @@
-file = t005670
-date = 2019-12-30
-user = Gzgozzi
-conversation = 906942200
-URL = https://twitter.com/Gzgozzi/status/1211739123972636672
+file = t018607
+date = 2022-12-30
+user = pedroponciobr
+conversation = 1316406489179922433
+URL = https://twitter.com/pedroponciobr/status/1608922194356338689
 
-word count = 24
-words loading = 3
-factor score = 3
+word count = 41
+words loading = 5
+factor score = 5
 
-A MAMATA APENAS COMEÇOU! Bolsonaro pratica corrupção via **cartão** 
-corporativo da presidência da República. Quase15 milhões de reais **gastos** 
-em 2019 . **ESCÂNDALO** ! LADRÃO! 
+2017 teve a **primeira** onda **conservadora** que se levantou no Brasil 
+**elegendo** o presidente Bolsonaro, formando várias lideranças e 
+influenciando pessoas pelas nossas **pautas** e valores! De 2021 para cá se 
+levantou a **segunda** ! Vocês são a **segunda** onda, vão desistir agora? 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-escândalo
-gasto
+conservador
+eleger
+pauta
+primeiro
+segundo

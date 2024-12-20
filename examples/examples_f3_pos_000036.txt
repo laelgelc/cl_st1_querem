@@ -1,19 +1,20 @@
-file = t011892
-date = 2021-07-30
-user = 1403Marcelo
-conversation = 302947650
-URL = https://twitter.com/1403Marcelo/status/1421221564763287562
+file = t015404
+date = 2022-04-29
+user = Silva29020432
+conversation = 1513861257027362816
+URL = https://twitter.com/Silva29020432/status/1520160110856785926
 
-word count = 38
-words loading = 2
-factor score = 2
+word count = 20
+words loading = 4
+factor score = 4
 
-@DoloresGontijo1 @TSEjusbr @LRobertoBarroso @treacre Minha senhora, queria que 
-fizesse essa mesma cobrança com os churrasco requintados promovidos pelo seu 
-Deus Bolsonaro, com os **gastos** estratosférico do **cartão** corporativo, e 
-de outras tantas irregularidade com a coisa pública. 
+RT @rosikasanostra: @FernandoSorgi Além disso, fico feliz ao ver " Professor 
+de **Economia** da UENP. **Conservador** . De **direita** e **liberal** . 
+Fechado … 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-gasto
+conservador
+direita
+economia
+liberal

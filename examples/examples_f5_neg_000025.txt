@@ -1,19 +1,17 @@
-file = t002116
-date = 2018-11-29
-user = sabrinanaquino
-conversation = 390385836
-URL = https://twitter.com/sabrinanaquino/status/1068137095653441543
+file = t006392
+date = 2020-03-30
+user = facadabot
+conversation = 1193675541519519744
+URL = https://twitter.com/facadabot/status/1244771200435445760
 
-word count = 51
+word count = 20
 words loading = 2
 factor score = -2
 
-Perdeu a visão por sucessivas sessões de tortura! E tudo porque um pastor, 
-que será ministro integrante do time " **salvador** da **pátria** " de 
-Bolsonaro, o denunciou sem provas, em base a pura calúnias: Magno Malta. Como 
-se fosse pouco, ele e a esposa estão sem a guarda do filho. Nojo! 
+RT @lcnutella: nunca vi um cara **puxar** tanto o **saco** de bolsonaro igual 
+meu pai doido, deus me livre 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+puxar
+saco

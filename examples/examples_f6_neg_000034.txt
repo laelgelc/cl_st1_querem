@@ -1,18 +1,17 @@
-file = t001677
-date = 2018-09-29
-user = Nathy_Welter
-conversation = 411670928
-URL = https://twitter.com/Nathy_Welter/status/1046178124210352130
+file = t000051
+date = 2018-03-30
+user = WenndellAguiar_
+conversation = 144138963
+URL = https://twitter.com/WenndellAguiar_/status/979391351157592067
 
-word count = 24
-words loading = 2
-factor score = -2
+word count = 26
+words loading = 1
+factor score = -1
 
-Minha prima **posto** uma **foto** com a camiseta do bolsonaro 
-woman_facepalming_light_skin_tone_e meu Deus, ainda bem q ela tem 15 anos e 
-não vota hahahaha 
+@DanielN46244668 @erickfmoraes @AndreiNevesSil1 @jairbolsonaro @dimas_miranda 
+EU sou de extrema direita. E muito conservador! ! ! Então apoio quem seja da 
+mesma forma. E simbora que Outubro jaja **chega** . 
 
 Lemmas in this text that loaded on the factor:
 
-foto
-postar
+chegar

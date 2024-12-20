@@ -1,19 +1,20 @@
-file = t002558
-date = 2018-12-30
-user = MariadeFtimaCg2
-conversation = 1049255223582232577
-URL = https://twitter.com/MariadeFtimaCg2/status/1079477259868798976
+file = t003773
+date = 2019-05-30
+user = psol50
+conversation = 1202130601
+URL = https://twitter.com/psol50/status/1134088457092050944
 
-word count = 22
-words loading = 3
-factor score = -3
+word count = 51
+words loading = 2
+factor score = -2
 
-RT @UbiratanAyres: Bolsonaro propôs a " PEC da **liberdade** " ( diminuirá os 
-investimentos públicos em **saúde** e **educação** e reduzirá o valor do 
-salá … 
+**Tio** de Michelle Bolsonaro é **miliciano** mas não tem nada a ver com o 
+vizinho de Jair que também é **miliciano** nem com o ex-funcionário do 
+Flávio parente de **miliciano** nem com o Queiroz ligado a **milicianos** e 
+nem tem relação com as homenagens a **milicianos** feitas pela família. Tá 
+ok? 
 
 Lemmas in this text that loaded on the factor:
 
-educação
-liberdade
-saúde
+miliciano
+tio

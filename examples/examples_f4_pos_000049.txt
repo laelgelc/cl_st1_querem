@@ -1,20 +1,23 @@
-file = t015331
-date = 2022-04-29
-user = Anna_E23
-conversation = 1429130743125618689
-URL = https://twitter.com/Anna_E23/status/1520166487478128640
+file = t017053
+date = 2022-08-30
+user = sulvinteum
+conversation = 140810916
+URL = https://twitter.com/sulvinteum/status/1564748198102573060
 
-word count = 38
-words loading = 3
-factor score = 3
+word count = 31
+words loading = 6
+factor score = 6
 
-ENQUETE – OS PINGOS NOS IS–Você **participará** das manifestações de 
-1º de Maio pela liberdade? Avenida Paulista receberá apoiadores de Bolsonaro 
-para **ato** em favor da liberdade de **expressão** e em apoio ao indulto 
-concedido ao deputado Daniel Silveira. Vamos! flag_brazil_e 
+**Metade** dos **imóveis** da **família** Bolsonaro teriam sido **comprados** 
+com **dinheiro** **vivo** . Senado debate projeto que proíbe uso de 
+**dinheiro** em espécie em negócios imobiliários para evitar lavagem de 
+**dinheiro** . 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-expressão
-participar
+comprar
+dinheiro
+família
+imóvel
+metade
+vivo

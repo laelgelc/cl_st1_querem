@@ -1,22 +1,22 @@
-file = t008891
-date = 2020-10-30
-user = joao_jb22
-conversation = 71161870
-URL = https://twitter.com/joao_jb22/status/1322276345615929345
+file = t017426
+date = 2022-08-30
+user = ArleteBoas
+conversation = 1101889788456644611
+URL = https://twitter.com/ArleteBoas/status/1564755221150154754
 
-word count = 46
-words loading = 4
-factor score = 4
+word count = 19
+words loading = 6
+factor score = 6
 
-@allanldsantos Trump não fará nada? As forças **armadas** americanas não 
-farão uma **intervenção** **militar** ? Vão chamar Trump de frouxo ou 
-covarde? Se fosse no Brasil, você estaria falando tudo contra o presidente 
-Bolsonaro! Ainda há quem acredite que são apoiadores e não **oposição** ! 
-Carluxo knows! 
+RT @RomuloBDias: Lula: visitou 1 triplex. Bolsonaro e **família** : 
+**compraram** 51 **imóveis** com **dinheiro** **vivo** ( R$ 26 **milhões** ) 
+. 
 
 Lemmas in this text that loaded on the factor:
 
-armado
-intervenção
-militar
-oposição
+comprar
+dinheiro
+família
+imóvel
+milhão
+vivo

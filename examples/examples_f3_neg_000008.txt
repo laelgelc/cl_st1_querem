@@ -1,22 +1,19 @@
-file = t006240
-date = 2020-02-28
-user = Larissafgaspar
-conversation = 132480664
-URL = https://twitter.com/Larissafgaspar/status/1233507727953080323
+file = t005120
+date = 2019-10-30
+user = Alcyranha
+conversation = 1605191010
+URL = https://twitter.com/Alcyranha/status/1189558606225694720
 
-word count = 42
-words loading = 5
-factor score = -4
+word count = 32
+words loading = 3
+factor score = -3
 
-NOS ENCONTRAREMOS NAS RUAS! ! megaphone_e **Ditadura** nunca mais! Confira as 
-datas das manifestações contra o ataque de Bolsonaro à **democracia** , onde 
-o autoritarismo não terá vez. A luta em prol dos **direitos** e da 
-**liberdade** será mais **forte** do que nunca. HASHTAG #forabolsonaro_h 
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK mano o Bolsonaro falando " a vó da minha 
+**esposa** q foi presa por **tráfico** . A **mãe** da minha **esposa** q foi 
+por falsidade ideológica " Mds q família é essa? Kkkkkkkkkkk 
 
 Lemmas in this text that loaded on the factor:
 
-democracia (secondary)
-direito
-ditadura
-forte
-liberdade
+esposo
+mãe
+tráfico

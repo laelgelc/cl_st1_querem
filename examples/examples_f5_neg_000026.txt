@@ -1,19 +1,20 @@
-file = t002393
-date = 2018-12-30
-user = celsoreginato
-conversation = 2321207010
-URL = https://twitter.com/celsoreginato/status/1079477267653378053
+file = t007506
+date = 2020-06-29
+user = millylacombe
+conversation = 28807930
+URL = https://twitter.com/millylacombe/status/1277724912111812608
 
-word count = 42
-words loading = 2
+word count = 39
+words loading = 3
 factor score = -2
 
-@FlavioXSid Luciano Hang, me permita, devemos esquecer esse entulho petista, 
-que sobrou desse partido **corrupto** e incompetente. Quanto menos falarmos de 
-Lula, Dilma e PT melhor. De agora para frente é Bolsonaro, Brasil e 
-crescimento econômico e cultural do nossa **pátria** . 
+Existe uma nomenclatura para ministros, secretários, oficiais e apoiadores de 
+Hitler que não necessariamente odiavam **judeus** , **gays** , ciganos e 
+comunistas mas que ainda assim aceitaram fazer parte do governo. Todos estão 
+registrados nos livros de história como **nazistas** 
 
 Lemmas in this text that loaded on the factor:
 
-corrupto
-pátria
+gay
+judeu (secondary)
+nazista

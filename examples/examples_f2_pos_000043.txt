@@ -1,22 +1,22 @@
-file = t012822
-date = 2021-09-29
-user = IsmaelToledo04
-conversation = 3419434029
-URL = https://twitter.com/IsmaelToledo04/status/1443324105818845187
+file = t009685
+date = 2020-12-30
+user = Macau52549795
+conversation = 1249770884509978624
+URL = https://twitter.com/Macau52549795/status/1344075617386573829
 
-word count = 39
+word count = 43
 words loading = 5
 factor score = 4
 
-**Preço** vai cair pela **metade** , se Deus quiser, diz Bolsonaro sobre 
-**gás** de cozinha, mais detalhes: Presidente atribui a alta do utensílio aos 
-governadores, que, segundo ele, não querem **reduzir** o ICMS ( **imposto** 
-estadual ) Mariana Costa Flávia Said. 
+@CarlaZambelli38 O povo está sendo torturado por este governo desastroso e 
+infame. Fome Desemprego Zero **aumento** do **salário** **mínimo** 
+Cancelamento do aux. **emergencial** Filho ladrão Alta do dólar Alta da 
+**inflação** Falta de vacina Isto é tortura real que sentirmos na pele. 
 
 Lemmas in this text that loaded on the factor:
 
-gás
-imposto
-metade
-preço
-reduzir (secondary)
+aumento
+emergencial
+inflação (secondary)
+pequeno
+salário

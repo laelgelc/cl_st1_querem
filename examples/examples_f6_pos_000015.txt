@@ -1,22 +1,22 @@
-file = t019914
-date = 2023-02-27
-user = GugaNoblat
-conversation = 69069168
-URL = https://twitter.com/GugaNoblat/status/1630049983381618688
+file = t002498
+date = 2018-12-29
+user = SaraLaurian
+conversation = 889639703934369794
+URL = https://twitter.com/SaraLaurian/status/1079128673457004544
 
-word count = 49
-words loading = 4
-factor score = 3
+word count = 50
+words loading = 5
+factor score = 5
 
-@BolsonaroSP Poxa, tô te ajudando a vender calendário na internet e vc 
-retribui com uma calúnia dessas? Que coisa feia, Dudu! Super admiro politicos 
-preocupados com **corrupção** , tem um caso de uma família que **comprou** 
-51 **imóveis** com dinheiro **vivo** , vai atrás deles. O Brasil conta com 
-vc. 
+Não estou cabendo em mim, primeiro pela **posse** de Bolsonaro e sua equipe 
+Maiúscula. Segundo pq o Presida vai **liberar** o **porte** de **armas** p 
+pessoas sem ficha criminal. Daí que a bandidagem, vai pensar 2 vezes antes de 
+vir roubar **cidadão** de bem. Minha. 40 me aguarde, menina! grinning_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-imóvel
-vivo (secondary)
+arma
+cidadão
+liberar
+porte
+posse

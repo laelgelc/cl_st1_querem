@@ -1,19 +1,18 @@
-file = t005368
-date = 2019-12-30
-user = diariodpolitica
-conversation = 769751358681604097
-URL = https://twitter.com/diariodpolitica/status/1211789321826635778
+file = t001573
+date = 2018-09-29
+user = FLAnaticoRubro
+conversation = 598821291
+URL = https://twitter.com/FLAnaticoRubro/status/1046183471029407749
 
-word count = 30
-words loading = 3
-factor score = -3
+word count = 25
+words loading = 2
+factor score = -2
 
-@OlavoOpressor Um dos mais fiéis aliados de Bolsonaro, o Príncipe herdeiro da 
-Família Real **chamou** atenção para o fato do centrão ser o grupo 
-**político** que engana mais **pessoas** . 
+RT @FabioVi22722029 : Filhos do **ódio** , da injustiça e do facismo, 
+bolsonaro " não " todo homem que **usa** a palavra de Deus para esconder a vdd 
+so … 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-pessoa
-político
+usar
+ódio

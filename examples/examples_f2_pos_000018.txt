@@ -1,21 +1,22 @@
-file = t006480
+file = t006509
 date = 2020-03-30
-user = guimaraes13PT
-conversation = 49696756
-URL = https://twitter.com/guimaraes13PT/status/1244739226014490624
+user = MiguelSRossetto
+conversation = 714958583239151616
+URL = https://twitter.com/MiguelSRossetto/status/1244763471444672514
 
-word count = 33
+word count = 43
 words loading = 5
 factor score = 5
 
-A **renda** **básica** **emergencial** precisa chegar aos mais **pobres** o 
-quanto antes! Bolsonaro queria apenas R$ 200 , mas vai ter que **pagar** até 
-R$ 1 . 200 para as famílias. Vamos pressionar! HASHTAG #pagalogobolsonaro_h 
+Agora é lei e Bolsonaro tem que **pagar** já ! Famílias mais **pobres** 
+precisam começar a **receber** os valores ainda essa semana. Prefeituras devem 
+atualizar o cadastro do Bolsa Família, dos micro e **pequenos** empreendedores 
+individuais e de todos os **programas** sociais. HASHTAG #pagalogobolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-básico
-emergencial
 pagar
+pequeno
 pobre
-renda
+programa
+receber

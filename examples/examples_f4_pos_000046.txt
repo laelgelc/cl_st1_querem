@@ -1,18 +1,22 @@
-file = t016261
-date = 2022-07-30
-user = OliverStuenkel
-conversation = 18048681
-URL = https://twitter.com/OliverStuenkel/status/1553487578069860353
+file = t017134
+date = 2022-08-30
+user = atinytter
+conversation = 1319643451361796097
+URL = https://twitter.com/atinytter/status/1564761154441863168
 
 word count = 21
-words loading = 3
-factor score = 3
+words loading = 6
+factor score = 6
 
-Bolsonaro afirma que as Forças Armadas vão **participar** " ao lado " de seus 
-apoiadores dos **atos** governistas de 7 de **Setembro** 
+RT @LulaReport: police_car_light_e BOMBA: **Família** Bolsonaro tem 51 
+**imóveis** **comprados** em **DINHEIRO** **VIVO** , totalizando 25 
+**MILHÕES** de reais. **Comprar** dezenas de im … 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-participar
-setembro
+comprar
+dinheiro
+família
+imóvel
+milhão
+vivo

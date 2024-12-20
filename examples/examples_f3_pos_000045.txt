@@ -1,19 +1,25 @@
-file = t005154
-date = 2019-11-29
-user = FernandoDSantos
-conversation = 33299033
-URL = https://twitter.com/FernandoDSantos/status/1200564651681046528
+file = t011466
+date = 2021-05-30
+user = everaldoortega
+conversation = 396783378
+URL = https://twitter.com/everaldoortega/status/1398801570553270277
 
-word count = 21
-words loading = 3
-factor score = 2
+word count = 44
+words loading = 4
+factor score = 4
 
-RT @zeca_dirceu: Diga **adeus** às **compras** parceladas no **cartão** de 
-crédito sem juros! Governo Bolsonaro quer acabar com este tipo de operação 
-… 
+Rumo aos 8k. Sou de **direita** , 100 % Bolsonaro, sou **cristão** , apóio a 
+familia, o voto auditável e contra a tirania do STF. Se você está nessa 
+**guerra** , me segue que te sigo. Vamos fortalecer a TODOS os perfis de 
+**direita** antes das **eleições** . flag_brazil_e flag_brazil_e 
+flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e 
+flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e 
+flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e 
+flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e 
 
 Lemmas in this text that loaded on the factor:
 
-adeus
-cartão
-compra (secondary)
+cristão
+direita
+eleição
+guerra

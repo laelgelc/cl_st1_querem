@@ -1,21 +1,23 @@
-file = t010595
-date = 2021-03-30
-user = KatiaAbreu
-conversation = 31116114
-URL = https://twitter.com/KatiaAbreu/status/1376987636347367435
+file = t016829
+date = 2022-08-30
+user = AidarMarina
+conversation = 1265651569434992642
+URL = https://twitter.com/AidarMarina/status/1564764556248883200
 
-word count = 43
-words loading = 4
-factor score = 4
+word count = 21
+words loading = 7
+factor score = 7
 
-Seria prudente que o ministro da **defesa** Neto se pronunciasse p / 
-tranquilizar a nação qdo a impossibilidade de **intervenção** **militar** . 
-Tenho convicção da forte **democracia** que construímos. As Forças Armadas 
-fazem parte do Estado brasileiro e tem a confiança de todos nós. 
+RT @PedroRonchi2 : A **metade** do **imóveis** milionários da **família** 
+bolsonaro foram **comprados** com **dinheiro** **vivo** . Ah, quem nunca 
+guardou **milhões** de … 
 
 Lemmas in this text that loaded on the factor:
 
-defesa
-democracia
-intervenção
-militar
+comprar
+dinheiro
+família
+imóvel
+metade
+milhão
+vivo

@@ -1,25 +1,26 @@
-file = t010197
-date = 2021-02-27
-user = SueliSo60720860
-conversation = 1356778694363258880
-URL = https://twitter.com/SueliSo60720860/status/1365745194361118720
+file = t015760
+date = 2022-05-30
+user = ReginaldoM18O
+conversation = 1521639298092748803
+URL = https://twitter.com/ReginaldoM18O/status/1531087605722406912
 
-word count = 15
-words loading = 7
-factor score = 7
+word count = 36
+words loading = 8
+factor score = 8
 
-@jairbolsonaro @mctic @Astro_Pontes **Parabéns** Nosso amado Presidente Jair 
-Messias Bolsonaro. Deus **abençoe** e **proteja** sempre **folded_hands_e** 
-**folded_hands_e** **folded_hands_e** **red_heart_e** **red_heart_e** 
-**red_heart_e** **clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
-**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+@jairbolsonaro **Boa** **noite** **Presidente** e semana abençoada. Acabamos 
+de rezar o terço e como sempre fazemos, colocamos o Senhor, sua família e o 
+Brasil nas intenções. Deus **abençoe** e **ilumine** sempre todas suas 
+decisões. Abraço **folded_hands_e** **raising_hands_e** **flag_brazil_e** 
+handshake_e 
 
 Lemmas in this text that loaded on the factor:
 
 abençoar
-clapping_hands_e
+bom
 flag_brazil_e
 folded_hands_e
-parabéns
-proteger
-red_heart_e
+iluminar
+noite
+presidente
+raising_hands_e

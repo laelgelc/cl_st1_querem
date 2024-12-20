@@ -1,18 +1,22 @@
-file = t001979
-date = 2018-10-30
-user = RogerioPSousa
-conversation = 785882894
-URL = https://twitter.com/RogerioPSousa/status/1057410538731397120
+file = t000982
+date = 2018-06-29
+user = JoaoHNeuhaus
+conversation = 1965751644
+URL = https://twitter.com/JoaoHNeuhaus/status/1002638961892823040
 
-word count = 15
-words loading = 3
-factor score = -3
+word count = 53
+words loading = 4
+factor score = -2
 
-Peraí " A Educação na gestão Bolsonaro " ? ? ! O **CARA** NÃO ASSUMIU! ! ! 
-! ! Pelo **amor** de **Deus** 
+@palestra77 @SetteGilberto @Marcio_XMP @exercitooficial Sempre com essa 
+história. . . ninguém quer essa bola, pq acha q as **forças** **armadas** 
+vão querer? Amigo esquece isso e vai militar por algo mais importante como 
+pressionar a bandidágem do STF. Os militares já falaram, NÃO VAI haver 
+**intervenção** a não ser que haja um **golpe** muito grande. . . 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-deus
+armado
+força (secondary)
+golpe (secondary)
+intervenção

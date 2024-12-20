@@ -1,20 +1,21 @@
-file = t001449
-date = 2018-08-30
-user = MaahPujol
-conversation = 2302241966
-URL = https://twitter.com/MaahPujol/status/1034781662910066688
+file = t018429
+date = 2022-11-29
+user = FabianaLuiz18
+conversation = 1590805834740670474
+URL = https://twitter.com/FabianaLuiz18/status/1597400932362297344
 
-word count = 36
+word count = 48
 words loading = 3
 factor score = -3
 
-@JP50009288 @oicarofonseca Preconceito disfarçado de opinião ainda é 
-preconceito. Não diz respeito a respeitar opiniões, mas sim à questões 
-morais. Pelo **amor** de **deus** , vc já ouviu as **merdas** q bolsonaro 
-fala? Tá ouvindo direito? 
+@21_Raposa @Anderso46280651 Lógico! ! Eles jamais irão mostrar o povo pedindo 
+a **intervenção** , eles precisam mascarar tudo para que a **esquerda** não 
+saia do poder! ! Mas, a **voz** do povo é a **voz** de Deus 
+folded_hands_light_skin_tone_e esta movimentado não irá parar até que o 
+Presidente Bolsonaro peça **intervenção** as FFAA. 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-deus
-merda
+esquerda
+intervenção
+voz

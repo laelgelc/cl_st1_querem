@@ -1,19 +1,16 @@
-file = t001169
-date = 2018-07-13
-user = jojopancada
-conversation = 835964602718486529
-URL = https://twitter.com/jojopancada/status/1017904804465692673
+file = t001092
+date = 2018-07-28
+user = FlavioBolsonaro
+conversation = 40053694
+URL = https://twitter.com/FlavioBolsonaro/status/1023314120119148548
 
-word count = 45
-words loading = 2
-factor score = -2
+word count = 17
+words loading = 1
+factor score = -1
 
-Jair Bolsonaro fraquejou e fez uma **filha** Flávio Bolsonaro fraquejou e 
-desmaiou no debate Carlos Bolsonaro fraquejou e faltou na votação do 
-**impeachment** do Crivella Eduardo Bolsonaro fraquejou e curtiu uma foto do 
-Lula na praia, sem camisa Fraquejar está no DNA da família 
+O Brasil que eu quero é com segurança, **combate** à corrupção e respeito 
+à família! HASHTAG #brasilcombolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-filha
-impeachment
+combate

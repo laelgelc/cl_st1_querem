@@ -1,21 +1,19 @@
-file = t009112
-date = 2020-11-29
-user = 3_conta_reserva
-conversation = 1322696228879110144
-URL = https://twitter.com/3_conta_reserva/status/1333026504121397250
+file = t003942
+date = 2019-05-30
+user = ninguem_anyone
+conversation = 2700299806
+URL = https://twitter.com/ninguem_anyone/status/1134067162673504260
 
-word count = 36
-words loading = 2
-factor score = -2
+word count = 42
+words loading = 1
+factor score = -1
 
-@jairbolsonaro @inep_oficial HASHTAG #eleicoes2020_h HASHTAG 
-#direitaquerflavionacadeia_h FAMÍLIA HASHTAG #bolsonaro_h. 30 ANOS de HASHTAG 
-#rachadinha_h. A PERGUNTA QUE NÃO QUER CALAR: Presidente @jairbolsonaro, por 
-que sua **esposa** , Michelle, **recebeu** R$ 89 mil de Fabrício Queiroz 
-red_question_mark_e NA FAMÍLIA HASHTAG #bolsonaro_h TODOS FAZEM HASHTAG 
-#rachadinha_h 
+@jairbolsonaro @DaniloGentili A zueira não conhecerá limites, nessa 
+entrevista. Jair Bolsonaro, o político conservador e cristão, e militar, mais 
+politicamente o correto que o Brasil já viu! Audiência recorde ora combinar 
+com o engajamento **recorde** nas redes sociais! Brasil! @DaniloGentili 
+@jairbolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-receber
+recorde

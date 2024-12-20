@@ -1,19 +1,20 @@
-file = t016988
-date = 2022-08-30
-user = Socorrofpb
-conversation = 2730557166
-URL = https://twitter.com/Socorrofpb/status/1564755293870981121
+file = t005440
+date = 2019-12-30
+user = sandro_vanessa
+conversation = 1579008469
+URL = https://twitter.com/sandro_vanessa/status/1211786640672342017
 
-word count = 25
-words loading = 3
-factor score = 3
+word count = 18
+words loading = 4
+factor score = 4
 
-@ManuelaDavila Só a família bolsonaro **compra** 51 **imóveis** com Dinheiro 
-Vivo. Se isso não é **corrupção** eu não sei mais o que é HASHTAG 
-#lulapresidente13_h 
+RT @RizethJ: Nada de faroeste? HASHTAG #vempracabrasil_h flag_brazil_e Mais uma 
+decepção. winking_face_e HASHTAG #2020juntoscombolsonaro_h " **Registros** de 
+**armas** de **fogo** **aumentaram** 48 % ; … 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-corrupção
-imóvel
+arma
+aumentar
+fogo
+registro

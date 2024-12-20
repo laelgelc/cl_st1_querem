@@ -1,21 +1,19 @@
-file = t002508
-date = 2018-12-30
-user = westonravenel
-conversation = 1591487269
-URL = https://twitter.com/westonravenel/status/1079486959565918210
+file = t007099
+date = 2020-05-30
+user = arfatop
+conversation = 290641703
+URL = https://twitter.com/arfatop/status/1266860324248002562
 
 word count = 45
-words loading = 4
-factor score = -3
+words loading = 2
+factor score = -2
 
-a gente **tava** no clube hj né **ai** pedimos pra um cara tirar uma **foto** 
-nossa, na hora da **foto** meu cunhado **gritou** BOLSONARO, a família q 
-**tava** do lado olhou com uma cara pra nós, a vontade de sumir foi imensa que 
-vergonha 
+AMANHÃ PRAÇA DOS 3 PODERES:Vamos lutar, **CHEGA** ! HASHTAG #somos57milhoes_h 
+D BRASILEIROS ESCOLHERAM PARA PRESENTE DO BRASIL JAIR MESSIAS BOLSONARO? " . . 
+. Brava gente brasileira! Longe vá temor servil Ou ficar a **Pátria** livre 
+Ou morrer pelo Brasil Ou ficar a **Pátria** livre Ou morrer pelo Brasil 
 
 Lemmas in this text that loaded on the factor:
 
-ai (secondary)
-foto
-gritar
-tava
+chegar
+pátria

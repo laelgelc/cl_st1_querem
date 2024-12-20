@@ -1,21 +1,21 @@
-file = t002454
-date = 2018-12-30
-user = TitoGremistazo
-conversation = 2850568264
-URL = https://twitter.com/TitoGremistazo/status/1079497694115254272
+file = t018879
+date = 2022-12-30
+user = JaMFB2
+conversation = 712071370507735041
+URL = https://twitter.com/JaMFB2/status/1608881793217986561
 
-word count = 17
-words loading = 5
-factor score = 5
+word count = 56
+words loading = 4
+factor score = 4
 
-RT @OSul_noticias: O **registro** de **armas** subiu 280 % ; HASHTAG 
-#bolsonaro_h prometeu **decreto** para **facilitar** a **posse** HASHTAG 
-#armamento_h HASHTAG #p_h … 
+@RonnyCombate Espero que aprendam a ter mais amor a vida das pessoas em vez de 
+desejar a morte. Afinal todos vimos que Bolsonaro falava em armas para todo 
+tempo. Por fim **tentou** da o **golpe** **militar** no país Para ficar no 
+poder e assim não pagar pelos seus **crimes** contra o país e o povo. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-facilitar
-posse
-registro
+crime
+golpe
+militar
+tentar

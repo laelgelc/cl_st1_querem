@@ -1,21 +1,20 @@
-file = t011163
-date = 2021-04-29
-user = minserkill
-conversation = 3044615261
-URL = https://twitter.com/minserkill/status/1387570767810936832
+file = t010540
+date = 2021-03-30
+user = Pablogapaisa
+conversation = 1240646162740322312
+URL = https://twitter.com/Pablogapaisa/status/1376929890885369862
 
-word count = 54
-words loading = 3
-factor score = -3
+word count = 24
+words loading = 4
+factor score = -2
 
-@SSilva13as @blueameyre mas vc prova q ele chegou a **roubar** ? ? ? ? esse 
-papo de **ladrão** é **ladrão** não cola meu **amor** , lula fez mais por 
-esse país do q esse atual, investiu em educação, investiu no sus, investiu 
-nas faculdades federais e em fundos para mandar estudantes para outro país, 
-tinham 12 candidatos amg 
+**Comandantes** das três **forças** **armadas** são desligados dos 
+**cargos** e surpreendem ao povo Brasileiro que nem sabia que as **forças** 
+**armadas** tinham **comandantes** . . . 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-ladrão
-roubar
+armado
+cargo (secondary)
+comandante
+força (secondary)

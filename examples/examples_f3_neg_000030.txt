@@ -1,21 +1,17 @@
-file = t001746
-date = 2018-10-30
-user = GuilhermeBoulos
-conversation = 762402774260875265
-URL = https://twitter.com/GuilhermeBoulos/status/1057346626333933571
+file = t002910
+date = 2019-01-30
+user = sergiusdourado
+conversation = 53799378
+URL = https://twitter.com/sergiusdourado/status/1090711456092471300
 
-word count = 42
-words loading = 3
-factor score = -3
+word count = 13
+words loading = 2
+factor score = -2
 
-Bolsonaro foi **eleito** presidente. Mas não imperador. Não pode passar por 
-cima dos valores democráticos, da **liberdade** de manifestação e 
-expressão. Precisa respeitar a oposição e os movimentos sociais. Por isso 
-estaremos nas ruas, pelas **liberdades** democráticas e por nossos 
-**direitos** . 
+RT @UOL: **Hospital** das Forças Armadas vai pagar operação de Bolsonaro, 
+diz porta-voz 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-eleger
-liberdade
+hospital
+porta

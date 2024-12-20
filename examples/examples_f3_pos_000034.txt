@@ -1,19 +1,22 @@
-file = t012597
-date = 2021-09-29
-user = robertantonny
-conversation = 1154631666968739841
-URL = https://twitter.com/robertantonny/status/1443332268064391171
+file = t015596
+date = 2022-05-30
+user = sasori0330
+conversation = 1504184416255500290
+URL = https://twitter.com/sasori0330/status/1531399787223842819
 
-word count = 45
-words loading = 2
-factor score = 2
+word count = 55
+words loading = 4
+factor score = 4
 
-@folha Enquanto o povo disputa ossos. VIDA BOA pra Bolsonaro. **Gastos** com 
-**cartão** corporativo já chegam a R$ 50 milhões em seu governo Modalidade 
-de pagamento foi usada principalmente para custear as viagens do presidente, de 
-sua família e dos segurança, e pro LUXO 
+@sansastak @Rconstantino Cada vez mais vcs perdem a moral d chamar lula d 
+ladrão. Cade vez mais essa **pauta** se descola do bolsonarismo. Cara, n 
+duvido o lula se **eleger** no **primeiro** **turno** , bolsonaro ta colocando 
+ele lá , por causa da ganância dos bolsonaristas onde olham pra bolsonaro e 
+vê um bezerro de ouro 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-gasto
+eleger
+pauta
+primeiro
+turno

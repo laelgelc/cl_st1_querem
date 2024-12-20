@@ -1,22 +1,19 @@
-file = t006027
-date = 2020-02-28
-user = padilhando
-conversation = 58065771
-URL = https://twitter.com/padilhando/status/1233433958211366912
+file = t004642
+date = 2019-09-29
+user = ChicoPinto8
+conversation = 1138965305760374784
+URL = https://twitter.com/ChicoPinto8/status/1178333409917190150
 
-word count = 43
-words loading = 5
-factor score = -4
+word count = 38
+words loading = 3
+factor score = -3
 
-megaphone_e **Ditadura** nunca mais! Confira as datas das manifestações 
-contra o ataque de Bolsonaro à **democracia** , onde o autoritarismo não 
-terá vez. A luta em prol dos **direitos** e da **liberdade** será mais 
-**forte** do que nunca. link_e Orientação do PT sobre os atos: 
+Locação de **carro** **blindado** em NY para Bolsonaro não tem seu valor 
+divulgado. Mordomia não tem limites. A família **miliciana** se comporta como 
+macacos que nunca viram melaço, cai de cara no tacho e se lambuza toda. 
 
 Lemmas in this text that loaded on the factor:
 
-democracia (secondary)
-direito
-ditadura
-forte
-liberdade
+blindar
+carro
+miliciano

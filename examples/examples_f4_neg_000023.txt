@@ -1,20 +1,23 @@
-file = t006166
+file = t006010
 date = 2020-02-28
-user = BuzzFeedNewsBR
-conversation = 771381237436915712
-URL = https://twitter.com/BuzzFeedNewsBR/status/1233507683615023109
+user = Iracema818385
+conversation = 301819770
+URL = https://twitter.com/Iracema818385/status/1233425062159638535
 
 word count = 49
-words loading = 3
-factor score = -3
+words loading = 5
+factor score = -2
 
-Eles falaram que Hitler devia ter **matado** mais judeus. Meu quipá **caiu** 
-no chão. Um deles pegou o quipá e o outro o cortou com um canivete. Ele disse 
-que a próxima vez que me encontrassem seria pior. Eu fiquei no chão, 
-sangrando. Nada foi **roubado** da vítima. 
+@sil_alle @rochlilia @Sanges_gsgp @BolsonaroSP @monicabergamo Insensatez pura. 
+Quem tem **apoio** das **forças** armadas não precisa de miliciano. Estes 
+foram incentivados pela **esquerda** que necessita deles para prática de seus 
+**atos** ilícitos. Freixo do PSOL é o **comandante** deles no RJ, segundo 
+Cidinha Campos, que o acusou e ele não negou. 
 
 Lemmas in this text that loaded on the factor:
 
-cair
-matar
-roubar
+apoio (secondary)
+ato (secondary)
+comandante
+esquerda
+força (secondary)

@@ -1,22 +1,27 @@
-file = t019719
-date = 2023-02-27
-user = AnaCampello1
-conversation = 491306528
-URL = https://twitter.com/AnaCampello1/status/1630339741978697729
+file = t018398
+date = 2022-11-29
+user = Birabo13
+conversation = 105497024
+URL = https://twitter.com/Birabo13/status/1597737812375523328
 
-word count = 15
-words loading = 5
-factor score = 5
+word count = 42
+words loading = 6
+factor score = 6
 
-Meu presidente. Deus conforte seu coração. És o melhor dos presidentes que 
-já tivemos. **green_heart_e** **yellow_heart_e** **flag_brazil_e** 
-**smiling_face_with_sunglasses_e** thumbs_up_e **clapping_hands_e** 
-**clapping_hands_e** **clapping_hands_e** 
+Um **bom** repouso físico pra todos nos de coração sempre e um alvorecer 
+**iluminado** . Não desista do BRASIL, com Fé e Esperança Deus 
+**abençoará** os Brasileiros honestos de bem e caráter. Abrçs Ubiratã 
+BRASIL CORAÇÃO DO MUNDO PÁTRIA DO EVANGELHO! ! ! **flag_brazil_e** 
+**yellow_heart_e** **green_heart_e** **flag_brazil_e** **yellow_heart_e** 
+**green_heart_e** **flag_brazil_e** **yellow_heart_e** **green_heart_e** 
+**flag_brazil_e** **yellow_heart_e** **green_heart_e** **flag_brazil_e** 
+HASHTAG #bolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-clapping_hands_e
+abençoar
+bom
 flag_brazil_e
 green_heart_e
-smiling_face_with_sunglasses_e
+iluminar
 yellow_heart_e

@@ -1,20 +1,20 @@
-file = t001412
-date = 2018-08-30
-user = phenosbr
-conversation = 1881418465
-URL = https://twitter.com/phenosbr/status/1035254551383891969
+file = t001700
+date = 2018-09-29
+user = CoradoCamara
+conversation = 1223226776
+URL = https://twitter.com/CoradoCamara/status/1046007593557270528
 
-word count = 27
-words loading = 3
-factor score = -3
+word count = 46
+words loading = 2
+factor score = -2
 
-@batimentoshawn É só não comprar, mas querer **tirar** meu **direito** de 
-**escolher** se quero uma arma ou não isso você não pode. HASHTAG 
-#vemprogab_h HASHTAG #bolsonaro_h HASHTAG #movimentoopressãototal_h HASHTAG 
-#mulherinteligentevotabolsonaro17_h 
+@92Lucasdoido Reitero. Ladrão, traficante, **miliciano** e td tipo de 
+criminoso da sociedade, principalmente carioca, vota em Jair Bolsonaro, pois 
+ele é corrupto da vez. . . Respeito e **mãe** digna é vc, @92lucasdoido, q 
+parece não ter! Se quiser resolver como homem qualquer questão estou ás 
+ordens. 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-escolher
-tirar
+miliciano
+mãe

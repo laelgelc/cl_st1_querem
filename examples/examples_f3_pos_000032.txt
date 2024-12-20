@@ -1,19 +1,22 @@
-file = t013735
-date = 2021-12-30
-user = fabiolucasb
-conversation = 36625474
-URL = https://twitter.com/fabiolucasb/status/1476482747090804739
+file = t016223
+date = 2022-07-30
+user = santosthiagobr
+conversation = 1533874227220291586
+URL = https://twitter.com/santosthiagobr/status/1553416918148734976
 
-word count = 45
-words loading = 2
-factor score = 2
+word count = 43
+words loading = 4
+factor score = 4
 
-@fabio291178 @Antonio33662865 @cirogomes Todos os candidatos vão usar, sem 
-EXCEÇÃO. Logo, a família Bolsonaro também vai usar. Se vetaram, poderiam 
-abrir mão desse recurso em campanha para ser coerente, não acha? Mas esperar 
-o que de quem se afunda em **gastos** no **cartão** corporativo? 
+@LulaOficial essas **eleições** representam a garantia de todas 
+**liberdades** o **conservadorismo** por parte de bolsonaro e o comunismo 
+**socialista** ditatorialista, autoritário, repressor e corrupto do lula o 
+povo brasileiro não quer de novo ver o seu dinheiro sendo investido em 
+governos ditatorialistas. 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-gasto
+conservadorismo
+eleição
+liberdade
+socialista

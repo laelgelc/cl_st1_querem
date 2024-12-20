@@ -1,23 +1,22 @@
-file = t010360
-date = 2021-03-30
-user = bolivarescobar
-conversation = 38154205
-URL = https://twitter.com/bolivarescobar/status/1377012606167318533
+file = t017537
+date = 2022-08-30
+user = thicico
+conversation = 1534367888504758272
+URL = https://twitter.com/thicico/status/1564638385624473608
 
-word count = 45
+word count = 29
 words loading = 6
-factor score = 4
+factor score = 6
 
-Não caiu a ficha ainda que o Bolsonaro pediu **golpe** , os **comandantes** 
-das forças **armadas** foram **demitidos** por não acatarem e esse FILHO DA 
-PUTA continua na presidência Pode tirar o **impeachment** da 
-**constituição** , se não rolou ainda então não serve pra nada mesmo 
+A **família** Bolsonaro é conservadora e guarda **dinheiro** no colchão. O 
+colchão deles deve bem grande por que guardaram 26 **milhões** para 
+**comprar** os **imóveis** em **dinheiro** **vivo** . 
 
 Lemmas in this text that loaded on the factor:
 
-armado
-comandante
-constituição
-demitir
-golpe
-impeachment (secondary)
+comprar
+dinheiro
+família
+imóvel
+milhão
+vivo

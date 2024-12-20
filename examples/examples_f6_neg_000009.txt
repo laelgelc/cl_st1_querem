@@ -1,20 +1,19 @@
-file = t005639
-date = 2019-12-30
-user = de_ouvir
-conversation = 1100581470144475136
-URL = https://twitter.com/de_ouvir/status/1211500824725262337
+file = t007943
+date = 2020-08-30
+user = omatheusramalho
+conversation = 1088875193609662465
+URL = https://twitter.com/omatheusramalho/status/1300219334036459521
 
-word count = 32
+word count = 34
 words loading = 3
-factor score = -3
+factor score = -2
 
-@77drodriguez77 @NihilistRT @l_lb25 @gustavofoia @opropriolavo Collor se vendeu 
-igualzinho ao Bolsonaro, falso moralista, conservador e cristão. E já na 
-época falava q a **bandeira** jamais será **vermelha** . . . Tudo farinha do 
-mesmo **saco** ! 
+É **triste** ver quem se denomina cristão passando **pano** pra aliança com 
+**corrupto** do governo Bolsonaro. E ainda fazem propaganda política dentro da 
+igreja. Não os escute, isso não é cristianismo de verdade! 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-saco
-vermelho
+corrupto (secondary)
+pano
+triste

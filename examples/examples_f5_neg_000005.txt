@@ -1,19 +1,19 @@
-file = t011234
-date = 2021-04-29
-user = serafinipsol
-conversation = 168155564
-URL = https://twitter.com/serafinipsol/status/1387810515833999360
+file = t000134
+date = 2018-03-29
+user = Williamtjcombr
+conversation = 142161576
+URL = https://twitter.com/Williamtjcombr/status/979479376516599808
 
-word count = 26
+word count = 42
 words loading = 3
-factor score = -3
+factor score = -2
 
-**Chegamos** a **triste** marca de 400 mil mortos por **Covid** . São 400 mil 
-famílias chorando seus entes queridos e um único responsável pela tragédia: 
-Bolsonaro! 
+olha o merda comunista do Noblat q **postou** uma **foto** do Bolsonaro como um 
+**nazista** mas ele mesmo era chegado do maldito ditador Fidel q agora jaz nas 
+profundezas do inferno! espero q se encontrem em breve pra matar a saudade! ! 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-covid
-triste
+foto (secondary)
+nazista
+postar

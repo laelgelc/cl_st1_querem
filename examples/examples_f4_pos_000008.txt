@@ -1,22 +1,24 @@
-file = t010554
-date = 2021-03-30
-user = o_antagonista
-conversation = 2880932962
-URL = https://twitter.com/o_antagonista/status/1376952974983979010
+file = t017249
+date = 2022-08-30
+user = ErikakHilton
+conversation = 738143559920934912
+URL = https://twitter.com/ErikakHilton/status/1564619169793966080
 
-word count = 40
-words loading = 5
-factor score = 5
+word count = 39
+words loading = 7
+factor score = 7
 
-O inédito **pedido** de **demissão** conjunta do **comandantes** do 
-Exército, Marinha e Aeronáutica, inconformados com a **saída** do 
-ex-ministro da **Defesa** Fernando Azevedo e Silva por causa da clara 
-intenção de Bolsonaro de politizar as Forças Armadas, é fato gravíssimo. 
+A **família** Bolsonaro, que já foi alvo de várias investigações de 
+rachadinhas, **comprou** 51 **imóveis** com **DINHEIRO** **VIVO** ! Foram R$ 
+25 **milhões** no total que a familícia **gastou** ! E ainda querem convencer 
+que são honestos! Ah para né ! 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-defesa
-demissão
-pedido
-saída
+comprar
+dinheiro
+família
+gastar
+imóvel
+milhão
+vivo

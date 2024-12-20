@@ -1,20 +1,21 @@
-file = t019006
-date = 2022-12-30
-user = eduard_castr_
-conversation = 1580581083757907973
-URL = https://twitter.com/eduard_castr_/status/1608837619487748098
+file = t008321
+date = 2020-09-29
+user = Junior56762186
+conversation = 1274203581802045441
+URL = https://twitter.com/Junior56762186/status/1311090695038472194
 
-word count = 41
-words loading = 3
-factor score = 3
+word count = 49
+words loading = 4
+factor score = 4
 
-@Adrualdo É preciso que os verdadeiros **conservadores** assumam o 
-protagonismo da **direita** . Fiscalizar, apontar os **erros** e apresentar 
-alternativas, é essa **direita** que precisa atuar. Não apresentem soluções 
-populistas, Jair Bolsonaro foi o pior presidente que esse país já teve. 
+Vergonha pro nosso país esse Marcos Perreira também tá do lado do presidente 
+Jair Bolsonaro que **merda** de **pais** e esse com esse governo pelo **amor** 
+de **Deus** não vamos aceitar não tô cansado de ver o povo aqui passando 
+fome sem poder ajudar pelo **amor** de **Deus** 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-erro
+amor
+deus
+merda
+pai

@@ -1,19 +1,21 @@
-file = t017435
-date = 2022-08-30
-user = BordinDeia
-conversation = 1516768097977384960
-URL = https://twitter.com/BordinDeia/status/1564632131464302593
+file = t002262
+date = 2018-12-30
+user = Paulotmjt
+conversation = 768265392003297280
+URL = https://twitter.com/Paulotmjt/status/1079525090616922112
 
-word count = 26
-words loading = 3
-factor score = 3
+word count = 24
+words loading = 5
+factor score = 5
 
-@partidonovo30 @fdavilaoficial O Bolsonaro **compra** ele e a família da mão 
-**grande** mais de cem **imóveis** . A metade em dinheiro money_with_wings_e 
-money_bag_e Corruptos Mentiroso Bolsonaro na cadeia 
+RT @BlogdoNoblat: Por **decreto** , Bolsonaro garantirá a **posse** de 
+**arma** de **fogo** para o **cidadão** sem antecedentes criminais. O que 
+você acha disso? 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-grande
-imóvel
+arma
+cidadão
+decreto
+fogo
+posse

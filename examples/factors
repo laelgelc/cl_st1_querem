@@ -1,442 +1,389 @@
-f1pos red_heart_e
 f1pos folded_hands_e
-f1pos raising_hands_e
-f1pos yellow_heart_e
-f1pos smiling_face_with_sunglasses_e
 f1pos green_heart_e
+f1pos yellow_heart_e
+f1pos abençoar
+f1pos red_heart_e
+f1pos raising_hands_e
+f1pos smiling_face_with_sunglasses_e
 f1pos amém
 f1pos iluminar
-f1pos backhand_index_pointing_right_e
-f1pos abençoar
 f1pos clapping_hands_e
-f1pos flag_brazil_e
+f1pos backhand_index_pointing_right_e
 f1pos oncoming_fist_e
+f1pos flag_brazil_e
 f1pos acimar
 f1pos noite
 f1pos proteger
-f1pos light_skin_tone_e
+f1pos reeleger
 f1pos parabéns
-f1pos linha
+f1pos pra
 f1pos forte (secondary)
-f1pos esse (secondary)
-f1neg dinheiro (secondary)
-f1neg pobre (secondary)
-f1neg ai
-f1neg usar
-f1neg boca (secondary)
-f1neg mulher
-f1neg pessoa
-f1neg ditadura (secondary)
-f1neg rico (secondary)
-f1neg lei (secondary)
-f1neg social
-f1neg auxílio (secondary)
-f1neg projeto (secondary)
+f1pos escolher
+f1pos vencer (secondary)
+f1pos nordeste
+f1pos deus (secondary)
+f1pos bom
+f1pos presidente
+f1neg ato
 f1neg expressão (secondary)
-f1neg cobrar (secondary)
-f1neg roubar (secondary)
-f1neg problema
-f1neg direito (secondary)
-f1neg gritar (secondary)
-f1neg americano (secondary)
-f1neg espalhar (secondary)
-f1neg crime
-f1neg corrupção (secondary)
-f1neg miliciano (secondary)
-f1neg abrir
-f1neg news (secondary)
-f1neg político
-f1neg chamar
-f1neg deputado (secondary)
+f1neg bomba
+f1neg emergencial (secondary)
+f1neg defesa
+f1neg social (secondary)
+f1neg reportagem (secondary)
+f1neg auxílio (secondary)
+f1neg pessoa
+f1neg extremo (secondary)
+f1neg vítima
+f1neg ligar (secondary)
+f1neg dinheiro (secondary)
+f1neg nazista (secondary)
+f1neg mulher (secondary)
+f1neg usar
+f1neg pobre (secondary)
+f1neg imóvel (secondary)
+f1neg participar (secondary)
+f1neg crime (secondary)
+f1neg ódio
 f2pos renda
-f2pos emergencial
-f2pos auxílio
 f2pos básico
+f2pos auxílio
+f2pos emergencial
 f2pos programa
-f2pos benefício
 f2pos preço
+f2pos pobre
+f2pos emprego
 f2pos gás
 f2pos salário
 f2pos aumento
-f2pos pobre
-f2pos imposto
 f2pos baixo
-f2pos rico
 f2pos pequeno
 f2pos aprovar
-f2pos emprego
-f2pos pobreza
+f2pos educação
 f2pos pagar
-f2pos reduzir (secondary)
-f2pos metade
+f2pos saúde
+f2pos pobreza
 f2pos projeto
-f2pos educação (secondary)
-f2pos cisterna (secondary)
 f2pos aumentar (secondary)
+f2pos receber
 f2pos inflação (secondary)
-f2pos receber (secondary)
-f2pos milhão
-f2pos assinar (secondary)
-f2pos gasto (secondary)
-f2pos mês (secondary)
+f2pos cisterna (secondary)
+f2pos água
+f2pos economia (secondary)
+f2pos covid
 f2pos setembro (secondary)
-f2pos acesso (secondary)
+f2pos terra (secondary)
+f2pos federal (secondary)
+f2pos população (secondary)
+f2pos milhão (secondary)
+f2neg fake
 f2neg ligar
+f2neg news
 f2neg amigo
 f2neg bem
-f2neg turno (secondary)
 f2neg envolver (secondary)
-f2neg milícia (secondary)
-f2neg frente
-f2neg droga (secondary)
-f2neg comemorar (secondary)
+f2neg facada
+f2neg droga
 f2neg calar (secondary)
-f2neg fake (secondary)
-f2neg facada (secondary)
-f2neg escolher (secondary)
-f2neg esquerda (secondary)
-f2neg achar
-f3pos reportagem
-f3pos bomba
-f3pos presidencial
-f3pos cartão
-f3pos avião
-f3pos escândalo
-f3pos patrimônio
-f3pos tráfico
-f3pos joia
-f3pos imóvel (secondary)
-f3pos gasto
-f3pos indústria (secondary)
-f3pos cisterna
-f3pos desarmar
-f3pos quartel (secondary)
-f3pos tio
-f3pos compra (secondary)
-f3pos inflação
-f3pos porta
-f3pos lesa (secondary)
-f3pos pedido (secondary)
-f3pos gastar (secondary)
-f3pos nomear (secondary)
-f3pos cpi (secondary)
-f3pos atentado (secondary)
-f3pos publicar (secondary)
-f3pos adeus
-f3pos saída (secondary)
-f3pos facilitar (secondary)
-f3neg tomar
-f3neg tirar
-f3neg apoio
-f3neg eleger
-f3neg golpe (secondary)
-f3neg força
-f3neg direito
-f3neg forte
-f3neg folded_hands_e (secondary)
-f3neg educação
-f3neg ditadura
-f3neg abençoar (secondary)
-f3neg noite (secondary)
-f3neg reeleger
-f3neg segundo
-f3neg primeiro
-f3neg democracia (secondary)
-f3neg vencer
-f3neg escolher
-f3neg aprovar (secondary)
-f3neg conservador (secondary)
-f3neg salvar (secondary)
-f3neg população (secondary)
-f3neg green_heart_e (secondary)
-f3neg esquerda
-f3neg morte (secondary)
-f3neg direita (secondary)
-f3neg armar (secondary)
-f3neg inimigo
-f3neg parabéns (secondary)
-f3neg saúde
-f3neg corrupto (secondary)
-f3neg deputado
-f3neg flag_brazil_e (secondary)
-f3neg senado (secondary)
-f3neg liberdade
-f3neg governador (secondary)
-f3neg pequeno (secondary)
-f3neg constituição (secondary)
-f3neg apoiador (secondary)
-f4pos demissão
-f4pos comandante
-f4pos constituição
-f4pos demitir
-f4pos protesto
-f4pos pedido
-f4pos artigo
-f4pos golpe
-f4pos armado
-f4pos solidariedade
-f4pos defesa
-f4pos saída
-f4pos ato
-f4pos participar
-f4pos impeachment (secondary)
-f4pos lesa
-f4pos crise
-f4pos intervenção
-f4pos recusar
-f4pos democrático
-f4pos democracia
-f4pos setembro
-f4pos oposição
-f4pos expressão
-f4pos assinar
-f4pos militar
-f4pos emergencial (secondary)
-f4pos cometer (secondary)
-f4pos chefe (secondary)
-f4pos manifesto (secondary)
-f4pos senado
-f4pos vítima (secondary)
-f4neg gastar
-f4neg amor
-f4neg dinheiro
-f4neg merda
-f4neg comprar (secondary)
-f4neg metade (secondary)
-f4neg céu
-f4neg carro (secondary)
-f4neg pai
-f4neg cara
-f4neg imposto (secondary)
-f4neg terra
-f4neg matar
-f4neg emprego (secondary)
-f4neg roubar
-f4neg deus
-f4neg feliz
-f4neg ladrão
-f4neg cair
-f4neg cidadão (secondary)
-f4neg cartão (secondary)
-f4neg água (secondary)
-f4neg saúde (secondary)
-f5pos decreto
-f5pos porte
-f5pos armamento
-f5pos facilitar
-f5pos acesso
-f5pos registro
-f5pos civil
-f5pos bala
-f5pos arma
-f5pos tiro
-f5pos posse
-f5pos liberar
-f5pos fogo
-f5pos indústria
-f5pos desarmamento
-f5pos atirar
-f5pos carro
-f5pos armar
-f5pos lei
-f5pos cidadão
-f5pos andar
-f5pos reduzir
-f5pos aumento (secondary)
-f5pos blindar (secondary)
-f5pos aumentar
-f5pos organizar (secondary)
-f5pos gerar
-f5pos resolver
-f5pos população
-f5pos tráfico (secondary)
-f5pos artigo (secondary)
-f5pos atentado
-f5pos entrada (secondary)
-f5neg covid
-f5neg calar
-f5neg chegar
-f5neg triste
-f5neg moral
-f5neg corrupto
-f5neg pátria
-f5neg volta
-f5neg pobreza (secondary)
-f5neg inimigo (secondary)
-f5neg socialista (secondary)
-f5neg conservadorismo (secondary)
-f5neg primeiro (secondary)
-f5neg salvador
-f5neg evangélico
-f5neg mãe (secondary)
-f6pos último
-f6pos compra
-f6pos milícia
-f6pos corrupção
-f6pos comprar
-f6pos imóvel
-f6pos organizar
-f6pos escândalo (secondary)
-f6pos mês
-f6pos recorde
-f6pos proteger (secondary)
-f6pos economia
-f6pos envolver
-f6pos salvar
-f6pos patrimônio (secondary)
-f6pos crise (secondary)
-f6pos federal
-f6pos vivo (secondary)
-f6pos número (secondary)
-f6pos combate (secondary)
-f6pos programa (secondary)
-f6pos cargo (secondary)
-f6pos grande
-f6pos pauta (secondary)
-f6pos tentar
+f2neg preparar
+f2neg gritar (secondary)
+f2neg postar (secondary)
+f2neg turno (secondary)
+f2neg armação
+f2neg oncoming_fist_e (secondary)
+f2neg comemorar (secondary)
+f3pos liberal
+f3pos conservadorismo
+f3pos aborto
+f3pos turno
+f3pos pauta
+f3pos socialista
+f3pos democrático
+f3pos extremo
+f3pos conservador
+f3pos vencer
+f3pos cristão
+f3pos costume
+f3pos segundo
+f3pos eleger
+f3pos movimento
+f3pos ditadura
+f3pos social
+f3pos direita
+f3pos número
+f3pos economia
+f3pos expressão
+f3pos individual
+f3pos news (secondary)
+f3pos erro
+f3pos liberdade
+f3pos primeiro
+f3pos eleição
+f3pos inimigo
+f3pos fake (secondary)
+f3pos esquerda (secondary)
+f3pos guerra
+f3pos igreja (secondary)
+f3pos tomar
+f3pos combate (secondary)
+f3pos amor (secondary)
+f3neg tráfico
+f3neg blindar
+f3neg carro
+f3neg quartel
+f3neg avião
+f3neg joia
+f3neg presidencial
+f3neg tio
+f3neg miliciano
+f3neg cpi
+f3neg gabinete
+f3neg porta
+f3neg cartão (secondary)
+f3neg facilitar (secondary)
+f3neg desarmar
+f3neg esposo
+f3neg pai (secondary)
+f3neg hospital
+f3neg entrada (secondary)
+f3neg chefe (secondary)
+f3neg gastar (secondary)
+f3neg filha (secondary)
+f3neg pra (secondary)
+f3neg armado (secondary)
+f3neg mãe
+f3neg cobrar
+f3neg água (secondary)
+f3neg receber (secondary)
+f3neg armação (secondary)
+f4pos metade
+f4pos imóvel
+f4pos compra
+f4pos vivo
+f4pos escândalo
+f4pos dinheiro
+f4pos comprar
+f4pos publicar
+f4pos patrimônio
+f4pos milhão
+f4pos cartão
+f4pos gastar
+f4pos reportagem
+f4pos inflação
+f4pos envolver
+f4pos roubar (secondary)
+f4pos número (secondary)
+f4pos família
+f4pos corrupção (secondary)
+f4pos pequeno (secondary)
+f4pos preço (secondary)
+f4pos filho (secondary)
+f4pos gasto (secondary)
+f4pos pagar (secondary)
+f4pos emprego (secondary)
+f4neg comandante
+f4neg demissão
+f4neg protesto
+f4neg intervenção
+f4neg armado
+f4neg participar
+f4neg ato (secondary)
+f4neg setembro
+f4neg força (secondary)
+f4neg saída
+f4neg invadir
+f4neg quartel (secondary)
+f4neg porta (secondary)
+f4neg demitir (secondary)
+f4neg democracia (secondary)
+f4neg espaço
+f4neg voz
+f4neg retirar
+f4neg solidariedade
+f4neg defesa (secondary)
+f4neg cargo (secondary)
+f4neg golpe (secondary)
+f4neg esquerda
+f4neg apoio (secondary)
+f4neg oposição (secondary)
+f4neg civil (secondary)
+f5pos golpe
+f5pos força
+f5pos organizar
+f5pos cargo
+f5pos corrupção
+f5pos comandante (secondary)
+f5pos traidor
+f5pos militar
+f5pos forte
+f5pos milícia
+f5pos oposição
+f5pos federal
+f5pos chefe
+f5pos corrupto
+f5pos imprensa
+f5pos democracia
+f5pos governador
+f5pos crime
+f5pos tentar
+f5pos apoio
+f5pos roubar
+f5pos amigo (secondary)
+f5pos senado
+f5pos senador
+f5pos deputado
+f5pos educação (secondary)
+f5pos parar
+f5pos cometer
+f5pos projeto (secondary)
+f5pos salvar
+f5pos comprar (secondary)
+f5pos grande
+f5pos armar (secondary)
+f5pos aprovar (secondary)
+f5pos proteger (secondary)
+f5pos cobrar (secondary)
+f5pos reeleger (secondary)
+f5pos político
+f5pos problema
+f5pos filho
+f5pos ocupar (secondary)
+f5pos intervenção (secondary)
+f5pos democrático (secondary)
+f5pos ditadura (secondary)
+f5pos eleição (secondary)
+f5neg esse
+f5neg postar
+f5neg indústria
+f5neg acimar (secondary)
+f5neg registro (secondary)
+f5neg saco
+f5neg gay
+f5neg cisterna
+f5neg tiro (secondary)
+f5neg boca (secondary)
+f5neg cu
+f5neg entrada
+f5neg manifesto
+f5neg encher
+f5neg nazista
+f5neg atirar (secondary)
+f5neg desarmar (secondary)
+f5neg bomba (secondary)
+f5neg vermelho
+f5neg raising_hands_e (secondary)
+f5neg luladrão
+f5neg foto (secondary)
+f5neg indígena
+f5neg feliz
+f5neg facada (secondary)
+f5neg puxar
+f5neg judeu (secondary)
+f5neg negro
+f5neg backhand_index_pointing_right_e (secondary)
+f6pos decreto
+f6pos porte
+f6pos registro
+f6pos armamento
+f6pos facilitar
+f6pos fogo
+f6pos civil
+f6pos arma
+f6pos liberar
+f6pos posse
+f6pos acesso
+f6pos tiro
+f6pos desarmamento
+f6pos aumento (secondary)
+f6pos cidadão
+f6pos armar
+f6pos aumentar
+f6pos indústria (secondary)
+f6pos andar (secondary)
+f6pos população
+f6pos organizar (secondary)
+f6pos carro (secondary)
+f6pos atirar
+f6pos aborto (secondary)
+f6pos droga (secondary)
+f6pos milícia (secondary)
+f6pos invadir (secondary)
+f6pos resolver
+f6pos morte (secondary)
 f6pos comemorar
-f6pos milhão (secondary)
-f6pos demitir (secondary)
-f6pos imprensa
-f6pos militar (secondary)
-f6pos vida
-f6neg boca
-f6neg esse
-f6neg postar
-f6neg cu
-f6neg saco
-f6neg bala (secondary)
-f6neg católico
-f6neg foto
-f6neg gay
-f6neg luladrão
-f6neg puto
-f6neg gritar
-f6neg pôr
-f6neg atirar (secondary)
-f6neg acimar (secondary)
-f6neg ai (secondary)
+f6pos blindar (secondary)
+f6pos gerar
+f6neg moral
+f6neg calar
+f6neg chegar
+f6neg triste
 f6neg céu (secondary)
-f6neg puxar
-f6neg vermelho
-f6neg entrada
-f6neg porta (secondary)
-f6neg dedo
-f6neg negro
-f6neg tava
-f6neg merda (secondary)
-f6neg encher
-f6neg deus (secondary)
-f6neg olho (secondary)
-f6neg bandeira
-f6neg apoiador
-f6neg feliz (secondary)
-f7pos liberal
-f7pos costume
-f7pos ideologia
-f7pos conservadorismo
-f7pos pauta
-f7pos individual
-f7pos droga
-f7pos aborto
-f7pos combate
-f7pos armamento (secondary)
-f7pos extremo
-f7pos conservador
-f7pos erro
-f7pos civil (secondary)
-f7pos turno
-f7pos desarmamento (secondary)
-f7pos socialista
-f7pos vencer (secondary)
-f7pos humano
-f7pos americano
-f7pos direita
-f7pos guerra
-f7pos economia (secondary)
-f7pos cristão (secondary)
-f7pos movimento (secondary)
-f7pos social (secondary)
-f7pos linha (secondary)
-f7neg impeachment
-f7neg gabinete
-f7neg receber
-f7neg esposo
-f7neg miliciano
-f7neg cpi
-f7neg mãe
-f7neg filha
-f7neg covid (secondary)
-f7neg pagar (secondary)
-f7neg amém (secondary)
-f7neg salário (secondary)
-f7neg chefe
-f7neg andar (secondary)
-f7neg olho
-f7neg tio (secondary)
-f7neg hospital
-f7neg pai (secondary)
-f7neg abrir (secondary)
-f8pos número
-f8pos judeu
-f8pos igreja
-f8pos vítima
-f8pos publicar
-f8pos morte
-f8pos nazista
-f8pos tiro (secondary)
-f8pos pastor
-f8pos fake
-f8pos manifesto
-f8pos registro (secondary)
-f8pos ligar (secondary)
-f8pos vivo
-f8pos news
-f8pos pé
-f8pos cristão
-f8pos esposo (secondary)
-f8pos foto (secondary)
-f8pos democrático (secondary)
-f8pos movimento
-f8pos aborto (secondary)
-f8pos posse (secondary)
-f8pos reportagem (secondary)
-f8pos espalhar
-f8pos defesa (secondary)
-f8pos elogiar
-f8pos facada
-f8pos ato (secondary)
-f8pos solidariedade (secondary)
-f8pos extremo (secondary)
-f8pos tomar (secondary)
-f8neg cargo
-f8neg blindar
-f8neg ocupar
-f8neg governador
-f8neg quartel
-f8neg cobrar
-f8neg armadilha
-f8neg força (secondary)
-f8neg água
-f8neg correr
-f8neg traidor
-f8neg avião (secondary)
-f8neg ajuda
-f8neg nomear
-f8neg armado (secondary)
-f8neg federal (secondary)
-f8neg moral (secondary)
-f8neg reeleger (secondary)
-f8neg joia (secondary)
-f8neg gerar (secondary)
-f8neg cometer
-f8neg resolver (secondary)
-f8neg voz
-f8neg tava (secondary)
-f8neg retirar
-f8neg intervenção (secondary)
-f8neg comandante (secondary)
-f8neg bater
-f8neg senador
-f8neg dedo (secondary)
-f8neg erro (secondary)
+f6neg pátria
+f6neg pobreza (secondary)
+f6neg lesa (secondary)
+f6neg corrupto (secondary)
+f6neg salário (secondary)
+f6neg covid (secondary)
+f6neg cometer (secondary)
+f6neg pano
+f6neg conservadorismo (secondary)
+f6neg bater
+f6neg inimigo (secondary)
+f6neg traidor (secondary)
+f7pos merda
+f7pos boca
+f7pos matar
+f7pos andar
+f7pos foto
+f7pos olho
+f7pos evangélico
+f7pos deus
+f7pos pastor
+f7pos filha
+f7pos pai
+f7pos mulher
+f7pos judeu
+f7pos miliciano (secondary)
+f7pos amor
+f7pos cara
+f7pos chamar
+f7pos tirar
+f7pos abrir
+f7pos gritar
+f7pos terra
+f7pos ladrão
+f7pos céu
+f7pos cidadão (secondary)
+f7pos bandeira
+f7pos gay (secondary)
+f7pos esposo (secondary)
+f7pos morte
+f7pos igreja
+f7pos enganar
+f7pos saco (secondary)
+f7pos cu (secondary)
+f7pos apoiador
+f7pos puto
+f7pos indígena (secondary)
+f7pos tomar (secondary)
+f7neg escândalo (secondary)
+f7neg combate
+f7neg patrimônio (secondary)
+f7neg gasto
+f7neg demitir
+f7neg programa (secondary)
+f7neg recorde
+f7neg demissão (secondary)
+f7neg publicar (secondary)
+f7neg compra (secondary)
+f7neg saída (secondary)
+f7neg lesa
+f7neg costume (secondary)
+f7neg red_heart_e (secondary)
+f7neg individual (secondary)
+f7neg acesso (secondary)
+f7neg assinar
+f7neg decreto (secondary)
+f7neg presidencial (secondary)
+f7neg ocupar
+f7neg iluminar (secondary)

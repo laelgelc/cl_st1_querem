@@ -1,21 +1,16 @@
-file = t008491
-date = 2020-09-29
-user = WarkusVale
-conversation = 1277402377205813249
-URL = https://twitter.com/WarkusVale/status/1310528129891524613
+file = t003601
+date = 2019-04-29
+user = iandersonmaia
+conversation = 55285585
+URL = https://twitter.com/iandersonmaia/status/1123008959630204928
 
-word count = 36
-words loading = 2
-factor score = -2
+word count = 14
+words loading = 1
+factor score = -1
 
-@Taz_mannia @jairbolsonaro Então cow_e a jumenta sou eu? Vc fecha os **olhos** 
-eyes_e para a corrupção da família Bolsonaro? E a jumenta sou eu? Onde 
-estava s honestidade? Bandido bom é bandido morto skull_e e morte aos bandidos 
-**milicianos** oncoming_fist_medium_skin_tone_e 
-oncoming_fist_medium_skin_tone_e oncoming_fist_medium_skin_tone_e 
-oncoming_fist_medium_skin_tone_e 
+RT @FlavioXSid: Bolsonaro **assinará** Medida Provisória para facilitar 
+abertura de empresas via @conservadordc 
 
 Lemmas in this text that loaded on the factor:
 
-miliciano
-olho
+assinar

@@ -1,26 +1,24 @@
-file = t014392
-date = 2022-02-27
-user = CaldasJurema
-conversation = 1391758638109319172
-URL = https://twitter.com/CaldasJurema/status/1497751013725515784
+file = t014686
+date = 2022-03-30
+user = oliverfla81es2
+conversation = 1499350859389542407
+URL = https://twitter.com/oliverfla81es2/status/1509308707418611719
 
-word count = 41
-words loading = 6
-factor score = 6
+word count = 19
+words loading = 7
+factor score = 7
 
-@galegamineira @MariaMariaUnica @jairbolsonaro Que Deus **proteja** e guarde o 
-nosso Presidente Bolsonaro! **folded_hands_e** **folded_hands_e** 
-**folded_hands_e** **folded_hands_e** Que ele seja eleito e mostre que o nosso 
-Deus é Poderoso, e está no comando. Se assim for a vontade de Deus, em nome 
-de Jesus, **amém** . **folded_hands_e** **folded_hands_e** **folded_hands_e** 
-**folded_hands_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
-**flag_brazil_e** **green_heart_e** **yellow_heart_e** 
+RT @AnglicaKurten: Que Deus te **ilumine** , te guarde e te **abençoe** 
+grandemente querido **Presidente** Jair Messias Bolsonaro! ! ! **Amém** 
+**flag_brazil_e** **flag_brazil_e** **folded_hands_e** **folded_hands_e** 
+**red_heart_e** **red_heart_e** https … 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
 amém
 flag_brazil_e
 folded_hands_e
-green_heart_e
-proteger
-yellow_heart_e
+iluminar
+presidente
+red_heart_e

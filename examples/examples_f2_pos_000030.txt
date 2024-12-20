@@ -1,21 +1,20 @@
-file = t015878
+file = t015615
 date = 2022-05-30
-user = HMallarme
-conversation = 1521821697367810049
-URL = https://twitter.com/HMallarme/status/1531230011201658880
+user = Jerryfacha
+conversation = 257439712
+URL = https://twitter.com/Jerryfacha/status/1531413153350926336
 
-word count = 49
+word count = 22
 words loading = 4
 factor score = 4
 
-Enquanto **milhões** de pais e mães de família se desesperam para alimentar 
-seus filhos e **pagar** as contas, ante a destruição da **renda** e o forte 
-avanço do pobreza, BOLSONARO faz de seu mandato uma grande COLÔNIA DE FÉRIAS 
-DE LUXO bancada com nossos **impostos** . Isso precisa acabar. 
+RT @ptdeminas: no_entry_e ️ Bolsonaro explode **renda** das famílias com 
+sucessivos **aumentos** do **gás** . cross_mark_e Em SP, mais **pobres** 
+comprometem 11 % da **renda** com g … 
 
 Lemmas in this text that loaded on the factor:
 
-imposto
-milhão
-pagar
+aumento
+gás
+pobre
 renda

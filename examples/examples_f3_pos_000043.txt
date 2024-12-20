@@ -1,20 +1,20 @@
-file = t005957
-date = 2020-01-30
-user = luizbssantos
-conversation = 103127282
-URL = https://twitter.com/luizbssantos/status/1222151099702030337
+file = t011801
+date = 2021-07-30
+user = thiamparo
+conversation = 23166886
+URL = https://twitter.com/thiamparo/status/1421252708250554370
 
-word count = 44
-words loading = 2
-factor score = 2
+word count = 16
+words loading = 5
+factor score = 4
 
-@RicardoMontesum @cleusa_slaviero @LulaOficial @FlavioDino @Haddad_Fernando 
-@ptbrasil @PCdoB_Oficial Kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkklkkkkkkk. A operação 
-abafa tá a todo vapor cidadão. O **escândalo** de Itaipu deram uma abafada 
-assim como o caso Marielle, Flávio Bolsonaro, Queiroz, Micheque, Cocaina no 
-**avião** da FAB. O cara é muito inocente meu deus do céu. 
+Presidente peruano Castillo, de **esquerda** na **economia** e **conservador** 
+nos **costumes** , nomeia político homofóbico para primeiro-ministro. 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-escândalo
+conservador
+costume
+economia
+esquerda (secondary)
+primeiro

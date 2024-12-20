@@ -1,19 +1,19 @@
-file = t014511
-date = 2022-02-27
-user = LuciRam02132017
-conversation = 1107687638864138242
-URL = https://twitter.com/LuciRam02132017/status/1498048506522705932
+file = t002044
+date = 2018-10-28
+user = antonioni__
+conversation = 1413364447
+URL = https://twitter.com/antonioni__/status/1056674723336241152
 
-word count = 46
+word count = 49
 words loading = 2
 factor score = -2
 
-@CentralEleicoes @matheusagostin Por causa de fertilizantes, FERTILIZANTES! 
-Bolsonaro foi visitar, prestou homenagem, hoje **ligou** o maior comunista do 
-mundo. E ainda brigou com o vice por ser contra o novo **amigo** . E isso pq 
-era o PT que ia trazer o comunismo para o Brasil 
+**preparem** as camisas e os textos de luto. você que é eleitor do bolsonaro 
+e tem um **amigo** na vida do crime, na verdade você está desejando a morte 
+dele! enfim. . . 4 anos sombrios estão por vir. que Deus nos abençoe e nos 
+guarde. Nós = moradores de comunidades 
 
 Lemmas in this text that loaded on the factor:
 
 amigo
-ligar
+preparar

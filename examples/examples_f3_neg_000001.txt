@@ -1,22 +1,24 @@
-file = t012201
-date = 2021-08-30
-user = LulaDias4
-conversation = 1146485363852140551
-URL = https://twitter.com/LulaDias4/status/1432467773158998019
+file = t020375
+date = 2023-04-29
+user = esquilinus
+conversation = 1302493861613375488
+URL = https://twitter.com/esquilinus/status/1651640761618767893
 
-word count = 36
-words loading = 5
+word count = 45
+words loading = 6
 factor score = -5
 
-Ladrão te rouba dinheiro, carro, celular e relógio. Bolsonaro tá te roubando 
-felicidade, **saúde** , **educação** , segurança, paz, emprego e dignidade. 
-O fato é q o **primeiro** te **escolhe** , mas o **segundo** foi vc quem 
-**escolheu** . 
+@PaulaKirma Pois é , assustador como quem trafica cocaína no **avião** 
+**presidencial** , quem comete rachadinha, quem faz atentado à bomba a 
+**quartel** , quem faz **tráfico** internacional de **joias** públicas, quem 
+**recebe** propina em ouro, quem criou orçamento secreto, ainda não tá na 
+cadeia. . . BOLSONARO LADRÃO 
 
 Lemmas in this text that loaded on the factor:
 
-educação
-escolher
-primeiro
-saúde
-segundo
+avião
+joia
+presidencial
+quartel
+receber (secondary)
+tráfico

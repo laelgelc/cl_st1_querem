@@ -1,21 +1,18 @@
-file = t010184
-date = 2021-02-27
-user = Meneghelzito
-conversation = 1269084158355218432
-URL = https://twitter.com/Meneghelzito/status/1365375741236568070
+file = t010396
+date = 2021-03-30
+user = VemPraRua_br
+conversation = 2884022608
+URL = https://twitter.com/VemPraRua_br/status/1376930127922266119
 
-word count = 60
+word count = 13
 words loading = 3
-factor score = -3
+factor score = -2
 
-@umaloucaai3 @gmariah_ @mafer_carvalho Defendo ngm **amor** , vc que defende um 
-governo q te **roubou** e te deixou na **merda** , ai vem no tt reclamar 
-kkkkkkkk. Cadê a liberdade q vc defende? Se o bolsonaro é contra ou n, 
-problema é dele po, ele n ta proibindo ngm de tomar. Pq sera q o preço tá 
-nessa altura, culpa do governo PT 
+Urgente: **comandantes** das Forças Armadas entregam seus **cargos** em 
+**protesto** contra Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-merda
-roubar
+cargo (secondary)
+comandante
+protesto

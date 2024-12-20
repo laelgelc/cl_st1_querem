@@ -1,17 +1,22 @@
-file = t019987
-date = 2023-03-30
-user = ProfZeGotinha
-conversation = 1000145313959677952
-URL = https://twitter.com/ProfZeGotinha/status/1641389621291393024
+file = t015820
+date = 2022-05-30
+user = wagner_rt
+conversation = 927016932360048640
+URL = https://twitter.com/wagner_rt/status/1531391949198041091
 
-word count = 18
-words loading = 2
-factor score = 2
+word count = 49
+words loading = 5
+factor score = 5
 
-@RTdoBrasil @jairbolsonaro Tudo **joia** ou tem cocaína da Muzema no 
-**avião** . . . . BOLSONARO O MAIOR LADRÃO DO PAÍS. . . 
+Em 2019 Bolsonaro voltou de viagem aos EUA e disse que houve fraude nas 
+**eleições** e que tinha **vencido** no **primeiro** **turno** . Se cassarem 
+a Kokay pelo tweet dela vão cassar o PR também. Deixem eles falarem! Lutem 
+por **liberdade** , inclusive pelo direito de falar bobagem dos petista. 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-joia
+eleição
+liberdade
+primeiro
+turno
+vencer

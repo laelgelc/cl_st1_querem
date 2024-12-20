@@ -1,26 +1,22 @@
-file = t013830
-date = 2022-01-30
-user = LeviMarques9
-conversation = 1050905329872068608
-URL = https://twitter.com/LeviMarques9/status/1487920305599397890
+file = t020242
+date = 2023-03-30
+user = Rosngel30968062
+conversation = 1249810250435375117
+URL = https://twitter.com/Rosngel30968062/status/1641424556886720514
 
-word count = 38
+word count = 41
 words loading = 5
 factor score = 5
 
-Agradecendo a Deus todos os dias pela vida do Presidente Bolsonaro 
-**flag_brazil_e** **folded_hands_e** **folded_hands_e** police_car_light_e 
-double_exclamation_mark_e **red_heart_e** globe_showing_americas_e VAI SER 
-GIGANTE - VAI SER NO PRIMEIRO TURNO - BOLSONARO REELEITO 2022 - 2026 
-**flag_brazil_e** O GRANDE DESPERTAR ESTÁ CHEGANDO NO BRASIL E NO MUNDO 
-police_car_light_e globe_showing_americas_e CANADÁ SAIU NA FRENTE 
-**smiling_face_with_sunglasses_e** **oncoming_fist_e** **oncoming_fist_e** 
-fire_e hourglass_done_e alarm_clock_e 
+@77_frota Por isso que vc não foi **reeleito** e nem será mais. . . Falta de 
+respeito com os brasileiros, que talvez já até votou em vc. . . Incompetente! 
+! Se reduza a sua insignificância. . . Invejoso! ! Deus **abençoe** e 
+**proteja** o nosso querido **Presidente** Bolsonaro! ! **flag_brazil_e** 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
 flag_brazil_e
-folded_hands_e
-oncoming_fist_e
-red_heart_e
-smiling_face_with_sunglasses_e
+presidente
+proteger
+reeleger

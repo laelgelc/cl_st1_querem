@@ -1,20 +1,18 @@
-file = t002323
-date = 2018-12-30
-user = OxenteShe_
-conversation = 125397135
-URL = https://twitter.com/OxenteShe_/status/1079518947584720896
+file = t001596
+date = 2018-09-28
+user = prjbcarvalho
+conversation = 96177631
+URL = https://twitter.com/prjbcarvalho/status/1045651626579693569
 
-word count = 46
-words loading = 3
-factor score = -2
+word count = 47
+words loading = 1
+factor score = -1
 
-O tal presidente de **gabinete** do Bolsonaro comparando a posse de arma com um 
-carro. É , a partir de 2019 será tenso. . . pior que os eleitores desse cara 
-dizem **amém** p / tudo e tenho vivido essa alienação de perto, meus 
-**olhos** e ouvidos sangram HASHTAG #fantastico_h 
+PT **assina** manifesto em apoio à ditadura venezuelana PT diz que tomará o 
+poder PT diz que derramará sangue PDT faz acerto com o Partido Comunista 
+Chinês PSOL invade propriedades privadas Ex- filiado do PSOL esfaqueia um 
+candidato à presidência Mas o perigo à democracia é Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-amém (secondary)
-gabinete
-olho
+assinar

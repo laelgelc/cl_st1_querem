@@ -1,20 +1,16 @@
-file = t004582
-date = 2019-08-30
-user = PatrickDornele
-conversation = 394209100
-URL = https://twitter.com/PatrickDornele/status/1167560224640819206
+file = t000391
+date = 2018-04-28
+user = PedroH_san
+conversation = 2315837628
+URL = https://twitter.com/PedroH_san/status/989924922666307585
 
-word count = 37
-words loading = 2
-factor score = -2
+word count = 22
+words loading = 1
+factor score = -1
 
-ISSO É NOJENTO! NÃO É **ESSE** O HASHTAG #brasil_h QUE QUEREMOS HASHTAG 
-#bolsonaro_h @jairbolsonaro @SF_Moro **ponha** um FIM no HASHTAG #indulto_h 
-CHEGA de HASHTAG #perdão_h para HASHTAG #ladrão_h Condenado na HASHTAG 
-#lavajato_h, HASHTAG #vaccari_h recebe HASHTAG #indulto_h natalino e? HASHTAG 
-#justiça_h ( ? ) perdoa pena de 24anos HASHTAG #lulanopresidio_h 
+@kammuy @acabraquele @CdNLeon Sim, por isso não creio em salvadores da 
+**pátria** ( Bolsonaro ) , acho que a mudança no congresso é primordial. 
 
 Lemmas in this text that loaded on the factor:
 
-esse
-pôr
+pátria

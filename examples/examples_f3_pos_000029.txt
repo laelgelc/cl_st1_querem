@@ -1,18 +1,19 @@
-file = t013994
-date = 2022-01-30
-user = SERGIOVIEIRA652
-conversation = 1003710220118446080
-URL = https://twitter.com/SERGIOVIEIRA652/status/1487883992963686402
+file = t017752
+date = 2022-09-29
+user = Cribc51
+conversation = 1559837764744617987
+URL = https://twitter.com/Cribc51/status/1575629933376065536
 
-word count = 29
-words loading = 2
-factor score = 2
+word count = 23
+words loading = 4
+factor score = 4
 
-@RicardoRoqueso1 @freire_roberto @jairbolsonaro As lagostas do STF, o ex 
-presidiário ladrão e a picanha de 1 . 799kg e **gastos** com **cartão** 
-corporativo do Bolsonaro não merecem justificativas! Tudo vagabundo! 
+**Tomara** Deus que seja no **primeiro** **turno** . Bolsonaro 22 . Vamos votar 
+meu povo. Preste bem atenção nos **números** . Vote certo. Vote 22 . 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-gasto
+número
+primeiro
+tomar
+turno

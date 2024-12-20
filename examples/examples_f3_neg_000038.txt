@@ -1,19 +1,18 @@
-file = t002624
-date = 2018-12-30
-user = Andecio
-conversation = 144526082
-URL = https://twitter.com/Andecio/status/1079352138055237632
+file = t003776
+date = 2019-05-30
+user = RogerioCorreia_
+conversation = 245392082
+URL = https://twitter.com/RogerioCorreia_/status/1133913951476097027
 
-word count = 28
-words loading = 3
-factor score = -3
+word count = 24
+words loading = 2
+factor score = -2
 
-@GuilhermeBoulos Não sei se vc sabe, mas esse novo governo foi **eleito** 
-democraticamente. Ao contrário de **ditaduras** comunistas, onde o poder foi 
-tomadao a **força** . HASHTAG #bolsonaro_h HASHTAG #retrospectiva2018_h 
+É filho, é vizinho, é funcionário, é motorista. . . Agora o **tio** da 
+mulher. . . Só tem **miliciano** nesta família? Ou é mais uma " 
+coincidência " ? 
 
 Lemmas in this text that loaded on the factor:
 
-ditadura
-eleger
-força
+miliciano
+tio

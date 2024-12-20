@@ -1,20 +1,21 @@
-file = t014755
-date = 2022-03-30
-user = cynaramenezes
-conversation = 74763991
-URL = https://twitter.com/cynaramenezes/status/1508994831607078917
+file = t009921
+date = 2021-01-30
+user = MammyCe
+conversation = 1234416852526342145
+URL = https://twitter.com/MammyCe/status/1355570160384548866
 
-word count = 24
+word count = 39
 words loading = 4
 factor score = 4
 
-no brasil de bolsonaro toda hora alguém inocente leva um **tiro** de uma 
-pessoa **armada** , porque, segundo eles, as **armas** " protegem " a 
-**população** 
+Vender -se por **maior** ou mais poder **político** e financeiro é só para 
+**corruptos** . Bolsonaro eu um **traidor** da pátria, irresponsável, pessoas 
+morrem por falta de oxigênio. Leitos. Respiradores. Falta empregos. O custo de 
+vida subiu. . . Mas HASHTAG #bolsonarocompracongresso_h por governabilidade 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armar
-população
-tiro
+corrupto
+grande
+político
+traidor

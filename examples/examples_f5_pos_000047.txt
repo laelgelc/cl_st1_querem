@@ -1,21 +1,22 @@
-file = t016118
-date = 2022-06-27
-user = tesoureiros
-conversation = 1071408436531904512
-URL = https://twitter.com/tesoureiros/status/1541548707853864962
+file = t010211
+date = 2021-02-27
+user = timaolisboa
+conversation = 52956448
+URL = https://twitter.com/timaolisboa/status/1365451810530615298
 
-word count = 23
+word count = 42
 words loading = 5
 factor score = 4
 
-MPF afirma que **decreto** das **armas** de Bolsonaro **facilita** desvio para 
-crime **organizado** e milícias ( O Globo, 2019 ) BOLSONARO **ARMOU** O 
-TRÁFICO 
+@correio Uma coisa é fato, Bolsonaro corteja tanto as **forças** **armadas** 
+que os preguiçosos e **corruptos** se acham no direito de pilhar a sociedade 
+brasileira. . esses aí e os seguidores do Bozo são vagabundos, racistas e tem 
+**forte** tendência a **corrupção** 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armar
-decreto
-facilitar
-organizar (secondary)
+armar (secondary)
+corrupto
+corrupção
+forte
+força

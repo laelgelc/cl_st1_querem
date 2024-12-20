@@ -1,19 +1,19 @@
-file = t014496
-date = 2022-02-27
-user = alerodrigues68
-conversation = 20844626
-URL = https://twitter.com/alerodrigues68/status/1498053524206211076
+file = t000843
+date = 2018-06-29
+user = xyyzzzz
+conversation = 61309401
+URL = https://twitter.com/xyyzzzz/status/1012730408075780096
 
-word count = 36
-words loading = 3
-factor score = 3
+word count = 23
+words loading = 4
+factor score = 4
 
-@cotore Isso é fato. Chamar bolsonaro de **direita** , **conservador** , ou o 
-que for, é ridículo. Ele não tem **ideologia** , princípio, convicção de 
-nada. Ele é só um imbecil deslumbrado que não deveria estar onde está . 
+@artuiter_ olha a minha **cara** de quem gasta dinheiro pra **andar** com a 
+carinha do Bolsonaro no peito pelo **amor** de **deus** ! ! ! ! ! hahahaha 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-ideologia
+amor
+andar
+cara
+deus

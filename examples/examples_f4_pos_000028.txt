@@ -1,20 +1,24 @@
-file = t010267
-date = 2021-03-30
-user = cristianominas
-conversation = 190798741
-URL = https://twitter.com/cristianominas/status/1376985463983112194
+file = t017445
+date = 2022-08-30
+user = guimaraes13PT
+conversation = 49696756
+URL = https://twitter.com/guimaraes13PT/status/1564614122184081410
 
-word count = 32
-words loading = 4
-factor score = 4
+word count = 35
+words loading = 7
+factor score = 6
 
-**Comandantes** do Exército pedem **demissão** em **protesto** contra 
-Bolsonaro. É esse o nível do bolsonarismo: querer transformar as Forças 
-Armadas em um instrumento de **defesa** dos seus crimes contra o Brasil. 
+ENCANDALOSO! Quantos **imóveis** você já **comprou** com **dinheiro** 
+**vivo** ? O clã Bolsonaro **comprou** 51 ! Mais um **escândalo** da 
+**família** de bem que desconhece a **corrupção** e só quer o bem do 
+Brasil. Vai vendo! 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-defesa
-demissão
-protesto
+comprar
+corrupção (secondary)
+dinheiro
+escândalo
+família
+imóvel
+vivo

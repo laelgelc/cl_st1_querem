@@ -1,20 +1,17 @@
-file = t007783
-date = 2020-07-29
-user = tabataamaralsp
-conversation = 1001251931812220928
-URL = https://twitter.com/tabataamaralsp/status/1288584321595564034
+file = t003379
+date = 2019-03-30
+user = redebrasilatual
+conversation = 34366699
+URL = https://twitter.com/redebrasilatual/status/1112112448520241153
 
-word count = 44
-words loading = 3
-factor score = -2
+word count = 27
+words loading = 1
+factor score = -1
 
-Bolsonaro vetou o PL que ampliava as possibilidades para famílias 
-monoparentais **receberem** o auxilio emergencial, prejudicando as crianças. O 
-PL priorizava **mães** solo e permitia que **pais** solo **recebessem** em 
-dobro, como é o caso das **mães** solo. Vamos derrubar esse veto absurdo! 
+PT, PCdoB, Psol, PDT, PSB e PCB **assinaram** manifesto em repúdio à 
+determinação de Jair Bolsonaro ( PSL ) para que Forças Armadas comemorem o 
+Golpe de 1964 . 
 
 Lemmas in this text that loaded on the factor:
 
-mãe
-pai (secondary)
-receber
+assinar

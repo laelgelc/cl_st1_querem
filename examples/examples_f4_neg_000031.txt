@@ -1,20 +1,19 @@
-file = t008241
-date = 2020-08-30
-user = pontesibiapina
-conversation = 70049932
-URL = https://twitter.com/pontesibiapina/status/1300031230080167936
+file = t010304
+date = 2021-03-30
+user = FernandoHoliday
+conversation = 97081119
+URL = https://twitter.com/FernandoHoliday/status/1377018909212168198
 
-word count = 46
-words loading = 3
-factor score = -3
+word count = 37
+words loading = 2
+factor score = -2
 
-@Rconstantino Incompetência também é coisa ruim e **mata** . Um **ladrão** 
-competente só te **rouba** . E um **ladrão** incompetente, ele tanto te 
-**rouba** como te **mata** . Com os indícios contar os BOLSONARO, ele pode vir 
-a ser este **ladrão** incompetente. Que vai ser bem pior mesmo. 
+Moro deixou o Governo alegando INTERFERÊNCIAS de Bolsonaro para proteger o 
+filho; Mandeta saiu alegando INTERFERÊNCIAS indevidas no ministério; 
+**Comandantes** das Forças Armadas saíram em **protesto** contra 
+INTERFERÊNCIAS do Presidente. Mas não, Bolsonaro é o " perseguido " . . . 
 
 Lemmas in this text that loaded on the factor:
 
-ladrão
-matar
-roubar
+comandante
+protesto

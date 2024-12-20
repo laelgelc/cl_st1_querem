@@ -1,18 +1,21 @@
-file = t010294
-date = 2021-03-30
-user = diancarlos10
-conversation = 2461177233
-URL = https://twitter.com/diancarlos10/status/1376920719603433472
+file = t014442
+date = 2022-02-27
+user = Insurgente1977
+conversation = 138568006
+URL = https://twitter.com/Insurgente1977/status/1498059291307225090
 
-word count = 23
-words loading = 2
-factor score = 2
+word count = 40
+words loading = 4
+factor score = 4
 
-@Bispinhoz @Reisconservador @KimKataguiri Mesmo com os **gastos** com 
-**aviões** os **gastos** estão na média com os outros presidente essa 
-narrativa não cola 
+@caleromarcelo @crisrenovada27 O retardo **social** promovido por Bolsonaro, 
+seu entorno político e familiar conduziram 25 % dos brasileiros num estado de 
+mediocridade severa e a prática de crimes sob a ótica de bons **costumes** e 
+**liberdade** de **expressão** . Levará décadas! 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-gasto
+costume
+expressão
+liberdade
+social

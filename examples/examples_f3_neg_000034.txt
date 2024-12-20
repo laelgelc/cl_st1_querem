@@ -1,23 +1,19 @@
-file = t001939
-date = 2018-10-30
-user = mariomagalhaes_
-conversation = 631293447
-URL = https://twitter.com/mariomagalhaes_/status/1057285598665424897
+file = t003588
+date = 2019-04-29
+user = marcos_bicalho
+conversation = 41117407
+URL = https://twitter.com/marcos_bicalho/status/1123010302885400576
 
-word count = 47
-words loading = 5
-factor score = -3
+word count = 41
+words loading = 2
+factor score = -2
 
-O ataque de Bolsonaro à @folha é típico de **inimigos** da **liberdade** de 
-imprensa e da **democracia** . Precisa ser repudiado. Isso não me impede de 
-lamentar que o jornal proíba, em texto noticioso, o termo " extrema 
-**direita** " para designar o campo político do **deputado** ( escrevem " 
-**direita** " ) . 
+A família e o governo de milícias assassinam a interpretação de textos 
+todos os dias. A família é desonesta e está provado, só a justiça não tem 
+coragem de encarar **milicianos** . Juízes condenaram petistas e outros 
+**desarmados** mesmo sem provas. 
 
 Lemmas in this text that loaded on the factor:
 
-democracia (secondary)
-deputado
-direita (secondary)
-inimigo
-liberdade
+desarmar
+miliciano

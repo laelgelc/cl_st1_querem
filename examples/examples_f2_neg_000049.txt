@@ -1,19 +1,19 @@
-file = t000261
-date = 2018-04-29
-user = vmatheus154
-conversation = 1731719227
-URL = https://twitter.com/vmatheus154/status/990228279859834880
+file = t003079
+date = 2019-02-25
+user = monicabergamo
+conversation = 58951368
+URL = https://twitter.com/monicabergamo/status/1100147845745790977
 
-word count = 49
-words loading = 1
-factor score = -1
+word count = 44
+words loading = 2
+factor score = -2
 
-@jaojao1212 @ultom_rafael @jose_simao Bolsonaro é a expressão da velha 
-política, do que atrasa o Brasil: simplifica a segurança pública a porrada e 
-cadeia, fala o que seu eleitor quer ouvir, ataca com deboche e não com 
-argumento, discurso de " cidadão de **bem** " e família tradicional. Pura 
-velha política, sem maquiagem. 
+MEC pede q escolas filmem crianças cantando o hino nacional – e ainda 
+ouvindo carta do min. Ricardo Vélez com o slogan do governo Bolsonaro: BRASIL 
+ACIMA DE TUDO. DEUS ACIMA DE TODOS. Diretores de escolas ficaram chocados e 
+até pensaram que era **fake** **news** . 
 
 Lemmas in this text that loaded on the factor:
 
-bem
+fake
+news

@@ -1,20 +1,24 @@
-file = t013868
-date = 2022-01-30
-user = caiquemartinsbr
-conversation = 1210675830768259072
-URL = https://twitter.com/caiquemartinsbr/status/1487935022036303872
+file = t001797
+date = 2018-10-30
+user = mtst
+conversation = 218229279
+URL = https://twitter.com/mtst/status/1057400190360002560
 
-word count = 37
-words loading = 3
-factor score = 3
+word count = 42
+words loading = 6
+factor score = 6
 
-Família Bolsonaro é humilde, do povo e gente como a gente taokey? 
-Quadruplicar **patrimônio** milionário em 2 anos com o papai presidente da 
-república decretando sigilo nos **gastos** **presidenciais** é apenas uma 
-mera coincidência poxa vida. 
+Bolsonaro foi **eleito** presidente. Mas não imperador. Não pode passar por 
+cima dos valores **democráticos** , da **liberdade** de manifestação e 
+**expressão** . Precisa respeitar a oposição e os **movimentos** **sociais** 
+. Por isso estaremos nas ruas, pelas **liberdades** **democráticas** e por 
+nossos direitos 
 
 Lemmas in this text that loaded on the factor:
 
-gasto
-patrimônio
-presidencial
+democrático
+eleger
+expressão
+liberdade
+movimento
+social

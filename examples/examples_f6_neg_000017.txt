@@ -1,19 +1,17 @@
-file = t014907
-date = 2022-03-30
-user = jalmendes
-conversation = 162688597
-URL = https://twitter.com/jalmendes/status/1509286700106887171
+file = t010491
+date = 2021-03-30
+user = Sandro51193826
+conversation = 1250860147704057856
+URL = https://twitter.com/Sandro51193826/status/1377043616376446980
 
-word count = 22
-words loading = 3
-factor score = -3
+word count = 17
+words loading = 2
+factor score = -2
 
-@LulaOficial Cala a **boca** comunista sua **bandeira** é **vermelha** , 
-Bolsonaro fez o brasileiro ter esperança, a **bandeira** brasileira reapareceu 
-com ele! flag_brazil_e flag_brazil_e 
+RT @Deusdet92944042 : @jandira_feghali **Cala** a boca, vc não tem **moral** 
+par falar o nome de Bolsonaro HASHTAG #opovoestacombolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-boca
-vermelho
+calar
+moral

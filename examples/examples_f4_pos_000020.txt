@@ -1,21 +1,26 @@
-file = t010469
-date = 2021-03-30
-user = Leoni_a_jato
-conversation = 16968506
-URL = https://twitter.com/Leoni_a_jato/status/1376978245346861056
+file = t016760
+date = 2022-08-30
+user = natbonavides
+conversation = 203332874
+URL = https://twitter.com/natbonavides/status/1564652911996665856
 
-word count = 41
-words loading = 4
-factor score = 4
+word count = 46
+words loading = 8
+factor score = 7
 
-Como @demori apontou: o que tem de heróico e virtuoso na recusa ao **golpe** 
-pelos **comandantes** **militares** , se eles aceitam com tranquilidade sua 
-**demissão** para serem substituídos por colaboracionistas? Não estão 
-entregando as Forças Armadas de mão beijada para Bolsonaro? 
+GRAVÍSSIMO! Em um intervalo de 12 horas, dois grandes **escândalos** 
+**envolvendo** a **família** Bolsonaro. A **compra** de pelo menos 51 
+**imóveis** em **dinheiro** **vivo** e a afirmação da Polícia Federal de 
+que a ABIN interviu para atrapalhar investigações contra o **filho** do 
+presidente, Jair Renan. 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-demissão
-golpe
-militar
+compra
+dinheiro
+envolver
+escândalo
+família
+filho (secondary)
+imóvel
+vivo

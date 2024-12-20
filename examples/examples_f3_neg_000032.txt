@@ -1,21 +1,17 @@
-file = t001797
-date = 2018-10-30
-user = mtst
-conversation = 218229279
-URL = https://twitter.com/mtst/status/1057400190360002560
+file = t003112
+date = 2019-02-27
+user = tialilucas
+conversation = 1088629745598771200
+URL = https://twitter.com/tialilucas/status/1100894166966517760
 
-word count = 42
-words loading = 3
-factor score = -3
+word count = 19
+words loading = 2
+factor score = -2
 
-Bolsonaro foi **eleito** presidente. Mas não imperador. Não pode passar por 
-cima dos valores democráticos, da **liberdade** de manifestação e 
-expressão. Precisa respeitar a oposição e os movimentos sociais. Por isso 
-estaremos nas ruas, pelas **liberdades** democráticas e por nossos 
-**direitos** 
+RT @MarceloFreixo: @soares_ud Faço, sim. Olha só , enquanto a família estava 
+homenageando **milicianos** , eu estava presidindo a **CPI** das Milícia … 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-eleger
-liberdade
+cpi
+miliciano

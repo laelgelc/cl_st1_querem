@@ -1,22 +1,20 @@
-file = t015516
-date = 2022-05-30
-user = heldersalomao
-conversation = 80575628
-URL = https://twitter.com/heldersalomao/status/1531269349306138627
+file = t013049
+date = 2021-10-30
+user = Elaine77391067
+conversation = 1193194295429419015
+URL = https://twitter.com/Elaine77391067/status/1454578372617592838
 
-word count = 43
-words loading = 5
+word count = 22
+words loading = 4
 factor score = 4
 
-ESPALHE A VERDADE Bolsonaro acabou com o Bolsa Família e abandonou os 
-brasileiros mais **pobres** passando fome. 3 , 2 **milhões** de famílias em 
-situação de **pobreza** ou extrema **pobreza** estão inscritas no Cadastro 
-Único sem **receber** nenhum **auxílio** , mostra reportagem do UOL. 
+RT @MarceloFreixo: 1 . Queremos o pagamento de uma RENDA PERMANENTE às 
+famílias mais **pobres** . Fomos nós que **aprovamos** o **auxílio** 
+**emergencial** d … 
 
 Lemmas in this text that loaded on the factor:
 
+aprovar
 auxílio
-milhão
+emergencial
 pobre
-pobreza
-receber (secondary)

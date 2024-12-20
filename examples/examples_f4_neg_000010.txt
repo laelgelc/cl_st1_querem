@@ -1,20 +1,19 @@
-file = t000628
-date = 2018-05-30
-user = _putindesaias
-conversation = 51316644
-URL = https://twitter.com/_putindesaias/status/1001658140776194049
+file = t012267
+date = 2021-08-29
+user = pauloteixeira13
+conversation = 25562342
+URL = https://twitter.com/pauloteixeira13/status/1432063088950394882
 
-word count = 58
+word count = 29
 words loading = 3
 factor score = -3
 
-A gente não pode mais nem falar mal do Alckmin sem surgir fã do BOLSONARO 
-vindo seguir. Então deixa eu ser bem clara: vocês são o mesmo que **merda** 
-e o ícone de vocês vale menos que isso. Se eu tivesse ele numa sala e uma 
-arma, eu **matava** na porrada pra não **gastar** bala com bosta. 
+" **Intervenção** **armada** : crime inafiançável e imprescritível. " Belo 
+artigo do Ministro Ricardo Lewandowski, sobre os crimes que Bolsonaro e seus 
+asseclas podem cometer no dia 7 de **setembro** . FSP 
 
 Lemmas in this text that loaded on the factor:
 
-gastar
-matar
-merda
+armado
+intervenção
+setembro

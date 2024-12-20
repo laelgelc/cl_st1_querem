@@ -1,20 +1,20 @@
-file = t000982
-date = 2018-06-29
-user = JoaoHNeuhaus
-conversation = 1965751644
-URL = https://twitter.com/JoaoHNeuhaus/status/1002638961892823040
+file = t004055
+date = 2019-06-29
+user = Joirce1
+conversation = 1123377139741544448
+URL = https://twitter.com/Joirce1/status/1144857190282477568
 
-word count = 53
-words loading = 2
-factor score = -2
+word count = 44
+words loading = 3
+factor score = -3
 
-@palestra77 @SetteGilberto @Marcio_XMP @exercitooficial Sempre com essa 
-história. . . ninguém quer essa bola, pq **acha** q as forças armadas vão 
-querer? **Amigo** esquece isso e vai militar por algo mais importante como 
-pressionar a bandidágem do STF. Os militares já falaram, NÃO VAI haver 
-intervenção a não ser que haja um golpe muito grande. . . 
+@AntonioCarrare1 @leandroruschel Eles fazem de tudo para atingir Bolsonaro, mas 
+ninguém mais acredita, dizem até que o Sargento que transportava **droga** 
+era filiado no PT, se for verdade foi pura **armação** ! Imagonem só ! Um 
+absurdo, mas eu acredito que o **bem** sempre vence! 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-amigo
+armação
+bem
+droga

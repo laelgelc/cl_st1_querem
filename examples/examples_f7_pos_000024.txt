@@ -1,19 +1,20 @@
-file = t017856
-date = 2022-10-30
-user = Tati__Lima
-conversation = 2809556135
-URL = https://twitter.com/Tati__Lima/status/1586870554069504003
+file = t006802
+date = 2020-04-29
+user = nadanovonofront
+conversation = 3317555339
+URL = https://twitter.com/nadanovonofront/status/1255572177459568649
 
-word count = 22
-words loading = 3
-factor score = 3
+word count = 29
+words loading = 4
+factor score = 4
 
-RT @MairaMRT: Tarcísio foi eleito para governar São Paulo ao gosto de 
-Bolsonaro e da **extrema** **direita** . Apoiado no **conservadorismo** 
-paulista, … 
+Então, Vera, Bolsonaro vem sendo vendido como profeta e escolhido de **Deus** 
+em muitas **igrejas** **evangélicas** desde 2018 . André Mendonça é 
+**pastor** presbiteriano. É só ligar os pontos. 
 
 Lemmas in this text that loaded on the factor:
 
-conservadorismo
-direita
-extremo
+deus
+evangélico
+igreja
+pastor

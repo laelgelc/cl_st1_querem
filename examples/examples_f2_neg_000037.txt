@@ -1,18 +1,18 @@
-file = t000048
-date = 2018-03-30
-user = Douglasadrian17
-conversation = 1521274129
-URL = https://twitter.com/Douglasadrian17/status/979520834325934080
+file = t002329
+date = 2018-12-30
+user = mineiro93
+conversation = 273676387
+URL = https://twitter.com/mineiro93/status/1079518037617885187
 
-word count = 49
-words loading = 1
-factor score = -1
+word count = 22
+words loading = 2
+factor score = -2
 
-@Manuffaust Uhum! mas sobre seu pai eu até entendo. . . Vocês moram na 
-fazenda né ? ! mais que necessário ter pq se Deuzulivre acontecer alguma 
-coisa a polícia demora mto pra chegar. . . . Mas esse papo de liberação de 
-Armas é coisa de eleitor do Bolsonaro, nem da pra **ligar** kkkkk 
+RT @fernandaseibel: O documentário " A **Facada** no Mito " , que levanta 
+suspeitas de que o " atentado " contra Jair Bolsonaro seria uma **armação** , 
+p … 
 
 Lemmas in this text that loaded on the factor:
 
-ligar
+armação
+facada

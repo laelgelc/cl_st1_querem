@@ -1,19 +1,19 @@
-file = t008011
-date = 2020-08-30
-user = zazaudi
-conversation = 1252060596859740160
-URL = https://twitter.com/zazaudi/status/1300208478871523328
+file = t002300
+date = 2018-12-30
+user = SargentoGangrel
+conversation = 41849078
+URL = https://twitter.com/SargentoGangrel/status/1079522152469143553
 
-word count = 35
-words loading = 3
-factor score = -3
+word count = 44
+words loading = 2
+factor score = -2
 
-Vocês viram algum evangélico se posicionando contra a Flordelis? Por ela ter 
-enganado e **usado** o nome de Deus para cometer **crimes** ? Até agora eu vi 
-um total de 0 nas minhas redes **sociais** . 
+@psol50 @MarceloFreixo @BabaPsol queimar uma bandeira de países não é 
+disseminação de **ódio** ? Dizer Estado nao precisa de polícia mais você 
+recorrendo a polícia e **usando** seguranças armados pode né ? Bolsonaro 
+cumprimentar chefe de estado com continência não mais babar Lula pode né 
 
 Lemmas in this text that loaded on the factor:
 
-crime
-social
 usar
+ódio

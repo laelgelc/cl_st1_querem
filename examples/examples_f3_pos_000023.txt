@@ -1,20 +1,23 @@
-file = t016801
-date = 2022-08-30
-user = psol50
-conversation = 1202130601
-URL = https://twitter.com/psol50/status/1564605582417469445
+file = t000290
+date = 2018-04-29
+user = claudiodemetri3
+conversation = 2758656195
+URL = https://twitter.com/claudiodemetri3/status/990587758237437953
 
-word count = 49
-words loading = 3
-factor score = 2
+word count = 44
+words loading = 5
+factor score = 5
 
-É um **ESCÂNDALO** ! A família Bolsonaro comprou pelo menos 51 **imóveis** 
-com R$ 25 , 6 MILHÕES EM DINHEIRO VIVO. Prática é comum para lavagem de 
-dinheiro e ocultação de **patrimônio** de criminosos. Nada mais justifica 
-tanto dinheiro assim em espécie. Isso não é uma família, é uma quadrilha! 
+@Estadao @EstadaoPolitica. Nada mais natural. **Conservadores** , via de regra 
+são **cristãos** e Magno e o seu partido PR, pode consolidar a vitória de 
+Bolsonaro no 1º **turno** . Evangélicos não estão gostando dessas 
+**pautas** esquerdistas, como **aborto** , Sodoma e Gomorra nas TVs e 
+corrupção. . . 
 
 Lemmas in this text that loaded on the factor:
 
-escândalo
-imóvel (secondary)
-patrimônio
+aborto
+conservador
+cristão
+pauta
+turno

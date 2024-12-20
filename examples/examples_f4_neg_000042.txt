@@ -1,20 +1,20 @@
-file = t010448
+file = t010443
 date = 2021-03-30
-user = DonizettiPere13
-conversation = 1372732806988713984
-URL = https://twitter.com/DonizettiPere13/status/1377014351840825349
+user = SilviaTMendona1
+conversation = 1132061196847390721
+URL = https://twitter.com/SilviaTMendona1/status/1376992374254092288
 
-word count = 42
+word count = 37
 words loading = 3
-factor score = -3
+factor score = -2
 
-@SanchesCosta1 @UOLNoticias Maldito são os homens que acreditam em outros 
-homens. Nem Lula, Dilma, Temer, Bolsonaro, etc, não são dignos de confiança. 
-Minha confiança está no Senhor que fez os **céus** e a **terra** . Cada um 
-tem o " **deus** " que merece. . . 
+HASHTAG #opovoestacombolsonaro_h O Presidente Bolsonaro é o **Comandante** 
+Maior das Forças Armadas, quem não concordacom ele está convidado a se 
+**retirar** . Parabéns Presidente, precisamos de homens conprometidos com a 
+população e com a **Defesa** da nossa Pátria! 
 
 Lemmas in this text that loaded on the factor:
 
-céu
-deus
-terra
+comandante
+defesa (secondary)
+retirar

@@ -1,22 +1,19 @@
-file = t016497
-date = 2022-07-30
-user = CarolDeToni
-conversation = 4566967516
-URL = https://twitter.com/CarolDeToni/status/1553363612516765696
+file = t006499
+date = 2020-03-30
+user = bbeatpereira
+conversation = 1214579847776870400
+URL = https://twitter.com/bbeatpereira/status/1244764196140654594
 
-word count = 44
+word count = 15
 words loading = 4
-factor score = 3
+factor score = 4
 
-Todo **cristão** brasileiro minimamente informado já entendeu que para apoiar 
-a esquerda e o Lula em 2022 é preciso, antes, se aliar a Belzebú a favor de 
-infanticídio ( **aborto** ) , **ideologia** de gênero nas escolas, 
-socialismo, censura, liberação das **drogas** , livro didático para 
-crianças 
+Bolsonaro mais uma vez **abriu** a **boca** pra falar **merda** , meu Deus do 
+**céu** 
 
 Lemmas in this text that loaded on the factor:
 
-aborto
-cristão (secondary)
-droga
-ideologia
+abrir
+boca
+céu
+merda

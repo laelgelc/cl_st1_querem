@@ -1,19 +1,16 @@
-file = t008943
-date = 2020-10-30
-user = CelsoGiannazi
-conversation = 1071956944473210883
-URL = https://twitter.com/CelsoGiannazi/status/1322263214713876482
+file = t003827
+date = 2019-05-30
+user = tabataamaralsp
+conversation = 1001251931812220928
+URL = https://twitter.com/tabataamaralsp/status/1134233087238430720
 
-word count = 38
-words loading = 2
-factor score = -2
+word count = 26
+words loading = 1
+factor score = -1
 
-HASHTAG #bolsonaro_h: A FAMÍLIA UNIDA PELA RACHADINHA! A Veja apurou que 
-funcionários suspeitos de estarem envolvidos em rachadinhas no **gabinete** do 
-HASHTAG #carluxo_h **receberam** mais de R$ 3 milhões em bonificações sem 
-sequer realizar funções que correspondem aos valores. 
+Um ministro que se acha no direito de restringir a liberdade das pessoas não 
+tem condições de **ocupar** um cargo tão importante em uma democracia. 
 
 Lemmas in this text that loaded on the factor:
 
-gabinete
-receber
+ocupar

@@ -1,19 +1,20 @@
-file = t003646
-date = 2019-04-29
-user = comboiodeletras
-conversation = 83754671
-URL = https://twitter.com/comboiodeletras/status/1122948252008177665
+file = t016398
+date = 2022-07-29
+user = fernandapsol
+conversation = 57044549
+URL = https://twitter.com/fernandapsol/status/1552825295488548867
 
-word count = 36
-words loading = 2
-factor score = -2
+word count = 48
+words loading = 3
+factor score = -3
 
-Ídolo de Flávio Bolsonaro, **amigão** de Queiroz, Capitão Adriano é fina 
-flor do pântano miliciano, assassino psicopata e capo de Milícia: a cosa 
-nostra carioca endeusada por Jair Bolsonaro. " Pessoas de **bem** " , " 
-defensores da família " . 
+Meu **amigo** @nandoreis está sendo vítima de **fake** **news** , que diz que 
+ele e o público de seu show apoiariam Bolsonaro. Isso jamais aconteceria. 
+Nando é um defensor das liberdades democráticas e da luta por um Brasil que 
+não vire as costas para o povo. Minha solidariedade. 
 
 Lemmas in this text that loaded on the factor:
 
 amigo
-bem
+fake
+news

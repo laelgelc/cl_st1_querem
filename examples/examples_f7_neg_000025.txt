@@ -1,17 +1,18 @@
-file = t007588
-date = 2020-07-30
-user = 89nuncamais
-conversation = 170498695
-URL = https://twitter.com/89nuncamais/status/1288986241006997507
+file = t003147
+date = 2019-02-27
+user = ElvelcioF
+conversation = 704454347699195905
+URL = https://twitter.com/ElvelcioF/status/1100884321961984000
 
-word count = 26
-words loading = 2
-factor score = -2
+word count = 38
+words loading = 1
+factor score = -1
 
-RT @ManuelaDavila: Depois de toda luta das e dos parlamentares p / aprovar o PL 
-q prioriza **mães** **chefes** de família p / o recebimento dos R$120 … 
+Ministro SÉRGIO MORO! ! ! que ele é no seu interior. BOLSONARO não pode 
+aceitar isso em hipótese alguma, nem se for **demitir** esse sujeito. Todos 
+nós brasileiros esperamos que ele tome providências e troca essa DESGRAÇA DE 
+COMUNISTA. 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-mãe
+demitir

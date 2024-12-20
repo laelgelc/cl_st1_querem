@@ -1,25 +1,25 @@
-file = t020375
-date = 2023-04-29
-user = esquilinus
-conversation = 1302493861613375488
-URL = https://twitter.com/esquilinus/status/1651640761618767893
+file = t003642
+date = 2019-04-29
+user = freelario
+conversation = 144914084
+URL = https://twitter.com/freelario/status/1122880649357135873
 
-word count = 45
+word count = 40
 words loading = 7
-factor score = 5
+factor score = 7
 
-@PaulaKirma Pois é , assustador como quem trafica cocaína no **avião** 
-**presidencial** , quem comete rachadinha, quem faz **atentado** à **bomba** a 
-**quartel** , quem faz **tráfico** internacional de **joias** públicas, quem 
-recebe propina em ouro, quem criou orçamento secreto, ainda não tá na 
-cadeia. . . BOLSONARO LADRÃO 
+@SoniaJoventino @luciano_hang quem sabe, a HASHTAG #fakenews_h foi fato imoral 
+nas últimas **eleições** ; aturamos um desgoverno que vive da divulgação 
+de mentiras; investimento de alguns empresários. É o tal neoliberalismo: 
+**conservador** nos **costumes** , **extrema** **direita** nas urnas e " 
+**liberal** " na **economia** 
 
 Lemmas in this text that loaded on the factor:
 
-atentado (secondary)
-avião
-bomba
-joia
-presidencial
-quartel (secondary)
-tráfico
+conservador
+costume
+direita
+economia
+eleição
+extremo
+liberal

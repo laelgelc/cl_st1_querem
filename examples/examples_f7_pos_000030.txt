@@ -1,21 +1,21 @@
-file = t014769
-date = 2022-03-29
-user = Alargolo1
-conversation = 1283254652490977283
-URL = https://twitter.com/Alargolo1/status/1508755366250692609
+file = t001332
+date = 2018-08-29
+user = filgmartin
+conversation = 896736181198741505
+URL = https://twitter.com/filgmartin/status/1034614925212176384
 
-word count = 45
+word count = 40
 words loading = 4
-factor score = 3
+factor score = 4
 
-Atenção militância. Esqueçam a **pauta** dos **costumes** ! O povo 
-brasileiro é **conservador** , portanto, não caiam em ciladas datadas. A 
-**pauta** dos **costumes** só interessa ao genocida Bolsonaro e sua súcia de 
-milícos e focar na **economia** e apontar o desastre que é esse desgoverno 
+O Merval Pereira quis **tirar** uma com a **cara** do Bolsonaro e perguntou o 
+que estava escrito na mão dele. Bolsonaro mostrou: **DEUS** , FAMÍLIA E 
+BRASIL. Eu nunca **chamei** ele de mito, mas tô quase aderindo ao apelido. 
+HAHAHAHAHAHAHAHAHAHAHA! 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-economia (secondary)
-pauta
+cara
+chamar
+deus
+tirar

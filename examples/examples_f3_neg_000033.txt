@@ -1,20 +1,20 @@
-file = t001907
-date = 2018-10-30
-user = cartacapital
-conversation = 16632084
-URL = https://twitter.com/cartacapital/status/1057259618685063168
+file = t003113
+date = 2019-02-27
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1100800457499443202
 
-word count = 39
+word count = 36
 words loading = 3
-factor score = -3
+factor score = -2
 
-Temos de abandonar o politicamente correto, achar que não ter armas melhora o 
-País, não é isso. Arma de fogo garante a **liberdade** de uma pessoa e 
-outras declaração de Bolsonaro em seu **primeiro** dia como presidente 
-**eleito** - 
+@soares_ud Faço, sim. Olha só , enquanto a família estava homenageando 
+**milicianos** , eu estava presidindo a **CPI** das Milícias e viabilizando a 
+prisão dos principais **chefes** das milícias. Quem não fez muito como dep. 
+federal foi Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-eleger
-liberdade
-primeiro
+chefe (secondary)
+cpi
+miliciano

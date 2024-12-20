@@ -1,19 +1,22 @@
-file = t019658
-date = 2023-02-27
-user = RomeuMeirelles
-conversation = 781251511
-URL = https://twitter.com/RomeuMeirelles/status/1630294867095027712
+file = t015486
+date = 2022-05-30
+user = EdRaposo_
+conversation = 1518965841261441024
+URL = https://twitter.com/EdRaposo_/status/1531297540297170949
 
-word count = 44
-words loading = 2
-factor score = 2
+word count = 49
+words loading = 5
+factor score = 5
 
-Flávio Dino parece querer culpar o Bolsonaro pelas armas ilegais, embora haja 
-fartura de material probatório demonstrando a origem diversa. Mas não 
-consegue esconder que não tem plano para o recolhimento das armas do 
-**tráfico** . Quer **desarmar** o cidadão mas não o bandido. 
+Em 2019 Bolsonaro voltou de viagem aos EUA e disse que houve fraude nas 
+**eleições** e que tinha **vencido** no **primeiro** **turno** . Se cassarem 
+a Kokay pelo tweet dela vão cassar o PR também. Deixem eles falarem! Lutem 
+por **liberdade** , inclusive pelo direito de falar bobagem dos petistas! 
 
 Lemmas in this text that loaded on the factor:
 
-desarmar
-tráfico
+eleição
+liberdade
+primeiro
+turno
+vencer

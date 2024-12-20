@@ -1,23 +1,23 @@
-file = t018980
-date = 2022-12-30
-user = AlbinaSouz1
-conversation = 1578036790446858241
-URL = https://twitter.com/AlbinaSouz1/status/1608438380865687553
+file = t018297
+date = 2022-11-29
+user = ComunismoNunca2
+conversation = 1587424290231697411
+URL = https://twitter.com/ComunismoNunca2/status/1597657183793328130
 
-word count = 17
-words loading = 4
-factor score = 4
+word count = 41
+words loading = 5
+factor score = 5
 
-@jairbolsonaro Obrigada Presidente Bolsonaro, por tudo que fez pelo país! ! 
-Que Deus **abençoe** sua vida grandemente **folded_hands_e** **red_heart_e** 
-**red_heart_e** **red_heart_e** **red_heart_e** **flag_brazil_e** 
-**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
-clapping_hands_light_skin_tone_e clapping_hands_light_skin_tone_e 
-clapping_hands_light_skin_tone_e clapping_hands_light_skin_tone_e 
+@Amaro_Coronel **Boa** tarde Coronel. O senhor está mais calmo? Nossa turma 
+precisa se acalmar. O movimento não é por causa do Bolsonaro e família e sim 
+pela: FRAUDE, Contra o comunismo a empreita, Pelo nossos jovens e pela a nossa 
+NAÇÃO. **oncoming_fist_e** **raising_hands_e** **green_heart_e** 
+**flag_brazil_e** 
 
 Lemmas in this text that loaded on the factor:
 
-abençoar
+bom
 flag_brazil_e
-folded_hands_e
-red_heart_e
+green_heart_e
+oncoming_fist_e
+raising_hands_e

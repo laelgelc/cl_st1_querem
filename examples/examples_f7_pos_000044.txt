@@ -1,21 +1,20 @@
-file = t010858
-date = 2021-03-30
-user = DrRenan38
-conversation = 1233748733059387392
-URL = https://twitter.com/DrRenan38/status/1376742493585338372
+file = t018670
+date = 2022-12-30
+user = economia_cafe
+conversation = 1451336811700228099
+URL = https://twitter.com/economia_cafe/status/1608974356386058240
 
-word count = 30
-words loading = 4
+word count = 41
+words loading = 3
 factor score = 3
 
-Os verdadeiros **conservadores** , **cristãos** e patriotas não deixaram de 
-seguir o Bolsonaro. Somente os traíra abandonaram a batalha em plena 
-**guerra** . Bolsonaro reeleito no primeiro **turno** de 2022 HASHTAG 
-#opovoestacombolsonaro_h 
+@DCM_online Mais um que seguirá os caminhos do **pai** e fugirá do Brasil com 
+medo de ser preso. Se **gritar** pega **ladrão** entre os familiares do 
+presidente @jairbolsonaro, não fica um, meu irmão. Renan Bolsonaro é 
+investigado por tráfico de influência. 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-cristão (secondary)
-guerra
-turno
+gritar
+ladrão
+pai

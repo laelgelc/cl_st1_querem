@@ -1,23 +1,22 @@
-file = t018847
-date = 2022-12-30
-user = marta84908125
-conversation = 1255546253493952514
-URL = https://twitter.com/marta84908125/status/1608910536510672897
+file = t016024
+date = 2022-06-29
+user = mtcosmo1
+conversation = 2951277237
+URL = https://twitter.com/mtcosmo1/status/1542289316830904322
 
-word count = 14
-words loading = 5
-factor score = 5
+word count = 19
+words loading = 6
+factor score = 6
 
-@Jouberth19 Obrigada Presidente Bolsonaro por td, que Deus te **abençoe** e te 
-**proteja** **folded_hands_e** **folded_hands_e** **folded_hands_e** 
-**clapping_hands_e** **clapping_hands_e** **clapping_hands_e** 
-**clapping_hands_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
-**flag_brazil_e** **flag_brazil_e** 
+RT @AnglicaKurten: @jairbolsonaro @govbr **Boa** **noite** querido 
+**Presidente** Jair Messias Bolsonaro! Que Deus te cubra de bênçãos! ! 
+**Amém** ! ! ! **flag_brazil_e** **flag_brazil_e** **red_heart_e** … 
 
 Lemmas in this text that loaded on the factor:
 
-abençoar
-clapping_hands_e
+amém
+bom
 flag_brazil_e
-folded_hands_e
-proteger
+noite
+presidente
+red_heart_e

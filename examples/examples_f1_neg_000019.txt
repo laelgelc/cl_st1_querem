@@ -1,20 +1,17 @@
-file = t015262
-date = 2022-04-29
-user = reporterenato
-conversation = 59150875
-URL = https://twitter.com/reporterenato/status/1519835601914183680
+file = t003858
+date = 2019-05-30
+user = mirelafetter
+conversation = 101003921
+URL = https://twitter.com/mirelafetter/status/1134235873749471233
 
-word count = 49
-words loading = 3
-factor score = -3
+word count = 16
+words loading = 2
+factor score = -2
 
-Estamos juntando as **pessoas** de esquerda, as **pessoas** de bem deste país 
-para tirar da presidência um cidadão que nunca deveria ter chegado lá . Por 
-que ele mente todo santo dia. Ele mente **usando** o nome de Deus, diz Lula 
-sobre Bolsonaro, **chamando** o atual presidente da " fariseu " . 
+RT @causa_operaria: Fora Bolsonaro! **Ato** contra o governo, reúne militantes 
+em **defesa** da liberdade de Lula 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-pessoa
-usar
+ato
+defesa

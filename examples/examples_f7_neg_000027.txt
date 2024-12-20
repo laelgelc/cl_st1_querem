@@ -1,17 +1,19 @@
-file = t007617
-date = 2020-07-30
-user = 89nuncamais
-conversation = 170498695
-URL = https://twitter.com/89nuncamais/status/1288984805724557312
+file = t003203
+date = 2019-02-27
+user = fjlindolfo
+conversation = 723455906
+URL = https://twitter.com/fjlindolfo/status/1100854353672454144
 
-word count = 18
+word count = 42
 words loading = 2
-factor score = -2
+factor score = -1
 
-RT @luizaerundina: Bolsonaro veta projeto do PSOL que prioriza mulheres 
-**chefes** de família para **receber** auxílio emergencial: … 
+@PauloMartins10 A Ilona Sazbó , desarmamentista ferrenha, **assinou** um 
+manifesto que dizia que Bolsonaro não passa de " uma ameaça franca ao nosso 
+**patrimônio** civilizatório primordial " . Não tem um assessor na porra do 
+ministério do Moro para averiguar a biografia dos nomeados? PQP! 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-receber
+assinar
+patrimônio (secondary)

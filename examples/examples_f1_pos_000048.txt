@@ -1,20 +1,21 @@
-file = t016024
-date = 2022-06-29
-user = mtcosmo1
-conversation = 2951277237
-URL = https://twitter.com/mtcosmo1/status/1542289316830904322
+file = t014654
+date = 2022-03-30
+user = R_Considera
+conversation = 1350254146881007619
+URL = https://twitter.com/R_Considera/status/1509311483976499203
 
 word count = 19
-words loading = 4
-factor score = 4
+words loading = 5
+factor score = 5
 
-RT @AnglicaKurten: @jairbolsonaro @govbr Boa **noite** querido Presidente Jair 
-Messias Bolsonaro! Que Deus te cubra de bênçãos! ! **Amém** ! ! ! 
-**flag_brazil_e** **flag_brazil_e** **red_heart_e** … 
+RT @ViddaBR: @jairbolsonaro @govbr **Bom** dia, **presidente** Bolsonaro, Deus 
+lhe **abençoe** . **folded_hands_e** Mais programa excelente do seu governo. 
+**Parabéns** . 
 
 Lemmas in this text that loaded on the factor:
 
-amém
-flag_brazil_e
-noite
-red_heart_e
+abençoar
+bom
+folded_hands_e
+parabéns
+presidente

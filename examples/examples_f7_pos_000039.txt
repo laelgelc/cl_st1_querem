@@ -1,21 +1,19 @@
-file = t011335
-date = 2021-05-30
-user = BalNJr
-conversation = 58025457
-URL = https://twitter.com/BalNJr/status/1398810166473236483
+file = t019888
+date = 2023-02-27
+user = igrPadua
+conversation = 3918646468
+URL = https://twitter.com/igrPadua/status/1629607115445657600
 
-word count = 47
+word count = 32
 words loading = 3
 factor score = 3
 
-@revistatrip @felipeneto É preciso alertar para, especialmente na campanha, 
-que não se tente impor uma agenda cultural progressista. Um dos fatores que 
-elegeu bolsonaro foi uma reação **conservadora** a **pautas** um tanto 
-radicais o que se incompreensível para grande para a população, virando arma 
-da **direita** . 
+@wiegehtsjean @quinellazzo @ggreenwald Pelo **amor** de **deus** **cara** se 
+olha no espelho e fala q o Lula e o Bolsonaro sao politicamente iguais pra vc 
+perceber o quao idiota vc fica 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-pauta
+amor
+cara
+deus

@@ -1,21 +1,24 @@
-file = t003455
-date = 2019-03-30
-user = maasriana
-conversation = 98663806
-URL = https://twitter.com/maasriana/status/1112087574011670533
+file = t002763
+date = 2019-01-30
+user = mentelectro
+conversation = 3004290483
+URL = https://twitter.com/mentelectro/status/1090416640196517889
 
-word count = 31
-words loading = 5
+word count = 49
+words loading = 6
 factor score = 5
 
-Ainda tem uns que vão dizer " aaa mas o bolsonaro **facilitou** a **posse** de 
-**arma** de **fogo** e não o **porte** " como se o brasileiro psicopata doente 
-soubesse a diferença 
+@Rodri__Melo @thiagosantos2 @Jason_Burn @leandroruschel @SaabBrasil @GugaNoblat 
+nossa cultura na verdade é a do **militar** **corrupto** q repassa arma pro 
+**crime** **organizado** e depois faz arminha na rede social em **apoio** ao 
+Bolsonaro falando q " **armar** cidadão civil é a resposta para o **crime** 
+diminuir " ( e q eu ajudei a aumentar ) 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-facilitar
-fogo
-porte
-posse
+apoio
+armar (secondary)
+corrupto
+crime
+militar
+organizar

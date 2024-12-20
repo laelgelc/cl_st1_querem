@@ -1,21 +1,23 @@
-file = t019960
-date = 2023-03-30
-user = CarlosFiorelli2
-conversation = 1488398972947517443
-URL = https://twitter.com/CarlosFiorelli2/status/1641590485549748224
+file = t010586
+date = 2021-03-30
+user = BohnGass
+conversation = 63127680
+URL = https://twitter.com/BohnGass/status/1376955737461624837
 
-word count = 24
+word count = 43
 words loading = 5
 factor score = 4
 
-RT @_Janoninho: O ladrão de joias caçando **carro** **blindado** , sendo que 
-foi ele que **armou** a **população** . Que se defenda sozinho com suas 
-**armas** . F … 
+Com a renúncia dos comandos do Exército / Marinha / Aeronáutica, o **apoio** 
+**armado** a Bolsonaro se resume às **milícias** e parte das PMs estaduais. 
+Por isso, 16 **governadores** alertam, em carta ao Brasil, que autoridades 
+**federais** , " inclusive do Congresso, estão estimulando motins policiais " 
+. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armar
-blindar (secondary)
-carro
-população
+apoio
+armar (secondary)
+federal
+governador
+milícia

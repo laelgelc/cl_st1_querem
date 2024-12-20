@@ -1,18 +1,22 @@
-file = t004158
-date = 2019-06-29
-user = leonorarls
-conversation = 55565358
-URL = https://twitter.com/leonorarls/status/1145060579310284800
+file = t011335
+date = 2021-05-30
+user = BalNJr
+conversation = 58025457
+URL = https://twitter.com/BalNJr/status/1398810166473236483
 
-word count = 21
-words loading = 2
-factor score = 2
+word count = 47
+words loading = 4
+factor score = 4
 
-RT @VillaMarcovilla: Bolsonaro denunciou mais uma armação no **avião** 
-**presidencial** . Além da cocaína teria sido encontrado um livro em seu nome 
-… 
+@revistatrip @felipeneto É preciso alertar para, especialmente na campanha, 
+que não se tente impor uma agenda cultural progressista. Um dos fatores que 
+**elegeu** bolsonaro foi uma reação **conservadora** a **pautas** um tanto 
+radicais o que se incompreensível para grande para a população, virando arma 
+da **direita** . 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-presidencial
+conservador
+direita
+eleger
+pauta

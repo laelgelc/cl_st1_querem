@@ -1,18 +1,20 @@
-file = t009475
-date = 2020-12-30
-user = MmipexRenata
-conversation = 372563666
-URL = https://twitter.com/MmipexRenata/status/1344428099186864129
+file = t010346
+date = 2021-03-30
+user = AndreGT74
+conversation = 82539020
+URL = https://twitter.com/AndreGT74/status/1377046808258564099
 
-word count = 23
-words loading = 3
-factor score = -3
+word count = 22
+words loading = 4
+factor score = -2
 
-@brotherjp21 Vai se instruir! Bolsonaro é **ladrão** , marido de mulher que 
-recebe **dinheiro** de miliciano e é **pai** de bandido! É corrupto! 
+RT @vtorresfreire: **Comandantes** das **forças** **armadas** estão dizendo 
+que Bolsonaro queria dar um **golpe** , algum **golpe** . **GOLPE** . Em 
+resumo, é o recad … 
 
 Lemmas in this text that loaded on the factor:
 
-dinheiro
-ladrão
-pai
+armado
+comandante
+força (secondary)
+golpe (secondary)

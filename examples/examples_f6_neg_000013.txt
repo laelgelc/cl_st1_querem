@@ -1,20 +1,18 @@
-file = t011353
-date = 2021-05-30
-user = neuzaortiz
-conversation = 171315754
-URL = https://twitter.com/neuzaortiz/status/1399125233454432259
+file = t009623
+date = 2020-12-30
+user = VelasquezMeire
+conversation = 1173974579821387777
+URL = https://twitter.com/VelasquezMeire/status/1344297297904095234
 
-word count = 44
+word count = 25
 words loading = 3
-factor score = -3
+factor score = -2
 
-Inúmeros colegas que se dizem **apoiadores** de Moro, que desejam que seja 
-eleito Presidente da República em 2022 , **postam** somente matérias sobre 
-Lula, o ladrão, que perdeu um **dedo** de tanta roubalheira, e Bolsonaro, o 
-psicopata, genocida. Precisamos lotar as redes sociais com @SF_Moro 
+@augustosnunes Pior é o Bolsonaro **traidor** da **pátria** está passeando 
+no litoral e o povo sem vacina! Para de passar **pano** ! O Lula já era+ 
 
 Lemmas in this text that loaded on the factor:
 
-apoiador
-dedo
-postar
+pano
+pátria
+traidor (secondary)

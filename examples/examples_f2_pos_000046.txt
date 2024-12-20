@@ -1,19 +1,21 @@
-file = t012555
-date = 2021-09-29
-user = revistaforum
-conversation = 19593634
-URL = https://twitter.com/revistaforum/status/1443361395291168778
+file = t008042
+date = 2020-08-25
+user = jandira_feghali
+conversation = 39116717
+URL = https://twitter.com/jandira_feghali/status/1298228055060680705
 
-word count = 19
+word count = 46
 words loading = 4
 factor score = 4
 
-URGENTE: Câmara **aprova** **projeto** do PT que dá 50 % de desconto no 
-**gás** de cozinha a famílias **pobres** 
+stop_sign_e URGENTE Gov Bolsonaro planeja ACABAR com o **programa** Farmácia 
+Popular e o abono salarial. E tudo isso para mudar de nome o bolsa-família e 
+mendingar um **aumento** de R$ 57 ! ! ! ! ( Valor **menor** que o de um 
+botijão de **gás** ou de um antibiótico ) . IMAGINE A DESASSISTÊNCIA. 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
+aumento
 gás
-pobre
-projeto
+pequeno
+programa

@@ -1,22 +1,20 @@
-file = t016849
-date = 2022-08-30
-user = julianopsol
-conversation = 937683426882326529
-URL = https://twitter.com/julianopsol/status/1564690525332148224
+file = t002524
+date = 2018-12-30
+user = SturtSilva
+conversation = 217726883
+URL = https://twitter.com/SturtSilva/status/1079483640512499718
 
-word count = 45
-words loading = 5
-factor score = 3
+word count = 22
+words loading = 4
+factor score = 4
 
-Lula ficou preso por 580 dias com a acusação de ter visitado um apartamento 
-que ele nunca **comprou** . A família Bolsonaro **comprou** 51 **imóveis** 
-com dinheiro **vivo** gastando mais de R$ 25 **milhões** nas **últimas** 
-décadas. Quem parece o corrupto dessa estória pra você ? 
+RT @DeputadoFederal: Sobre o " **libera** geral " para a **posse** de **armas** 
+que Bolsonaro vai promover por **decreto** , tenho três considerações: 1 . 
+Qua … 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-imóvel
-milhão (secondary)
-vivo (secondary)
-último
+arma
+decreto
+liberar
+posse

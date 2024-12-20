@@ -1,24 +1,22 @@
-file = t000289
-date = 2018-04-29
-user = SidneiAmaral10
-conversation = 329055569
-URL = https://twitter.com/SidneiAmaral10/status/990594822686892040
+file = t015071
+date = 2022-04-29
+user = Junio_Seranto
+conversation = 116297990
+URL = https://twitter.com/Junio_Seranto/status/1520083867549511680
 
-word count = 47
-words loading = 6
-factor score = 6
+word count = 49
+words loading = 5
+factor score = 5
 
-@rbanffy @papa_creed @policiafederal 1 . Se me chamar pessoalmente de fascista 
-serás processado. 2 . Como **armas** são proibidas para a **população** , 
-acredito que no acampamento dos coitados sem terra ninguém esteja **armado** . 
-3 . Pessoas que votam no Bolsonaro cumprem a **lei** e não **andam** com 
-**armas** sem **porte** . 
+@g1 As brechas criadas pelos **políticos** para não serem ou ficarem presos, 
+são as mesmas que os marginais comuns usam para ficarem livres e continuarem 
+**cometendo** **crimes** . Pensem nisso antes de dizer que o Lula é vítima de 
+um **golpe** e que a família Bolsonaro não é **corrupta** . 
 
 Lemmas in this text that loaded on the factor:
 
-andar
-arma
-armar
-lei
-população
-porte
+cometer
+corrupto
+crime
+golpe
+político

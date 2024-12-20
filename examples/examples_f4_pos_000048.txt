@@ -1,20 +1,23 @@
-file = t015391
-date = 2022-04-29
-user = LRobertoLeitao
-conversation = 711681826201477120
-URL = https://twitter.com/LRobertoLeitao/status/1520158777865089024
+file = t017088
+date = 2022-08-30
+user = sacha_faria
+conversation = 1278684038333685760
+URL = https://twitter.com/sacha_faria/status/1564695499143319553
 
-word count = 40
-words loading = 3
-factor score = 3
+word count = 38
+words loading = 6
+factor score = 6
 
-ENQUETE – OS PINGOS NOS IS – Você **participará** das manifestações de 
-1º de Maio pela liberdade flag_brazil_e? Avenida Paulista receberá apoiadores 
-de Bolsonaro para **ato** em favor da liberdade de **expressão** e em apoio ao 
-indulto concedido ao deputado Daniel Silveira 
+Ei, @tvglobo, cadê os plantões urgentes durante a programação pra noticiar 
+os **escândalos** da **família** Bolsonaro? - 51 **imóveis** **comprados** 
+com R$ 26 **milhões** em **dinheiro** ; - Interferência da Abin na Operação 
+da PF que investiga Renan ( o caçula ) . 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-expressão
-participar
+comprar
+dinheiro
+escândalo
+família
+imóvel
+milhão

@@ -1,18 +1,19 @@
-file = t001585
-date = 2018-09-29
-user = rafaellainette
-conversation = 2372191295
-URL = https://twitter.com/rafaellainette/status/1046134110551494656
+file = t000942
+date = 2018-06-29
+user = Lucas_Fach
+conversation = 975059132
+URL = https://twitter.com/Lucas_Fach/status/1012494359093227521
 
-word count = 23
-words loading = 3
-factor score = -3
+word count = 32
+words loading = 2
+factor score = -2
 
-@smxccly Prefiro mil vezes o PT do que o BOLSONARO. Pelo **amor** de **Deus** 
-não me diz que vais votar nesse **merda** . 
+@Edivar_Prado @MarinaSilva Bolsonaro sempre foi amplamente interrompido nas 
+sabatinas que **participou** . Onde estava a **solidariedade** da Marina? E 
+outra. . . a própria entrevistadora disse que isso é mimimi. Defender 
+comunista não tem desculpa. 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-deus
-merda
+participar
+solidariedade

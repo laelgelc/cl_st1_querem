@@ -1,22 +1,21 @@
-file = t014048
-date = 2022-01-30
-user = Helenasth
-conversation = 75105340
-URL = https://twitter.com/Helenasth/status/1487863715298959373
+file = t003455
+date = 2019-03-30
+user = maasriana
+conversation = 98663806
+URL = https://twitter.com/maasriana/status/1112087574011670533
 
-word count = 48
+word count = 31
 words loading = 5
-factor score = 4
+factor score = 5
 
-No **mês** passado, os cartões exclusivos da família Bolsonaro, — pago 
-pelo povo, — foram usados em **compras** que somaram R$ 1 , 5 **milhão** ( 
-isso o que ele deixa a **imprensa** saber. A outra parte de gasto está em 
-sigilo ) . Bolsonaro passou os **últimos** 30dias de dezembro em férias 
+Ainda tem uns que vão dizer " aaa mas o bolsonaro **facilitou** a **posse** de 
+**arma** de **fogo** e não o **porte** " como se o brasileiro psicopata doente 
+soubesse a diferença 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-imprensa
-milhão (secondary)
-mês
-último
+arma
+facilitar
+fogo
+porte
+posse

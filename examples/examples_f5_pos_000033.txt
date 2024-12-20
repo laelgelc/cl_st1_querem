@@ -1,24 +1,22 @@
-file = t001400
-date = 2018-08-30
-user = Ale1973Castro
-conversation = 43899560
-URL = https://twitter.com/Ale1973Castro/status/1035294617648947205
+file = t012431
+date = 2021-08-30
+user = DeTacilio
+conversation = 1148914912598593537
+URL = https://twitter.com/DeTacilio/status/1432403208383746061
 
-word count = 45
-words loading = 6
-factor score = 5
+word count = 48
+words loading = 4
+factor score = 4
 
-Favorite tweet: Sobre " não é na **bala** que se **resolve** " : Flores não 
-garantem a paz. Que os " santos " que repetem este bordão deixem de **andar** 
-com **carro** **blindado** e seguranças **armados** que passo a acreditar em 
-suas propostas. — Jair Bolsonaro keycap_1_e keycap_7_e ( jairbolsonaro ) 
-August 30 , 2018 
+@radaronline Quando o judiciário, comunistas e toda a **imprensa** se unem 
+para impedir a reeleição de um democrata, Bolsonaro, apoiando um bandido, 
+Lula, ex-presidiário, **corrupto** e ladrão condenado, não vejo futuro para 
+o Brasil, para meus **filhos** e netos, só nos resta rezar a Deus para nos 
+**salvar** 
 
 Lemmas in this text that loaded on the factor:
 
-andar
-armar
-bala
-blindar (secondary)
-carro
-resolver
+corrupto
+filho
+imprensa
+salvar

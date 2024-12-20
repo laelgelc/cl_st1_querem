@@ -1,19 +1,21 @@
-file = t004272
-date = 2019-07-30
-user = osidius
-conversation = 14649317
-URL = https://twitter.com/osidius/status/1156200014059835392
+file = t001608
+date = 2018-09-29
+user = Maav_BR
+conversation = 258178654
+URL = https://twitter.com/Maav_BR/status/1046180400920432641
 
-word count = 27
-words loading = 3
-factor score = -3
+word count = 47
+words loading = 2
+factor score = -2
 
-@KorffQuelli @randolfeap @marcelvanhattem @tarcisiogdf quer que flávio 
-bolsonaro vá pra cadeia, mas o papai não? hahahahaha pelo **amor** de 
-**deus** , vocês não têm vergonha na **cara** ? 
+flag_brazil_e flag_brazil_e CIDADÃO DE BEM keycap_1_e keycap_7_e flag_brazil_e 
+flag_brazil_e vamos deixar os comunistas sem **saída** ! ! 
+backhand_index_pointing_right_e smiling_face_with_sunglasses_e 
+backhand_index_pointing_right_e BOLSONARO NÃO CONFIA NA URNA Na hora de votar 
+escreva seu nome, RG e o número 17 num PAPEL e deixe debaixo da urna, digite 0 
+em todos **espaços** e confirme, como PROTESTO pra enganar os petistas 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-deus
+espaço
+saída

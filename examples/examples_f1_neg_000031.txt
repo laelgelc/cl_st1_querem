@@ -1,18 +1,20 @@
-file = t000572
-date = 2018-05-30
-user = lucassennav8
-conversation = 3314549550
-URL = https://twitter.com/lucassennav8/status/1001946636782882818
+file = t006809
+date = 2020-04-29
+user = gladir
+conversation = 37511473
+URL = https://twitter.com/gladir/status/1255528972789657600
 
-word count = 32
-words loading = 2
+word count = 39
+words loading = 3
 factor score = -2
 
-@JuMagalhaesBH As **pessoas** querem o salvador da pátria, eu vou votar no 
-Bolsonaro mas o **problema** é quem vota nele achando q ele é o salvador do 
-Brasil, não é assim. 
+a insensibilidade humana que vejo em bolsonaro é a que já via antes em muitas 
+**pessoas** religiosas ultra-conservadoras. o mesmo desprezo pela vida. o mesmo 
+desprezo pelo outro. o mesmo **ódio** silencioso em forma de discurso de 
+classe **social** . 
 
 Lemmas in this text that loaded on the factor:
 
 pessoa
-problema
+social (secondary)
+ódio

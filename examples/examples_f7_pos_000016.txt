@@ -1,23 +1,22 @@
-file = t000290
-date = 2018-04-29
-user = claudiodemetri3
-conversation = 2758656195
-URL = https://twitter.com/claudiodemetri3/status/990587758237437953
+file = t015385
+date = 2022-04-29
+user = BrazilViro
+conversation = 1073626896875831296
+URL = https://twitter.com/BrazilViro/status/1520058510377209856
 
-word count = 44
-words loading = 5
+word count = 48
+words loading = 4
 factor score = 4
 
-@Estadao @EstadaoPolitica. Nada mais natural. **Conservadores** , via de regra 
-são **cristãos** e Magno e o seu partido PR, pode consolidar a vitória de 
-Bolsonaro no 1º **turno** . Evangélicos não estão gostando dessas 
-**pautas** esquerdistas, como **aborto** , Sodoma e Gomorra nas TVs e 
-corrupção. . . 
+@marcofeliciano @jairbolsonaro Não é possível que os **evangélicos** 
+acreditam nessas lágrimas do bolsonaro, sinceramente é possível sim pessoas 
+que não conseguem enxergar que o seu **pastor** defende armas invez de 
+defender o **amor** a todos sem **bandeira** partidária e porque são umas 
+marionetes! Cristo ama a todos! 
 
 Lemmas in this text that loaded on the factor:
 
-aborto
-conservador
-cristão (secondary)
-pauta
-turno
+amor
+bandeira
+evangélico
+pastor

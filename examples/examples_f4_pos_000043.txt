@@ -1,19 +1,23 @@
-file = t016495
-date = 2022-07-30
-user = Brasil_caos
-conversation = 1267299624018153474
-URL = https://twitter.com/Brasil_caos/status/1553517307913175043
+file = t017158
+date = 2022-08-30
+user = Henrique_hugo87
+conversation = 1464929072199479296
+URL = https://twitter.com/Henrique_hugo87/status/1564760773037015041
 
-word count = 22
-words loading = 3
-factor score = 3
+word count = 21
+words loading = 6
+factor score = 6
 
-RT @lorenzobmb: Bolsonaro disse que as Forças Armadas e outras instituições 
-fardadas irão **participar** de **ato** eleitoral no 7 de **setembro** , alg 
-… 
+RT @andersonrosavaz: **FAMÍLIA** BOLSONARO check_mark_button_e 107 
+**imóveis** ( oficialmente ) check_mark_button_e 51 **comprado** em 
+**dinheiro** **vivo** check_mark_button_e R$ 13 , 5 **milhões** 
+check_mark_button_e R$ 25 , 6 **milhões** c … 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-participar
-setembro
+comprar
+dinheiro
+família
+imóvel
+milhão
+vivo

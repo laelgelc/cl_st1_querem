@@ -1,18 +1,19 @@
-file = t001263
-date = 2018-08-30
-user = luizguiprado
-conversation = 836801502383640577
-URL = https://twitter.com/luizguiprado/status/1034959117255929856
+file = t009540
+date = 2020-12-30
+user = BentinhoC
+conversation = 1265017082258784257
+URL = https://twitter.com/BentinhoC/status/1344080899357478913
 
-word count = 31
+word count = 46
 words loading = 2
 factor score = -2
 
-Depois do debate os eleitores do Bolsonaro encheram as redes **sociais** da 
-Renata Vasconcellos de palavrões e ameaças curioso pq é a mesma galera que 
-promete **usar** arma com consciência 
+@miriamleitao @dilmabr Bolsonaro nunca foi cristão. Ele só engana a 
+população para conseguir votos. Cristo nunca ensinou a propagar **ódio** e 
+muito menos colocar armas nas mãos das **pessoas** . Um cristão jamais iria 
+tripudiar do sofrimento alheio como bolsonaro faz. Esse é parceiro do demo. 
 
 Lemmas in this text that loaded on the factor:
 
-social
-usar
+pessoa
+ódio

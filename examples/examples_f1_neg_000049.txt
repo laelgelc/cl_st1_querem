@@ -1,19 +1,19 @@
-file = t001522
-date = 2018-09-29
-user = NihilistRT
-conversation = 927729215235031040
-URL = https://twitter.com/NihilistRT/status/1046187169449209856
+file = t010007
+date = 2021-02-27
+user = SimoneMalvezzi1
+conversation = 1148000478007087104
+URL = https://twitter.com/SimoneMalvezzi1/status/1365801242862182408
 
-word count = 37
+word count = 41
 words loading = 2
 factor score = -2
 
-**Abro** o instagram e vejo stories de uma passeata, em minha cidade, de 
-**mulheres** contra o fascismo de Bolsonaro. Porém, ao fundo, vejo bandeiras 
-de partidos comunistas. man_shrugging_light_skin_tone_e Massa de manobra é 
-pouco. Esquerda sempre muito esperta. 
+Bolsonaro está matando com a negação do perigo do vírus microbe_e Tem q 
+responder criminalmente por mandar as **pessoas** tomarem cloroquina, não 
+**usar** máscara e incentivar aglomerações. Hoje um bolsonarista conhecido 
+da minha família faleceu. **Usou** cloroquina e prejudicou o pulmão 
 
 Lemmas in this text that loaded on the factor:
 
-abrir
-mulher
+pessoa
+usar

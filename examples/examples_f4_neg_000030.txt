@@ -1,21 +1,20 @@
-file = t007886
-date = 2020-07-30
-user = LuciPacheco10
-conversation = 1158133431756316677
-URL = https://twitter.com/LuciPacheco10/status/1288868699802406912
+file = t010280
+date = 2021-03-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1376954406999048196
 
-word count = 50
+word count = 41
 words loading = 3
-factor score = -3
+factor score = -2
 
-@LulaOficial Deixe de ser hipocrita seu **ladrão** . Além dessa foto ser uma 
-montagem mal feita, ninguém no Brasil era **feliz** na sua época como 
-presidente. Nós apenas respeitamos a escolha de uma minoria, embora às urnas 
-devem ter **roubado** na época. Agora sim somos um povo **feliz** com 
-Bolsonaro. 
+Os ratos atacam quando estão acuados. A **demissão** dos **comandantes** da 
+Forças Armadas e a incitação a motins policiais são os atestados da 
+radicalização golpista de Bolsonaro. O único remédio p / parar esses crimes 
+contra a **democracia** é o impeachment. 
 
 Lemmas in this text that loaded on the factor:
 
-feliz
-ladrão
-roubar
+comandante
+demissão
+democracia (secondary)

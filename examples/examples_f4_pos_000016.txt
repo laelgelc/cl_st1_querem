@@ -1,21 +1,23 @@
-file = t010762
-date = 2021-03-30
-user = southaferreira
-conversation = 995054095542177792
-URL = https://twitter.com/southaferreira/status/1376940515204214793
+file = t016830
+date = 2022-08-30
+user = PedroRonchi2
+conversation = 1097073004658470913
+URL = https://twitter.com/PedroRonchi2/status/1564561252080390144
 
-word count = 42
-words loading = 4
-factor score = 4
+word count = 27
+words loading = 7
+factor score = 7
 
-BOLSONARO É UM RISCO PARA **DEMOCRACIA** ! Pela primeira vez na história, os 
-três **comandantes** das Forças Armadas, Aeronáutica, Exército e Marinha, 
-entregaram o cargo em **protesto** contra o presidente. Os **comandantes** 
-afirmaram que não vão **participar** de aventuras golpistas com Bolsonaro. 
+A **metade** do **imóveis** milionários da **família** bolsonaro foram 
+**comprados** com **dinheiro** **vivo** . Ah, quem nunca guardou **milhões** 
+debaixo do colchão para **comprar** mansão, né gente? 
 
 Lemmas in this text that loaded on the factor:
 
-comandante
-democracia
-participar
-protesto
+comprar
+dinheiro
+família
+imóvel
+metade
+milhão
+vivo

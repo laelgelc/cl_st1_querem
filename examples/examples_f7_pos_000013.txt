@@ -1,21 +1,19 @@
-file = t002177
-date = 2018-11-29
-user = ninguem_anyone
-conversation = 2700299806
-URL = https://twitter.com/ninguem_anyone/status/1068007685562527744
+file = t016548
+date = 2022-07-29
+user = yarn95
+conversation = 1263690432653012992
+URL = https://twitter.com/yarn95/status/1553044187204943878
 
-word count = 45
+word count = 24
 words loading = 4
 factor score = 4
 
-O capitão não precisa de ministério das mulheres ou dos direitos **humanos** 
-. Isso não tem cara de Jair Bolsonaro. Não tem cara de ser **pauta** um 
-governo **conservador** , de **direita** . Não tem pra quê ministério das 
-mulheres, dos homens, ou das cores de pele. 
+@andersonrosavaz @folha Você realmente acha que o Lula tem medo de debater com 
+Bolsonaro? Pelo **amor** de **deus** , **abra** os **olhos** um pouco. 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-humano
-pauta
+abrir
+amor
+deus
+olho

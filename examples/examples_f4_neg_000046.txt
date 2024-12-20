@@ -1,19 +1,18 @@
-file = t011142
-date = 2021-04-29
-user = catatopper
-conversation = 561543036
-URL = https://twitter.com/catatopper/status/1387869337457922051
+file = t010538
+date = 2021-03-30
+user = CassiaVF
+conversation = 91357138
+URL = https://twitter.com/CassiaVF/status/1377042347121332229
 
-word count = 36
-words loading = 3
-factor score = -3
+word count = 21
+words loading = 2
+factor score = -2
 
-- **Cara** pelo **amor** de **Deus** o Bolsonaro tá literalmente esfaqueando a 
-sua mãe olha ali - Aaaah mas agora eu sou obrigado a votar no Lula? Pelo 
-**amor** de **Deus** gente PT de novo não né 
+RT @AltinoMachado: ' O caos vem aí ' , anunciou Bolsonaro na sexta. Nesta 
+terça, quando **comandantes** das Forças Armadas pediram **demissão** em pro 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-deus
+comandante
+demissão

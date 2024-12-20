@@ -1,17 +1,18 @@
-file = t000242
-date = 2018-04-29
-user = AbimaelNasc71
-conversation = 475021680
-URL = https://twitter.com/AbimaelNasc71/status/990679026883678208
+file = t002997
+date = 2019-01-30
+user = jcd_lucas
+conversation = 753036015426830340
+URL = https://twitter.com/jcd_lucas/status/1090549722958495744
 
-word count = 37
-words loading = 1
-factor score = -1
+word count = 29
+words loading = 2
+factor score = -2
 
-Tudo o PT transforma em atos **ligados** a apoiadores de Bolsonaro! Não somos 
-bandidos, somos pessoas de bem, pais de famílias, trabalhadores que sonham com 
-um Brasil melhor para TODOS, sem distinção! MAIS UMA FARSA DO. . . 
+@ellentristao @CarlosBolsonaro é que a cidade do RJ está maravilhosa, 
+comandada pelas milicias que são parceiras da família Bolsonaro. Então ele 
+pode ficar no twitter divulgando **fake** **news** . 
 
 Lemmas in this text that loaded on the factor:
 
-ligar
+fake
+news

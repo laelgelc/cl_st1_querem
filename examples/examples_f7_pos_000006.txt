@@ -1,21 +1,21 @@
-file = t009215
+file = t009401
 date = 2020-11-29
-user = 3TiagoAlves
-conversation = 2425533967
-URL = https://twitter.com/3TiagoAlves/status/1333180371815501824
+user = swanooy
+conversation = 558781783
+URL = https://twitter.com/swanooy/status/1333160299353018369
 
-word count = 51
-words loading = 4
-factor score = 4
+word count = 44
+words loading = 5
+factor score = 5
 
-O grande **erro** é achar que o Bolsonarismo só existe com Bolsonaro. O 
-Bolsonarismo são os **liberais** , os neoliberais e os **conservadores** . As 
-**pautas** estão passando. . . E irão passar. É hora de organizar o ódio ( 
-sem isso não tem revolução ) e o povo. Vamos fortalecer a luta e o PT. 
+ES é um estado **filha** da **puta** como que o pessoal deixa um **merda** que 
+nem o pazolini vencer? o **cara** tentou impedir o aborto de uma menina de 10 
+anos invadiu hospital a mando do bolsonaro meu **deus** eu odeio esse lugar 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-erro
-liberal
-pauta
+cara
+deus
+filha
+merda
+puto

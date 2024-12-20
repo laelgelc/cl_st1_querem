@@ -1,21 +1,24 @@
-file = t013641
-date = 2021-12-30
-user = Anderso45340484
-conversation = 1257106703226675203
-URL = https://twitter.com/Anderso45340484/status/1476641883170369542
+file = t001746
+date = 2018-10-30
+user = GuilhermeBoulos
+conversation = 762402774260875265
+URL = https://twitter.com/GuilhermeBoulos/status/1057346626333933571
 
-word count = 47
-words loading = 3
-factor score = 3
+word count = 42
+words loading = 6
+factor score = 6
 
-@6Arquivo @JornalOGlobo Coisas que vc paga e não reclama: **cartão** 
-corporativo, viagens da família Bolsonaro, viagem do Dudu Bananinha pra Dubai, 
-picanha e do Exército, viagens do Carluxo com o pai ( o cara é vereador, mas 
-vive em comitivas **presidenciais** ) , **avião** da alegria da Micheque, 
-motociata. . . 
+Bolsonaro foi **eleito** presidente. Mas não imperador. Não pode passar por 
+cima dos valores **democráticos** , da **liberdade** de manifestação e 
+**expressão** . Precisa respeitar a oposição e os **movimentos** **sociais** 
+. Por isso estaremos nas ruas, pelas **liberdades** **democráticas** e por 
+nossos direitos. 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-cartão
-presidencial
+democrático
+eleger
+expressão
+liberdade
+movimento
+social

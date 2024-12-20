@@ -1,20 +1,24 @@
-file = t018884
-date = 2022-12-30
-user = JulioRasec72
-conversation = 1560979195358060544
-URL = https://twitter.com/JulioRasec72/status/1608933599457443840
+file = t017306
+date = 2022-08-30
+user = julianopsol
+conversation = 937683426882326529
+URL = https://twitter.com/julianopsol/status/1564598014496440321
 
-word count = 47
-words loading = 3
-factor score = 3
+word count = 41
+words loading = 6
+factor score = 6
 
-@leandroruschel É só não atacar a **democracia** e pedir **golpe** de Estado 
-q tá tudo bem. Estão careca de saber q a liberdade de **expressão** tem seus 
-limites, aí toda vez q algum extremista ultrapassa esse limite e sofre uma 
-punição é sempre o msm mimimi. 
+Bomba! **Reportagem** mostra que Bolsonaro e sua **família** **compraram** 51 
+**imóveis** em **dinheiro** **vivo** ! Essa prática é comum na lavagem de 
+**dinheiro** vindo de atividades criminosas. Você conhece alguém que 
+**compra** casas em **dinheiro** ? Pois agora conhece várias. HASHTAG 
+#bolsonaronacadeia_h HASHTAG #forabolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-democracia
-expressão
-golpe
+comprar
+dinheiro
+família
+imóvel
+reportagem
+vivo

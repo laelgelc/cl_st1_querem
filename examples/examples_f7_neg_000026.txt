@@ -1,19 +1,19 @@
-file = t007589
-date = 2020-07-29
-user = ManuelaDavila
-conversation = 25858078
-URL = https://twitter.com/ManuelaDavila/status/1288566987510222848
+file = t003149
+date = 2019-02-27
+user = AAljeus
+conversation = 885978806741336064
+URL = https://twitter.com/AAljeus/status/1100875187115954187
 
-word count = 45
-words loading = 2
-factor score = -2
+word count = 46
+words loading = 1
+factor score = -1
 
-Depois de toda luta das e dos parlamentares p / aprovar o PL q prioriza 
-**mães** **chefes** de família p / o recebimento dos R$1200 do auxílio 
-emergencial, Bolsonaro veta o PL, deixando + desamparadas as **mães** e 
-crianças q já estavam em situação de vulnerabilidade. 
+@oiluiz Absurdo intolerável a nomeação dessa figurinha esquerdopata, nossa 
+inimiga, que atacou Bolsonaro de forma suja, defende tudo o que não presta ( 
+drogas, aborto, desarmamento, etc ) e é amiguinha só de gente que não presta 
+( inclusive FHC e o demônio Soros ) . **Demite** já , Moro! HASHTAG 
+#ilonanão_h 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-mãe
+demitir

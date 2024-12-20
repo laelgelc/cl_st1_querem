@@ -1,17 +1,18 @@
-file = t000102
-date = 2018-03-28
-user = ojotacamelo
-conversation = 359295661
-URL = https://twitter.com/ojotacamelo/status/978882342810013696
+file = t002412
+date = 2018-12-30
+user = passeram
+conversation = 154882680
+URL = https://twitter.com/passeram/status/1079507569608134656
 
-word count = 35
-words loading = 1
-factor score = -1
+word count = 21
+words loading = 2
+factor score = -2
 
-Vocês realmente **acham** que o Bolsonaro quer o MST armado até os dentes? Os 
-sindicatos armados? A favela armada? As organizações populares armadas? Os 
-trabalhadores armados? Então, parem de espalhar o mito de que. . . 
+RT @tereza_al: O documentário " A **Facada** no Mito " , que levanta suspeitas 
+de que o " atentado " contra Jair Bolsonaro seria uma **armação** , passou 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-achar
+armação
+facada

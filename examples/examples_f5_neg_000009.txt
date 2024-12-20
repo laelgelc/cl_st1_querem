@@ -1,20 +1,20 @@
-file = t000363
-date = 2018-04-28
-user = pravato
-conversation = 35554727
-URL = https://twitter.com/pravato/status/989996651313065985
+file = t001163
+date = 2018-07-30
+user = estadoir8nico
+conversation = 970896946427826177
+URL = https://twitter.com/estadoir8nico/status/1024010484855529475
 
-word count = 53
+word count = 42
 words loading = 2
 factor score = -2
 
-@CrisMenshova @danialmeidaalm1 @srelillo @blogdojosias @joaoamoedonovo Não 
-tenho medo do Bolsonaro, só acho feio que vocês, militantes do candidato, 
-estejam divulgando FAKE NEWS por aí , dizendo que todos são de esquerda e só 
-o JB é o **salvador** da **pátria** . O Brasil está melhorando até com o 
-Temer, qualquer um bem intencionado é bem-vindo! 
+@fnmarinho @CamilaPed2 @BlogOlhoNaMira @claudioedantas @joaoamoedonovo 
+@partidonovo30 @jairbolsonaro @JanainaDoBrasil O lance do novo30 é **encher** 
+o **saco** de conservadores com proselitismo de pirâmide e a sanha 
+anti-Bolsonaro. Em vez de lutarem por um segundo turno Bolsonaro X Amoedo, 
+preferem se aliar a esquerdistas: 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+encher
+saco

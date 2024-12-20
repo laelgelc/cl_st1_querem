@@ -1,20 +1,18 @@
-file = t011638
-date = 2021-06-29
-user = MarceloFreixo
-conversation = 45870897
-URL = https://twitter.com/MarceloFreixo/status/1409940385338691586
+file = t005735
+date = 2020-01-30
+user = RogerioCorreia_
+conversation = 245392082
+URL = https://twitter.com/RogerioCorreia_/status/1222677905597259776
 
-word count = 41
-words loading = 3
-factor score = -2
+word count = 40
+words loading = 1
+factor score = -1
 
-A **CPI** da **Covid** já **recebeu** os dados da quebra do sigilo fiscal do 
-empresário Francisco Maximiano, sócio da Precisa Medicamentos, que 
-intermediou a compra das vacinas da Covaxin. É preciso investigar as 
-relações de Maximiano com a família Bolsonaro. 
+Só pode ser rabo preso do Bolsonaro. **Demite** e readmite por 369 reais a 
+menos. O que este rapaz, amigo da família, ameaçou contar? Rachadinha, 
+Queiroz, Micheque. . . Após apelo de filhos de Bolsonaro, 
+ex-secretário-executivo ganha novo cargo na Casa Civil 
 
 Lemmas in this text that loaded on the factor:
 
-covid (secondary)
-cpi
-receber
+demitir

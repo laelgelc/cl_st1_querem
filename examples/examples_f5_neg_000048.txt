@@ -1,19 +1,17 @@
-file = t007099
-date = 2020-05-30
-user = arfatop
-conversation = 290641703
-URL = https://twitter.com/arfatop/status/1266860324248002562
+file = t015444
+date = 2022-04-29
+user = hmarcus65
+conversation = 1352290555804459010
+URL = https://twitter.com/hmarcus65/status/1519877377354047488
 
-word count = 45
+word count = 18
 words loading = 2
 factor score = -2
 
-AMANHÃ PRAÇA DOS 3 PODERES:Vamos lutar, **CHEGA** ! HASHTAG #somos57milhoes_h 
-D BRASILEIROS ESCOLHERAM PARA PRESENTE DO BRASIL JAIR MESSIAS BOLSONARO? " . . 
-. Brava gente brasileira! Longe vá temor servil Ou ficar a **Pátria** livre 
-Ou morrer pelo Brasil Ou ficar a **Pátria** livre Ou morrer pelo Brasil 
+@JosuePatriota BOLSONARO FARISEU? QUEM SÃO AS PESSOAS QUE **POSTAM** BOLSONARO 
+FARISEU? SÓ PODE SER **ESSE** POVO COMUNISTA! 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-pátria
+esse
+postar

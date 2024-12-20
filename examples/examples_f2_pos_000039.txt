@@ -1,21 +1,25 @@
-file = t013437
-date = 2021-11-29
-user = pcdob_oficial
-conversation = 54312869
-URL = https://twitter.com/pcdob_oficial/status/1465437804264144899
+file = t012482
+date = 2021-08-30
+user = carmelonetobr
+conversation = 3662771592
+URL = https://twitter.com/carmelonetobr/status/1432408138213380096
 
-word count = 38
-words loading = 4
+word count = 45
+words loading = 7
 factor score = 4
 
-O novo **benefício** do governo Bolsonaro tem caráter eleitoreiro e exclui 
-**milhões** de brasileiros. Deputados reiteram importância de um **programa** 
-consolidado, como o Bolsa Família, diante de notícias sobre **aumento** da 
-fome entre a população. Leia: HASHTAG #forabolsonaro_h 
+Somente o **auxílio** **emergencial** 2020 / 21 **pagou** o equivalente a 13 
+anos de Bolsa Família. O governo **federal** salvou **empregos** , matou a 
+fome de **milhões** de brasileiros e movimentou bilhões na **economia** 
+durante o lockdown dos governadores. Apesar das dificuldades, ninguém ficou 
+para trás. 
 
 Lemmas in this text that loaded on the factor:
 
-aumento
-benefício
-milhão
-programa
+auxílio
+economia (secondary)
+emergencial
+emprego
+federal (secondary)
+milhão (secondary)
+pagar

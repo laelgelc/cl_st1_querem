@@ -1,18 +1,22 @@
-file = t019121
-date = 2022-12-30
-user = RoseCarvalhoTe1
-conversation = 1059486243195678721
-URL = https://twitter.com/RoseCarvalhoTe1/status/1608964368376696832
+file = t013727
+date = 2021-12-30
+user = LevialfeuLevita
+conversation = 1434568397459791876
+URL = https://twitter.com/LevialfeuLevita/status/1476595777904562179
 
-word count = 31
-words loading = 2
-factor score = 2
+word count = 41
+words loading = 5
+factor score = 5
 
-E vai ficar tudo por isso mesmo? Havia realmente uma **bomba** no aeroporto de 
-Brasília para tentar explodir o **avião** com o Bolsonaro e família, e 
-ninguém vai fazer nada? 
+@leandromcfc @NadaOpinador @augustodeAB Bolsonaro tinha bem mais carisma, se 
+quiser que Moro vá ao **segundo** **turno** manda ele falar de outras 
+**pautas** econômicas e **sociais** , e que ele age como alguém de **pauta** 
+**conservadora** , será que o @SF_Moro conseguirá dessa vez? 
 
 Lemmas in this text that loaded on the factor:
 
-avião
-bomba
+conservador
+pauta
+segundo
+social
+turno

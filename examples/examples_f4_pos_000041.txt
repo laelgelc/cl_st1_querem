@@ -1,18 +1,24 @@
-file = t016602
-date = 2022-07-30
-user = sonia_divinaa
-conversation = 42271371
-URL = https://twitter.com/sonia_divinaa/status/1553510271578144768
+file = t017250
+date = 2022-08-30
+user = digoroscoe
+conversation = 2724654221
+URL = https://twitter.com/digoroscoe/status/1564720876146368512
 
-word count = 16
-words loading = 3
-factor score = 3
+word count = 32
+words loading = 6
+factor score = 6
 
-RT @IsmaelToledo04 : Bolsonaro diz que Forças Armadas **participarão** de 
-**ato** pró-governo de 7 de **setembro** Durante dis … 
+@paulo12950317 @gziller @LulaOficial Não tem **dinheiro** money_with_wings_e 
+money_with_wings_e money_with_wings_e na carteira. A **inflação** do governo 
+Bolsonaro não deixa sobrar nada. **Dinheiro** **vivo** só a **família** 
+Bolsonaro tem mesmo. . . **compraram** só 51 **imóveis** em casa 
+thinking_face_e thinking_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-participar
-setembro
+comprar
+dinheiro
+família
+imóvel
+inflação
+vivo

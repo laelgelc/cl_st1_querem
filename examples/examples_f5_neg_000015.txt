@@ -1,19 +1,20 @@
-file = t000684
-date = 2018-05-30
-user = BETOLUIZROSA66
-conversation = 48801408
-URL = https://twitter.com/BETOLUIZROSA66/status/1001657014941048836
+file = t001959
+date = 2018-10-30
+user = Lacerda_Marcus
+conversation = 326258645
+URL = https://twitter.com/Lacerda_Marcus/status/1056698718173454338
 
-word count = 45
+word count = 51
 words loading = 2
 factor score = -2
 
-Se issso não for uma encenação teatral, eu fico abismado com esse 25 % de 
-pessoas que acreditam e transformaram esse sr o tal Jair Bolsonaro em um mito 
-**salvador** da **pátria** santificado e amado quase um Adolf Hitler! ! ! 
-Realmente to com medo do meu. . . 
+@eufemica @laiisspfc @marcelosfc_tjs @RoYamasaki @FrauOMuller @CaioHoss 
+@bolsonaro_1 Moça, sai da sua bolha. Não há Só **gays** morrendo, há pais 
+de família, grávidas, adolescentes na porta da a sociedade está padecendo e 
+vocês realmente acham que são os injustiçados! Chegam a ser egoístas! Vá 
+ser **feliz** , ninguém quer saber da sua vida particular. 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+feliz
+gay

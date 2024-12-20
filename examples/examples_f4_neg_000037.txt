@@ -1,20 +1,20 @@
-file = t010118
-date = 2021-02-27
-user = nadia_patria
-conversation = 989198300132921344
-URL = https://twitter.com/nadia_patria/status/1364679133184286720
+file = t010378
+date = 2021-03-30
+user = PedroBeneditoM1
+conversation = 1253737524473860098
+URL = https://twitter.com/PedroBeneditoM1/status/1377046367030362115
 
-word count = 38
-words loading = 3
-factor score = -3
+word count = 40
+words loading = 2
+factor score = -2
 
-@LulaOficial @emersonSVPT Oh, babaca com eterna **cara** de cachaceiro, vc só 
-está solto pq o " amigo do amigo do meu **pai** " o soltou. Mas vc não deixou 
-de ser **ladrão** . E opinião de **ladrão** não vale. HASHTAG 
-#bolsonarotemrazao_h 
+@gabrieladelman @fernandomolica líderes do Congresso pedem impeachment de 
+Bolsonaro; um novo pedido, que é pluripartidário, terá como alegação 
+principal a interferência de Bolsonaro nas Forças Armadas após a 
+**demissão** dos três **comandantes** da instituição e do ministro da 
+Defesa 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-ladrão
-pai
+comandante
+demissão

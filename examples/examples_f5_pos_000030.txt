@@ -1,22 +1,22 @@
-file = t001493
-date = 2018-08-30
-user = MorenoJose0809
-conversation = 992558884782034949
-URL = https://twitter.com/MorenoJose0809/status/1035274034873884672
+file = t013211
+date = 2021-10-29
+user = JosAntn70295004
+conversation = 1301559840075116549
+URL = https://twitter.com/JosAntn70295004/status/1454057754407100418
 
-word count = 29
-words loading = 6
-factor score = 5
+word count = 43
+words loading = 5
+factor score = 4
 
-@Roberto_SP @andreazzaeditor Alckmin: " **armas** não **resolvem** o problema 
-da violência e segurança " Bolsonaro: " quando Alckmin deixar de **andar** de 
-**carro** **blindado** e seguranças **armados** , eu passo a acreditar nele " 
+Centrão **armando** pra tornar Jair Rachadinha Bolsonaro **senador** 
+vitalício! ! É zombar demais com a cara da população. É o **grande** 
+**problema** do pais! Não são os 606 mil mortos por covid, desemprego 
+recorde, inflação, fome, **corrupção** etc. Bolsonaro tem que ser preso 
 
 Lemmas in this text that loaded on the factor:
 
-andar
-arma
-armar
-blindar (secondary)
-carro
-resolver
+armar (secondary)
+corrupção
+grande
+problema
+senador

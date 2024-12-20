@@ -1,22 +1,23 @@
-file = t002465
-date = 2018-12-30
-user = rosemarywarde
-conversation = 121257965
-URL = https://twitter.com/rosemarywarde/status/1079194351400570881
+file = t018949
+date = 2022-12-30
+user = PatriotaLucelia
+conversation = 64926882
+URL = https://twitter.com/PatriotaLucelia/status/1608936355547209729
 
-word count = 45
+word count = 40
 words loading = 5
-factor score = 5
+factor score = 4
 
-Por falta de **arma** de **fogo** , os ex maridos, namorados estão matando as 
-mulheres a facada, ateando **fogo** , jogando de janelas, estrangulando, 
-Bolsonaro e Moro vão **facilitar** , as mulheres vão morrer com **tiro** ! ! 
-O BRASIL É UM PAÍS MACHISTA E IGNORANTE! NÃO AO **ARMAMENTO** ! ! 
+@LuizCamargoVlog A " **democracia** " q os **POLÍTICOS** da " direita " 
+defenderam! As Forças Armadas só agirão qdo a maioria esquecer de 
+**político** e pedir apenas **Intervenção** **militar** ! O que eu vi muitos 
+carros de sons gritando " **Intervenção** **federal** " , **Intervenção** 
+com Bolsonaro " 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-armamento
-facilitar
-fogo
-tiro
+democracia
+federal
+intervenção (secondary)
+militar
+político

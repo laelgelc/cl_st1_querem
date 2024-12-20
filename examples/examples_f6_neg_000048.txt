@@ -1,17 +1,19 @@
-file = t004164
-date = 2019-06-29
-user = Luis5Henrique
-conversation = 1516971492
-URL = https://twitter.com/Luis5Henrique/status/1145058245263929347
+file = t000363
+date = 2018-04-28
+user = pravato
+conversation = 35554727
+URL = https://twitter.com/pravato/status/989996651313065985
 
-word count = 19
-words loading = 2
-factor score = -2
+word count = 53
+words loading = 1
+factor score = -1
 
-Bolsonaro, quem diria, na verdade é comunista. Daqueles de andar de mãos 
-dadas, com **bandeira** **vermelha** por detrás. 
+@CrisMenshova @danialmeidaalm1 @srelillo @blogdojosias @joaoamoedonovo Não 
+tenho medo do Bolsonaro, só acho feio que vocês, militantes do candidato, 
+estejam divulgando FAKE NEWS por aí , dizendo que todos são de esquerda e só 
+o JB é o salvador da **pátria** . O Brasil está melhorando até com o Temer, 
+qualquer um bem intencionado é bem-vindo! 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-vermelho
+pátria

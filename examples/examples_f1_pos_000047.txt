@@ -1,21 +1,21 @@
-file = t016238
-date = 2022-07-30
-user = joana_urban
-conversation = 1126197830102790144
-URL = https://twitter.com/joana_urban/status/1553493571805892608
+file = t014655
+date = 2022-03-30
+user = ViddaBR
+conversation = 912313034
+URL = https://twitter.com/ViddaBR/status/1509100301365743616
 
-word count = 20
-words loading = 4
-factor score = 4
+word count = 17
+words loading = 5
+factor score = 5
 
-@FlavioBolsonaro @Magnlia72693633 @tarcisiogdf @jairbolsonaro Deus **Abençoe** 
-as campanhas de Jair Messias Bolsonaro para Presidente e o Tarcísio para 
-Governador **folded_hands_e** **flag_brazil_e** smiling_face_with_hearts_e 
-**clapping_hands_e** 
+@jairbolsonaro @govbr **Bom** dia, **presidente** Bolsonaro, Deus lhe 
+**abençoe** . **folded_hands_e** Mais programa excelente do seu governo. 
+**Parabéns** . 
 
 Lemmas in this text that loaded on the factor:
 
 abençoar
-clapping_hands_e
-flag_brazil_e
+bom
 folded_hands_e
+parabéns
+presidente

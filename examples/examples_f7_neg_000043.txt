@@ -1,19 +1,18 @@
-file = t010620
-date = 2021-03-30
-user = ZellFlorizel
-conversation = 245387166
-URL = https://twitter.com/ZellFlorizel/status/1376947445972791305
+file = t004603
+date = 2019-08-30
+user = Amadeu2310
+conversation = 1114140029172031490
+URL = https://twitter.com/Amadeu2310/status/1167279261578870784
 
-word count = 38
-words loading = 2
-factor score = -2
+word count = 50
+words loading = 1
+factor score = -1
 
-General Edson Pujol, veja backhand_index_pointing_down_e " Fabrício Queiroz, 
-amigo da família Bolsonaro e ex-assessor de Flávio **recebeu** mais de R$ 400 
-mil em transferências bancárias, durante anos, efetuadas por Adriano da 
-Nóbrega apontado como **chefe** da milícia ' escritório do crime ' . " 
+Flávio Bolsonaro, eu votei em você e por isso tenho direto de cobra -lo. 
+Porque você não **assinou** a CPI da Lava Toga? Estou chegando a conclusão 
+que você está com o rabo preso. Pode ter certeza que nunca mais terá o meu 
+voto e da minha família ( uns 20 votos ) . 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-receber
+assinar

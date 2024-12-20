@@ -1,25 +1,24 @@
-file = t007791
-date = 2020-07-30
-user = AlexandreFortu9
-conversation = 3362922377
-URL = https://twitter.com/AlexandreFortu9/status/1288961004735430658
+file = t006268
+date = 2020-03-30
+user = tuliogadelha
+conversation = 71456987
+URL = https://twitter.com/tuliogadelha/status/1244739939092348931
 
-word count = 45
+word count = 46
 words loading = 7
 factor score = 6
 
-Brasil afundará na miséria, se depender de Guedes e Bolsonaro. O do fim do 
-**auxílio** **emergencial** em **setembro** vai fragilizar as camadas mais 
-**pobres** da população brasileira. Para evitar o desastre, PT propõe Mais 
-Bolsa Família, um novo **programa** de **renda** **básica** para o 
-pós-pandemia. 
+Senado **aprovou** a **renda** **básica** **emergencial** de até R$ 1 , 2 mil 
+por família. Só falta Bolsonaro sancionar e **pagar** . Atualmente, há 38 
+**milhões** na informalidade e 11 , 6 **mi** de desempregados. Este recurso é 
+pouco, mas ajudará muitas famílias em meio à crise do Covid-19 . 
 
 Lemmas in this text that loaded on the factor:
 
-auxílio
+aprovar
 básico
+covid
 emergencial
-pobre
-programa
+milhão (secondary)
+pagar
 renda
-setembro (secondary)

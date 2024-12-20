@@ -1,21 +1,22 @@
-file = t005371
-date = 2019-12-29
-user = JornalBSM
-conversation = 1201864404855377922
-URL = https://twitter.com/JornalBSM/status/1211404514634477573
+file = t008696
+date = 2020-10-30
+user = guimaraes13PT
+conversation = 49696756
+URL = https://twitter.com/guimaraes13PT/status/1322200520346488833
 
-word count = 30
+word count = 46
 words loading = 5
 factor score = 5
 
-**Registros** de **armas** **aumentaram** 23 % ; homicídios caíram 22 % . Com 
-base nesses números, presidente vai solicitar ao Congresso que amplie a 
-**posse** e o **porte** de **armas** para os brasileiros. 
+**Oposição** segue em obstrução **política** em defesa do pagamento do 
+auxílio emergencial de R$ 600 , 00 . Não vamos aceitar redução de valor, 
+Bolsonaro não pode **cometer** este **crime** com as famílias brasileiras. 
+Faço um desafio ao Bolsonaro, **tente** passar um mês com R$ 300 , 00 ! 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-aumentar
-porte
-posse
-registro
+cometer
+crime
+oposição
+político
+tentar

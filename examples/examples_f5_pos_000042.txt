@@ -1,22 +1,21 @@
-file = t019782
-date = 2023-02-27
-user = Anderso75409634
-conversation = 1498120284431425537
-URL = https://twitter.com/Anderso75409634/status/1630110561638940673
+file = t010499
+date = 2021-03-30
+user = IldenilsonM
+conversation = 2434608192
+URL = https://twitter.com/IldenilsonM/status/1377043346741469189
 
-word count = 51
+word count = 37
 words loading = 4
 factor score = 4
 
-@alsartes @peterjordan100 Qualquer pode comprar uma **arma** , basta querer. O 
-governo do Bolsonaro defendia o **porte** , porém, com segurança e nunca foi 
-de **facilitar** o **acesso** . Você tem ideia de quantos jovens e pais de 
-família morreram vítimas de assalto? " Eu tô cansado de eyes_e jovens 
-morrendo, é só pra tomar beer_mug_e " 
+@LulaOficial não tem nada a dizer sobre o " **golpe** " pretendido por 
+Bolsonaro? Nada a dizer sobre os defensores da **democracia** , os 
+**Militares** , que descobriram do nada que Bolsonaro faz uso **político** das 
+Forças Armadas? Silêncio sintomático. . . 
 
 Lemmas in this text that loaded on the factor:
 
-acesso
-arma
-facilitar
-porte
+democracia
+golpe
+militar
+político

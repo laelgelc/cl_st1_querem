@@ -1,20 +1,18 @@
-file = t004826
-date = 2019-09-29
-user = brucabrini
-conversation = 29392539
-URL = https://twitter.com/brucabrini/status/1178404053778358274
+file = t003919
+date = 2019-05-30
+user = Dezenov
+conversation = 56488485
+URL = https://twitter.com/Dezenov/status/1134223404532490241
 
-word count = 48
-words loading = 3
-factor score = -3
+word count = 18
+words loading = 2
+factor score = -2
 
-@v1_jju O próprio Bolsonaro já declarou que família é um conceito que 
-envolve um homem e uma mulher e filhos, ou seja, tecnicamente ele não 
-reconhece que os gays tem os mesmos **direitos** . Os caras tem **liberdade** 
-de **apoio** , mas não dá pra fingir que não causa estranheza. 
+RT @LulaMarques: Bolsonaro é vizinho de **milicianos** . Michelque tem **tio** 
+**miliciano** . Flávio Bolsonaro contrata **milicianos** . Família de 
+milician … 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-direito
-liberdade
+miliciano
+tio

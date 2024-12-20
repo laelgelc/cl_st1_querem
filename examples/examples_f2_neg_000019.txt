@@ -1,19 +1,17 @@
-file = t013033
-date = 2021-10-30
-user = Brito18glaucia
-conversation = 1450946184118476806
-URL = https://twitter.com/Brito18glaucia/status/1454533197182783490
+file = t001702
+date = 2018-09-29
+user = biAhweRTher
+conversation = 15447164
+URL = https://twitter.com/biAhweRTher/status/1046171155365867522
 
-word count = 45
+word count = 18
 words loading = 2
 factor score = -2
 
-@Ajveiga2 Verdade **amigo** . Muitas pessoas **acham** que tudo seria resolvido 
-assim que o Presidente Bolsonaro foi eleito. Mas ele sempre avisando que não 
-era só tirar a Esquerda da presidência do Brasil e sim Lutar Contra o Sistema 
-COMUNISTA E SOCIALISTAS implantado no Brasil 
+Quando não tem **fake** **news** nem os robôs. Quando precisam gente de 
+verdade, a família coiso fracassa. 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-amigo
+fake
+news

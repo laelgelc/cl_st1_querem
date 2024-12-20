@@ -1,24 +1,22 @@
-file = t017073
-date = 2022-08-30
-user = Marcelo88965782
-conversation = 1520565175639814145
-URL = https://twitter.com/Marcelo88965782/status/1564750058733506560
+file = t020254
+date = 2023-03-30
+user = Antonio08809902
+conversation = 1551266279205605376
+URL = https://twitter.com/Antonio08809902/status/1641450720829505536
 
-word count = 47
-words loading = 6
-factor score = -4
+word count = 54
+words loading = 4
+factor score = -3
 
-@GeneralMourao @jairbolsonaro Deus dê juízo ao povo brasileiro para 
-**reeleger** o Presidente Bolsonaro no 1° turno e também renovar o Congresso 
-Nacional, estamos **escolhendo** entre a **liberdade** da **democracia** e a 
-**ditadura** do crime organizado. Gaúchos mandem o General Mourão para o 
-**Senado** Federal, façam pelo Brasil. 
+@adalexgois @FlavioDino Aí vem a pergunta, o Lula fugiu, encarou de frente as 
+**armações** das delacões e a prisão, sai da cela da PF sem **carro** 
+**blindado** ? Então sabe qual a diferença, homens de verdade encaram de 
+frente os obstáculos, homens de verdade não tem medo e não fogem e não 
+escondem **joias** ! 
 
 Lemmas in this text that loaded on the factor:
 
-democracia (secondary)
-ditadura
-escolher
-liberdade
-reeleger
-senado (secondary)
+armação (secondary)
+blindar
+carro
+joia

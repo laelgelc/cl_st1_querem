@@ -1,22 +1,23 @@
-file = t017265
-date = 2022-08-30
-user = jairbolsonaro
-conversation = 128372940
-URL = https://twitter.com/jairbolsonaro/status/1564554418611257345
+file = t016375
+date = 2022-07-30
+user = QuebrandoOTabu
+conversation = 283230411
+URL = https://twitter.com/QuebrandoOTabu/status/1553478035189379072
 
-word count = 42
+word count = 43
 words loading = 5
-factor score = 4
+factor score = 5
 
-- Os **recordes** não param de ser batidos: a Polícia Rodoviária Federal 
-apreendeu 250 kg de cocaína em Piraju ( SP ) . - Apenas nessa, R$ 44 
-**milhões** de perda para o crime **organizado** . - Mais um golpe ao crime 
-**organizado** , **vida** **salvas** e famílias preservadas. 
+Bolsonaro flexibilizou o **acesso** a **armas** sob o argumento de que estaria 
+**armando** o " **cidadão** de bem " contra o crime. A realidade é o oposto 
+disso. O jornalista @rafapsoares mostra como **armamento** pesado adquirido 
+legalmente por CACs foi pra mão do crime. yarn_e 
+backhand_index_pointing_down_e 
 
 Lemmas in this text that loaded on the factor:
 
-milhão (secondary)
-organizar
-recorde
-salvar
-vida
+acesso
+arma
+armamento
+armar
+cidadão

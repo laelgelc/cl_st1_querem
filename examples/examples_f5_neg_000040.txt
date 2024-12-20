@@ -1,19 +1,18 @@
-file = t006646
-date = 2020-04-29
-user = parox40
-conversation = 17654280
-URL = https://twitter.com/parox40/status/1255537584748535809
+file = t013091
+date = 2021-10-30
+user = roselipadua1
+conversation = 1425104483755954182
+URL = https://twitter.com/roselipadua1/status/1454568685998379018
 
-word count = 38
+word count = 33
 words loading = 2
 factor score = -2
 
-@joaoamoedonovo Pois é , quem votou no Capitão Messias enviado por Jesus 
-deveria estar arrependido de não ter votado no bacharel em Direito, Mestre em 
-Economia e Doutor em Filosofia que não se considerava o **salvador** da 
-**pátria** . 
+@helder3571 @AMAROK_LUPPUS Quem dava uma de populista era o carniça. Bolsonaro 
+é amado, respeitado, honesto muito diferente do pingaiada ladrão. É a Veja 
+que está de novo **enchendo** o **saco** . Para com decência. 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+encher
+saco

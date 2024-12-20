@@ -1,20 +1,22 @@
-file = t014406
-date = 2022-02-27
-user = GalloMontella
-conversation = 3343334141
-URL = https://twitter.com/GalloMontella/status/1496856273350172676
+file = t017857
+date = 2022-10-30
+user = MairaMRT
+conversation = 2807920131
+URL = https://twitter.com/MairaMRT/status/1586852426451132418
 
-word count = 38
-words loading = 3
-factor score = 2
+word count = 44
+words loading = 4
+factor score = 4
 
-@defensesentinel Enquanto os cidadãos comuns ucranianos lutam bravamente com 
-os recursos que detêm, inclusive, **desarmando** uma mina terrestre sem nenhum 
-EPI, o omisso e covarde Presidente Jair Bolsonaro descansa no Guarujá 
-**gastando** o nosso money_bag_e via **cartão** corporativo. 
+Tarcísio foi **eleito** para governar São Paulo ao gosto de Bolsonaro e da 
+**extrema** **direita** . Apoiado no **conservadorismo** paulista, estará c / 
+patrões e **direita** p / impor mais ataques à classe trabalhadora. Estaremos 
+na linha de frente para derrotá -los c / a força nossa luta HASHTAG 
+#eleicoes2022_h 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-desarmar
-gastar (secondary)
+conservadorismo
+direita
+eleger
+extremo

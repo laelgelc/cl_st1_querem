@@ -1,23 +1,23 @@
-file = t016975
-date = 2022-08-30
-user = taliriapetrone
-conversation = 103704608
-URL = https://twitter.com/taliriapetrone/status/1564602377944145920
+file = t012449
+date = 2021-08-30
+user = alexanfsls
+conversation = 1352020958891151371
+URL = https://twitter.com/alexanfsls/status/1432399902768762883
 
-word count = 36
-words loading = 6
-factor score = 4
+word count = 57
+words loading = 5
+factor score = 5
 
-O dia mal começou e temos dois **escândalos** **envolvendo** a família 
-Bolsonaro: - **Compra** de 51 **imóveis** com dinheiro **VIVO** - Abin 
-atrapalhando investigações que **envolvem** Jair Renan É a família da 
-rachadinha e da **corrupção** escancarada! 
+@Leandro71402485 @RenaldyOliveira @Rconstantino @diegoreporter Bom, o único 
+chefe de executivo que vi falar e agir a favor, e que não vi fazer 
+**decretos** ou projetos de lei contra a liberdade individual, contra a vida, 
+contra a **posse** e o **porte** de **armas** de **fogo** , contra a 
+propriedade privada e contra a livre iniciativa, foi o Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-corrupção
-envolver
-escândalo (secondary)
-imóvel
-vivo (secondary)
+arma
+decreto
+fogo
+porte
+posse

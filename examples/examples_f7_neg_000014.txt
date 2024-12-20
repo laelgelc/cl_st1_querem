@@ -1,17 +1,16 @@
-file = t003112
-date = 2019-02-27
-user = tialilucas
-conversation = 1088629745598771200
-URL = https://twitter.com/tialilucas/status/1100894166966517760
+file = t001813
+date = 2018-10-30
+user = fuckinmadhatter
+conversation = 187687371
+URL = https://twitter.com/fuckinmadhatter/status/1057417202322886656
 
-word count = 19
-words loading = 2
-factor score = -2
+word count = 14
+words loading = 1
+factor score = -1
 
-RT @MarceloFreixo: @soares_ud Faço, sim. Olha só , enquanto a família estava 
-homenageando **milicianos** , eu estava presidindo a **CPI** das Milícia … 
+Segurança da UFMG é **demitido** após postar ameaças e levar armas ao 
+campus 
 
 Lemmas in this text that loaded on the factor:
 
-cpi
-miliciano
+demitir

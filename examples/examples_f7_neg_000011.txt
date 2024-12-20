@@ -1,20 +1,18 @@
-file = t001700
-date = 2018-09-29
-user = CoradoCamara
-conversation = 1223226776
-URL = https://twitter.com/CoradoCamara/status/1046007593557270528
+file = t001093
+date = 2018-07-30
+user = leolarezende
+conversation = 2159446303
+URL = https://twitter.com/leolarezende/status/1024056522786177024
 
-word count = 46
-words loading = 2
-factor score = -2
+word count = 43
+words loading = 1
+factor score = -1
 
-@92Lucasdoido Reitero. Ladrão, traficante, **miliciano** e td tipo de 
-criminoso da sociedade, principalmente carioca, vota em Jair Bolsonaro, pois 
-ele é corrupto da vez. . . Respeito e **mãe** digna é vc, @92lucasdoido, q 
-parece não ter! Se quiser resolver como homem qualquer questão estou ás 
-ordens. 
+o @augustosnunes peca muito quando diz que comunista é uma espécie em 
+extinção no mundo. Se fosse assim, o mundo não estaria esse caos, essa 
+mediocridade na mídia / jornalismo. Não teria tanto Gado ideológico e os 
+espaços **ocupados** que regem nações. HASHTAG #ospingosnosis_h 
 
 Lemmas in this text that loaded on the factor:
 
-miliciano
-mãe
+ocupar

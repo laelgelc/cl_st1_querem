@@ -1,22 +1,18 @@
-file = t011523
-date = 2021-05-30
-user = fiadabionce
-conversation = 60044342
-URL = https://twitter.com/fiadabionce/status/1399017662685093891
+file = t020007
+date = 2023-03-30
+user = JoseOliveira11_
+conversation = 1607472281491488769
+URL = https://twitter.com/JoseOliveira11_/status/1641589013285928966
 
-word count = 52
-words loading = 4
+word count = 13
+words loading = 3
 factor score = 3
 
-alimentos. Jesus è o **extremo** oposto sim de Bolsonaro, mas infelizmente 
-colocando um corpo nu na frente de uma cruz católica a gente não vai 
-conseguir se aproximar dos **cristãos** não. E só quem ganha é o 
-**conservadorismo** de **direita** que reforça uma imagem que não é a real 
-da esquerda 
+RT @SigaGazetaBR: **Apoiadores** de Bolsonaro **gritam** " Lula, **ladrão** " 
+no aeroporto de Brasília 
 
 Lemmas in this text that loaded on the factor:
 
-conservadorismo
-cristão (secondary)
-direita
-extremo
+apoiador
+gritar
+ladrão

@@ -1,19 +1,18 @@
-file = t003285
-date = 2019-03-30
-user = cileine_l
-conversation = 743606719784288257
-URL = https://twitter.com/cileine_l/status/1111708240281288705
+file = t008557
+date = 2020-09-29
+user = G3r4ld00
+conversation = 1099443395200716800
+URL = https://twitter.com/G3r4ld00/status/1311013650367492099
 
-word count = 45
+word count = 26
 words loading = 2
 factor score = -2
 
-@jmmadeira @gugachacra Querer mudar a embaixada do Brasil para Jerusalém só 
-foi por causa de tecnologia? Admiração ao **corrupto** e retrógrado 
-Netanyahu é também em devido a tecnologia? Não tem nada a ver com ideologia 
-ultra conservadora ou a obsessão **evangélica** com o sionismo? 
+@demmartins @Coragemocaocov1 @MONAQUISTA4 @eduardoopach @WagnerThomazoni Não 
+importa se é gado do **luladrão** ou do bolsonaro. . . é tudo farinha do 
+mesmo **saco** só muda o lado 
 
 Lemmas in this text that loaded on the factor:
 
-corrupto
-evangélico
+luladrão
+saco

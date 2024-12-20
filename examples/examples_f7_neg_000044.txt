@@ -1,18 +1,16 @@
-file = t010771
-date = 2021-03-30
-user = ReisNil
-conversation = 724428440947007488
-URL = https://twitter.com/ReisNil/status/1377034753220694019
+file = t004809
+date = 2019-09-29
+user = marioscand
+conversation = 236185838
+URL = https://twitter.com/marioscand/status/1178426291747467265
 
-word count = 18
-words loading = 2
-factor score = -2
+word count = 11
+words loading = 1
+factor score = -1
 
-RT @LekkoMr: bolsonaro e sua família são vizinhos de **milicianos** ; namoram 
-**filhas** d **milicianos** ; homenageiam **milicianos** ; contratam assessores 
-… 
+Bolsonaro decreta sigilo sobre **gastos** com transporte em NY via 
+@ConversaAfiada-LADRÃO 
 
 Lemmas in this text that loaded on the factor:
 
-filha
-miliciano
+gasto

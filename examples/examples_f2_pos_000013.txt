@@ -1,21 +1,22 @@
-file = t013050
-date = 2021-10-28
-user = MarceloFreixo
-conversation = 45870897
-URL = https://twitter.com/MarceloFreixo/status/1453515352835514369
+file = t012545
+date = 2021-09-29
+user = HenriqueFontana
+conversation = 62804559
+URL = https://twitter.com/HenriqueFontana/status/1443361593182588933
 
-word count = 32
+word count = 43
 words loading = 5
 factor score = 5
 
-1 . Queremos o pagamento de uma RENDA PERMANENTE às famílias mais **pobres** 
-. Fomos nós que **aprovamos** o **auxílio** **emergencial** de R$ 600 em 2020 
-, enquanto Bolsonaro e Guedes queriam **pagar** apenas R$ 200 . 
+Acabamos de **aprovar** na Câmara **projeto** da nossa bancada @PTnaCamara, do 
+qual sou coautor, que institui o vale-gás para ajudar as famílias de 
+**baixa** **renda** na compra do **gás** de cozinha, que hoje, no Brasil de 
+Bolsonaro, está custando mais de R$ 100 ! 
 
 Lemmas in this text that loaded on the factor:
 
 aprovar
-auxílio
-emergencial
-pagar
-pobre
+baixo
+gás
+projeto
+renda

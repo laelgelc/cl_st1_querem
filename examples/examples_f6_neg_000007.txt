@@ -1,18 +1,19 @@
-file = t003878
-date = 2019-05-30
-user = blasphmmy
-conversation = 4188973791
-URL = https://twitter.com/blasphmmy/status/1134210467243724806
+file = t007199
+date = 2020-05-27
+user = FlavioDino
+conversation = 25577585
+URL = https://twitter.com/FlavioDino/status/1265782628193570818
 
-word count = 29
-words loading = 3
-factor score = -3
+word count = 45
+words loading = 2
+factor score = -2
 
-e o povo de fortaleza com a **bandeira** comunista gigante e **gritando** ei 
-bolsonaro vai tomar no **cu** no meio do VT da globo eu amo o nordeste 
+O Brasil **chega** a 25 . 500 mortos por coronavírus. E há uma reunião 
+emergencial no Governo Federal. Mas a pauta NÃO É a pandemia, e sim os 
+problemas de Bolsonaro com a Justiça e com a polícia. Espantoso e **triste** 
+. Minha solidariedade às famílias. 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-cu
-gritar
+chegar
+triste

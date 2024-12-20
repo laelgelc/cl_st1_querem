@@ -1,20 +1,17 @@
-file = t011542
-date = 2021-05-30
-user = le_ni_na
-conversation = 821408071792594946
-URL = https://twitter.com/le_ni_na/status/1399126363521654785
+file = t005602
+date = 2019-12-30
+user = folha
+conversation = 14594813
+URL = https://twitter.com/folha/status/1211747746237026310
 
-word count = 43
-words loading = 3
-factor score = -2
+word count = 31
+words loading = 1
+factor score = -1
 
-Publicamente sou irrelevante, mas hj peguei minha **filha** na casa do **pai** 
-dela e a 1a coisa que fiz foi mostrar minhas fotos e vídeos no HASHTAG #29m_h. 
-Até agora ela está cantando " Fora Bolsonaro ( e sua família ) " ! Ser 
-**mãe** é ser influencer! 
+-@folha- No embalo de medidas para facilitar aquisição de armas do presidente 
+Jair Bolsonaro ( sem partido ) , os registros concedidos bateram **recorde** em 
+2019 e atingiram o maior número das últimas décadas. 
 
 Lemmas in this text that loaded on the factor:
 
-filha
-mãe
-pai (secondary)
+recorde

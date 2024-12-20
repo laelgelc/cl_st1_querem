@@ -1,19 +1,20 @@
-file = t000939
-date = 2018-06-28
-user = mariadorosario
-conversation = 63118359
-URL = https://twitter.com/mariadorosario/status/1012321072761491456
+file = t008650
+date = 2020-10-30
+user = patriotmalvadao
+conversation = 1290259240494432256
+URL = https://twitter.com/patriotmalvadao/status/1322279840049991680
 
-word count = 42
-words loading = 2
+word count = 45
+words loading = 3
 factor score = -2
 
-Grave relato de **pessoas** em situação de rua e do Movimento Nacional de 
-Moradores em Situação de Rua ( MNMR ) afirma q policiais **usaram** tortura 
-contra 2homens, com afogamento e asfixia úmida seguido pelo uso de taser ( 
-arma de eletrochoque ) . No @sul21 . 
+Após o bárbaro assassinato de três **pessoas** na basílica de Notre-Dame de 
+Nice, por motivo de **ódio** a cristãos, a velha imprensa preferiu atacar 
+Bolsonaro por sua crítica à cristofobia do que mergulhar nas razões do 
+**crime** . Passaram recibo de cristofóbicos. Com assinatura e tudo. 
 
 Lemmas in this text that loaded on the factor:
 
+crime (secondary)
 pessoa
-usar
+ódio

@@ -1,22 +1,18 @@
-file = t000274
-date = 2018-04-29
-user = freire_roberto
-conversation = 49685585
-URL = https://twitter.com/freire_roberto/status/990618027472322560
+file = t001443
+date = 2018-08-30
+user = MorenoJose0809
+conversation = 992558884782034949
+URL = https://twitter.com/MorenoJose0809/status/1035284424143843328
 
-word count = 33
-words loading = 5
-factor score = -3
+word count = 29
+words loading = 2
+factor score = -2
 
-Infelizmente grassa no país esses movimentos antidemocráticos lulipetistas à 
-**esquerda** e bolsonaristas à **direita** que precisam ser combatidos e 
-derrotados pelas **forças** democráticas do nosso país. Viva a **liberdade** 
-. Viva a **democracia** ! 
+Alckmin: " armas não resolvem o problema da violência e segurança " 
+Bolsonaro: " quando Alckmin deixar de andar de **carro** **blindado** e 
+seguranças armados, eu passo a acreditar nele " HASHTAG #ospingosnosis_h 
 
 Lemmas in this text that loaded on the factor:
 
-democracia (secondary)
-direita (secondary)
-esquerda
-força
-liberdade
+blindar
+carro

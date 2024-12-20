@@ -1,19 +1,20 @@
-file = t006233
-date = 2020-02-27
-user = AndreLCarlos
-conversation = 62814805
-URL = https://twitter.com/AndreLCarlos/status/1233175750439841792
+file = t007297
+date = 2020-06-29
+user = NadiaThyago
+conversation = 1249692888964960257
+URL = https://twitter.com/NadiaThyago/status/1277729832076480512
 
-word count = 25
+word count = 42
 words loading = 3
-factor score = -3
+factor score = -2
 
-Perceberam a armação? Congresso bandido **rouba** 30bi do Executivo. 
-Bolsonaro não tem **dinheiro** para honrar compromissos. **Cai** na Lei de 
-responsabilidade fiscal. Sofre Impeachment. 
+Se as universidades podem ter propaganda política e é um **espaço** plural 
+de pensamento, então pessoal em 2021 vamos inundar as universidades federais 
+com a **voz** do conservadorismo e **apoio** a Bolsonaro. Ai veremos o STF logo 
+logo mudando de posição. 
 
 Lemmas in this text that loaded on the factor:
 
-cair
-dinheiro
-roubar
+apoio (secondary)
+espaço
+voz

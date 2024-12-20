@@ -1,18 +1,19 @@
-file = t000492
-date = 2018-04-28
-user = noahshuster
-conversation = 192219079
-URL = https://twitter.com/noahshuster/status/989895791904022528
+file = t001260
+date = 2018-08-29
+user = Lesbicando1995
+conversation = 4559051955
+URL = https://twitter.com/Lesbicando1995/status/1034591998223835136
 
-word count = 26
+word count = 40
 words loading = 2
 factor score = -2
 
-@paulodisca @helocruz @parodrigues1970 @glaucobr @albuquerque_af @marcuspcunha 
-@rownlo @geraldoalckmin Esse pessoal não sabe o que diz. Estão iludidos, 
-depositando em Bolsonaro uma expectativa de **salvador** da **pátria** . 
+bolsonaro é a favor da tortura e armamento, racista, machista, homofóbico, 
+despreza a cultura **indígena** , quer limitar qualquer capacidade da mulher 
+no mercado de trabalho e destruir as igualdades. É **ESSE** O PRESIDENTE QUE 
+VCS QUEREM PRO BRASIL? HASHTAG #bolsonaronojornalnacional_h 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+esse
+indígena

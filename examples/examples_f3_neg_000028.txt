@@ -1,18 +1,20 @@
-file = t001532
-date = 2018-09-29
-user = guilherme_alvf
-conversation = 1009464796469657601
-URL = https://twitter.com/guilherme_alvf/status/1046184846572310528
+file = t002353
+date = 2018-12-30
+user = FrenteDemocrat
+conversation = 1051938406555668480
+URL = https://twitter.com/FrenteDemocrat/status/1079479180105039872
 
-word count = 15
+word count = 39
 words loading = 3
-factor score = -3
+factor score = -2
 
-@loarcanjo ou seja, isso **tira** o **direito** de **liberdade** dessa menina? 
-entendi foi nada 
+A lógica do " liberalismo " do governo Bolsonaro é estranha. Libera arma pra 
+todo mundo. Maconha não ( vamos manter o **tráfico** ilegal lucrando a rodo ) 
+. Privatiza tudo. Mas mantém os privilégios dos militares, vai. . . E as 
+**filhas** , **esposas** , famílias. . . 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-liberdade
-tirar
+esposo
+filha (secondary)
+tráfico

@@ -1,19 +1,22 @@
-file = t017273
-date = 2022-08-30
-user = odio_nao
-conversation = 715364459099856896
-URL = https://twitter.com/odio_nao/status/1564758667953684488
+file = t000830
+date = 2018-06-29
+user = EdGaarcia
+conversation = 51588583
+URL = https://twitter.com/EdGaarcia/status/1011359807331295242
 
-word count = 20
-words loading = 3
-factor score = 3
+word count = 41
+words loading = 5
+factor score = 5
 
-RT @AlencarBraga13 : Uma família que **comprou** 51 **imóveis** pagando em 
-espécie construiu carreira política falando em combater a **corrupção** . 
-Não … 
+Loucura Bolsonaro 17 : Revogação do Estatuto do **Desarmamento** com a 
+aprovação da **posse** de **arma** para todos os **cidadãos** e em alguns 
+casos do **porte** de **arma** . Todos terão direito a legítima defesa e a 
+defender sua família e propriedade. 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-corrupção
-imóvel
+arma
+cidadão
+desarmamento
+porte
+posse

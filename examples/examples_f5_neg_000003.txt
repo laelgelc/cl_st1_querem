@@ -1,19 +1,24 @@
-file = t011199
-date = 2021-04-29
-user = Pacoca_cedilha
-conversation = 1012485979360452609
-URL = https://twitter.com/Pacoca_cedilha/status/1387865071494307844
+file = t006034
+date = 2020-02-28
+user = ciliatmagalhaes
+conversation = 79084722
+URL = https://twitter.com/ciliatmagalhaes/status/1233539675962433537
 
-word count = 25
-words loading = 3
+word count = 67
+words loading = 4
 factor score = -3
 
-@Marcia_mrp @joaoamoedonovo Há uma terceira possibilidade: recusar -se a votar 
-em qualquer populista que se apresente como **salvador** da **pátria** . 
-Getúlio, Jânio, Collor, Lula, Dilma, Bolsonaro. . . **Chega** ! 
+Bolsonaro é um tremendo de um mentiroso, de fato. O vídeo mostra Bolsonaro 
+levando **facada** , se auto-endeusando e convocando o gado bizonho para lhe 
+**puxar** o **saco** , disfarçado de **manifesto** contra o Congresso com quem 
+… Bolsonaro é um tremendo de um mentiroso, de fato. O vídeo mostra 
+Bolsonaro levando **facada** , se auto-endeusando e convocando o gado bizonho 
+para lhe **puxar** o **saco** , disfarçado de **manifesto** contra o Congresso 
+com quem … 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-pátria
-salvador
+facada (secondary)
+manifesto
+puxar
+saco

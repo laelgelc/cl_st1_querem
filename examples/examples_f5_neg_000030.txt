@@ -1,18 +1,19 @@
-file = t003815
-date = 2019-05-30
-user = mdbgrava
-conversation = 2613556345
-URL = https://twitter.com/mdbgrava/status/1134243805920714753
+file = t008679
+date = 2020-10-30
+user = deusanji
+conversation = 805819656518909952
+URL = https://twitter.com/deusanji/status/1322324537581670400
 
-word count = 25
+word count = 47
 words loading = 2
 factor score = -2
 
-RT @silveiraB17 : Bolsonaro não é um santo milagreiro, não é o **salvador** 
-da **pátria** , é apenas um homem lutando por uma nação afundada na lama 
-… 
+é foda saber que eu preciso estudar e trabalhar pra ganhar dinheiro, pagar as 
+contas e nao morrer de fome, enquanto a família bolsonaro composta apenas por 
+neandertais está no poder do meu país e **enchendo** o **cu** de grana pra 
+falar merda e fazer bosta 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+cu
+encher

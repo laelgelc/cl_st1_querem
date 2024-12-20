@@ -1,20 +1,19 @@
-file = t000691
-date = 2018-05-29
-user = rivelinocampos
-conversation = 301055060
-URL = https://twitter.com/rivelinocampos/status/1001452416548696069
+file = t007487
+date = 2020-06-28
+user = lsentoes1
+conversation = 1254284824988332032
+URL = https://twitter.com/lsentoes1/status/1277138609116676098
 
-word count = 43
-words loading = 3
+word count = 49
+words loading = 2
 factor score = -2
 
-@exame Alguns **políticos** brasileiros deveriam lavar a **boca** para 
-**usar** o nome de Deus em seu favor. " Não tomarás em vão o nome do Senhor, 
-o teu Deus, pois o Senhor não deixará impune quem tomar o seu nome em vão. " 
-Êxodo 20:7 
+Não há liberdade sem o conservadorismo no poder, embora o sistema seja lotado 
+de **pessoas** mal intencionadas. Se o governo cair, tudo o que Bolsonaro fez 
+por nós e toda nossa luta terá sido em vão. Não prenda -se ao alarmismo e 
+**use** a razão nos momentos de decisões. Triunfaremos! crossed_swords_e 
 
 Lemmas in this text that loaded on the factor:
 
-boca (secondary)
-político
+pessoa
 usar

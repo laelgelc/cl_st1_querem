@@ -1,19 +1,17 @@
-file = t006813
-date = 2020-04-29
-user = janainalimasp
-conversation = 826655671416401921
-URL = https://twitter.com/janainalimasp/status/1255548686639214597
+file = t013873
+date = 2022-01-30
+user = FriedHardt
+conversation = 846207865
+URL = https://twitter.com/FriedHardt/status/1487925329909981193
 
-word count = 36
+word count = 18
 words loading = 2
 factor score = -2
 
-Bolsonaro demonstrou não estar mais alinhado com suas promessas de campanha: 
-de um governo técnico, com novas práticas. Só restou seu populismo 
-desnecessário para o Brasil. Precisamos parar de acreditar em **salvadores** 
-da **pátria** . HASHTAG #fechadocomobrasileiro_h 
+meu deus do céu voltem a **encher** o **cu** de droga e cachaça pelo amor de 
+deus 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+cu
+encher

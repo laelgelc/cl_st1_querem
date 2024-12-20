@@ -1,20 +1,21 @@
-file = t013990
-date = 2022-01-30
-user = novasenhora
-conversation = 631836500
-URL = https://twitter.com/novasenhora/status/1487916268145496072
+file = t010321
+date = 2021-03-30
+user = mariadorosario
+conversation = 63118359
+URL = https://twitter.com/mariadorosario/status/1377010604628664320
 
-word count = 40
+word count = 48
 words loading = 3
-factor score = -3
+factor score = -2
 
-E a menina que **tava** comigo ontem no show do Skank **puxando** o " Ei 
-Bolsonaro vai tomar no c* " FOI PERFEITO. Melhor foi só o bolsominion 
-**gritando** lula ladrão e a gente respondendo q ele roubou nosso coração 
-kkkk 
+Brasil **bate** recorde e **chega** a 3 . 780 pessoas mortas em um dia. O 
+**Covid** avança tragicamente sobre as famílias, enquanto o golpismo de 
+Bolsonaro tenta cavar um brecha na democracia e perpetuar seu projeto de poder. 
+Quantos mais morrerão até que este governo tenha fim? HASHTAG 
+#forabolsonaro_h 
 
 Lemmas in this text that loaded on the factor:
 
-gritar
-puxar
-tava
+bater
+chegar
+covid (secondary)

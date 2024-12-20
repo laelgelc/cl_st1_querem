@@ -1,21 +1,22 @@
-file = t012152
-date = 2021-08-30
-user = profsosa13
-conversation = 107329307
-URL = https://twitter.com/profsosa13/status/1432488845719789572
+file = t009864
+date = 2021-01-27
+user = Alargolo1
+conversation = 1283254652490977283
+URL = https://twitter.com/Alargolo1/status/1354519284458913795
 
-word count = 28
+word count = 38
 words loading = 5
 factor score = 5
 
-As medidas do governo bolsonaro para " **facilitar** " o **acesso** às 
-**armas** , além de garantir a segurança da **população** , **armou** 
-grupos de bandidos. Nenhuma surpresa! Parabéns aos envolvidos! 
+Viram como ninguém é mais **corrupto** dos que os milícos? Qualquer 
+licitação que se investigar envolvendo esse desgoverno e as compras para as 
+**forças** armadas vão encontrar **corrupção** , qualquer uma! 
+**Militares** e Bolsonaro estão **roubando** pra caralho! 
 
 Lemmas in this text that loaded on the factor:
 
-acesso
-arma
-armar
-facilitar
-população
+corrupto
+corrupção
+força
+militar
+roubar

@@ -1,21 +1,23 @@
-file = t017050
-date = 2022-08-30
-user = joaobettega_
-conversation = 1177185451536465920
-URL = https://twitter.com/joaobettega_/status/1564685699546218500
+file = t005686
+date = 2019-12-30
+user = AlesandroAlves
+conversation = 70551866
+URL = https://twitter.com/AlesandroAlves/status/1211649622310965249
 
-word count = 40
-words loading = 4
-factor score = 3
+word count = 45
+words loading = 6
+factor score = 4
 
-Nos **últimos** anos, a família Bolsonaro negociou 51 **imóveis** em 
-dinheiro **vivo** . Quando questionado, o Presidente disse: " Qual o problema 
-de **comprar** com dinheiro **vivo** algum **imóvel** ? " Não precisa ser 
-muito inteligente para saber que tem coisa errada aí ! 
+De férias na Bahia para descansar durante o ano-novo, o presidente Jair 
+Bolsonaro não larga as redes sociais. Domingo ele foi ao Twitter **comemorar** 
+o **aumento** no número de **registros** de **armas** de **fogo** , assim como 
+a queda no número de **mortes** provocadas por elas 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-imóvel
-vivo (secondary)
-último
+arma
+aumento (secondary)
+comemorar
+fogo
+morte (secondary)
+registro

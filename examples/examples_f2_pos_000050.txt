@@ -1,23 +1,20 @@
-file = t008994
-date = 2020-10-30
-user = franklinschmalz
-conversation = 79519882
-URL = https://twitter.com/franklinschmalz/status/1322218703627366401
+file = t006401
+date = 2020-03-30
+user = CbastosBastos
+conversation = 2490668197
+URL = https://twitter.com/CbastosBastos/status/1244770570895491073
 
-word count = 51
-words loading = 5
+word count = 18
+words loading = 4
 factor score = 4
 
-Vamos fazer as contas vai. . . Exército lança edital de 8 **milhões** pra 
-coqueteies regados a whisky. 8 **milhões** daria pra **pagar** mais 13 mil 
-**auxílios** **emergenciais** de R$600 , 00 por um **mês** . Seriam 13 mil 
-famílias! Se fosse a R$300 ( já que o Bolsonaro diminuiu ) seriam 26mil 
-**auxílios** ! 
+RT @andreawerner_ : **APROVADA** , no Senado, a **renda** **mínima** 
+**emergencial** que garante até 1200 reais por família, inclusive 
+monoparentais. Bolsona … 
 
 Lemmas in this text that loaded on the factor:
 
-auxílio
+aprovar
 emergencial
-milhão
-mês (secondary)
-pagar
+pequeno
+renda

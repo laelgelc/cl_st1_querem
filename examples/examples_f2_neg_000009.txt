@@ -1,18 +1,20 @@
-file = t004937
-date = 2019-10-30
-user = franzrotter
-conversation = 84647892
-URL = https://twitter.com/franzrotter/status/1189639779543126016
+file = t019496
+date = 2023-01-30
+user = FTozeti
+conversation = 1588737161204998144
+URL = https://twitter.com/FTozeti/status/1620177215915966474
 
-word count = 12
+word count = 53
 words loading = 3
-factor score = -2
+factor score = -3
 
-@igoraraujojj **Acho** que foi a **milícia** , povo **amigo** da família 
-Bolsonaro 
+@danuzioneto Deixa que nois vamos achar tudo oque e **fake** **news** tanto do 
+bolsonaro e do lula! Dois ladrão! Ciro Gomes era o cara mais **preparado** 
+para assumir o Brasil! Ele e muito mais inteligente que lula e Bolsonaro 
+juntos! Oque tiver de **fake** **news** dos dois eu vou jogar nas redes 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-amigo
-milícia (secondary)
+fake
+news
+preparar

@@ -1,20 +1,21 @@
-file = t008395
-date = 2020-09-29
-user = Evilzio5
-conversation = 1116304854111141889
-URL = https://twitter.com/Evilzio5/status/1310916259656105985
+file = t010318
+date = 2021-03-30
+user = MarceloFreixo
+conversation = 45870897
+URL = https://twitter.com/MarceloFreixo/status/1376939811915898882
 
-word count = 49
-words loading = 3
-factor score = -3
+word count = 45
+words loading = 4
+factor score = -2
 
-@jaqueswagner @SenadoFederal Bolsonaro **rouba** de quem não tem, para fazer 
-propaganda. Prejudica velhos e todos os brasileiros. Normal, para quem disse 
-que queria **matar** 30 mil brasileiros e já **matou** 150 mil só de Covid. O 
-**cara** não dá a mínima para os brasileiros. Só pensa na família. 
+As Forças Armadas são instituições de Estado, elas não pertencem a 
+governos e nem a presidentes. Por isso a **demissão** de **comandantes** que 
+defendem os limites constitucionais do papel das FA é preocupante. Nós da 
+**oposição** no Congresso seguiremos firmes na **defesa** da Democracia. 
 
 Lemmas in this text that loaded on the factor:
 
-cara
-matar
-roubar
+comandante
+defesa (secondary)
+demissão
+oposição (secondary)

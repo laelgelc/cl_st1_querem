@@ -1,19 +1,18 @@
-file = t002095
-date = 2018-11-29
-user = PauloAchkar
-conversation = 1057289492372054016
-URL = https://twitter.com/PauloAchkar/status/1068261110174883845
+file = t007444
+date = 2020-06-29
+user = lovehelenah
+conversation = 857596193865596930
+URL = https://twitter.com/lovehelenah/status/1277585941629190145
 
-word count = 27
-words loading = 2
-factor score = -2
+word count = 23
+words loading = 3
+factor score = -3
 
-@DiegoVerri @mozartrodrigues @JoelPinheiro85 E aí **acho** difícil porque 
-para fazer isso o Bolsonaro teria que receber estes **amigos** do Lula Ladrão! 
-! ! E melhor você esperar sentado smiling_face_with_sunglasses_e 
-smiling_face_with_sunglasses_e index_pointing_up_e index_pointing_up_e 
+@SF_Moro Representa armar para prender o Lula para agradar o **amigo** tucano 
+FDP e pro Bolsonaro se eleger com as **fake** **news** dele. 
 
 Lemmas in this text that loaded on the factor:
 
-achar
 amigo
+fake
+news

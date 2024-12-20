@@ -1,23 +1,25 @@
-file = t010502
-date = 2021-03-30
-user = perpetua_acre
-conversation = 44693900
-URL = https://twitter.com/perpetua_acre/status/1376928787158421507
+file = t017215
+date = 2022-08-30
+user = AGazetaES
+conversation = 14870978
+URL = https://twitter.com/AGazetaES/status/1564709555740737538
 
-word count = 48
-words loading = 6
-factor score = 6
+word count = 35
+words loading = 8
+factor score = 8
 
-Quando um min. da Defesa é **demitido** por cumprir seu dever ( **artigo** 142 
-da **Constituição** ) , e os 3 **comandantes** das Forças Armadas decidem 
-pedir **demissão** em **solidariedade** é porque não admitem q as FA sejam 
-tratadas como parte da disputa política, tal qual pretende o presid Bolsonaro. 
+**Metade** dos **imóveis** da **família** Bolsonaro foi adquirida com 
+**dinheiro** ' **vivo** ' , diz site [ Ao menos 51 dos **imóveis** foram 
+**comprados** com **dinheiro** em espécie; **compras** somam R$ 13 , 5 
+**milhões** , afirma o portal UOL 
 
 Lemmas in this text that loaded on the factor:
 
-artigo
-comandante
-constituição
-demissão
-demitir
-solidariedade
+compra
+comprar
+dinheiro
+família
+imóvel
+metade
+milhão
+vivo

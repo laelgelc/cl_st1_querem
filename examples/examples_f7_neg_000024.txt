@@ -1,19 +1,18 @@
-file = t006011
-date = 2020-02-27
-user = abdalafarah
-conversation = 336878973
-URL = https://twitter.com/abdalafarah/status/1233159448778170369
+file = t003146
+date = 2019-02-27
+user = ElvelcioF
+conversation = 704454347699195905
+URL = https://twitter.com/ElvelcioF/status/1100829778058321920
 
-word count = 43
-words loading = 2
-factor score = -2
+word count = 39
+words loading = 1
+factor score = -1
 
-Gente, alguém tem mais notícias sobre o assassinato do Adriano Nóbrega? 
-Aquele que era **miliciano** , **chefe** do Escritório do Crime no RJ, amigo e 
-homenageado pela família Bolsonaro. Ele estava, inclusive, no sítio de um 
-Vereador do PSL ( BA ) . Sumiu dos noticiários. . . 
+@OlavoOpressor Ministro SÉRGIO MORO! ! ! que ele é no seu interior. BOLSONARO 
+não pode aceitar isso em hipótese alguma, nem se for **demitir** esse 
+sujeito. Todos nós brasileiros esperamos que ele tome providências e troca 
+essa DESGRAÇA DE COMUNISTA. 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-miliciano
+demitir

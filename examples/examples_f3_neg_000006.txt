@@ -1,22 +1,21 @@
-file = t005616
-date = 2019-12-29
-user = leticiaduarte
-conversation = 21464276
-URL = https://twitter.com/leticiaduarte/status/1211389677250449410
+file = t004077
+date = 2019-06-29
+user = DalsolerXaianny
+conversation = 932747410094329856
+URL = https://twitter.com/DalsolerXaianny/status/1145093164719628290
 
-word count = 48
-words loading = 4
-factor score = -4
+word count = 52
+words loading = 3
+factor score = -3
 
-@TheAtlantic Nesse **primeiro** encontro, Olavo falou mal de jornalistas como 
-de costume, mas foi educado. Me mostrou sua coleção de armas, contou 
-histórias e definiu o governo Bolsonaro como uma " ejaculação precoce " , 
-por ter sido **eleito** antes de **vencer** a " guerra cultural contra a 
-**esquerda** " ( 3 / 16 ) 
+a FAMÍLIA TODA reunida agora, **tios** , **tias** , primos, todos 
+bolsominions. . . passou na tv a reportagem do **avião** com droga e a 
+**mãe** perguntou se tinha algo com o bolsonaro, falei " sim **mãe** , olha 
+aí o presidente de vcs perfeito " , a **mãe** disse q eu era PTzinha e só 
+faltaram me matar 
 
 Lemmas in this text that loaded on the factor:
 
-eleger
-esquerda
-primeiro
-vencer
+avião
+mãe
+tio

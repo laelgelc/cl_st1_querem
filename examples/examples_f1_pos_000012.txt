@@ -1,23 +1,24 @@
-file = t015760
-date = 2022-05-30
-user = ReginaldoM18O
-conversation = 1521639298092748803
-URL = https://twitter.com/ReginaldoM18O/status/1531087605722406912
+file = t016025
+date = 2022-06-29
+user = AnglicaKurten
+conversation = 1418571713013506048
+URL = https://twitter.com/AnglicaKurten/status/1542224997854466053
 
-word count = 36
-words loading = 6
-factor score = 6
+word count = 17
+words loading = 7
+factor score = 7
 
-@jairbolsonaro Boa **noite** Presidente e semana abençoada. Acabamos de rezar 
-o terço e como sempre fazemos, colocamos o Senhor, sua família e o Brasil nas 
-intenções. Deus **abençoe** e **ilumine** sempre todas suas decisões. 
-Abraço **folded_hands_e** **raising_hands_e** **flag_brazil_e** handshake_e 
+@jairbolsonaro @govbr **Boa** **noite** querido **Presidente** Jair Messias 
+Bolsonaro! Que Deus te cubra de bênçãos! ! **Amém** ! ! ! **flag_brazil_e** 
+**flag_brazil_e** **red_heart_e** **red_heart_e** **folded_hands_e** 
+**folded_hands_e** 
 
 Lemmas in this text that loaded on the factor:
 
-abençoar
+amém
+bom
 flag_brazil_e
 folded_hands_e
-iluminar
 noite
-raising_hands_e
+presidente
+red_heart_e

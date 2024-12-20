@@ -1,20 +1,17 @@
-file = t007062
-date = 2020-05-30
-user = PBizeste
-conversation = 1129497526720245764
-URL = https://twitter.com/PBizeste/status/1266755344870649856
+file = t015443
+date = 2022-04-29
+user = MerciaLoureiro3
+conversation = 1313860513965764610
+URL = https://twitter.com/MerciaLoureiro3/status/1520155779487129603
 
-word count = 44
+word count = 20
 words loading = 2
 factor score = -2
 
-@leandroruschel A imprensa sempre noticiou crimes cometidos por políticos, tem 
-que ser muito ignorante pra não perceber isso. Quem quer acabar com 
-investigação de crime de político é Bolsonaro, que quer proteger os filhos 
-**corruptos** . E não foi **chegada** dos conservadores, mas da 
-extrema-direita. 
+RT @hmarcus65 : @JosuePatriota BOLSONARO FARISEU? QUEM SÃO AS PESSOAS QUE 
+**POSTAM** BOLSONARO FARISEU? SÓ PODE SER **ESSE** POVO COMUNISTA! 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-corrupto
+esse
+postar

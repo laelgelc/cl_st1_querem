@@ -1,19 +1,17 @@
-file = t013584
-date = 2021-12-30
-user = suzi_nh
-conversation = 1141079411510435841
-URL = https://twitter.com/suzi_nh/status/1476697669582172168
+file = t001771
+date = 2018-10-30
+user = ptbrasil
+conversation = 39522911
+URL = https://twitter.com/ptbrasil/status/1057285020614823936
 
-word count = 45
+word count = 24
 words loading = 2
 factor score = -2
 
-@LevialfeuLevita Cristo defende o amor, a empatia, a tolerância, a cura, a 
-divisão dos **bens** , o respeito às minorias. Vc vê isso em Bolsonaro ou no 
-Lula? **Acho** que se vc quer votar no bozo, faça isso, mas tire o " cristão 
-" da sua bio. 
+Bolsonaro nem tomou posse e já começou a fazer o que faz de melhor: espalhar 
+**fake** **news** e inibir a liberdade de imprensa. 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-bem
+fake
+news

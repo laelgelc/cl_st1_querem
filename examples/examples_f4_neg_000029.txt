@@ -1,18 +1,17 @@
-file = t007691
-date = 2020-07-30
-user = Renatod57025419
-conversation = 1274073219482488835
-URL = https://twitter.com/Renatod57025419/status/1288977140185280513
+file = t010279
+date = 2021-03-30
+user = lulu_tilly
+conversation = 2541685383
+URL = https://twitter.com/lulu_tilly/status/1377047563325603851
 
-word count = 21
-words loading = 3
-factor score = -3
+word count = 22
+words loading = 2
+factor score = -2
 
-Nao votamos no bolsonaro para ser uma copia do lula. Ele copia o **cara** em 
-tudo pelo **amor** de **deus** . 
+RT @MarceloFreixo: Os ratos atacam quando estão acuados. A **demissão** dos 
+**comandantes** da Forças Armadas e a incitação a motins policiais são … 
 
 Lemmas in this text that loaded on the factor:
 
-amor
-cara
-deus
+comandante
+demissão

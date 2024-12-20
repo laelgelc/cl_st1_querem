@@ -1,21 +1,22 @@
-file = t015172
-date = 2022-04-29
-user = JorgeWill12
-conversation = 1176836881708978177
-URL = https://twitter.com/JorgeWill12/status/1520179488344219648
+file = t001336
+date = 2018-08-30
+user = Fernandzlol
+conversation = 952347988826968064
+URL = https://twitter.com/Fernandzlol/status/1035238746608812033
 
-word count = 40
+word count = 56
 words loading = 4
-factor score = 3
+factor score = 4
 
-@MarceloFreixo você é : Pró **aborto** ? **Desarmamento** da população e 
-da polícia, menos dos bandidos? **Ideologia** de gênero? Direitos **humanos** 
-para marginal? Liberação da maconha e doses controladas de crack? Comunismo 
-nas escolas e nas universidades? ? ? Aumento da máquina pública? ? 
+@rafael_accarini @jairbolsonaro seu mongoloide ele nao falo que vai arma a 
+população pra combater o crime e sim pra se alto defender se precizar, aki na 
+minha cidade 2 **caras** entro na casa de um **pastor** estrupo a **filha** na 
+frente dele e depois **mato** os dois se ele tivese uma arma queria ver eles 
+entrar 
 
 Lemmas in this text that loaded on the factor:
 
-aborto
-desarmamento (secondary)
-humano
-ideologia
+cara
+filha
+matar
+pastor

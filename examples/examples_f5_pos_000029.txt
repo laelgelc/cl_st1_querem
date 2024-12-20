@@ -1,23 +1,22 @@
-file = t001502
-date = 2018-08-30
-user = MorenoJose0809
-conversation = 992558884782034949
-URL = https://twitter.com/MorenoJose0809/status/1035271512952066049
+file = t013589
+date = 2021-12-30
+user = TinocoFra
+conversation = 194412220
+URL = https://twitter.com/TinocoFra/status/1476698259821408269
 
-word count = 32
-words loading = 6
-factor score = 5
+word count = 42
+words loading = 4
+factor score = 4
 
-HASHTAG #3em1_h Alckmin: " **armas** não **resolvem** o problema da violência 
-e segurança " Bolsonaro: " quando Alckmin deixar de **andar** de **carro** 
-**blindado** e seguranças **armados** , eu passo a acreditar nele " Talkei, 
-@roxmo @jairbolsonaro @benebarbosa_mvb? 
+Ñ é loucura, estratégia, burrice. É PERVERSIDADE. Ele é cruel, ñ tem 
+empatia ao próximo, é PSICOPATA e, infelizmente, ñ há cura para essa 
+doença. Bolsonaro, **Traidor** da Pátria Armada Brasil, arregimenta 
+**milícias** , apoia **corruptos** e adula **militares** . Para que? HASHTAG 
+#impeachmentsalvavidas_h 
 
 Lemmas in this text that loaded on the factor:
 
-andar
-arma
-armar
-blindar (secondary)
-carro
-resolver
+corrupto
+militar
+milícia
+traidor

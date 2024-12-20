@@ -1,22 +1,25 @@
-file = t015256
-date = 2022-04-29
-user = rosaelinex
-conversation = 219764602
-URL = https://twitter.com/rosaelinex/status/1520173124666417153
+file = t016975
+date = 2022-08-30
+user = taliriapetrone
+conversation = 103704608
+URL = https://twitter.com/taliriapetrone/status/1564602377944145920
 
-word count = 40
-words loading = 4
-factor score = 4
+word count = 36
+words loading = 8
+factor score = 7
 
-Bolsonaro, **militares** e seus fanáticos podem atentar contra a 
-**democracia** . O povo brasileiro não pode permitir que esses tiranos 
-amordaçem nossa **Constituição** e nossa liberdade de escolha. HASHTAG 
-#forabolsonaro_h # @Anitta Bolsonaro quer dar **golpe** contra a **Democracia** 
-. Alerte os fãs. 
+O dia mal começou e temos dois **escândalos** **envolvendo** a **família** 
+Bolsonaro: - **Compra** de 51 **imóveis** com **dinheiro** **VIVO** - Abin 
+atrapalhando investigações que **envolvem** Jair Renan É a **família** da 
+rachadinha e da **corrupção** escancarada! 
 
 Lemmas in this text that loaded on the factor:
 
-constituição
-democracia
-golpe
-militar
+compra
+corrupção (secondary)
+dinheiro
+envolver
+escândalo
+família
+imóvel
+vivo

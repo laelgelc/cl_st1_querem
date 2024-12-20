@@ -1,21 +1,21 @@
-file = t012876
-date = 2021-10-30
-user = guimaraes13PT
-conversation = 49696756
-URL = https://twitter.com/guimaraes13PT/status/1454474797237297161
+file = t009992
+date = 2021-02-27
+user = gatare
+conversation = 34765163
+URL = https://twitter.com/gatare/status/1365720361678106627
 
-word count = 50
+word count = 34
 words loading = 4
 factor score = 4
 
-Do dia p / noite o Brasil não tem mais o Bolsa Família, nem o Minha Casa 
-Minha Vida, nem o Mais Médicos … E tantos outros **programas** de inclusão 
-social e distribuição de **renda** sufocados por Bolsonaro e seu clã ! O 
-resultado? Quase 30 **milhões** vivendo na extrema **pobreza** . Dilma avisou! 
+@heldersalomao Errou Bolsonaro levou o Brasil de volta a escravidão e o 
+trabalhador a senzalas, comendo farinha e **água** . . Tem pai de família 
+**recebendo** menos que **salário** **mínimo** empresa onde **recebia** bem 
+mais. 
 
 Lemmas in this text that loaded on the factor:
 
-milhão
-pobreza
-programa
-renda
+pequeno
+receber
+salário
+água

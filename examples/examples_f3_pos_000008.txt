@@ -1,18 +1,24 @@
-file = t020199
-date = 2023-03-28
-user = reinaldoazevedo
-conversation = 18286139
-URL = https://twitter.com/reinaldoazevedo/status/1640806384051666950
+file = t016454
+date = 2022-07-30
+user = Joaogabrielsr22
+conversation = 1366934532763619330
+URL = https://twitter.com/Joaogabrielsr22/status/1553358540001140736
 
-word count = 33
-words loading = 2
-factor score = 2
+word count = 43
+words loading = 6
+factor score = 5
 
-Espetacular entrevista de Ciro Nogueira ao UOL. Diz q **escândalo** das 
-**joias** ñ cola em Bolsonaro pq este não tem cara de ladrão. Para a 
-extrema-direita brasileira, quem tem " cara de ladrão? " Asqueroso. 
+@PedroRonchi2 País com menos homicídios, **economia** crescendo, apoio ao 
+agro, não passou **pautas** de **costumes** da **esquerda** , não liga pros 
+ambientalistas histéricos, defendeu a soberania na Amazônia e fez o orgulho 
+de ser brasileiro voltar. Sou **cristão** , **conservador** e estou com 
+Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-escândalo
-joia
+conservador
+costume
+cristão
+economia
+esquerda (secondary)
+pauta

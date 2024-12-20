@@ -1,24 +1,22 @@
-file = t012449
-date = 2021-08-30
-user = alexanfsls
-conversation = 1352020958891151371
-URL = https://twitter.com/alexanfsls/status/1432399902768762883
+file = t018333
+date = 2022-11-29
+user = juancgval
+conversation = 1571648392639422465
+URL = https://twitter.com/juancgval/status/1597563130313265152
 
-word count = 57
-words loading = 6
-factor score = 6
+word count = 46
+words loading = 5
+factor score = 5
 
-@Leandro71402485 @RenaldyOliveira @Rconstantino @diegoreporter Bom, o único 
-chefe de executivo que vi falar e agir a favor, e que não vi fazer 
-**decretos** ou projetos de **lei** contra a liberdade individual, contra a 
-vida, contra a **posse** e o **porte** de **armas** de **fogo** , contra a 
-propriedade privada e contra a livre iniciativa, foi o Bolsonaro. 
+@capitaoderrite Vc como **deputado** **federal** , policial da ROTA, conseguiu 
+qto de investimento p PMSP? Está investigando o desvio de 60 toneladas de 
+armamentos e munições do exército, q foram **parar** nas mãos do **crime** 
+**organizado** ou como é governo bolsonaro não quis nem saber disso? 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-fogo
-lei
-porte
-posse
+crime
+deputado
+federal
+organizar
+parar

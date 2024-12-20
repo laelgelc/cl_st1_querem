@@ -1,20 +1,19 @@
-file = t001580
-date = 2018-09-29
-user = yurivs
-conversation = 15726088
-URL = https://twitter.com/yurivs/status/1046129609752891392
+file = t000284
+date = 2018-04-29
+user = mariadorosario
+conversation = 63118359
+URL = https://twitter.com/mariadorosario/status/990380730931994624
 
-word count = 47
-words loading = 3
-factor score = -3
+word count = 45
+words loading = 2
+factor score = -2
 
-A Manuela d ' Ávila é do Partido Comunista do Brasil, que é cúmplice moral 
-dos regimes que mataram mais de 100 milhões de **pessoas** no século XX -- 
-suponhamos que metade desses mortos fosse de **mulheres** -- mas a turminha com 
-**problemas** cognitivos prefere protestar contra o Bolsonaro. 
+Atenção para essa denúncia. Armas e munição de uso restrito do estado 
+foram **usados** no assassinato de Marielle Franco e novamente agora, no 
+atentado ao acampamento HASHTAG #lulalivre_h. Em **defesa** dos Direitos 
+Humanos no Br só existe a sociedade civil q denuncia sem encontrar eco. 
 
 Lemmas in this text that loaded on the factor:
 
-mulher
-pessoa
-problema
+defesa
+usar

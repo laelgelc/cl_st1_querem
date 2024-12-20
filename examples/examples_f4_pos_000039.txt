@@ -1,18 +1,24 @@
-file = t016692
-date = 2022-07-30
-user = Wjuim
-conversation = 1528461217
-URL = https://twitter.com/Wjuim/status/1553502793297809408
+file = t017293
+date = 2022-08-30
+user = natbonavides
+conversation = 203332874
+URL = https://twitter.com/natbonavides/status/1564717947473608705
 
-word count = 15
-words loading = 3
-factor score = 3
+word count = 48
+words loading = 7
+factor score = 6
 
-RT @MendesOnca: Bolsonaro diz que Forças Armadas **participarão** de **ato** 
-pró-governo de 7 de **setembro** … 
+O que Bolsonaro quer é terminar de destruir o que não conseguiu. Diz que pra 
+**pagar** auxílio vai vender estatais? ! Deveria ter vergonha de falar este 
+absurdo. Destrói os **patrimônios** do povo enquanto aumenta os seus: mais de 
+50 **imóveis** **comprados** com **dinheiro** **vivo** por sua **família** ! 
 
 Lemmas in this text that loaded on the factor:
 
-ato
-participar
-setembro
+comprar
+dinheiro
+família
+imóvel
+pagar (secondary)
+patrimônio
+vivo

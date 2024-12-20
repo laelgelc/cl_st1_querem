@@ -1,20 +1,21 @@
-file = t002399
-date = 2018-12-30
-user = Mulher_Noticia
-conversation = 406766589
-URL = https://twitter.com/Mulher_Noticia/status/1079508731057057792
+file = t017882
+date = 2022-10-30
+user = VarejaoAndrea
+conversation = 1058015282806046720
+URL = https://twitter.com/VarejaoAndrea/status/1586865709392580609
 
-word count = 17
-words loading = 5
-factor score = 5
+word count = 44
+words loading = 4
+factor score = 4
 
-RT @Duarte_Cau: **Registro** d **arma** sobe 280 % ; Bolsonaro promete 
-**decreto** p / **facilitar** **posse** Total d licenças emitidas p … 
+@rsallesmma Vão normalizar o **GOLPE** ? Vão jogar a toalha diante de tantos 
+indícios, de tantos **crimes** contra a nossa Constituição? Cadê os 
+patriotas e **filhos** de Deus? Bolsonaro perdeu por pouco pra não duvidarem 
+das urnas, estratégia pra **roubar** . . . vamos pra rua questionar. 
 
 Lemmas in this text that loaded on the factor:
 
-arma
-decreto
-facilitar
-posse
-registro
+crime
+filho
+golpe
+roubar

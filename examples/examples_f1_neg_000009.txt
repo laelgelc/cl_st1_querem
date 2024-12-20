@@ -1,20 +1,18 @@
-file = t007277
-date = 2020-06-29
-user = revistaforum
-conversation = 19593634
-URL = https://twitter.com/revistaforum/status/1277718272616652800
+file = t002202
+date = 2018-12-30
+user = senadorhumberto
+conversation = 76049312
+URL = https://twitter.com/senadorhumberto/status/1079374588889452545
 
-word count = 36
-words loading = 3
-factor score = -3
+word count = 28
+words loading = 2
+factor score = -2
 
-**Usado** como exemplo de conservadorismo por Eduardo Bolsonaro, Sikêra Jr. 
-já atacou a OMS e **chamou** de " nazistas " os governadores que defendem o 
-isolamento **social** contra o coronavírus; o apresentador já foi infectado 
-pelo vírus 
+60 mil **pessoas** **vítimas** de morte violenta por ano. 280 % de aumento nos 
+registros de armas de fogo. Um Brasil dilacerado pela violência. Um insano 
+para liberalizar a posse. 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-social
-usar
+pessoa
+vítima

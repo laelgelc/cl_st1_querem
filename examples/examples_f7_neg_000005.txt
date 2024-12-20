@@ -1,21 +1,18 @@
-file = t003082
-date = 2019-02-26
-user = abdalafarah
-conversation = 336878973
-URL = https://twitter.com/abdalafarah/status/1100269341097058305
+file = t014665
+date = 2022-03-29
+user = Pimenta13Br
+conversation = 22864100
+URL = https://twitter.com/Pimenta13Br/status/1508889230558126084
 
-word count = 48
-words loading = 3
-factor score = -3
+word count = 31
+words loading = 2
+factor score = -2
 
-Hoje é dia 26 / 02 / 2019 ! Quando será o depoimento do Fabrício Queiroz? ! 
-E o do Flávio Bolsonaro? E da **esposa** e **filhas** do Queiroz? E o cheque 
-da Michele Bolsonaro? O Jair? As investigações? E os **milicianos** ? 
-Famílias? Marielle? MEC é mais uma fumaça. . . HASHTAG #bolsofamilia_h 
-HASHTAG #queiroz_h 
+Crime de lesa-pátria: O desgoverno Bolsonaro já privatizou 62 ativos da 
+Petrobras. O desmonte **recorde** de US$ 33 , 9 bi vai desde a BR Distribuidora 
+e refinarias até campos de petróleo. 
 
 Lemmas in this text that loaded on the factor:
 
-esposo
-filha
-miliciano
+lesa
+recorde

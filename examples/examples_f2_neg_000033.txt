@@ -1,18 +1,19 @@
-file = t019021
-date = 2022-12-30
-user = HugoBasagliaMT
-conversation = 1518688335182667778
-URL = https://twitter.com/HugoBasagliaMT/status/1608949524579627010
+file = t002251
+date = 2018-12-30
+user = AngelJones_13
+conversation = 49053776
+URL = https://twitter.com/AngelJones_13/status/1079475367826649088
 
-word count = 40
+word count = 41
 words loading = 2
 factor score = -2
 
-Bolsonaro ter ido embora e um cuspe na cara de quem lhe apoio, brigou com 
-**amigos** , família, sofreu na chuva e sol na **frente** dos quartéis. E 
-ainda mais depositou suas esperanças nele ISSO E O PIOR DE TUDO 
+O documentário " **Facada** no Mito " , que levanta suspeitas de que o " 
+atentado " contra Jair Bolsonaro seria uma **armação** , passou das 100 mil 
+visualizações em poucas horas, a dois dias da posse do presidente eleito; 
+audiência continua crescendo em ritmo acelerado. 
 
 Lemmas in this text that loaded on the factor:
 
-amigo
-frente
+armação
+facada

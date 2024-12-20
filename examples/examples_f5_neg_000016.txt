@@ -1,19 +1,20 @@
-file = t000838
-date = 2018-06-29
-user = Eduard1003
-conversation = 332843117
-URL = https://twitter.com/Eduard1003/status/1012337413967015941
+file = t001977
+date = 2018-10-24
+user = MarceloACoelho1
+conversation = 1151388890
+URL = https://twitter.com/MarceloACoelho1/status/1055170180484079618
 
-word count = 28
+word count = 47
 words loading = 2
 factor score = -2
 
-@xvideoskcc @Nardo_mahone @pablocrmoreira @zegenerico @Enquette_ Esclarecimento 
-cultural, ética, **moral** , esclarecimento político, família, 
-anti-CORRUPTO, dever de servir o próximo, não são portadores de doenças 
-psíquicas como: Complexo de Fourier e Efeito Dunning-Kruger. 
+HASHTAG #elenão_h HASHTAG #seuvotomepoeemrisco_h HASHTAG 
+#bolsonaroèocaralho_h Mais armas? Bolsonaro disse que perserguir todos os 
+opositores, que vai acabar com os mi mi mi de mulheres, **gays** e **negros** . 
+Não e é só acabar com as cotas, é acabar com ensino fundamental, disse que 
+só brancos tem direito a estudar 
 
 Lemmas in this text that loaded on the factor:
 
-corrupto
-moral
+gay
+negro

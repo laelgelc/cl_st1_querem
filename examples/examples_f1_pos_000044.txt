@@ -1,22 +1,22 @@
-file = t018297
-date = 2022-11-29
-user = ComunismoNunca2
-conversation = 1587424290231697411
-URL = https://twitter.com/ComunismoNunca2/status/1597657183793328130
+file = t016238
+date = 2022-07-30
+user = joana_urban
+conversation = 1126197830102790144
+URL = https://twitter.com/joana_urban/status/1553493571805892608
 
-word count = 41
-words loading = 4
-factor score = 4
+word count = 20
+words loading = 5
+factor score = 5
 
-@Amaro_Coronel Boa tarde Coronel. O senhor está mais calmo? Nossa turma 
-precisa se acalmar. O movimento não é por causa do Bolsonaro e família e sim 
-pela: FRAUDE, Contra o comunismo a empreita, Pelo nossos jovens e pela a nossa 
-NAÇÃO. **oncoming_fist_e** **raising_hands_e** **green_heart_e** 
-**flag_brazil_e** 
+@FlavioBolsonaro @Magnlia72693633 @tarcisiogdf @jairbolsonaro Deus **Abençoe** 
+as campanhas de Jair Messias Bolsonaro para **Presidente** e o Tarcísio para 
+Governador **folded_hands_e** **flag_brazil_e** smiling_face_with_hearts_e 
+**clapping_hands_e** 
 
 Lemmas in this text that loaded on the factor:
 
+abençoar
+clapping_hands_e
 flag_brazil_e
-green_heart_e
-oncoming_fist_e
-raising_hands_e
+folded_hands_e
+presidente

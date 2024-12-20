@@ -1,17 +1,18 @@
-file = t001127
-date = 2018-07-30
-user = CanalDoOtario
-conversation = 548024965
-URL = https://twitter.com/CanalDoOtario/status/1023876455518937088
+file = t004793
+date = 2019-09-29
+user = Paulimbh
+conversation = 46826409
+URL = https://twitter.com/Paulimbh/status/1178431919563923456
 
-word count = 19
+word count = 31
 words loading = 2
 factor score = -2
 
-Pior é no Brasil, onde pintam burro de **salvador** da **pátria** . . . e o 
-povo ainda leva para casa. thinking_face_e 
+Deu nó Pegou mal na **indústria** de armas a imagem que Eduardo Bolsonaro 
+**postou** nas. . . Deu nó Pegou mal na **indústria** de armas a imagem que 
+Eduardo Bolsonaro **postou** nas. . . 
 
 Lemmas in this text that loaded on the factor:
 
-pátria
-salvador
+indústria
+postar

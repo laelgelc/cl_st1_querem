@@ -1,21 +1,24 @@
-file = t009894
-date = 2021-01-30
-user = neuzaortiz
-conversation = 171315754
-URL = https://twitter.com/neuzaortiz/status/1355366053023506437
+file = t002763
+date = 2019-01-30
+user = mentelectro
+conversation = 3004290483
+URL = https://twitter.com/mentelectro/status/1090416640196517889
 
-word count = 42
-words loading = 4
-factor score = 4
+word count = 49
+words loading = 6
+factor score = 5
 
-Precisamos nos livrar da praga, Bolsonaro antes de 2022 , para evitarmos um 
-golpe como **tentou** Trump. Já começou a questionar as urnas eletrônicas; 
-facilitou a **compra** de armas; **tenta** desacreditar a **imprensa** ; 
-privilegia as FFAA e, agora, **compra** o Congresso Nacional. 
+@Rodri__Melo @thiagosantos2 @Jason_Burn @leandroruschel @SaabBrasil @GugaNoblat 
+nossa cultura na verdade é a do militar corrupto q repassa **arma** pro crime 
+**organizado** e depois faz arminha na rede social em apoio ao Bolsonaro 
+falando q " **armar** **cidadão** **civil** é a resposta para o crime 
+diminuir " ( e q eu ajudei a **aumentar** ) 
 
 Lemmas in this text that loaded on the factor:
 
-compra
-comprar
-imprensa
-tentar
+arma
+armar
+aumentar
+cidadão
+civil
+organizar (secondary)

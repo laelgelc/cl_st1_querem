@@ -1,19 +1,16 @@
-file = t016169
-date = 2022-06-29
-user = GenivalEuclide1
-conversation = 971154702120488960
-URL = https://twitter.com/GenivalEuclide1/status/1542160813552799747
+file = t002047
+date = 2018-11-29
+user = FMouraBrasil
+conversation = 52849416
+URL = https://twitter.com/FMouraBrasil/status/1068198081915699200
 
-word count = 45
+word count = 10
 words loading = 2
 factor score = -2
 
-@dribeir31339252 @bernardokuster2 Caro **amigo** , fique com seu fanatismo e me 
-deixe em paz, em algum momento meu Tweet enalteceu algum político? Se **acha** 
-que sim, precisa aprender a compreender o texto. E Bolsonaro é vagabundo, 
-falso cristão e demagogo, assim como o Luís Inácio. 
+Freixo ataca família Bolsonaro com base em **fake** **news** 
 
 Lemmas in this text that loaded on the factor:
 
-achar
-amigo
+fake
+news

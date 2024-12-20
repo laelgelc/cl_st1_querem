@@ -1,21 +1,25 @@
-file = t014032
-date = 2022-01-30
-user = ciancaglini_15
-conversation = 85696235
-URL = https://twitter.com/ciancaglini_15/status/1487898146940375047
+file = t003305
+date = 2019-03-30
+user = chavesfernanda_
+conversation = 952812718385500160
+URL = https://twitter.com/chavesfernanda_/status/1111987161069441025
 
-word count = 18
-words loading = 5
-factor score = 5
+word count = 35
+words loading = 6
+factor score = 6
 
-Esse meu presida é realmente genial! **Abençoado** por Deus! Rezo todos os 
-dias por ele! **folded_hands_e** **flag_brazil_e** **green_heart_e** 
-**yellow_heart_e** @jairbolsonaro HASHTAG #bolsonaroreeleito2022_h 
+**Bom** sábado, meus amores two_hearts_e **flag_brazil_e** EXÉRCITO BOLSONARO 
+**flag_brazil_e** EM SUAS POSIÇÕES? BRASIL **ACIMA** DE TUDO, DEUS ACIMA DE 
+TODOS, TALQUEI? ? 1•PASSO ( RT ) counterclockwise_arrows_button_e 2•PASSO ( 
+FV ) **yellow_heart_e** 3•PASSO ME ( SIGA ) E A TODOS QUE FV ( 
+**green_heart_e** ) E AOS QUE TE SEGUIREM **smiling_face_with_sunglasses_e** 
+HASHTAG #direitaunida_h HASHTAG #direitaseguedireita_h 
 
 Lemmas in this text that loaded on the factor:
 
-abençoar
+acimar
+bom
 flag_brazil_e
-folded_hands_e
 green_heart_e
+smiling_face_with_sunglasses_e
 yellow_heart_e

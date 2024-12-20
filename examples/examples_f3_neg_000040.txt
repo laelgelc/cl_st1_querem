@@ -1,21 +1,17 @@
-file = t003291
-date = 2019-03-30
-user = portalvermelho
-conversation = 45908423
-URL = https://twitter.com/portalvermelho/status/1112082108757897217
+file = t003783
+date = 2019-05-30
+user = nesimachado
+conversation = 797169914
+URL = https://twitter.com/nesimachado/status/1133891601762267136
 
-word count = 42
-words loading = 4
-factor score = -3
+word count = 16
+words loading = 2
+factor score = -2
 
-Em nota, PCdoB, PDT, PT, PSB, PSOL e PCB condenam a louvação de Jair 
-Bolsonaro ao **golpe** e à **ditadura** militar de 1964 . Os partidos não 
-aceitam a tentativa de negar a supressão das **liberdades** e **direitos** , 
-bem como a perseguição. . . 
+Que família! **Miliciano** preso no DF por grilagem de terras é **tio** de 
+Michelle Bolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-ditadura
-golpe (secondary)
-liberdade
+miliciano
+tio

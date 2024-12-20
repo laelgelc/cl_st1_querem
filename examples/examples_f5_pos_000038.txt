@@ -1,22 +1,25 @@
-file = t020198
-date = 2023-03-30
-user = Ricardo72009695
-conversation = 1507405724019798017
-URL = https://twitter.com/Ricardo72009695/status/1641435020761137154
+file = t010684
+date = 2021-03-30
+user = FilipeSMendes
+conversation = 935999915871932421
+URL = https://twitter.com/FilipeSMendes/status/1376956836860067848
 
-word count = 35
-words loading = 5
+word count = 50
+words loading = 7
 factor score = 4
 
-@ThiagoResiste @LulaOficial @thiago, Bolsonaro estava reclamando do governo 
-não ter enviado a ele um **carro** **blindado** , se ele tem medo de sofrer um 
-**atentado** não deveria ter **liberado** a compra de **armamentos** no 
-Brasil. 
+@hylixwon Um dia depois do ministro da defesa deixar o **cargo** , no dia de 
+hoje, os três **comandantes** das **forças** **armadas** deixaram o **cargo** 
+também porque o Bolsonaro tava com uma tentativa de unir as **forças** 
+**armadas** com a política, em poucas palavras tá **tentando** uma nova 
+**ditadura** **militar** . : ) 
 
 Lemmas in this text that loaded on the factor:
 
-armamento
-atentado
-blindar (secondary)
-carro
-liberar
+armar (secondary)
+cargo
+comandante (secondary)
+ditadura (secondary)
+força
+militar
+tentar

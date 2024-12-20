@@ -1,21 +1,18 @@
-file = t004052
-date = 2019-05-20
-user = CristPolit
-conversation = 195357756
-URL = https://twitter.com/CristPolit/status/1129025305912463361
+file = t007727
+date = 2020-07-30
+user = Leg_Ghiri
+conversation = 1264369164539572225
+URL = https://twitter.com/Leg_Ghiri/status/1288826792468504576
 
-word count = 34
-words loading = 3
-factor score = -3
+word count = 39
+words loading = 2
+factor score = -2
 
-@tovaga @jairbolsonaro flag_brazil_e HASHTAG #bolsonarotemrazao_h O Twitter e 
-todo sistema de mídia & enganação esquerdopata chamam de " manifestações 
-pela educação " aquele pessoal com **bandeiras** **vermelhas** que usam 
-qualquer pretexto pra **gritar** " Fora Bolsonaro " , " Lula Livre " . 
-zany_face_e HASHTAG #deusbrasilbolsonaro_h 
+@ocafezinho Como atingir as massas levando o discurso para a questão 
+econômica se as mídias como TV não dão espaço para esse tipo de debate? 
+Temos que **bater** na pauta **moral** sim, e mostrar que Bolsonaro é LADRÃO! 
 
 Lemmas in this text that loaded on the factor:
 
-bandeira
-gritar
-vermelho
+bater
+moral

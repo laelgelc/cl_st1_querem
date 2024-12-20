@@ -1,21 +1,18 @@
-file = t011374
-date = 2021-05-30
-user = EBenvenhu
-conversation = 1027754687414652928
-URL = https://twitter.com/EBenvenhu/status/1399121456563433481
+file = t010558
+date = 2021-03-30
+user = DornellesSalete
+conversation = 3398017702
+URL = https://twitter.com/DornellesSalete/status/1377041891720634378
 
-word count = 49
-words loading = 3
-factor score = -3
+word count = 29
+words loading = 2
+factor score = -2
 
-@MorassiOj @lucansp E nunca saiu uma palavra, nenhuma citação em nenhum canal 
-de tv sobre isso. Ela assumiu um cargo público, pago com nosso **dinheiro** . 
-Já imaginaram se fosse Bolsonaro quem nomeasse amante pra cargo público? Deus 
-do **céu** , não quero nem pensar, a **terra** ia tremer. HASHTAG 
-#euapoiobolsonaro2022_h 
+Atrito com Bolsonaro derruba **comandantes** das Forças Armadas, na maior 
+crise militar desde 1977 Braga Netto se irritou com renúncia coletiva e 
+anunciou **demissão** dos oficiais-generais; fardados buscam acomodação. 
 
 Lemmas in this text that loaded on the factor:
 
-céu
-dinheiro
-terra
+comandante
+demissão

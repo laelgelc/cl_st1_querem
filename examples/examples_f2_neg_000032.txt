@@ -1,18 +1,18 @@
-file = t019020
-date = 2022-12-30
-user = M4th3u5engtel09
-conversation = 182377150
-URL = https://twitter.com/M4th3u5engtel09/status/1608966693631713280
+file = t002250
+date = 2018-12-30
+user = MariluParreiras
+conversation = 541156738
+URL = https://twitter.com/MariluParreiras/status/1079526080279646208
 
-word count = 26
+word count = 20
 words loading = 2
 factor score = -2
 
-RT @HugoBasagliaMT: Bolsonaro ter ido embora e um cuspe na cara de quem lhe 
-apoio, brigou com **amigos** , família, sofreu na chuva e sol na **frente** 
-… 
+RT @AngelJones_1330 : O documentário " **Facada** no Mito " , que levanta 
+suspeitas de que o " atentado " contra Jair Bolsonaro seria uma **armação** , 
+pass … 
 
 Lemmas in this text that loaded on the factor:
 
-amigo
-frente
+armação
+facada

@@ -1,20 +1,21 @@
-file = t019911
-date = 2023-02-27
-user = Rogrio25391002
-conversation = 1333529043879202818
-URL = https://twitter.com/Rogrio25391002/status/1630006789407141888
+file = t012883
+date = 2021-10-30
+user = helodangeloarte
+conversation = 81691067
+URL = https://twitter.com/helodangeloarte/status/1454514228501622785
 
-word count = 44
-words loading = 3
-factor score = 3
+word count = 49
+words loading = 4
+factor score = 4
 
-@_Dan_Almeida_ No entanto me indentifico mais com a **direita** pelas 
-**pautas** **conservadoras** . . . de Sarney pra cá , Bolsonaro foi o melhor 
-presidente, não pq é esplêndido, mas pq os anteriores foram piores. . . do 
-período militar para trás não posso opinar, pois não vivi esse período 
+Lá em 2018 , toda vez que eu falava que Bolsonaro seria a ruína do Brasil, 
+era **chamada** de exagerada, doida. Hoje as mesmas pessoas que me **chamavam** 
+de louca falam " meu **deus** , o país está na **merda** ! ! " Sério, que 
+baita VONTADE arrastar a **cara** da pessoa no ASFALTO 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-direita
-pauta
+cara
+chamar
+deus
+merda

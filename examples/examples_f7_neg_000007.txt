@@ -1,20 +1,18 @@
-file = t007866
-date = 2020-07-29
-user = zecarlospt
-conversation = 1325494376
-URL = https://twitter.com/zecarlospt/status/1288596907724541954
+file = t000820
+date = 2018-06-29
+user = vargas_oficial_
+conversation = 261211302
+URL = https://twitter.com/vargas_oficial_/status/1012679645228134400
 
-word count = 44
-words loading = 3
-factor score = -3
+word count = 49
+words loading = 1
+factor score = -1
 
-A maldade de Bolsonaro não tem limites. Vetou o projeto de Lei aprovado por 
-nós do Congresso Nacional, que prioriza **mães** **chefes** de família a 
-**receberem** o auxílio emergencial. Mostra o desprezo de Bolsonaro às 
-**mães** brasileiras. Com toda certeza, derrubaremos esse veto! 
+@DaviCVS @exame Liberalismo é liberalismo. O problema do Bolsonaro é a 
+pobreza intelectual. Ele se coloca como um não político mas é político há 
+30 anos e arrumou um jeitinho de acomodar a família inteira na política, cada 
+filho **ocupa** um cargo seja de deputado ou de vereador. 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-mãe
-receber
+ocupar

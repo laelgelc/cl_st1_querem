@@ -1,18 +1,22 @@
-file = t013844
-date = 2022-01-30
-user = otempo
-conversation = 29274419
-URL = https://twitter.com/otempo/status/1487751536390414344
+file = t016236
+date = 2022-07-30
+user = PadraoAlexandre
+conversation = 1057397123858227202
+URL = https://twitter.com/PadraoAlexandre/status/1553351263445815296
 
-word count = 20
-words loading = 3
-factor score = 2
+word count = 45
+words loading = 4
+factor score = 4
 
-Apenas em dezembro, os **cartões** exclusivos da família **presidencial** 
-foram usados em **compras** que somaram R$ 1 , 5 milhão 
+- Resumindo 4 anos de Brasil flag_brazil_e **Elegemos** em 2018 Bolsonaro que 
+Deus Salvou de um facada para ganhar a **eleição** 2018 contra todos os 
+corruptos com ballot_box_with_ballot_e duvidosas. Seu governo aprovou propostas 
+que fez crescer a nossa **economia** , salvou o flag_brazil_e da falência 
+durante Pandemia e **Guerra** , 
 
 Lemmas in this text that loaded on the factor:
 
-cartão
-compra (secondary)
-presidencial
+economia
+eleger
+eleição
+guerra

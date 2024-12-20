@@ -1,21 +1,20 @@
-file = t014141
-date = 2022-01-30
-user = ContaratoSenado
-conversation = 1050121324436307970
-URL = https://twitter.com/ContaratoSenado/status/1487843968075407361
+file = t018475
+date = 2022-11-29
+user = Laerte84612880
+conversation = 1592923592227954689
+URL = https://twitter.com/Laerte84612880/status/1597734693193281540
 
-word count = 36
-words loading = 4
-factor score = -4
+word count = 49
+words loading = 3
+factor score = -3
 
-Os **direitos** humanos que defendemos são essência da Revolução Francesa: 
-**liberdade** , igualdade e fraternidade. E isso abrange meio ambiente, 
-**liberdade** , o devido processo legal, **direito** ao trabalho, à **saúde** 
-, à **educação** , redução da carga tributária. 
+@augustosnunes Augusto Já passou da hora de **cobrar** alguma ação do 
+Bolsonaro e das FAs. Estamos a quase 1 mês nas **portas** dos **quartéis** e 
+os covardes nada fazem. Não podemos entregar o Brasil p os comunistas defecar 
+em nossa bandeira e em nosso crucifixo. Eles são COVARDES 
 
 Lemmas in this text that loaded on the factor:
 
-direito
-educação
-liberdade
-saúde
+cobrar
+porta
+quartel

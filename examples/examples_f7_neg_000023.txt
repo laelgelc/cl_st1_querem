@@ -1,20 +1,19 @@
-file = t005943
-date = 2020-01-30
-user = JaildonLima
-conversation = 157719275
-URL = https://twitter.com/JaildonLima/status/1222988097866039297
+file = t003037
+date = 2019-02-27
+user = marcogomes
+conversation = 1629241
+URL = https://twitter.com/marcogomes/status/1100851991658549248
 
-word count = 46
-words loading = 3
-factor score = -2
+word count = 42
+words loading = 2
+factor score = -1
 
-Vcs sabiam que o secretário da presidência da república é o nome que o 
-bolsonaro está trabalhando para ser indicado para o STF? Curriculum: amigao da 
-família bolsonaro Sua **mãe** e sua **tia** eram funcionárias fantasma dos 
-**gabinetes** do bolsonaro Assinou 7 ações até hoje 
+Mas se ela é a especialista ( e não eles ) , pq eles reclamam? " [ Apoiadores 
+do presidente ] reclamam que a especialista em segurança pública defende o 
+desarmamento e fez críticas ao **decreto** de posse de armas **assinado** por 
+Jair Bolsonaro. " HASHTAG #ilonanão_h Ilona Szabó 
 
 Lemmas in this text that loaded on the factor:
 
-gabinete
-mãe
-tio (secondary)
+assinar
+decreto (secondary)

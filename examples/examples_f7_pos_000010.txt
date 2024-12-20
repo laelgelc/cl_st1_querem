@@ -1,22 +1,21 @@
-file = t002946
-date = 2019-01-30
-user = TiagoSullevan
-conversation = 922559163124862977
-URL = https://twitter.com/TiagoSullevan/status/1090636815428657153
+file = t018441
+date = 2022-11-29
+user = aparecida087
+conversation = 1576644090141282306
+URL = https://twitter.com/aparecida087/status/1597711708989968384
 
-word count = 49
+word count = 51
 words loading = 4
 factor score = 4
 
-@SousaDarezzo @partidonovo30 @CanalDoOtario " **conservadores** nos 
-**costumes** " , isso era uma opinião pessoal do Amoêdo, não reflete todo um 
-partido. . . O Bolsonaro é **conservador** nos **costumes** FERRENHO e o 
-partido dele é dito como **liberal** . . . E aí ? Shaushah Ele representa 
-TODO o partido? Aliás, o Amoêdo defende a liberdade **individual** 
+@_Janoninho Cria vergonha nessa sua **cara** . . não usa nome de **Deus** em 
+vão. . vc é uma vergonha pra nossa sociedade seu corrupto da fé das pessoas 
+Só passa pra história aquele Qoe é digno de **amor** ao próximo seu 
+Bolsonaro não é essa dádiva. Vc é uma vergonha para povo **evangélico** 
 
 Lemmas in this text that loaded on the factor:
 
-conservador
-costume
-individual
-liberal
+amor
+cara
+deus
+evangélico

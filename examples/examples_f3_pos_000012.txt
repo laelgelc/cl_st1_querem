@@ -1,18 +1,22 @@
-file = t019641
-date = 2023-02-27
-user = b_oretorno
-conversation = 1625589536221716482
-URL = https://twitter.com/b_oretorno/status/1630334056540909569
+file = t014735
+date = 2022-03-30
+user = BrunoMa44328446
+conversation = 1436506428081164288
+URL = https://twitter.com/BrunoMa44328446/status/1509301314076950530
 
-word count = 27
-words loading = 2
-factor score = 2
+word count = 44
+words loading = 5
+factor score = 5
 
-@PauloMartins10 **Desarmar** o **bomba** relógio que o Bolsonaro deixou eles 
-jornaleiros na merda, agora o Lula o salvador dos jornaleiros sendo o herói da 
-boquinha nervosa money-mouth_face_e 
+@gnatalini Geddel Já aliado do PT de 2006 a 2009 quando rompeu com Jaques 
+Wagner e agora volta a se aliar para ajudar a **eleger** o ladrão do lula o 
+MDB participa do centro **democrático** **liberal** **social** contra os 
+**extremos** Lula e Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-bomba
-desarmar
+democrático
+eleger
+extremo
+liberal
+social

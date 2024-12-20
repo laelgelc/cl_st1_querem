@@ -1,17 +1,17 @@
-file = t001874
-date = 2018-10-30
-user = monicabergamo
-conversation = 58951368
-URL = https://twitter.com/monicabergamo/status/1057397491790946304
+file = t000114
+date = 2018-03-29
+user = _porravaela
+conversation = 928339900457472000
+URL = https://twitter.com/_porravaela/status/979492853905846273
 
-word count = 17
-words loading = 2
-factor score = -2
+word count = 40
+words loading = 1
+factor score = -1
 
-STF se unirá por defesa de **negros** , **gays** , mulheres e liberdade de 
-expressão, diz ministro Barroso. 
+@E1zou Deus me livre meu deus, quase fico feliz de estar em campos, mas aí eu 
+lembro que o RJ que elegeu o Bolsonaro algumas vezes e com muito mas muito voto 
+e eu só fico **triste** de novo 
 
 Lemmas in this text that loaded on the factor:
 
-gay
-negro
+triste
